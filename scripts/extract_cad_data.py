@@ -63,6 +63,14 @@ def extract_data(file_path):
     sys.exit(0)
 
 print("--- CALLING EXTRACT_DATA ---")
-# Target the SH7 Floor Module file
-target_file = "/Volumes/Extreme SSD/Nick/OSE/SH7CAD/SH7 - Floor Module 5.fcstd"
+# Get target file from command line or environment
+if len(sys.argv) > 1:
+    target_file = sys.argv[1]
+elif os.environ.get("CAD_FILE"):
+    target_file = os.environ["CAD_FILE"]
+else:
+    print("Usage: FreeCAD --console extract_cad_data.py <input.fcstd>")
+    print("  OR set CAD_FILE environment variable")
+    sys.exit(1)
+
 extract_data(target_file)

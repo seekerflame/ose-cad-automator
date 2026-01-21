@@ -11,10 +11,11 @@ import json
 from pathlib import Path
 from datetime import datetime
 
-# Configuration
-FREECAD_PATH = "/Applications/FreeCAD.app/Contents/MacOS/FreeCAD"
-EXTRACT_SCRIPT = "/Users/eternalflame/Documents/Business-OS/vibecraft/scripts/extract_cad_data.py"
-WEAVE_SCRIPT = "/Users/eternalflame/Documents/Business-OS/vibecraft/scripts/weave_instructions.py"
+# Configuration - uses script directory for relative paths
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+FREECAD_PATH = os.environ.get("FREECAD_PATH", "/Applications/FreeCAD.app/Contents/MacOS/FreeCAD")
+EXTRACT_SCRIPT = os.path.join(SCRIPT_DIR, "extract_cad_data.py")
+WEAVE_SCRIPT = os.path.join(SCRIPT_DIR, "weave_instructions.py")
 
 def find_fcstd_files(root_dir):
     """Find all .fcstd files in directory tree."""
