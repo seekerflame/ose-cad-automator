@@ -1,0 +1,209 @@
+{
+  "filename": "Roof_Roof - Kitchen_SH7 - Roof - Seed - Insulation - Kitchen",
+  "parts": [
+    {
+      "name": "Box",
+      "label": "2in rigid insulation 001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box001",
+      "label": "2in rigid insulation 002",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(2438.4,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box002",
+      "label": "2in rigid insulation 003",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,1219.2,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box003",
+      "label": "2in rigid insulation 004",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(1143,1219.2,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box004",
+      "label": "2in rigid insulation 005",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,2438.4,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box005",
+      "label": "2in rigid insulation 006",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(2438.4,2438.4,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box006",
+      "label": "2in rigid insulation 007",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,3657.6,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box007",
+      "label": "2in rigid insulation 008",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(1143,3657.6,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box008",
+      "label": "2in rigid insulation 009",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,4876.8,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box009",
+      "label": "2in rigid insulation 010",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(2438.4,4876.8,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Group",
+      "label": "2-in rigid insulation - bottom layer (parts)",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {}
+    },
+    {
+      "name": "Box010",
+      "label": "2 rigid insulation 001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(609.6,609.6,50.8), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box011",
+      "label": "2 rigid insulation 002",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(1828.8,609.6,50.8), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box012",
+      "label": "2 rigid insulation 003",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(609.6,3048,50.8), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box013",
+      "label": "2 rigid insulation 004",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(1828.8,3048,50.8), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box014",
+      "label": "2 rigid insulation 005",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(1219.2,0,50.8), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box015",
+      "label": "2 rigid insulation 006",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,50.8), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box016",
+      "label": "2 rigid insulation 007",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,609.6,50.8), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box017",
+      "label": "2 rigid insulation 008",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,3048,50.8), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box018",
+      "label": "2 rigid insulation 009",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(1143,5486.4,50.8), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box019",
+      "label": "2 rigid insulation 010",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,5486.4,50.8), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box020",
+      "label": "2 rigid insulation 011",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(3048,609.6,50.8), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box021",
+      "label": "2 rigid insulation 012",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(3048,3048,50.8), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Group001",
+      "label": "2 in rigid insulation - top layer (parts)",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {}
+    },
+    {
+      "name": "Compound001",
+      "label": "2-in rigid insulation - kitchen - bottom layer",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Compound002",
+      "label": "2-in rigid insulation - kitchen - top layer",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    }
+  ]
+}

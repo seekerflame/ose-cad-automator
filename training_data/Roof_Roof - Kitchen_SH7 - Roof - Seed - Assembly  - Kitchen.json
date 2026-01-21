@@ -1,0 +1,685 @@
+{
+  "filename": "Roof_Roof - Kitchen_SH7 - Roof - Seed - Assembly  - Kitchen",
+  "parts": [
+    {
+      "name": "Box",
+      "label": "TOP PLATE",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,-311.15), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box001",
+      "label": "1/2 osb - rim - front 001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,38.1,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box017",
+      "label": "2x6 - rim - front - bottom",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box018",
+      "label": "2x12 - rim - front - top",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,279.4), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box312",
+      "label": "1/2 osb - rim - front 002",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(2438.4,38.1,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Group025",
+      "label": "2 - Box - Front",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {}
+    },
+    {
+      "name": "Box003",
+      "label": "1/2 osb - rim - back 001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,6045.2,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box004",
+      "label": "1/2 osb - rim - back 002",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(1219.2,6045.2,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box019",
+      "label": "2x4 - rim - back - bottom",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,6057.9,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box020",
+      "label": "2x12 - rim - back - top",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,6057.9,101.6), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Group026",
+      "label": "2 - Box - Back",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {}
+    },
+    {
+      "name": "Group030",
+      "label": "5 - Insulation",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {}
+    },
+    {
+      "name": "Wedge035",
+      "label": "2x6 (ripped) - insulation cap - right",
+      "type_id": "Part::Wedge",
+      "properties": {
+        "Placement": "Placement [Pos=(3619.5,38.1,425.45), Yaw-Pitch-Roll=(0,0,-1.315)]"
+      }
+    },
+    {
+      "name": "Group031",
+      "label": "4 - Insulation Caps",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {}
+    },
+    {
+      "name": "Group034",
+      "label": "7 - Siding Caps",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {}
+    },
+    {
+      "name": "Box355",
+      "label": "1x4 siding cap - roof edge - front",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,-31.75,476.25), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box338",
+      "label": "1x8 siding cap - roof edge - back",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,6108.7,203.2), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box339",
+      "label": "1x8 LP trim  - gutter back",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,6127.75,152.4), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Group035",
+      "label": "9 - Roofing Membrane",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {}
+    },
+    {
+      "name": "Box228",
+      "label": "roofing membrane - main",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(88.9,38.1,527.05), Yaw-Pitch-Roll=(0,0,-1.315)]"
+      }
+    },
+    {
+      "name": "Box232",
+      "label": "roofing membrane - ledge down - back",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,6151.24,260.35), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box258",
+      "label": "roofing membrane - ledge top - left",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,38.1,568.325), Yaw-Pitch-Roll=(0,0,-1.315)]"
+      }
+    },
+    {
+      "name": "Box265",
+      "label": "roofing membrane - ledge edge - left",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,6151.24,390.525), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box257",
+      "label": "roofing membrane - ledge down - front",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,-34.925,438.15), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box256",
+      "label": "roofing membrane - ledge top - front",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,-31.75,565.15), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box262",
+      "label": "roofing membrane - inside box - front",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(88.9,38.1,527.05), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box021",
+      "label": "2x6 PV runner 001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(444.5,127,527.05), Yaw-Pitch-Roll=(0,0,-1.315)]"
+      }
+    },
+    {
+      "name": "Box022",
+      "label": "2x6 PV runner 002",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(1333.5,127,527.05), Yaw-Pitch-Roll=(0,0,-1.315)]"
+      }
+    },
+    {
+      "name": "Box023",
+      "label": "2x6 PV runner 003",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(2184.4,127,527.05), Yaw-Pitch-Roll=(0,0,-1.315)]"
+      }
+    },
+    {
+      "name": "Group006",
+      "label": "10 - PV runners",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {}
+    },
+    {
+      "name": "Box026",
+      "label": "2x6 PV runner 004",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(3073.4,127,527.05), Yaw-Pitch-Roll=(0,0,-1.315)]"
+      }
+    },
+    {
+      "name": "Box236",
+      "label": "roof - edge - PV runner top",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(165.1,6096,425.45), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Compound036",
+      "label": "4.5 hurricane tie 003",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(1438.27,6111.88,311.15), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Compound037",
+      "label": "4.5 hurricane tie 004",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(2289.17,6111.88,311.15), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Compound038",
+      "label": "4.5 hurricane tie 005",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(3178.17,6111.88,311.15), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Compound040",
+      "label": "4.5 hurricane tie 002",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(549.275,6111.88,311.15), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Group009",
+      "label": "PV runner ties - back",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {}
+    },
+    {
+      "name": "Compound042",
+      "label": "4.5 hurricane tie 008",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(479.425,6184.9,311.15), Yaw-Pitch-Roll=(180,0,0)]"
+      }
+    },
+    {
+      "name": "Compound043",
+      "label": "4.5 hurricane tie 009",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(1368.42,6184.9,311.15), Yaw-Pitch-Roll=(180,0,0)]"
+      }
+    },
+    {
+      "name": "Compound044",
+      "label": "4.5 hurricane tie 010",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(2219.32,6184.9,311.15), Yaw-Pitch-Roll=(180,0,0)]"
+      }
+    },
+    {
+      "name": "Compound045",
+      "label": "4.5 hurricane tie 011",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(3108.32,6184.9,311.15), Yaw-Pitch-Roll=(180,0,0)]"
+      }
+    },
+    {
+      "name": "Group020",
+      "label": "PV runners ties - front",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {}
+    },
+    {
+      "name": "Box304",
+      "label": "roof - edge - PV runner back",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(444.5,38.1,527.05), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Compound089",
+      "label": "hurricane strap - 12x4 - 003",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(457.2,-38.1,469.9), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Compound090",
+      "label": "hurricane strap - 12x4 - 004",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(533.4,-38.1,469.9), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Compound091",
+      "label": "hurricane strap - 12x4 - 005",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(1346.2,-38.1,469.9), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Compound092",
+      "label": "hurricane strap - 12x4 - 006",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(1422.4,-38.1,469.9), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Compound093",
+      "label": "hurricane strap - 12x4 - 007",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(2197.1,-38.1,469.9), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Compound094",
+      "label": "hurricane strap - 12x4 - 008",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(2273.3,-38.1,469.9), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Compound095",
+      "label": "hurricane strap - 12x4 - 009",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(3086.1,-38.1,469.9), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Compound096",
+      "label": "hurricane strap - 12x4 - 010",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(3162.3,-38.1,469.9), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box024",
+      "label": "PV panel 001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(139.7,76.2,568.325), Yaw-Pitch-Roll=(0,0,18)]"
+      }
+    },
+    {
+      "name": "Group008",
+      "label": "12 - PV panels",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {}
+    },
+    {
+      "name": "Box253",
+      "label": "PV panel 002",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(1828.8,76.2,568.325), Yaw-Pitch-Roll=(0,0,18)]"
+      }
+    },
+    {
+      "name": "Group036",
+      "label": "3 - Decking",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {}
+    },
+    {
+      "name": "Group038",
+      "label": "11 - PV Runner Ties",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {}
+    },
+    {
+      "name": "Compound001",
+      "label": "Decking",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,406.4), Yaw-Pitch-Roll=(0,-0,-1.315)]"
+      }
+    },
+    {
+      "name": "Wedge036",
+      "label": "2x6 (ripped) - insulation cap - left",
+      "type_id": "Part::Wedge",
+      "properties": {
+        "Placement": "Placement [Pos=(0,38.1,425.45), Yaw-Pitch-Roll=(0,0,-1.315)]"
+      }
+    },
+    {
+      "name": "Compound099",
+      "label": "2-in rigid insulation - kitchen - bottom layer",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(38.1,38.1,425.45), Yaw-Pitch-Roll=(0,0,-1.315)]"
+      }
+    },
+    {
+      "name": "Compound002",
+      "label": "2-in rigid insulation - kitchen - top layer",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(38.1,38.1,425.45), Yaw-Pitch-Roll=(0,-0,-1.315)]"
+      }
+    },
+    {
+      "name": "Group033",
+      "label": "6 - Wall Sheathing",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {}
+    },
+    {
+      "name": "Box027",
+      "label": "wall sheathing - back",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,6096,-311.15), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box255",
+      "label": "wall sheathing - front",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,-12.7,-311.15), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box362",
+      "label": "roofing membrane - inside box - left",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(88.9,38.1,529.59), Yaw-Pitch-Roll=(0,0,-1.315)]"
+      }
+    },
+    {
+      "name": "Box363",
+      "label": "roofing membrane - inside box - right",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(3565.52,38.1,529.59), Yaw-Pitch-Roll=(0,0,-1.315)]"
+      }
+    },
+    {
+      "name": "Box364",
+      "label": "roofing membrane - ledge top - right",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(3568.7,38.1,568.325), Yaw-Pitch-Roll=(0,0,-1.315)]"
+      }
+    },
+    {
+      "name": "Box365",
+      "label": "roofing membrane - ledge edge - right",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(3568.7,6151.24,390.525), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Group040",
+      "label": "SINGLE COPIES",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {}
+    },
+    {
+      "name": "Compound101",
+      "label": "2 - Box - Front - Kitchen",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Compound102",
+      "label": "2 - Box - Back - Kitchen",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Compound103",
+      "label": "4 - Insulation Caps - Kitchen",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Compound104",
+      "label": "8 - Seam Backing - Kitchen",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Compound105",
+      "label": "9 - Roofing Membrane - Kitchen",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Group041",
+      "label": "1 - Trusses",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {}
+    },
+    {
+      "name": "Compound115",
+      "label": "truss - seed - Kitchen - 001",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(0,50.8,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Compound116",
+      "label": "truss - seed - Kitchen - 002",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(558.8,50.8,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Compound117",
+      "label": "truss - seed - Kitchen - 003",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(1168.4,50.8,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Compound118",
+      "label": "truss - seed - Kitchen - 004",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(1778,50.8,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Compound119",
+      "label": "truss - seed - Kitchen - 005",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(2387.6,50.8,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Compound120",
+      "label": "truss - seed - Kitchen - 006",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(2997.2,50.8,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Compound121",
+      "label": "truss - seed - Kitchen - 007",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(3556,50.8,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Compound122",
+      "label": "1 - Trusses - Kitchen",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Group039",
+      "label": "8 - Seam Backing",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {}
+    },
+    {
+      "name": "Box358",
+      "label": "2x4 - seam backing - left",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,38.1,527.05), Yaw-Pitch-Roll=(0,0,-1.315)]"
+      }
+    },
+    {
+      "name": "Box359",
+      "label": "1/2-in plywood - seam backing - left",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,6132.83,387.35), Yaw-Pitch-Roll=(0,0,-1.315)]"
+      }
+    },
+    {
+      "name": "Box360",
+      "label": "2x4 - seam backing - right",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(3568.7,38.1,527.05), Yaw-Pitch-Roll=(0,0,-1.315)]"
+      }
+    },
+    {
+      "name": "Box361",
+      "label": "1/2-in plywood - seam backing - right",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(3568.7,6132.83,387.35), Yaw-Pitch-Roll=(0,0,-1.315)]"
+      }
+    },
+    {
+      "name": "Compound123",
+      "label": "10 - PV Runners - Kitchen",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Compound124",
+      "label": "11 - PV Runner Ties - KItchen",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    }
+  ]
+}

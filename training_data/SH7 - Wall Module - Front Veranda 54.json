@@ -1,0 +1,67 @@
+{
+  "filename": "SH7 - Wall Module - Front Veranda 54.fcstd",
+  "parts": [
+    {
+      "name": "Box",
+      "label": "2x4 bottom plate",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box001",
+      "label": "2x4 top plate",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,3009.9), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box002",
+      "label": "2x4 stud 001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Group",
+      "label": "PARTS",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {}
+    },
+    {
+      "name": "Box004",
+      "label": "2x4 stud 003",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(444.5,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box005",
+      "label": "1/2 osb",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,-12.7,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box006",
+      "label": "2x4 stud 004",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(838.2,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Compound001",
+      "label": "Simple Copy",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    }
+  ]
+}

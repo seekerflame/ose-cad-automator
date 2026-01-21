@@ -1,0 +1,59 @@
+{
+  "filename": "SH7 - Wall Module - Interior 38.fcstd",
+  "parts": [
+    {
+      "name": "Box",
+      "label": "2x4 bottom plate",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box001",
+      "label": "2x4 top plate",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,3009.9), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box002",
+      "label": "2x4 stud - left",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box003",
+      "label": "2x4 stud - middle",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(590.55,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box004",
+      "label": "2x4 stud - right",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(901.7,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Group",
+      "label": "PARTS",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {}
+    },
+    {
+      "name": "Compound001",
+      "label": "Simple Copy",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    }
+  ]
+}

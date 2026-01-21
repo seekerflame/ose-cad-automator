@@ -1,0 +1,183 @@
+{
+  "filename": "Walls_Templates_SH7 - Ext Wall - 10 ft - Window 30",
+  "parts": [
+    {
+      "name": "Box001",
+      "label": "2x6 top plate",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,2971.8), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box002",
+      "label": "2x6 king stud - left",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box008",
+      "label": "2x12 outer header",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(38.1,0,2686.05), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box009",
+      "label": "2x12 inner header",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(38.1,101.6,2686.05), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box010",
+      "label": "2x6 flat header",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(38.1,0,2647.95), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box014",
+      "label": "2x6 jack stud - right 001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(889,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box019",
+      "label": "2x6 sill - bottom",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(127,0,285.75), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box",
+      "label": "2x6 bottom plate",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Group",
+      "label": "SH7 - Ext Wall - 10ft - Window 30 (parts)",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {}
+    },
+    {
+      "name": "Box021",
+      "label": "2x6 jack stud - left 002",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(88.9,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box023",
+      "label": "2x6 king stud - middle",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(1181.1,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Group001",
+      "label": "frame",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {}
+    },
+    {
+      "name": "Box026",
+      "label": "1/2 osb - top",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(127,-12.7,2647.95), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box027",
+      "label": "1/2 osb - left",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,-12.7,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box028",
+      "label": "1/2 osb - right",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(889,-12.7,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Group002",
+      "label": "exterior sheathing",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {}
+    },
+    {
+      "name": "Box029",
+      "label": "2x6 sill - middle",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(127,0,1695.45), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box030",
+      "label": "2x6 cripple - middle",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(488.95,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box031",
+      "label": "2x6 cripple - left",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(127,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box032",
+      "label": "2x6 cripple - right",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(850.9,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box033",
+      "label": "1/2 osb - bottom",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(127,-12.7,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box034",
+      "label": "1/2 osb - middle",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(127,-12.7,1695.45), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Compound001",
+      "label": "SH7 - Ext Wall - 10ft - Window 30",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "filename": "Front Veranda - Roof Module 1.fcstd",
+  "parts": [
+    {
+      "name": "Box",
+      "label": "2x6 header 001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box003",
+      "label": "2x6 header 002",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,38.1,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box004",
+      "label": "2x6 ledger",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,2400.3,304.8), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Group",
+      "label": "PARTS",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {}
+    },
+    {
+      "name": "Cut002002002001",
+      "label": "rafter 001",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Cut002002002002",
+      "label": "rafter 002",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(50.8,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Cut002002002003",
+      "label": "rafter 003",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(590.55,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Cut002002002004",
+      "label": "rafter 004",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(1181.1,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box006",
+      "label": "2x4 purlin 001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,2349.5,444.5), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box007",
+      "label": "2x4 purlin 002",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,1435.1,323.85), Yaw-Pitch-Roll=(0,0,7.125)]"
+      }
+    },
+    {
+      "name": "Box008",
+      "label": "2x4 purlin 003",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,520.7,203.2), Yaw-Pitch-Roll=(0,0,7.125)]"
+      }
+    },
+    {
+      "name": "Compound001",
+      "label": "Simple Copy",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    }
+  ]
+}

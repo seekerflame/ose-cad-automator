@@ -1,0 +1,83 @@
+{
+  "filename": "Front Veranda_Front Veranda - Wall Modules_Templates_Front Veranda - Wall Module - Door",
+  "parts": [
+    {
+      "name": "Box",
+      "label": "2x4 bottom plate",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box001",
+      "label": "2x4 top plate",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,3032.12), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box002",
+      "label": "2x4 stud 001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box003",
+      "label": "2x4 stud 002",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(1181.1,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box004",
+      "label": "2x4 flat header",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(38.1,0,2165.35), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box009",
+      "label": "2x4 cripple - top",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(590.55,0,2203.45), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box018",
+      "label": "1/2 osb - left",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,-12.7,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box021",
+      "label": "1/2 osb - right",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(1181.1,-12.7,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box022",
+      "label": "1/2 osb - top",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,-12.7,2165.35), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Group",
+      "label": "PARTS",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {}
+    }
+  ]
+}

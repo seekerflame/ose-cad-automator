@@ -1,0 +1,115 @@
+{
+  "filename": "SH7 - Wall Module - Interior 48.fcstd",
+  "parts": [
+    {
+      "name": "Box",
+      "label": "2x4 bottom plate",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box001",
+      "label": "2x4 stud - left",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box002",
+      "label": "2x4 stud - right",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(1181.1,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box003",
+      "label": "2x4 top plate",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,3009.9), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box004",
+      "label": "2x4 jack stud - left",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(203.2,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box005",
+      "label": "2x4 jack stud - right",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(1104.9,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box006",
+      "label": "2x4 flat header",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(38.1,0,2095.5), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box007",
+      "label": "2x4 cripple",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(590.55,0,2133.6), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box008",
+      "label": "2x4 blocking left 001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(38.1,0,2057.4), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Group",
+      "label": "PARTS",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {}
+    },
+    {
+      "name": "Box010",
+      "label": "2x4 blocking left 002",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(38.1,0,1219.2), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box011",
+      "label": "2x4 blocking left 003",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(38.1,0,609.6), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box012",
+      "label": "2x4 jack stud - right001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(1143,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Compound001",
+      "label": "Simple Copy",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "filename": "SH7 - Roof - Seed - Decking - Kitchen.fcstd",
+  "parts": [
+    {
+      "name": "Box",
+      "label": "3/4 osb - decking 001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box001",
+      "label": "3/4 osb - decking 002",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(2438.4,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box002",
+      "label": "3/4 osb - decking 003",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,1219.2,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box003",
+      "label": "3/4 osb - decking 004",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(1219.2,1219.2,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box004",
+      "label": "3/4 osb - decking 005",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(2438.4,2438.4,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box005",
+      "label": "3/4 osb - decking 006",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,2438.4,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box006",
+      "label": "3/4 osb - decking 007",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(1219.2,3657.6,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box007",
+      "label": "3/4 osb - decking 008",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,3657.6,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box008",
+      "label": "3/4 osb - decking 009",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(2438.4,4876.8,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box009",
+      "label": "3/4 osb - decking 010",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,4876.8,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Group",
+      "label": "roof decking - kitchen (parts)",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {}
+    },
+    {
+      "name": "Compound001",
+      "label": "roof decking - kitchen",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    }
+  ]
+}

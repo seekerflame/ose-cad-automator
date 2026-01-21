@@ -1,0 +1,121 @@
+{
+  "filename": "Roof_Trusses_SH7 - Roof - Seed - Truss - Tapered - Middle",
+  "parts": [
+    {
+      "name": "Group001",
+      "label": "truss - osb",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {}
+    },
+    {
+      "name": "Wedge013",
+      "label": "1/2 osb 001",
+      "type_id": "Part::Wedge",
+      "properties": {
+        "Placement": "Placement [Pos=(88.9,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Wedge014",
+      "label": "1/2 osb 002",
+      "type_id": "Part::Wedge",
+      "properties": {
+        "Placement": "Placement [Pos=(88.9,3556,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Wedge015",
+      "label": "1/2 osb 003",
+      "type_id": "Part::Wedge",
+      "properties": {
+        "Placement": "Placement [Pos=(88.9,2438.4,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box016",
+      "label": "2x4 - bottom cord",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box017",
+      "label": "2x4 - top cord",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,368.3), Yaw-Pitch-Roll=(0,-0,-1.315)]"
+      }
+    },
+    {
+      "name": "Box018",
+      "label": "2x4 - stud - front 001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box019",
+      "label": "2x4 - stud - front 002",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,38.1,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box020",
+      "label": "2x4 - stud - back 001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,5918.2,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box021",
+      "label": "2x4 - stud - back 002",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,5956.3,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box023",
+      "label": "2x4 - stud - middle",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,2978.15,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box024",
+      "label": "1/2 osb gusset 001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(76.2,2286,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box025",
+      "label": "1/2 osb gusset 002",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(76.2,3403.6,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Group",
+      "label": "truss  - frame",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {}
+    },
+    {
+      "name": "Compound002",
+      "label": "truss - seed - middle",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    }
+  ]
+}

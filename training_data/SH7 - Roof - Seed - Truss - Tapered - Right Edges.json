@@ -1,0 +1,233 @@
+{
+  "filename": "SH7 - Roof - Seed - Truss - Tapered - Right Edges.fcstd",
+  "parts": [
+    {
+      "name": "Group",
+      "label": "truss  - frame - right",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {}
+    },
+    {
+      "name": "Group001",
+      "label": "truss - osb - right",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {}
+    },
+    {
+      "name": "Wedge013",
+      "label": "1/2 osb - right 001",
+      "type_id": "Part::Wedge",
+      "properties": {
+        "Placement": "Placement [Pos=(88.9,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Wedge014",
+      "label": "1/2 osb - right 002",
+      "type_id": "Part::Wedge",
+      "properties": {
+        "Placement": "Placement [Pos=(88.9,3556,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Wedge015",
+      "label": "1/2 osb - right 003",
+      "type_id": "Part::Wedge",
+      "properties": {
+        "Placement": "Placement [Pos=(88.9,2438.4,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box016",
+      "label": "2x4 - bottom cord - flat",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box017",
+      "label": "2x4 - top cord - flat",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,368.3), Yaw-Pitch-Roll=(0,-0,-1.315)]"
+      }
+    },
+    {
+      "name": "Box018",
+      "label": "2x4 - stud - front 001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box019",
+      "label": "2x4 - stud - front 002",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,38.1,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box020",
+      "label": "2x4 - stud - back 001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,5918.2,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box021",
+      "label": "2x4 - stud - back 002",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,5956.3,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box026",
+      "label": "2x4 - bottom cord - on edge",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(50.8,76.2,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box027",
+      "label": "2x4 - top cord - on edge",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(50.8,76.2,279.4), Yaw-Pitch-Roll=(0,0,-1.315)]"
+      }
+    },
+    {
+      "name": "Group002",
+      "label": "truss - seed - edge - right (parts)",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {}
+    },
+    {
+      "name": "Group003",
+      "label": "truss  - frame - left",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {}
+    },
+    {
+      "name": "Group004",
+      "label": "truss - osb - left",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {}
+    },
+    {
+      "name": "Wedge016",
+      "label": "1/2 osb  - left 001",
+      "type_id": "Part::Wedge",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Wedge017",
+      "label": "1/2 osb  - left 002",
+      "type_id": "Part::Wedge",
+      "properties": {
+        "Placement": "Placement [Pos=(0,3556,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Wedge018",
+      "label": "1/2 osb  - left 003",
+      "type_id": "Part::Wedge",
+      "properties": {
+        "Placement": "Placement [Pos=(0,2438.4,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box028",
+      "label": "2x4 - bottom cord - flat001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(12.7,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box029",
+      "label": "2x4 - top cord - flat001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(12.7,0,368.3), Yaw-Pitch-Roll=(0,0,-1.315)]"
+      }
+    },
+    {
+      "name": "Box030",
+      "label": "2x4 - stud - front 003",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(12.7,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box031",
+      "label": "2x4 - stud - front 004",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(12.7,38.1,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box032",
+      "label": "2x4 - stud - back 003",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(12.7,5918.2,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box033",
+      "label": "2x4 - stud - back 004",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(12.7,5956.3,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box034",
+      "label": "2x4 - bottom cord - on edge001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(12.7,76.2,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box035",
+      "label": "2x4 - top cord - on edge001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(12.7,76.2,279.4), Yaw-Pitch-Roll=(0,0,-1.315)]"
+      }
+    },
+    {
+      "name": "Group005",
+      "label": "truss - seed - edge - left (parts)",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {}
+    },
+    {
+      "name": "Compound002",
+      "label": "truss - seed - edge - left",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Compound003",
+      "label": "truss - seed - edge - right",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    }
+  ]
+}

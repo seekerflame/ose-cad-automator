@@ -1,0 +1,115 @@
+{
+  "filename": "SH7 - Ext Wall - 10 ft - Door 34.fcstd",
+  "parts": [
+    {
+      "name": "Box022",
+      "label": "2x6 top plate001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,2695.57), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box023",
+      "label": "2x6 king stud - left001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box024",
+      "label": "2x6 king stud - right001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(1181.1,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box025",
+      "label": "2x12 outer header001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(38.1,0,2409.82), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box026",
+      "label": "2x12 inner header001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(38.1,101.6,2409.82), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box027",
+      "label": "2x6 flat header001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(38.1,0,2371.72), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box028",
+      "label": "2x6 jack stud - left003",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(177.8,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box029",
+      "label": "2x6 jack stud - right003",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(1130.3,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box030",
+      "label": "2x6 nailing plate001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(215.9,0,2095.5), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box031",
+      "label": "2x6 cripple - top left001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(590.55,0,2133.6), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box032",
+      "label": "2x6 bottom plate001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Group001",
+      "label": "PARTS",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {}
+    },
+    {
+      "name": "Box033",
+      "label": "2x6 nailing stud001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(38.1,101.6,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box034",
+      "label": "2x6 nailing stud002",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(38.1,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    }
+  ]
+}

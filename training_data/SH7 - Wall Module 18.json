@@ -1,0 +1,171 @@
+{
+  "filename": "SH7 - Wall Module 18.fcstd",
+  "parts": [
+    {
+      "name": "Box",
+      "label": "2x6 bottom plate",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box001",
+      "label": "2x6 top plate",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,3009.9), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box002",
+      "label": "2x6 stud - left",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box003",
+      "label": "2x6 stud - middle left",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(266.7,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box004",
+      "label": "2x6 stud - right",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(2400.3,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Group",
+      "label": "PARTS",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {}
+    },
+    {
+      "name": "Box005",
+      "label": "2x6 stud - middle riht",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(2133.6,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box006",
+      "label": "2x6 flat header",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(38.1,0,2032), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box007",
+      "label": "2x6 stud - cripple 001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(590.55,0,2070.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box008",
+      "label": "2x6 stud - cripple 002",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(1200.15,0,2070.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box009",
+      "label": "2x6 stud - cripple 003",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(1809.75,0,2070.1), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box010",
+      "label": "2x6 blocking left 001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(38.1,0,1993.9), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box011",
+      "label": "2x6 blocking right 001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(2171.7,0,1993.9), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box012",
+      "label": "2x6 blocking left 002",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(38.1,0,1219.2), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box013",
+      "label": "2x6 blocking left 003",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(38.1,0,609.6), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box014",
+      "label": "2x6 blocking right 002",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(2171.7,0,1219.2), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box015",
+      "label": "2x6 blocking right 003",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(2171.7,0,609.6), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box016",
+      "label": "1/2 osb - left",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,-12.7,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box017",
+      "label": "1/2 osb - right",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(2133.6,-12.7,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box018",
+      "label": "1/2 osb - top",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,-12.7,2032), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Compound001",
+      "label": "Simple Copy ",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    }
+  ]
+}

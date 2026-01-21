@@ -1,0 +1,183 @@
+{
+  "filename": "Front Veranda - Deck Module 3.fcstd",
+  "parts": [
+    {
+      "name": "Group001",
+      "label": "Frame",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {}
+    },
+    {
+      "name": "Box009",
+      "label": "2x8 rim joist - back",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(38.1,2362.2,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box010",
+      "label": "2x8 rim joist - left",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,38.1,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box011",
+      "label": "2x8 rim joist - right",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(1247.77,38.1,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box013",
+      "label": "2x8 rim joist - middle 001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(38.1,590.55,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box014",
+      "label": "2x8 rim joist - middle 002",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(38.1,1200.15,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box015",
+      "label": "2x8 rim joist - middle 003",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(38.1,1809.75,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Group002",
+      "label": "PARTS",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {}
+    },
+    {
+      "name": "Box016",
+      "label": "2x8 rim joist - front",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(38.1,38.1,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box017",
+      "label": "2x8 blocking 001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(711.2,76.2,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box018",
+      "label": "2x8 blocking 002",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(711.2,114.3,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box019",
+      "label": "2x8 blocking 003",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(711.2,152.4,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box",
+      "label": "5/4 x 6 deck board - decking 001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,184.15), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box001",
+      "label": "5/4 x 6 deck board - decking 002",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(142.875,0,184.15), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box002",
+      "label": "5/4 x 6 deck board - decking 003",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(285.75,0,184.15), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box003",
+      "label": "5/4 x 6 deck board - decking 004",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(428.625,0,184.15), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box004",
+      "label": "5/4 x 6 deck board - decking 005",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(571.5,0,184.15), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box005",
+      "label": "5/4 x 6 deck board - decking 006",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(714.375,0,184.15), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box006",
+      "label": "5/4 x 6 deck board - decking 007",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(857.25,0,184.15), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box007",
+      "label": "5/4 x 6 deck board - decking 008",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(1000.12,0,184.15), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Group",
+      "label": "Decking",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {}
+    },
+    {
+      "name": "Box012",
+      "label": "5/4 x 6 deck board - decking 009",
+      "type_id": "Part::Box",
+      "properties": {
+        "Placement": "Placement [Pos=(1143,0,184.15), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Compound001",
+      "label": "Simple Copy",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    }
+  ]
+}
