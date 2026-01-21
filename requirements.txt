@@ -1,0 +1,9 @@
+# requirements.txt - OSE CAD Automator
+# Core dependencies for the CAD automation pipeline
+
+# No external dependencies required for core functionality
+# FreeCAD provides its own Python environment
+
+# Optional: For advanced features
+# ollama>=0.1.0  # For AI-powered edit requests
+# pydantic>=2.0  # For schema validation

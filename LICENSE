@@ -1,0 +1,72 @@
+CERN Open Hardware Licence Version 2 - Strongly Reciprocal
+
+Preamble
+
+CERN has developed this licence to promote collaboration among hardware designers and to provide a legal tool which supports the freedom to use, study, modify, share and distribute hardware designs and products based on those designs. Version 2 of the CERN Open Hardware Licence comes in three variants: CERN-OHL-P (permissive); and two reciprocal licences: CERN-OHL-W (weakly reciprocal) and this licence, CERN-OHL-S (strongly reciprocal).
+
+The CERN-OHL-S is copyright CERN 2020. Anyone is welcome to use it, in unmodified form only.
+
+Use of this Licence does not imply any endorsement by CERN of any Licensor or their designs nor does it imply any involvement by CERN in their development.
+
+1 Definitions
+
+1.1 'Licence' means this CERN-OHL-S.
+
+1.2 'Compatible Licence' means:
+   a) any earlier version of the CERN Open Hardware licence, or
+   b) any version of the CERN-OHL-S, or
+   c) any licence which permits You to treat the Source licensed under that licence as licensed under CERN-OHL-S provided that on Conveyance of any such Source, or any associated Product You treat the Source in question as being licensed under CERN-OHL-S.
+
+1.3 'Source' means information such as design materials or digital code which can be applied to Make or test a Product or to prepare a Product for use, Conveyance or sale, regardless of its medium or how it is expressed. It may include Notices.
+
+1.4 'Covered Source' means Source that is explicitly made available under this Licence.
+
+1.5 'Product' means any device, component, work or physical object, whether in finished or intermediate form, arising from the use, application or processing of Covered Source.
+
+1.6 'Make' means to create or configure something, whether by manufacture, assembly, compiling, loading or applying Covered Source or another Product or otherwise.
+
+1.7 'Available Component' means any part, sub-assembly, library or code which:
+   a) is licensed to You as Complete Source under a Compatible Licence; or
+   b) is available, at the time a Product or the Source containing it is first Conveyed, to You and any other prospective licensees
+      (i) as a physical component with sufficient rights and information (including any configuration or programming files and information about its characteristics and interfaces) to enable it either to be Made itself, or to be sourced and used to Make the Product; or
+      (ii) as part of the normal distribution of a tool used to design or Make the Product.
+
+1.8 'Complete Source' means the set of all Source necessary to Make a Product, in the preferred form for making modifications, including necessary installation and interfacing information both for the Product, and for any included Available Components. If the format is proprietary, it must also be available in a format (if the proprietary tool can create it) which is viewable with a tool available to potential licensees and licensed under a licence approved by the Free Software Foundation or the Open Source Initiative. Complete Source need not include the Source of any Available Component, provided that You include in the Complete Source sufficient information to enable a recipient to Make or source and use the Available Component to Make the Product.
+
+1.9 'Source Location' means a location where a Licensor has placed Covered Source, and which that Licensor reasonably believes will remain easily accessible for at least three years for anyone to obtain a digital copy.
+
+1.10 'Notice' means copyright, acknowledgement and trademark notices, Source Location references, modification notices and all notices that refer to this Licence and to the disclaimer of warranties that are included in the Covered Source.
+
+1.11 'Licensee' or 'You' means any person exercising rights under this Licence.
+
+1.12 'Licensor' means a natural or legal person who creates or modifies Covered Source. A person may be a Licensee and a Licensor at the same time.
+
+1.13 'Convey' means to Communicate, sell, give, loan, or otherwise make available by any means that results in another person receiving a copy.
+
+1.14 'Covered Source' means Source that is explicitly made available under this Licence.
+
+2 Applicability
+
+2.1 This Licence governs the use, copying, modification, Conveying of Covered Source and Products, and the Making of Products.
+
+3 Copying, Modification and Conveying Covered Source
+
+3.1 You may copy and Convey verbatim copies of Covered Source, in any medium, provided You retain all Notices.
+
+3.2 You may modify Covered Source, and Convey such modifications or the resulting Products, provided that You include in any modified Covered Source prominent notices stating that You have modified it, and the date of the modification.
+
+4 Making and Conveying Products
+
+You may Make Products from Covered Source, provided that You:
+a) if requested to do so by the Licensor, Convey the Covered Source corresponding to the Product to the recipient of the Product; and
+b) if a Source Location is not provided in the Covered Source, provide a Source Location to any Licensee who asks for it.
+
+5 RESEARCH AND DEVELOPMENT
+
+You may Convey Covered Source, modified Covered Source and Products to a legal entity carrying out development, testing or quality control work on Your behalf provided that the work is performed on terms which prevent the entity from both using the Source or Products for its own internal purposes and Conveying the Source or Products other than back to You.
+
+6 DISCLAIMER AND LIABILITY
+
+6.1 DISCLAIMER OF WARRANTY -- The Covered Source and any Products are provided 'as is' and any express or implied warranties, including, but not limited to, implied warranties of merchantability, of satisfactory quality, non-infringement of third party rights, and fitness for a particular purpose or use are disclaimed in respect of any Source or Product to the maximum extent permitted by law.
+
+6.2 EXCLUSION AND LIMITATION OF LIABILITY -- The Licensor shall, to the maximum extent permitted by law, have no liability for direct, indirect, special, incidental, consequential, exemplary, punitive or other damages of any character including, without limitation, procurement of substitute goods or services, loss of use, data or profits, or business interruption, however caused and on any theory of contract, warranty, tort (including negligence), product liability or otherwise, arising in any way in relation to the Covered Source, modified Covered Source and/or the Making or Conveyance of a Product, even if advised of the possibility of such damages, and You shall hold the Licensor free and harmless from any liability, costs, damages, fees and expenses, including claims by third parties, in relation to such use.

@@ -1,0 +1,362 @@
+#!/bin/bash
+#
+# OSE CAD Automator - One-Click Installer
+# For macOS users - works with FreeCAD installed
+#
+# Usage: 
+#   curl -fsSL https://raw.githubusercontent.com/ose/cad-automator/main/install.sh | bash
+#   OR
+#   Double-click this file (after downloading)
+#
+
+set -e
+
+echo "╔═══════════════════════════════════════════════════════════════╗"
+echo "║           OSE CAD Automator - One-Click Installer             ║"
+echo "║   Transform FreeCAD files → Build Instructions automatically  ║"
+echo "╚═══════════════════════════════════════════════════════════════╝"
+echo ""
+
+# Colors for output
+RED='\033[0;31m'
+GREEN='\033[0;32m'
+YELLOW='\033[1;33m'
+NC='\033[0m' # No Color
+
+# Default installation directory
+INSTALL_DIR="$HOME/ose-cad-automator"
+
+# Check for FreeCAD
+echo "🔍 Checking for FreeCAD..."
+if [ -d "/Applications/FreeCAD.app" ]; then
+    echo -e "${GREEN}✅ FreeCAD found!${NC}"
+    FREECAD_PATH="/Applications/FreeCAD.app/Contents/MacOS/FreeCAD"
+else
+    echo -e "${YELLOW}⚠️  FreeCAD not found in /Applications${NC}"
+    echo "   Please install FreeCAD from: https://www.freecad.org/downloads.php"
+    echo "   After installing, run this script again."
+    echo ""
+    read -p "Press Enter to open download page, or Ctrl+C to exit..."
+    open "https://www.freecad.org/downloads.php"
+    exit 1
+fi
+
+# Check for Python 3
+echo "🔍 Checking for Python 3..."
+if command -v python3 &> /dev/null; then
+    PYTHON_VERSION=$(python3 --version)
+    echo -e "${GREEN}✅ $PYTHON_VERSION found!${NC}"
+else
+    echo -e "${RED}❌ Python 3 not found${NC}"
+    echo "   Please install Python 3 from: https://www.python.org/downloads/"
+    exit 1
+fi
+
+# Create installation directory
+echo ""
+echo "📁 Installing to: $INSTALL_DIR"
+mkdir -p "$INSTALL_DIR"
+cd "$INSTALL_DIR"
+
+# Download the scripts (or copy if local)
+echo "📥 Downloading scripts..."
+
+# Create extract_cad_data.py
+cat > extract_cad_data.py << 'EXTRACT_SCRIPT'
+#!/usr/bin/env python3
+"""
+OSE CAD Extractor - Extract JSON metadata from FreeCAD files
+Usage: FreeCAD --console extract_cad_data.py <input.fcstd>
+"""
+import sys
+import json
+import os
+
+# Try to import FreeCAD
+try:
+    import FreeCAD
+except ImportError:
+    print("ERROR: Must run with FreeCAD Python")
+    print("Usage: /Applications/FreeCAD.app/Contents/MacOS/FreeCAD --console extract_cad_data.py")
+    sys.exit(1)
+
+def extract_data(filepath):
+    """Extract CAD data from FreeCAD file to JSON."""
+    print(f"Opening: {filepath}")
+    
+    try:
+        doc = FreeCAD.openDocument(filepath)
+    except Exception as e:
+        print(f"ERROR: Could not open file: {e}")
+        return None
+    
+    data = {
+        "filename": os.path.basename(filepath),
+        "parts": []
+    }
+    
+    for obj in doc.Objects:
+        part = {
+            "name": obj.Name,
+            "label": obj.Label if hasattr(obj, "Label") else obj.Name,
+            "type_id": obj.TypeId,
+            "properties": {}
+        }
+        
+        if hasattr(obj, "Label"):
+            part["properties"]["Label"] = obj.Label
+        if hasattr(obj, "Placement"):
+            part["properties"]["Placement"] = str(obj.Placement)
+        
+        data["parts"].append(part)
+    
+    # Save JSON next to the FCStd file
+    output_path = filepath.replace(".fcstd", ".json").replace(".FCStd", ".json")
+    with open(output_path, "w") as f:
+        json.dump(data, f, indent=2)
+    
+    print(f"SUCCESS: Extracted {len(data['parts'])} parts to {output_path}")
+    FreeCAD.closeDocument(doc.Name)
+    return output_path
+
+if __name__ == "__main__":
+    if len(sys.argv) < 2:
+        # Try to get from environment or use default
+        target = os.environ.get("CAD_FILE", None)
+        if not target:
+            print("Usage: Set CAD_FILE environment variable or pass as argument")
+            sys.exit(1)
+    else:
+        target = sys.argv[1]
+    
+    extract_data(target)
+EXTRACT_SCRIPT
+
+# Create weave_instructions.py (simplified version)
+cat > weave_instructions.py << 'WEAVE_SCRIPT'
+#!/usr/bin/env python3
+"""
+OSE Weaver v2.0 - Generate Platinum Build Instructions from JSON
+Usage: python3 weave_instructions.py <input.json>
+"""
+import json
+import sys
+import os
+import re
+from datetime import datetime
+from collections import defaultdict
+
+# [Full weave script will be inserted here - abbreviated for installer]
+# See full version at: github.com/ose/cad-automator/scripts/weave_instructions.py
+
+def weave_platinum_instructions(json_path, output_path=None):
+    """Generate platinum-quality build instructions."""
+    with open(json_path, 'r') as f:
+        data = json.load(f)
+    
+    filename = data.get("filename", os.path.basename(json_path))
+    parts = data.get("parts", [])
+    
+    md = []
+    md.append(f"# {filename.replace('.fcstd', '').replace('.json', '')} - Build Instructions")
+    md.append(f"> Auto-generated by OSE CAD Automator")
+    md.append(f"> Date: {datetime.now().strftime('%B %d, %Y')}")
+    md.append("")
+    md.append("## Bill of Materials")
+    md.append("| Part | Type | Qty |")
+    md.append("|------|------|-----|")
+    
+    # Count parts
+    bom = defaultdict(int)
+    for p in parts:
+        if p.get("type_id") not in ["App::DocumentObjectGroup"]:
+            bom[p.get("label", p["name"])] += 1
+    
+    for label, count in sorted(bom.items()):
+        md.append(f"| {label} | Part | {count} |")
+    
+    md.append("")
+    md.append(f"**Total Parts**: {sum(bom.values())}")
+    md.append("")
+    md.append("---")
+    md.append("*For full platinum instructions with tools, hardware, and step-by-step assembly,*")
+    md.append("*run the full weave_instructions.py script from the repository.*")
+    
+    if output_path is None:
+        output_path = json_path.replace(".json", "_Instructions.md")
+    
+    with open(output_path, 'w') as f:
+        f.write("\n".join(md))
+    
+    print(f"✅ Generated: {output_path}")
+    return output_path
+
+if __name__ == "__main__":
+    if len(sys.argv) < 2:
+        print("Usage: python3 weave_instructions.py <input.json>")
+        sys.exit(1)
+    weave_platinum_instructions(sys.argv[1])
+WEAVE_SCRIPT
+
+# Create the main CLI tool
+cat > ose-cad << 'CLI_SCRIPT'
+#!/bin/bash
+#
+# OSE CAD Automator CLI
+# Usage: ose-cad <command> <file>
+#
+
+SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+FREECAD="/Applications/FreeCAD.app/Contents/MacOS/FreeCAD"
+
+show_help() {
+    echo "OSE CAD Automator - Transform FreeCAD → Build Instructions"
+    echo ""
+    echo "Usage:"
+    echo "  ose-cad process <file.fcstd>   # Extract + Generate instructions"
+    echo "  ose-cad extract <file.fcstd>   # Extract JSON only"
+    echo "  ose-cad weave <file.json>      # Generate instructions from JSON"
+    echo "  ose-cad batch <directory>      # Process all .fcstd in directory"
+    echo ""
+    echo "Examples:"
+    echo "  ose-cad process ~/CAD/SH7-Floor.fcstd"
+    echo "  ose-cad batch ~/CAD/SH7CAD/"
+    echo ""
+}
+
+case "$1" in
+    process)
+        if [ -z "$2" ]; then
+            echo "Error: Please provide a .fcstd file"
+            exit 1
+        fi
+        echo "🔧 Processing: $2"
+        export CAD_FILE="$2"
+        $FREECAD --console "$SCRIPT_DIR/extract_cad_data.py"
+        JSON_FILE="${2%.fcstd}.json"
+        JSON_FILE="${JSON_FILE%.FCStd}.json"
+        if [ -f "$JSON_FILE" ]; then
+            python3 "$SCRIPT_DIR/weave_instructions.py" "$JSON_FILE"
+        fi
+        ;;
+    extract)
+        if [ -z "$2" ]; then
+            echo "Error: Please provide a .fcstd file"
+            exit 1
+        fi
+        export CAD_FILE="$2"
+        $FREECAD --console "$SCRIPT_DIR/extract_cad_data.py"
+        ;;
+    weave)
+        if [ -z "$2" ]; then
+            echo "Error: Please provide a .json file"
+            exit 1
+        fi
+        python3 "$SCRIPT_DIR/weave_instructions.py" "$2"
+        ;;
+    batch)
+        if [ -z "$2" ]; then
+            echo "Error: Please provide a directory"
+            exit 1
+        fi
+        echo "📂 Batch processing: $2"
+        find "$2" -name "*.fcstd" -o -name "*.FCStd" | while read file; do
+            echo ""
+            echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+            "$0" process "$file"
+        done
+        echo ""
+        echo "✅ Batch complete!"
+        ;;
+    help|--help|-h)
+        show_help
+        ;;
+    *)
+        show_help
+        ;;
+esac
+CLI_SCRIPT
+
+chmod +x ose-cad
+chmod +x extract_cad_data.py
+chmod +x weave_instructions.py
+
+# Add to PATH (optional)
+echo ""
+echo "📍 Adding to PATH..."
+SHELL_RC="$HOME/.zshrc"
+if [ -f "$HOME/.bashrc" ]; then
+    SHELL_RC="$HOME/.bashrc"
+fi
+
+if ! grep -q "ose-cad-automator" "$SHELL_RC" 2>/dev/null; then
+    echo "" >> "$SHELL_RC"
+    echo "# OSE CAD Automator" >> "$SHELL_RC"
+    echo "export PATH=\"\$PATH:$INSTALL_DIR\"" >> "$SHELL_RC"
+    echo -e "${GREEN}✅ Added to PATH in $SHELL_RC${NC}"
+else
+    echo "Already in PATH"
+fi
+
+# Create desktop shortcut for drag-and-drop
+echo ""
+echo "🖱️  Creating drag-and-drop app..."
+APP_DIR="$HOME/Desktop/OSE CAD Automator.app"
+mkdir -p "$APP_DIR/Contents/MacOS"
+mkdir -p "$APP_DIR/Contents/Resources"
+
+cat > "$APP_DIR/Contents/MacOS/run" << APPSCRIPT
+#!/bin/bash
+cd "$INSTALL_DIR"
+if [ -n "\$1" ]; then
+    ./ose-cad process "\$1"
+else
+    echo "Drag a .fcstd file onto this app to process it!"
+fi
+read -p "Press Enter to close..."
+APPSCRIPT
+chmod +x "$APP_DIR/Contents/MacOS/run"
+
+cat > "$APP_DIR/Contents/Info.plist" << PLIST
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleExecutable</key>
+    <string>run</string>
+    <key>CFBundleName</key>
+    <string>OSE CAD Automator</string>
+    <key>CFBundleDocumentTypes</key>
+    <array>
+        <dict>
+            <key>CFBundleTypeExtensions</key>
+            <array>
+                <string>fcstd</string>
+                <string>FCStd</string>
+            </array>
+            <key>CFBundleTypeName</key>
+            <string>FreeCAD Document</string>
+            <key>CFBundleTypeRole</key>
+            <string>Viewer</string>
+        </dict>
+    </array>
+</dict>
+</plist>
+PLIST
+
+echo ""
+echo "╔═══════════════════════════════════════════════════════════════╗"
+echo "║                    Installation Complete! 🎉                   ║"
+echo "╚═══════════════════════════════════════════════════════════════╝"
+echo ""
+echo "📂 Installed to: $INSTALL_DIR"
+echo ""
+echo "🚀 Quick Start:"
+echo "   1. Open a new terminal (to refresh PATH)"
+echo "   2. Run: ose-cad process /path/to/your/file.fcstd"
+echo ""
+echo "🖱️  Or drag-and-drop:"
+echo "   - Drag any .fcstd file onto 'OSE CAD Automator' on your Desktop"
+echo ""
+echo "📚 Full documentation: https://github.com/ose/cad-automator"
+echo ""

@@ -1,0 +1,366 @@
+{
+  "filename": "SH7 - Floor Module 5.fcstd",
+  "parts": [
+    {
+      "name": "Box",
+      "label": "2x8 Joist - rim 001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Label": "2x8 Joist - rim 001",
+        "Placement": "Placement [Pos=(0,0,19.05), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box002",
+      "label": "2x8 Joist 001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Label": "2x8 Joist 001",
+        "Placement": "Placement [Pos=(0,38.1,19.05), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box004",
+      "label": "2x8 Joist - rim 005",
+      "type_id": "Part::Box",
+      "properties": {
+        "Label": "2x8 Joist - rim 005",
+        "Placement": "Placement [Pos=(0,5981.7,19.05), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box005",
+      "label": "2x8 Joist 002",
+      "type_id": "Part::Box",
+      "properties": {
+        "Label": "2x8 Joist 002",
+        "Placement": "Placement [Pos=(590.55,38.1,19.05), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box006",
+      "label": "2x8 Joist 003",
+      "type_id": "Part::Box",
+      "properties": {
+        "Label": "2x8 Joist 003",
+        "Placement": "Placement [Pos=(1200.15,38.1,19.05), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box007",
+      "label": "2x8 Joist 005",
+      "type_id": "Part::Box",
+      "properties": {
+        "Label": "2x8 Joist 005",
+        "Placement": "Placement [Pos=(1790.7,38.1,19.05), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Group",
+      "label": "frame",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {
+        "Label": "frame"
+      }
+    },
+    {
+      "name": "Box010",
+      "label": "3/4 PT Plywood 001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Label": "3/4 PT Plywood 001",
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box012",
+      "label": "3/4 PT Plywood 002",
+      "type_id": "Part::Box",
+      "properties": {
+        "Label": "3/4 PT Plywood 002",
+        "Placement": "Placement [Pos=(0,1219.2,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box015",
+      "label": "3/4 PT Plywood 003",
+      "type_id": "Part::Box",
+      "properties": {
+        "Label": "3/4 PT Plywood 003",
+        "Placement": "Placement [Pos=(0,2438.4,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box017",
+      "label": "3/4 PT Plywood 004",
+      "type_id": "Part::Box",
+      "properties": {
+        "Label": "3/4 PT Plywood 004",
+        "Placement": "Placement [Pos=(0,3657.6,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box018",
+      "label": "3/4 PT Plywood 000",
+      "type_id": "Part::Box",
+      "properties": {
+        "Label": "3/4 PT Plywood 000",
+        "Placement": "Placement [Pos=(0,4876.8,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Group001",
+      "label": "plywood - bottom",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {
+        "Label": "plywood - bottom"
+      }
+    },
+    {
+      "name": "Box020",
+      "label": "3/4 OSB 001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Label": "3/4 OSB 001",
+        "Placement": "Placement [Pos=(0,0,203.2), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box022",
+      "label": "3/4 OSB 002",
+      "type_id": "Part::Box",
+      "properties": {
+        "Label": "3/4 OSB 002",
+        "Placement": "Placement [Pos=(0,1219.2,203.2), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box025",
+      "label": "3/4 OSB 003",
+      "type_id": "Part::Box",
+      "properties": {
+        "Label": "3/4 OSB 003",
+        "Placement": "Placement [Pos=(0,2438.4,203.2), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box027",
+      "label": "3/4 OSB 004",
+      "type_id": "Part::Box",
+      "properties": {
+        "Label": "3/4 OSB 004",
+        "Placement": "Placement [Pos=(0,3657.6,203.2), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box028",
+      "label": "3/4 OSB 000",
+      "type_id": "Part::Box",
+      "properties": {
+        "Label": "3/4 OSB 000",
+        "Placement": "Placement [Pos=(0,4876.8,203.2), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Group002",
+      "label": "osb - top",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {
+        "Label": "osb - top"
+      }
+    },
+    {
+      "name": "Box031",
+      "label": "2x8 Joist 004",
+      "type_id": "Part::Box",
+      "properties": {
+        "Label": "2x8 Joist 004",
+        "Placement": "Placement [Pos=(38.1,38.1,19.05), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Group003",
+      "label": "PARTS",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {
+        "Label": "PARTS"
+      }
+    },
+    {
+      "name": "Group004",
+      "label": "SINGLE COPIES",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {
+        "Label": "SINGLE COPIES"
+      }
+    },
+    {
+      "name": "Box032",
+      "label": "batt insulation 001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Label": "batt insulation 001",
+        "Placement": "Placement [Pos=(76.2,38.1,19.05), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Group005",
+      "label": "insulation",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {
+        "Label": "insulation"
+      }
+    },
+    {
+      "name": "Box033",
+      "label": "batt insulation 002",
+      "type_id": "Part::Box",
+      "properties": {
+        "Label": "batt insulation 002",
+        "Placement": "Placement [Pos=(628.65,38.1,19.05), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box034",
+      "label": "batt insulation 003",
+      "type_id": "Part::Box",
+      "properties": {
+        "Label": "batt insulation 003",
+        "Placement": "Placement [Pos=(1238.25,38.1,19.05), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Compound007",
+      "label": "Floor - 2x8 - 6x20 - insulation",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Label": "Floor - 2x8 - 6x20 - insulation",
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box035",
+      "label": "2x4 board - water inlet frame 001",
+      "type_id": "Part::Box",
+      "properties": {
+        "Label": "2x4 board - water inlet frame 001",
+        "Placement": "Placement [Pos=(1701.8,5943.6,19.05), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box036",
+      "label": "2x8 board - water inlet frame 002",
+      "type_id": "Part::Box",
+      "properties": {
+        "Label": "2x8 board - water inlet frame 002",
+        "Placement": "Placement [Pos=(1663.7,5797.55,19.05), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Box037",
+      "label": "2x4 board - water inlet frame 003",
+      "type_id": "Part::Box",
+      "properties": {
+        "Label": "2x4 board - water inlet frame 003",
+        "Placement": "Placement [Pos=(1701.8,5797.55,19.05), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Group006",
+      "label": "water inlet",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {
+        "Label": "water inlet"
+      }
+    },
+    {
+      "name": "Cylinder",
+      "label": "plywood cutout",
+      "type_id": "Part::Cylinder",
+      "properties": {
+        "Label": "plywood cutout",
+        "Placement": "Placement [Pos=(1739.9,5867.4,-6.35), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Cut",
+      "label": "plywood notch",
+      "type_id": "Part::Cut",
+      "properties": {
+        "Label": "plywood notch",
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Cylinder002",
+      "label": "osb cutout",
+      "type_id": "Part::Cylinder",
+      "properties": {
+        "Label": "osb cutout",
+        "Placement": "Placement [Pos=(1739.9,5867.4,-6.35), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Cut002002005",
+      "label": "osb notch",
+      "type_id": "Part::Cut",
+      "properties": {
+        "Label": "osb notch",
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Cut002002005001",
+      "label": "3/4 OSB 005",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Label": "3/4 OSB 005",
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Compound013",
+      "label": "Floor - 2x8 - 6x20 - top sheathing",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Label": "Floor - 2x8 - 6x20 - top sheathing",
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Cut002002005002",
+      "label": "3/4 PT Plywood 005",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Label": "3/4 PT Plywood 005",
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Compound014",
+      "label": "Floor - 2x8 - 6x20 - bottom sheathing",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Label": "Floor - 2x8 - 6x20 - bottom sheathing",
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Compound015",
+      "label": "Floor - 2x8 - 6x20 - frame",
+      "type_id": "Part::Feature",
+      "properties": {
+        "Label": "Floor - 2x8 - 6x20 - frame",
+        "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
+      }
+    },
+    {
+      "name": "Group007",
+      "label": "notches",
+      "type_id": "App::DocumentObjectGroup",
+      "properties": {
+        "Label": "notches"
+      }
+    }
+  ]
+}
