@@ -1,0 +1,80 @@
+{
+  "filename": "Walls_INTERIOR WALLS_SH7 - Wall Module - Interior 47",
+  "parts": [
+    {
+      "name": "Box",
+      "label": "2x4 bottom plate",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box001",
+      "label": "2x4 top plate",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box002",
+      "label": "2x4 stud - left",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box003",
+      "label": "2x4 stud - middle",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box004",
+      "label": "2x4 stud - right",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Group",
+      "label": "PARTS",
+      "type_id": "App::DocumentObjectGroup"
+    },
+    {
+      "name": "Box014",
+      "label": "2x4 ladder - left 001",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box015",
+      "label": "2x4 ladder - left 002",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box016",
+      "label": "2x4 ladder - left 003",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box017",
+      "label": "2x4 ladder - left 004",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box018",
+      "label": "2x4 ladder - right 001",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box019",
+      "label": "2x4 ladder - right 002",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box020",
+      "label": "2x4 ladder - right 003",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box021",
+      "label": "2x4 ladder - right 004",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Compound001",
+      "label": "Simple Copy",
+      "type_id": "Part::Feature"
+    }
+  ]
+}

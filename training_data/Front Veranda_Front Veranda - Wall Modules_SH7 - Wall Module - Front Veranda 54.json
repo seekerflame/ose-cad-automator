@@ -1,0 +1,45 @@
+{
+  "filename": "Front Veranda_Front Veranda - Wall Modules_SH7 - Wall Module - Front Veranda 54",
+  "parts": [
+    {
+      "name": "Box",
+      "label": "2x4 bottom plate",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box001",
+      "label": "2x4 top plate",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box002",
+      "label": "2x4 stud 001",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Group",
+      "label": "PARTS",
+      "type_id": "App::DocumentObjectGroup"
+    },
+    {
+      "name": "Box004",
+      "label": "2x4 stud 003",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box005",
+      "label": "1/2 osb",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box006",
+      "label": "2x4 stud 004",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Compound001",
+      "label": "Simple Copy",
+      "type_id": "Part::Feature"
+    }
+  ]
+}

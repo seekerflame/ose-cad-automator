@@ -1,0 +1,170 @@
+{
+  "filename": "Walls_EXTERIOR WALLS_SH7 - Wall Module 27",
+  "parts": [
+    {
+      "name": "Box041",
+      "label": "blocking 007",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box037",
+      "label": "blocking 003",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box040",
+      "label": "blocking 006",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box035",
+      "label": "blocking 001",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box042",
+      "label": "blocking 008",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box039",
+      "label": "blocking 005",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box036",
+      "label": "blocking 002",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box038",
+      "label": "blocking 004",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box043",
+      "label": "1/2 osb - top001",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box044",
+      "label": "1/2 osb - left001",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box045",
+      "label": "1/2 osb - right001",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box046",
+      "label": "1/2 osb - bottom001",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box047",
+      "label": "1/2 osb - middle001",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Group001",
+      "label": "PARTS",
+      "type_id": "App::DocumentObjectGroup"
+    },
+    {
+      "name": "Box050",
+      "label": "2x6 top plate001",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box051",
+      "label": "2x6 king stud - left001",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box052",
+      "label": "2x12 outer header001",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box053",
+      "label": "2x12 inner header001",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box054",
+      "label": "2x6 flat header001",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box055",
+      "label": "2x6 jack stud - right 002",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box056",
+      "label": "2x6 sill - bottom001",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box057",
+      "label": "2x6 bottom plate001",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box058",
+      "label": "2x6 jack stud - left 003",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box059",
+      "label": "2x6 king stud - middle001",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box060",
+      "label": "2x6 sill - middle001",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box061",
+      "label": "2x6 cripple - middle001",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box062",
+      "label": "2x6 cripple - left001",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box063",
+      "label": "2x6 cripple - right001",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box064",
+      "label": "blocking 009",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box065",
+      "label": "blocking 010",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box066",
+      "label": "blocking 011",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box067",
+      "label": "blocking 012",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Compound001",
+      "label": "Simple Copy",
+      "type_id": "Part::Feature"
+    }
+  ]
+}

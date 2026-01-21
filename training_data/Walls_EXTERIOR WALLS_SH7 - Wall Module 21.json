@@ -1,0 +1,60 @@
+{
+  "filename": "Walls_EXTERIOR WALLS_SH7 - Wall Module 21",
+  "parts": [
+    {
+      "name": "Box005",
+      "label": "2x6 stud - corner U 001",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box006",
+      "label": "2x6 stud - corner U 002",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box007",
+      "label": "2x6 stud - corner U 003",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Group002",
+      "label": "PARTS",
+      "type_id": "App::DocumentObjectGroup"
+    },
+    {
+      "name": "Box001",
+      "label": "2x6 top plate",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box002",
+      "label": "2x6 stud - left",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box003",
+      "label": "2x6 stud - center",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box004",
+      "label": "2x6 stud - right",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box",
+      "label": "2x6 bottom plate",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box008",
+      "label": "1/2 osb",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Compound001",
+      "label": "Simple Copy",
+      "type_id": "Part::Feature"
+    }
+  ]
+}

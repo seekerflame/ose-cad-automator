@@ -1,0 +1,105 @@
+{
+  "filename": "Front Veranda_Front Veranda - Deck Modules_Front Veranda - Deck Module 4",
+  "parts": [
+    {
+      "name": "Group001",
+      "label": "Frame",
+      "type_id": "App::DocumentObjectGroup"
+    },
+    {
+      "name": "Box009",
+      "label": "2x8 rim joist - back",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box010",
+      "label": "2x8 rim joist - left",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box011",
+      "label": "2x8 rim joist - right",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box013",
+      "label": "2x8 rim joist - middle 001",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box014",
+      "label": "2x8 rim joist - middle 002",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box015",
+      "label": "2x8 rim joist - middle 003",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Group002",
+      "label": "PARTS",
+      "type_id": "App::DocumentObjectGroup"
+    },
+    {
+      "name": "Box016",
+      "label": "2x8 rim joist - front",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box",
+      "label": "5/4 x 6 deck board - decking 001",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box001",
+      "label": "5/4 x 6 deck board - decking 002",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box002",
+      "label": "5/4 x 6 deck board - decking 003",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box003",
+      "label": "5/4 x 6 deck board - decking 004",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box004",
+      "label": "5/4 x 6 deck board - decking 005",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box005",
+      "label": "5/4 x 6 deck board - decking 006",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box006",
+      "label": "5/4 x 6 deck board - decking 007",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box007",
+      "label": "5/4 x 6 deck board - decking 008",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Group",
+      "label": "Decking",
+      "type_id": "App::DocumentObjectGroup"
+    },
+    {
+      "name": "Box012",
+      "label": "5/4 x 6 deck board - decking 009",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Compound001",
+      "label": "Simple Copy",
+      "type_id": "Part::Feature"
+    }
+  ]
+}

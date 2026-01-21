@@ -1,0 +1,85 @@
+{
+  "filename": "Walls_INTERIOR WALLS_SH7 - Wall Module - Interior 39",
+  "parts": [
+    {
+      "name": "Box",
+      "label": "2x4 - bottom plate",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box002",
+      "label": "2x4 - stud - right",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box008",
+      "label": "2x4- blockin left 001",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box004",
+      "label": "2x4 - jack stud - left",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box006",
+      "label": "2x4 - flat header",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box003",
+      "label": "2x4 - top plate",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box005",
+      "label": "2x4 - jack stud - riht",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box009",
+      "label": "2x4 - blockin riht 001",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box007",
+      "label": "2x4 - cripple",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box001",
+      "label": "2x4 - stud - left",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Group",
+      "label": "PARTS",
+      "type_id": "App::DocumentObjectGroup"
+    },
+    {
+      "name": "Box010",
+      "label": "2x4 - blockin left 002",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box011",
+      "label": "2x4 - blockin left 003",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box012",
+      "label": "2x4 - blockin riht 002",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box013",
+      "label": "2x4 - blockin riht 003",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Compound001",
+      "label": "Simple Copy",
+      "type_id": "Part::Feature"
+    }
+  ]
+}

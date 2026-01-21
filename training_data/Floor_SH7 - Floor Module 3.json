@@ -1,0 +1,130 @@
+{
+  "filename": "Floor_SH7 - Floor Module 3",
+  "parts": [
+    {
+      "name": "Box",
+      "label": "2x8 Joist - rim 001",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box002",
+      "label": "2x8 Joist 001",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box004",
+      "label": "2x8 Joist - rim 005",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box005",
+      "label": "2x8 Joist 002",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box006",
+      "label": "2x8 Joist 003",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box007",
+      "label": "2x8 Joist 004",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Group",
+      "label": "joists",
+      "type_id": "App::DocumentObjectGroup"
+    },
+    {
+      "name": "Box010",
+      "label": "3/4 PT Plywood 001",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box012",
+      "label": "3/4 PT Plywood 002",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box015",
+      "label": "3/4 PT Plywood 003",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box017",
+      "label": "3/4 PT Plywood 004",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box018",
+      "label": "3/4 PT Plywood 005",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Group001",
+      "label": "plywood - bottom",
+      "type_id": "App::DocumentObjectGroup"
+    },
+    {
+      "name": "Box020",
+      "label": "3/4 OSB 001",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box022",
+      "label": "3/4 OSB 002",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box025",
+      "label": "3/4 OSB 003",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box027",
+      "label": "3/4 OSB 004",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box028",
+      "label": "3/4 OSB 005",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Group002",
+      "label": "osb - top",
+      "type_id": "App::DocumentObjectGroup"
+    },
+    {
+      "name": "Box031",
+      "label": "2x8 Joist 009",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Compound004",
+      "label": "Floor - 2x8 - 6x20 - frame",
+      "type_id": "Part::Feature"
+    },
+    {
+      "name": "Compound005",
+      "label": "Floor - 2x8 - 6x20 - bottom sheathing",
+      "type_id": "Part::Feature"
+    },
+    {
+      "name": "Compound006",
+      "label": "Floor - 2x8 - 6x20 - top sheathing",
+      "type_id": "Part::Feature"
+    },
+    {
+      "name": "Group003",
+      "label": "PARTS",
+      "type_id": "App::DocumentObjectGroup"
+    },
+    {
+      "name": "Group004",
+      "label": "SINGLE COPIES",
+      "type_id": "App::DocumentObjectGroup"
+    }
+  ]
+}

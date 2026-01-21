@@ -1,0 +1,60 @@
+{
+  "filename": "Front Veranda_Front Veranda - Roof Modules_Front Veranda - Roof Module 4",
+  "parts": [
+    {
+      "name": "Box",
+      "label": "2x6 header 001",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box003",
+      "label": "2x6 header 002",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box004",
+      "label": "2x6 ledger",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Group",
+      "label": "PARTS",
+      "type_id": "App::DocumentObjectGroup"
+    },
+    {
+      "name": "Cut002002002001",
+      "label": "rafter 001",
+      "type_id": "Part::Feature"
+    },
+    {
+      "name": "Cut002002002003",
+      "label": "rafter 003",
+      "type_id": "Part::Feature"
+    },
+    {
+      "name": "Cut002002002004",
+      "label": "rafter 004",
+      "type_id": "Part::Feature"
+    },
+    {
+      "name": "Box006",
+      "label": "2x4 purlin 001",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box007",
+      "label": "2x4 purlin 002",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box008",
+      "label": "2x4 purlin 003",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Compound001",
+      "label": "Simple Copy",
+      "type_id": "Part::Feature"
+    }
+  ]
+}

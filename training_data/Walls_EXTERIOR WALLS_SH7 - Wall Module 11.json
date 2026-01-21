@@ -1,0 +1,100 @@
+{
+  "filename": "Walls_EXTERIOR WALLS_SH7 - Wall Module 11",
+  "parts": [
+    {
+      "name": "Box022",
+      "label": "2x6 top plate001",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box023",
+      "label": "2x6 king stud - left001",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box024",
+      "label": "2x6 king stud - right001",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box025",
+      "label": "2x12 outer header001",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box026",
+      "label": "2x12 inner header001",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box027",
+      "label": "2x6 flat header001",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box028",
+      "label": "2x6 jack stud - left003",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box029",
+      "label": "2x6 jack stud - right003",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box030",
+      "label": "2x6 nailing plate001",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box031",
+      "label": "2x6 cripple - top left001",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box032",
+      "label": "2x6 bottom plate001",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Group001",
+      "label": "PARTS",
+      "type_id": "App::DocumentObjectGroup"
+    },
+    {
+      "name": "Box033",
+      "label": "2x6 nailing stud001",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box034",
+      "label": "2x6 nailing stud002",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box",
+      "label": "1/2 osb - left",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box035",
+      "label": "1/2 osb - right",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box036",
+      "label": "1/2 osb - top",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Box037",
+      "label": "1/2 osb - spacer",
+      "type_id": "Part::Box"
+    },
+    {
+      "name": "Compound001",
+      "label": "Simple Copy",
+      "type_id": "Part::Feature"
+    }
+  ]
+}
