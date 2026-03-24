@@ -1,0 +1,22139 @@
+# OSE Seed Home 7 - Complete Construction Handbook
+> **Platinum Edition | Automated Documentation Suite**
+> Date: January 21, 2026
+
+---
+
+## 📚 Table of Contents
+- [SH7 - Floor - 6x20](#sh7---floor---6x20)
+- [SH7 - Floor Module 1](#sh7---floor-module-1)
+- [SH7 - Floor Module 2](#sh7---floor-module-2)
+- [SH7 - Floor Module 3](#sh7---floor-module-3)
+- [SH7 - Floor Module 4](#sh7---floor-module-4)
+- [SH7 - Floor Module 5](#sh7---floor-module-5)
+- [SH7 - Floor Module 6](#sh7---floor-module-6)
+- [SH7 Floor Module 1](#sh7-floor-module-1)
+- [SH7 Floor Module 2](#sh7-floor-module-2)
+- [SH7 Floor Module 3](#sh7-floor-module-3)
+- [SH7 Floor Module 4](#sh7-floor-module-4)
+- [SH7 Floor Module 5](#sh7-floor-module-5)
+- [SH7 Floor Module 6](#sh7-floor-module-6)
+- [Front Veranda - Wall Module - Door](#front-veranda---wall-module---door)
+- [Front Veranda - Wall Module - Window](#front-veranda---wall-module---window)
+- [SH7 - Ext Wall - 10 ft - Door 34](#sh7---ext-wall---10-ft---door-34)
+- [SH7 - Ext Wall - 10 ft - Door 36](#sh7---ext-wall---10-ft---door-36)
+- [SH7 - Ext Wall - 10 ft - Window 30](#sh7---ext-wall---10-ft---window-30)
+- [SH7 - Ext Wall - 10 ft](#sh7---ext-wall---10-ft)
+- [SH7 - Wall Module - Front Veranda 51](#sh7---wall-module---front-veranda-51)
+- [SH7 - Wall Module - Front Veranda 52](#sh7---wall-module---front-veranda-52)
+- [SH7 - Wall Module - Front Veranda 53](#sh7---wall-module---front-veranda-53)
+- [SH7 - Wall Module - Front Veranda 54](#sh7---wall-module---front-veranda-54)
+- [SH7 - Wall Module - Front Veranda 55](#sh7---wall-module---front-veranda-55)
+- [SH7 - Wall Module - Front Veranda 56](#sh7---wall-module---front-veranda-56)
+- [SH7 - Wall Module - Front Veranda 57](#sh7---wall-module---front-veranda-57)
+- [SH7 - Wall Module - Front Veranda 58](#sh7---wall-module---front-veranda-58)
+- [SH7 - Wall Module - Front Veranda 59](#sh7---wall-module---front-veranda-59)
+- [SH7 - Wall Module - Front Veranda 60](#sh7---wall-module---front-veranda-60)
+- [SH7 - Wall Module - Front Veranda 61](#sh7---wall-module---front-veranda-61)
+- [SH7 - Wall Module - Front Veranda 62](#sh7---wall-module---front-veranda-62)
+- [SH7 - Wall Module - Front Veranda 63](#sh7---wall-module---front-veranda-63)
+- [SH7 - Wall Module - Interior 30](#sh7---wall-module---interior-30)
+- [SH7 - Wall Module - Interior 31](#sh7---wall-module---interior-31)
+- [SH7 - Wall Module - Interior 32](#sh7---wall-module---interior-32)
+- [SH7 - Wall Module - Interior 33](#sh7---wall-module---interior-33)
+- [SH7 - Wall Module - Interior 34](#sh7---wall-module---interior-34)
+- [SH7 - Wall Module - Interior 35](#sh7---wall-module---interior-35)
+- [SH7 - Wall Module - Interior 36](#sh7---wall-module---interior-36)
+- [SH7 - Wall Module - Interior 37](#sh7---wall-module---interior-37)
+- [SH7 - Wall Module - Interior 38](#sh7---wall-module---interior-38)
+- [SH7 - Wall Module - Interior 39](#sh7---wall-module---interior-39)
+- [SH7 - Wall Module - Interior 40](#sh7---wall-module---interior-40)
+- [SH7 - Wall Module - Interior 41](#sh7---wall-module---interior-41)
+- [SH7 - Wall Module - Interior 42](#sh7---wall-module---interior-42)
+- [SH7 - Wall Module - Interior 43](#sh7---wall-module---interior-43)
+- [SH7 - Wall Module - Interior 44](#sh7---wall-module---interior-44)
+- [SH7 - Wall Module - Interior 45](#sh7---wall-module---interior-45)
+- [SH7 - Wall Module - Interior 46](#sh7---wall-module---interior-46)
+- [SH7 - Wall Module - Interior 47](#sh7---wall-module---interior-47)
+- [SH7 - Wall Module - Interior 48](#sh7---wall-module---interior-48)
+- [SH7 - Wall Module - Interior 49](#sh7---wall-module---interior-49)
+- [SH7 - Wall Module - Interior 50](#sh7---wall-module---interior-50)
+- [SH7 - Wall Module 10](#sh7---wall-module-10)
+- [SH7 - Wall Module 11](#sh7---wall-module-11)
+- [SH7 - Wall Module 12](#sh7---wall-module-12)
+- [SH7 - Wall Module 13](#sh7---wall-module-13)
+- [SH7 - Wall Module 14](#sh7---wall-module-14)
+- [SH7 - Wall Module 15](#sh7---wall-module-15)
+- [SH7 - Wall Module 16](#sh7---wall-module-16)
+- [SH7 - Wall Module 17](#sh7---wall-module-17)
+- [SH7 - Wall Module 18](#sh7---wall-module-18)
+- [SH7 - Wall Module 19](#sh7---wall-module-19)
+- [SH7 - Wall Module 1](#sh7---wall-module-1)
+- [SH7 - Wall Module 20](#sh7---wall-module-20)
+- [SH7 - Wall Module 21](#sh7---wall-module-21)
+- [SH7 - Wall Module 22](#sh7---wall-module-22)
+- [SH7 - Wall Module 23](#sh7---wall-module-23)
+- [SH7 - Wall Module 24](#sh7---wall-module-24)
+- [SH7 - Wall Module 25](#sh7---wall-module-25)
+- [SH7 - Wall Module 26](#sh7---wall-module-26)
+- [SH7 - Wall Module 27](#sh7---wall-module-27)
+- [SH7 - Wall Module 28](#sh7---wall-module-28)
+- [SH7 - Wall Module 29](#sh7---wall-module-29)
+- [SH7 - Wall Module 2](#sh7---wall-module-2)
+- [SH7 - Wall Module 3](#sh7---wall-module-3)
+- [SH7 - Wall Module 4](#sh7---wall-module-4)
+- [SH7 - Wall Module 5](#sh7---wall-module-5)
+- [SH7 - Wall Module 6](#sh7---wall-module-6)
+- [SH7 - Wall Module 7](#sh7---wall-module-7)
+- [SH7 - Wall Module 8](#sh7---wall-module-8)
+- [SH7 - Wall Module 9](#sh7---wall-module-9)
+- [Front Veranda - Roof Module 1](#front-veranda---roof-module-1)
+- [Front Veranda - Roof Module 2](#front-veranda---roof-module-2)
+- [Front Veranda - Roof Module 3](#front-veranda---roof-module-3)
+- [Front Veranda - Roof Module 4](#front-veranda---roof-module-4)
+- [Front Veranda - Roof Module 5](#front-veranda---roof-module-5)
+- [Front Veranda - Roof Module 6](#front-veranda---roof-module-6)
+- [Front Veranda - Roof Module 7](#front-veranda---roof-module-7)
+- [Front Veranda - Roof Module 8](#front-veranda---roof-module-8)
+- [SH7 - Roof - Seed - Assembly  - FR](#sh7---roof---seed---assembly----fr)
+- [SH7 - Roof - Seed - Assembly  - Kitchen](#sh7---roof---seed---assembly----kitchen)
+- [SH7 - Roof - Seed - Assembly - Bath](#sh7---roof---seed---assembly---bath)
+- [SH7 - Roof - Seed - Decking - Bath](#sh7---roof---seed---decking---bath)
+- [SH7 - Roof - Seed - Decking - FR](#sh7---roof---seed---decking---fr)
+- [SH7 - Roof - Seed - Decking - Kitchen](#sh7---roof---seed---decking---kitchen)
+- [SH7 - Roof - Seed - Insulation - Bath](#sh7---roof---seed---insulation---bath)
+- [SH7 - Roof - Seed - Insulation - FR](#sh7---roof---seed---insulation---fr)
+- [SH7 - Roof - Seed - Insulation - Kitchen](#sh7---roof---seed---insulation---kitchen)
+- [SH7 - Roof - Seed - Truss - Tapered - Left Edges](#sh7---roof---seed---truss---tapered---left-edges)
+- [SH7 - Roof - Seed - Truss - Tapered - Middle](#sh7---roof---seed---truss---tapered---middle)
+- [SH7 - Roof - Seed - Truss - Tapered - Right Edges](#sh7---roof---seed---truss---tapered---right-edges)
+- [Front Veranda - Deck Module 1](#front-veranda---deck-module-1)
+- [Front Veranda - Deck Module 2](#front-veranda---deck-module-2)
+- [Front Veranda - Deck Module 3](#front-veranda---deck-module-3)
+- [Front Veranda - Deck Module 4](#front-veranda---deck-module-4)
+- [Front Veranda - Deck Module 5](#front-veranda---deck-module-5)
+- [Front Veranda - Deck Module 6](#front-veranda---deck-module-6)
+- [Front Veranda - Deck Module 7](#front-veranda---deck-module-7)
+- [Front Veranda Deck Module 1](#front-veranda-deck-module-1)
+- [Front Veranda Deck Module 2](#front-veranda-deck-module-2)
+- [Front Veranda Deck Module 3](#front-veranda-deck-module-3)
+- [Front Veranda Deck Module 4](#front-veranda-deck-module-4)
+- [Front Veranda Deck Module 5](#front-veranda-deck-module-5)
+- [Front Veranda Deck Module 6](#front-veranda-deck-module-6)
+- [Front Veranda Deck Module 7](#front-veranda-deck-module-7)
+- [Hangar](#hangar)
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---floor---6x20'></a>
+## SH7 - Floor - 6x20
+> **OSE Seed Home | 12' x 26' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 12' wide × 26' long × ~16" deep
+**Assembly Time**: ~10-15 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Rim Joist (2x8) | 2 | See CAD | From extracted data |
+| Floor Joist (2x8) | 5 | See CAD | From extracted data |
+| Framing 2X8 (2x8) | 3 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+### Bottom Sheathing (3/4" Pressure Treated Plywood)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| PT Plywood | 5 | 4' × 8' | Bottom layer - moisture barrier |
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 5 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~180 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 6 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 26' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 12' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 6 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 2: Install Bottom Sheathing
+
+**Step 5: Install Plywood Sheathing**
+1. Start at one end with full 4'×8' sheet
+2. Apply construction adhesive to joist bottoms (optional but recommended)
+3. Position plywood flush with frame edges
+4. Drive 2" screws every 6" along edges, 12" in field
+5. Stagger joints between rows
+6. Cut final sheet to fit
+
+> ✅ **QC Checkpoint**: All sheathing edges supported by joists. No gaps > 1/8".
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (26')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (26')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$468 |
+| PT Plywood | ~$780 |
+| OSB | ~$390 |
+| Insulation | ~$234 |
+| Hardware | ~$50 |
+| **Total** | **~$1922** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Floor - 6x20.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---floor-module-1'></a>
+## SH7 - Floor Module 1
+> **OSE Seed Home | 12' x 26' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 12' wide × 26' long × ~16" deep
+**Assembly Time**: ~10-15 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Rim Joist (2x8) | 2 | See CAD | From extracted data |
+| Floor Joist (2x8) | 5 | See CAD | From extracted data |
+| Framing 2X8 (2x8) | 3 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+### Bottom Sheathing (3/4" Pressure Treated Plywood)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| PT Plywood | 5 | 4' × 8' | Bottom layer - moisture barrier |
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 5 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~180 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 6 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 26' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 12' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 6 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 2: Install Bottom Sheathing
+
+**Step 5: Install Plywood Sheathing**
+1. Start at one end with full 4'×8' sheet
+2. Apply construction adhesive to joist bottoms (optional but recommended)
+3. Position plywood flush with frame edges
+4. Drive 2" screws every 6" along edges, 12" in field
+5. Stagger joints between rows
+6. Cut final sheet to fit
+
+> ✅ **QC Checkpoint**: All sheathing edges supported by joists. No gaps > 1/8".
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (26')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (26')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$468 |
+| PT Plywood | ~$780 |
+| OSB | ~$390 |
+| Insulation | ~$234 |
+| Hardware | ~$50 |
+| **Total** | **~$1922** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Floor Module 1.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---floor-module-2'></a>
+## SH7 - Floor Module 2
+> **OSE Seed Home | 12' x 26' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 12' wide × 26' long × ~16" deep
+**Assembly Time**: ~10-15 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Rim Joist (2x8) | 2 | See CAD | From extracted data |
+| Floor Joist (2x8) | 5 | See CAD | From extracted data |
+| Framing 2X8 (2x8) | 3 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+### Bottom Sheathing (3/4" Pressure Treated Plywood)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| PT Plywood | 5 | 4' × 8' | Bottom layer - moisture barrier |
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 5 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~180 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 6 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 26' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 12' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 6 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 2: Install Bottom Sheathing
+
+**Step 5: Install Plywood Sheathing**
+1. Start at one end with full 4'×8' sheet
+2. Apply construction adhesive to joist bottoms (optional but recommended)
+3. Position plywood flush with frame edges
+4. Drive 2" screws every 6" along edges, 12" in field
+5. Stagger joints between rows
+6. Cut final sheet to fit
+
+> ✅ **QC Checkpoint**: All sheathing edges supported by joists. No gaps > 1/8".
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (26')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (26')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$468 |
+| PT Plywood | ~$780 |
+| OSB | ~$390 |
+| Insulation | ~$234 |
+| Hardware | ~$50 |
+| **Total** | **~$1922** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Floor Module 2.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---floor-module-3'></a>
+## SH7 - Floor Module 3
+> **OSE Seed Home | 12' x 26' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 12' wide × 26' long × ~16" deep
+**Assembly Time**: ~10-15 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Rim Joist (2x8) | 2 | See CAD | From extracted data |
+| Floor Joist (2x8) | 5 | See CAD | From extracted data |
+| Framing 2X8 (2x8) | 3 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+### Bottom Sheathing (3/4" Pressure Treated Plywood)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| PT Plywood | 5 | 4' × 8' | Bottom layer - moisture barrier |
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 5 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~180 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 6 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 26' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 12' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 6 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 2: Install Bottom Sheathing
+
+**Step 5: Install Plywood Sheathing**
+1. Start at one end with full 4'×8' sheet
+2. Apply construction adhesive to joist bottoms (optional but recommended)
+3. Position plywood flush with frame edges
+4. Drive 2" screws every 6" along edges, 12" in field
+5. Stagger joints between rows
+6. Cut final sheet to fit
+
+> ✅ **QC Checkpoint**: All sheathing edges supported by joists. No gaps > 1/8".
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (26')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (26')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$468 |
+| PT Plywood | ~$780 |
+| OSB | ~$390 |
+| Insulation | ~$234 |
+| Hardware | ~$50 |
+| **Total** | **~$1922** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Floor Module 3.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---floor-module-4'></a>
+## SH7 - Floor Module 4
+> **OSE Seed Home | 12' x 26' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 12' wide × 26' long × ~16" deep
+**Assembly Time**: ~10-15 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Rim Joist (2x8) | 2 | See CAD | From extracted data |
+| Floor Joist (2x8) | 5 | See CAD | From extracted data |
+| Framing 2X8 (2x8) | 3 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+### Bottom Sheathing (3/4" Pressure Treated Plywood)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| PT Plywood | 5 | 4' × 8' | Bottom layer - moisture barrier |
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 5 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~180 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 6 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 26' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 12' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 6 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 2: Install Bottom Sheathing
+
+**Step 5: Install Plywood Sheathing**
+1. Start at one end with full 4'×8' sheet
+2. Apply construction adhesive to joist bottoms (optional but recommended)
+3. Position plywood flush with frame edges
+4. Drive 2" screws every 6" along edges, 12" in field
+5. Stagger joints between rows
+6. Cut final sheet to fit
+
+> ✅ **QC Checkpoint**: All sheathing edges supported by joists. No gaps > 1/8".
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (26')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (26')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$468 |
+| PT Plywood | ~$780 |
+| OSB | ~$390 |
+| Insulation | ~$234 |
+| Hardware | ~$50 |
+| **Total** | **~$1922** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Floor Module 4.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---floor-module-5'></a>
+## SH7 - Floor Module 5
+> **OSE Seed Home | 12' x 26' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 12' wide × 26' long × ~16" deep
+**Assembly Time**: ~10-15 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Rim Joist (2x8) | 2 | See CAD | From extracted data |
+| Floor Joist (2x8) | 5 | See CAD | From extracted data |
+| Framing 2X8 (2x8) | 3 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+### Bottom Sheathing (3/4" Pressure Treated Plywood)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| PT Plywood | 6 | 4' × 8' | Bottom layer - moisture barrier |
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 6 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🧊 Insulation
+
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| R-30 Batt Insulation | 3 | 16" × 93" | Between joists |
+| *Install after frame complete, before top sheathing*
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~216 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 5 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 26' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 12' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 5 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+**Step 4: Install Water Inlet Frame**
+1. Locate water inlet position (near corner per CAD drawing)
+2. Install 2x4 and 2x8 blocking to create opening
+3. Opening should be sized for your specific water inlet pipe
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 2: Install Bottom Sheathing
+
+**Step 5: Install Plywood Sheathing**
+1. Start at one end with full 4'×8' sheet
+2. Apply construction adhesive to joist bottoms (optional but recommended)
+3. Position plywood flush with frame edges
+4. Drive 2" screws every 6" along edges, 12" in field
+5. Stagger joints between rows
+6. Cut final sheet to fit
+
+**Step 6: Cut Water Inlet Hole**
+1. Mark circular cutout position from inside
+2. Drill pilot hole at center
+3. Use jigsaw to cut circle (match pipe diameter + 1/4")
+
+> ✅ **QC Checkpoint**: All sheathing edges supported by joists. No gaps > 1/8".
+
+---
+
+### Phase 3: Install Insulation
+
+**Step 7: Install Batt Insulation**
+1. Frame should now be right-side up
+2. Cut insulation batts to fit between joists
+3. Place batts paper-side UP (toward living space)
+4. Fill all joist bays completely
+5. Avoid compressing insulation - reduces R-value
+
+> ⚠️ **Important**: Do not leave gaps. Insulation should fit snugly but not be compressed.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+**Step 9: Cut Water Inlet Hole**
+1. Transfer hole position from below
+2. Cut matching circular opening in OSB
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Water inlet opening aligned top-to-bottom
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (26')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (26')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$468 |
+| PT Plywood | ~$780 |
+| OSB | ~$390 |
+| Insulation | ~$234 |
+| Hardware | ~$50 |
+| **Total** | **~$1922** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Floor Module 5.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---floor-module-6'></a>
+## SH7 - Floor Module 6
+> **OSE Seed Home | 12' x 26' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 12' wide × 26' long × ~16" deep
+**Assembly Time**: ~10-15 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Rim Joist (2x8) | 2 | See CAD | From extracted data |
+| Floor Joist (2x8) | 5 | See CAD | From extracted data |
+| Framing 2X8 (2x8) | 3 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+### Bottom Sheathing (3/4" Pressure Treated Plywood)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| PT Plywood | 5 | 4' × 8' | Bottom layer - moisture barrier |
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 5 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~180 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 6 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 26' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 12' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 6 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 2: Install Bottom Sheathing
+
+**Step 5: Install Plywood Sheathing**
+1. Start at one end with full 4'×8' sheet
+2. Apply construction adhesive to joist bottoms (optional but recommended)
+3. Position plywood flush with frame edges
+4. Drive 2" screws every 6" along edges, 12" in field
+5. Stagger joints between rows
+6. Cut final sheet to fit
+
+> ✅ **QC Checkpoint**: All sheathing edges supported by joists. No gaps > 1/8".
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (26')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (26')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$468 |
+| PT Plywood | ~$780 |
+| OSB | ~$390 |
+| Insulation | ~$234 |
+| Hardware | ~$50 |
+| **Total** | **~$1922** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Floor Module 6.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7-floor-module-1'></a>
+## SH7 Floor Module 1
+> **OSE Seed Home | 12' x 26' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 12' wide × 26' long × ~16" deep
+**Assembly Time**: ~10-15 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Rim Joist (2x8) | 2 | See CAD | From extracted data |
+| Floor Joist (2x8) | 5 | See CAD | From extracted data |
+| Framing 2X8 (2x8) | 3 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+### Bottom Sheathing (3/4" Pressure Treated Plywood)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| PT Plywood | 5 | 4' × 8' | Bottom layer - moisture barrier |
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 5 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~180 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 6 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 26' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 12' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 6 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 2: Install Bottom Sheathing
+
+**Step 5: Install Plywood Sheathing**
+1. Start at one end with full 4'×8' sheet
+2. Apply construction adhesive to joist bottoms (optional but recommended)
+3. Position plywood flush with frame edges
+4. Drive 2" screws every 6" along edges, 12" in field
+5. Stagger joints between rows
+6. Cut final sheet to fit
+
+> ✅ **QC Checkpoint**: All sheathing edges supported by joists. No gaps > 1/8".
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (26')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (26')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$468 |
+| PT Plywood | ~$780 |
+| OSB | ~$390 |
+| Insulation | ~$234 |
+| Hardware | ~$50 |
+| **Total** | **~$1922** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Floor Module 1.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7-floor-module-2'></a>
+## SH7 Floor Module 2
+> **OSE Seed Home | 12' x 26' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 12' wide × 26' long × ~16" deep
+**Assembly Time**: ~10-15 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Rim Joist (2x8) | 2 | See CAD | From extracted data |
+| Floor Joist (2x8) | 5 | See CAD | From extracted data |
+| Framing 2X8 (2x8) | 3 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+### Bottom Sheathing (3/4" Pressure Treated Plywood)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| PT Plywood | 5 | 4' × 8' | Bottom layer - moisture barrier |
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 5 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~180 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 6 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 26' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 12' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 6 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 2: Install Bottom Sheathing
+
+**Step 5: Install Plywood Sheathing**
+1. Start at one end with full 4'×8' sheet
+2. Apply construction adhesive to joist bottoms (optional but recommended)
+3. Position plywood flush with frame edges
+4. Drive 2" screws every 6" along edges, 12" in field
+5. Stagger joints between rows
+6. Cut final sheet to fit
+
+> ✅ **QC Checkpoint**: All sheathing edges supported by joists. No gaps > 1/8".
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (26')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (26')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$468 |
+| PT Plywood | ~$780 |
+| OSB | ~$390 |
+| Insulation | ~$234 |
+| Hardware | ~$50 |
+| **Total** | **~$1922** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Floor Module 2.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7-floor-module-3'></a>
+## SH7 Floor Module 3
+> **OSE Seed Home | 12' x 26' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 12' wide × 26' long × ~16" deep
+**Assembly Time**: ~10-15 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Rim Joist (2x8) | 2 | See CAD | From extracted data |
+| Floor Joist (2x8) | 5 | See CAD | From extracted data |
+| Framing 2X8 (2x8) | 3 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+### Bottom Sheathing (3/4" Pressure Treated Plywood)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| PT Plywood | 5 | 4' × 8' | Bottom layer - moisture barrier |
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 5 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~180 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 6 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 26' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 12' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 6 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 2: Install Bottom Sheathing
+
+**Step 5: Install Plywood Sheathing**
+1. Start at one end with full 4'×8' sheet
+2. Apply construction adhesive to joist bottoms (optional but recommended)
+3. Position plywood flush with frame edges
+4. Drive 2" screws every 6" along edges, 12" in field
+5. Stagger joints between rows
+6. Cut final sheet to fit
+
+> ✅ **QC Checkpoint**: All sheathing edges supported by joists. No gaps > 1/8".
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (26')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (26')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$468 |
+| PT Plywood | ~$780 |
+| OSB | ~$390 |
+| Insulation | ~$234 |
+| Hardware | ~$50 |
+| **Total** | **~$1922** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Floor Module 3.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7-floor-module-4'></a>
+## SH7 Floor Module 4
+> **OSE Seed Home | 12' x 26' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 12' wide × 26' long × ~16" deep
+**Assembly Time**: ~10-15 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Rim Joist (2x8) | 2 | See CAD | From extracted data |
+| Floor Joist (2x8) | 5 | See CAD | From extracted data |
+| Framing 2X8 (2x8) | 3 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+### Bottom Sheathing (3/4" Pressure Treated Plywood)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| PT Plywood | 5 | 4' × 8' | Bottom layer - moisture barrier |
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 5 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~180 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 6 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 26' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 12' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 6 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 2: Install Bottom Sheathing
+
+**Step 5: Install Plywood Sheathing**
+1. Start at one end with full 4'×8' sheet
+2. Apply construction adhesive to joist bottoms (optional but recommended)
+3. Position plywood flush with frame edges
+4. Drive 2" screws every 6" along edges, 12" in field
+5. Stagger joints between rows
+6. Cut final sheet to fit
+
+> ✅ **QC Checkpoint**: All sheathing edges supported by joists. No gaps > 1/8".
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (26')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (26')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$468 |
+| PT Plywood | ~$780 |
+| OSB | ~$390 |
+| Insulation | ~$234 |
+| Hardware | ~$50 |
+| **Total** | **~$1922** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Floor Module 4.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7-floor-module-5'></a>
+## SH7 Floor Module 5
+> **OSE Seed Home | 12' x 26' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 12' wide × 26' long × ~16" deep
+**Assembly Time**: ~10-15 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Rim Joist (2x8) | 2 | See CAD | From extracted data |
+| Floor Joist (2x8) | 5 | See CAD | From extracted data |
+| Framing 2X8 (2x8) | 3 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+### Bottom Sheathing (3/4" Pressure Treated Plywood)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| PT Plywood | 6 | 4' × 8' | Bottom layer - moisture barrier |
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 6 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🧊 Insulation
+
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| R-30 Batt Insulation | 3 | 16" × 93" | Between joists |
+| *Install after frame complete, before top sheathing*
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~216 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 5 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 26' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 12' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 5 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+**Step 4: Install Water Inlet Frame**
+1. Locate water inlet position (near corner per CAD drawing)
+2. Install 2x4 and 2x8 blocking to create opening
+3. Opening should be sized for your specific water inlet pipe
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 2: Install Bottom Sheathing
+
+**Step 5: Install Plywood Sheathing**
+1. Start at one end with full 4'×8' sheet
+2. Apply construction adhesive to joist bottoms (optional but recommended)
+3. Position plywood flush with frame edges
+4. Drive 2" screws every 6" along edges, 12" in field
+5. Stagger joints between rows
+6. Cut final sheet to fit
+
+**Step 6: Cut Water Inlet Hole**
+1. Mark circular cutout position from inside
+2. Drill pilot hole at center
+3. Use jigsaw to cut circle (match pipe diameter + 1/4")
+
+> ✅ **QC Checkpoint**: All sheathing edges supported by joists. No gaps > 1/8".
+
+---
+
+### Phase 3: Install Insulation
+
+**Step 7: Install Batt Insulation**
+1. Frame should now be right-side up
+2. Cut insulation batts to fit between joists
+3. Place batts paper-side UP (toward living space)
+4. Fill all joist bays completely
+5. Avoid compressing insulation - reduces R-value
+
+> ⚠️ **Important**: Do not leave gaps. Insulation should fit snugly but not be compressed.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+**Step 9: Cut Water Inlet Hole**
+1. Transfer hole position from below
+2. Cut matching circular opening in OSB
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Water inlet opening aligned top-to-bottom
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (26')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (26')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$468 |
+| PT Plywood | ~$780 |
+| OSB | ~$390 |
+| Insulation | ~$234 |
+| Hardware | ~$50 |
+| **Total** | **~$1922** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Floor Module 5.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7-floor-module-6'></a>
+## SH7 Floor Module 6
+> **OSE Seed Home | 12' x 26' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 12' wide × 26' long × ~16" deep
+**Assembly Time**: ~10-15 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Rim Joist (2x8) | 2 | See CAD | From extracted data |
+| Floor Joist (2x8) | 5 | See CAD | From extracted data |
+| Framing 2X8 (2x8) | 3 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+### Bottom Sheathing (3/4" Pressure Treated Plywood)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| PT Plywood | 5 | 4' × 8' | Bottom layer - moisture barrier |
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 5 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~180 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 6 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 26' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 12' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 6 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 2: Install Bottom Sheathing
+
+**Step 5: Install Plywood Sheathing**
+1. Start at one end with full 4'×8' sheet
+2. Apply construction adhesive to joist bottoms (optional but recommended)
+3. Position plywood flush with frame edges
+4. Drive 2" screws every 6" along edges, 12" in field
+5. Stagger joints between rows
+6. Cut final sheet to fit
+
+> ✅ **QC Checkpoint**: All sheathing edges supported by joists. No gaps > 1/8".
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (26')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (26')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$468 |
+| PT Plywood | ~$780 |
+| OSB | ~$390 |
+| Insulation | ~$234 |
+| Hardware | ~$50 |
+| **Total** | **~$1922** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Floor Module 6.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='front-veranda---wall-module---door'></a>
+## Front Veranda - Wall Module - Door
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~127" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 6 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 3 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: Front Veranda - Wall Module - Door.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='front-veranda---wall-module---window'></a>
+## Front Veranda - Wall Module - Window
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~127" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 20 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 4 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: Front Veranda - Wall Module - Window.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---ext-wall---10-ft---door-34'></a>
+## SH7 - Ext Wall - 10 ft - Door 34
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~114" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Ext Wall - 10 ft - Door 34.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---ext-wall---10-ft---door-36'></a>
+## SH7 - Ext Wall - 10 ft - Door 36
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~125" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 3 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Ext Wall - 10 ft - Door 36.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---ext-wall---10-ft---window-30'></a>
+## SH7 - Ext Wall - 10 ft - Window 30
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~125" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 5 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Ext Wall - 10 ft - Window 30.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---ext-wall---10-ft'></a>
+## SH7 - Ext Wall - 10 ft
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~125" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 4 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Ext Wall - 10 ft.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module---front-veranda-51'></a>
+## SH7 - Wall Module - Front Veranda 51
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 8 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 1 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module - Front Veranda 51.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module---front-veranda-52'></a>
+## SH7 - Wall Module - Front Veranda 52
+> **OSE Seed Home | 8' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 8' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 4 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 1 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 8' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$96 |
+| PT Plywood | ~$160 |
+| OSB | ~$80 |
+| Insulation | ~$48 |
+| Hardware | ~$50 |
+| **Total** | **~$434** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module - Front Veranda 52.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module---front-veranda-53'></a>
+## SH7 - Wall Module - Front Veranda 53
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 20 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 4 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module - Front Veranda 53.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module---front-veranda-54'></a>
+## SH7 - Wall Module - Front Veranda 54
+> **OSE Seed Home | 9' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 9' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 5 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 1 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 9' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$108 |
+| PT Plywood | ~$180 |
+| OSB | ~$90 |
+| Insulation | ~$54 |
+| Hardware | ~$50 |
+| **Total** | **~$482** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module - Front Veranda 54.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module---front-veranda-55'></a>
+## SH7 - Wall Module - Front Veranda 55
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 6 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 3 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module - Front Veranda 55.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module---front-veranda-56'></a>
+## SH7 - Wall Module - Front Veranda 56
+> **OSE Seed Home | 9' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 9' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 5 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 1 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 9' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$108 |
+| PT Plywood | ~$180 |
+| OSB | ~$90 |
+| Insulation | ~$54 |
+| Hardware | ~$50 |
+| **Total** | **~$482** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module - Front Veranda 56.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module---front-veranda-57'></a>
+## SH7 - Wall Module - Front Veranda 57
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 20 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 4 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module - Front Veranda 57.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module---front-veranda-58'></a>
+## SH7 - Wall Module - Front Veranda 58
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 5 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 1 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module - Front Veranda 58.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module---front-veranda-59'></a>
+## SH7 - Wall Module - Front Veranda 59
+> **OSE Seed Home | 8' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 8' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 4 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 1 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 8' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$96 |
+| PT Plywood | ~$160 |
+| OSB | ~$80 |
+| Insulation | ~$48 |
+| Hardware | ~$50 |
+| **Total** | **~$434** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module - Front Veranda 59.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module---front-veranda-60'></a>
+## SH7 - Wall Module - Front Veranda 60
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~115" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 5 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 1 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module - Front Veranda 60.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module---front-veranda-61'></a>
+## SH7 - Wall Module - Front Veranda 61
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~115" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 5 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 1 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module - Front Veranda 61.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module---front-veranda-62'></a>
+## SH7 - Wall Module - Front Veranda 62
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~115" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 5 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 1 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module - Front Veranda 62.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module---front-veranda-63'></a>
+## SH7 - Wall Module - Front Veranda 63
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~115" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 5 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 1 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module - Front Veranda 63.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module---interior-30'></a>
+## SH7 - Wall Module - Interior 30
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 12 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module - Interior 30.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module---interior-31'></a>
+## SH7 - Wall Module - Interior 31
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 5 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module - Interior 31.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module---interior-32'></a>
+## SH7 - Wall Module - Interior 32
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 5 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module - Interior 32.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module---interior-33'></a>
+## SH7 - Wall Module - Interior 33
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 5 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module - Interior 33.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module---interior-34'></a>
+## SH7 - Wall Module - Interior 34
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 14 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module - Interior 34.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module---interior-35'></a>
+## SH7 - Wall Module - Interior 35
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 12 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module - Interior 35.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module---interior-36'></a>
+## SH7 - Wall Module - Interior 36
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 5 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module - Interior 36.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module---interior-37'></a>
+## SH7 - Wall Module - Interior 37
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 9 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module - Interior 37.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module---interior-38'></a>
+## SH7 - Wall Module - Interior 38
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 5 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module - Interior 38.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module---interior-39'></a>
+## SH7 - Wall Module - Interior 39
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 14 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module - Interior 39.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module---interior-40'></a>
+## SH7 - Wall Module - Interior 40
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 5 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module - Interior 40.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module---interior-41'></a>
+## SH7 - Wall Module - Interior 41
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 5 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module - Interior 41.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module---interior-42'></a>
+## SH7 - Wall Module - Interior 42
+> **OSE Seed Home | 9' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 9' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 5 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 9' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$108 |
+| PT Plywood | ~$180 |
+| OSB | ~$90 |
+| Insulation | ~$54 |
+| Hardware | ~$50 |
+| **Total** | **~$482** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module - Interior 42.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module---interior-43'></a>
+## SH7 - Wall Module - Interior 43
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 5 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module - Interior 43.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module---interior-44'></a>
+## SH7 - Wall Module - Interior 44
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 5 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module - Interior 44.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module---interior-45'></a>
+## SH7 - Wall Module - Interior 45
+> **OSE Seed Home | 9' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 9' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 5 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 9' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$108 |
+| PT Plywood | ~$180 |
+| OSB | ~$90 |
+| Insulation | ~$54 |
+| Hardware | ~$50 |
+| **Total** | **~$482** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module - Interior 45.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module---interior-46'></a>
+## SH7 - Wall Module - Interior 46
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 5 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module - Interior 46.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module---interior-47'></a>
+## SH7 - Wall Module - Interior 47
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 13 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module - Interior 47.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module---interior-48'></a>
+## SH7 - Wall Module - Interior 48
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 12 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module - Interior 48.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module---interior-49'></a>
+## SH7 - Wall Module - Interior 49
+> **OSE Seed Home | 11' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 11' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 7 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 11' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$132 |
+| PT Plywood | ~$220 |
+| OSB | ~$110 |
+| Insulation | ~$66 |
+| Hardware | ~$50 |
+| **Total** | **~$578** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module - Interior 49.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module---interior-50'></a>
+## SH7 - Wall Module - Interior 50
+> **OSE Seed Home | 14' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 14' wide × 8' long × ~45" deep
+**Assembly Time**: ~3-5 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 7 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 14' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$168 |
+| PT Plywood | ~$280 |
+| OSB | ~$140 |
+| Insulation | ~$84 |
+| Hardware | ~$50 |
+| **Total** | **~$722** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module - Interior 50.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module-10'></a>
+## SH7 - Wall Module 10
+> **OSE Seed Home | 9' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 9' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 1 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 9' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$108 |
+| PT Plywood | ~$180 |
+| OSB | ~$90 |
+| Insulation | ~$54 |
+| Hardware | ~$50 |
+| **Total** | **~$482** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module 10.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module-11'></a>
+## SH7 - Wall Module 11
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 4 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module 11.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module-12'></a>
+## SH7 - Wall Module 12
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 3 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module 12.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module-13'></a>
+## SH7 - Wall Module 13
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 4 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 1 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module 13.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module-14'></a>
+## SH7 - Wall Module 14
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 1 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module 14.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module-15'></a>
+## SH7 - Wall Module 15
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 1 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module 15.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module-16'></a>
+## SH7 - Wall Module 16
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 1 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module 16.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module-17'></a>
+## SH7 - Wall Module 17
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 4 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 1 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module 17.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module-18'></a>
+## SH7 - Wall Module 18
+> **OSE Seed Home | 14' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 14' wide × 8' long × ~126" deep
+**Assembly Time**: ~3-5 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 3 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 14' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$168 |
+| PT Plywood | ~$280 |
+| OSB | ~$140 |
+| Insulation | ~$84 |
+| Hardware | ~$50 |
+| **Total** | **~$722** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module 18.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module-19'></a>
+## SH7 - Wall Module 19
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 1 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module 19.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module-1'></a>
+## SH7 - Wall Module 1
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 1 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module 1.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module-20'></a>
+## SH7 - Wall Module 20
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 4 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 1 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module 20.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module-21'></a>
+## SH7 - Wall Module 21
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 1 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module 21.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module-22'></a>
+## SH7 - Wall Module 22
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 5 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module 22.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module-23'></a>
+## SH7 - Wall Module 23
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 1 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module 23.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module-24'></a>
+## SH7 - Wall Module 24
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 3 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module 24.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module-25'></a>
+## SH7 - Wall Module 25
+> **OSE Seed Home | 7' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 7' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 1 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 7' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$84 |
+| PT Plywood | ~$140 |
+| OSB | ~$70 |
+| Insulation | ~$42 |
+| Hardware | ~$50 |
+| **Total** | **~$386** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module 25.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module-26'></a>
+## SH7 - Wall Module 26
+> **OSE Seed Home | 8' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 8' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 1 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 8' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$96 |
+| PT Plywood | ~$160 |
+| OSB | ~$80 |
+| Insulation | ~$48 |
+| Hardware | ~$50 |
+| **Total** | **~$434** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module 26.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module-27'></a>
+## SH7 - Wall Module 27
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 5 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module 27.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module-28'></a>
+## SH7 - Wall Module 28
+> **OSE Seed Home | 9' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 9' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 1 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 9' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$108 |
+| PT Plywood | ~$180 |
+| OSB | ~$90 |
+| Insulation | ~$54 |
+| Hardware | ~$50 |
+| **Total** | **~$482** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module 28.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module-29'></a>
+## SH7 - Wall Module 29
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 1 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module 29.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module-2'></a>
+## SH7 - Wall Module 2
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 1 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module 2.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module-3'></a>
+## SH7 - Wall Module 3
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 1 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module 3.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module-4'></a>
+## SH7 - Wall Module 4
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 1 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module 4.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module-5'></a>
+## SH7 - Wall Module 5
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 1 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module 5.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module-6'></a>
+## SH7 - Wall Module 6
+> **OSE Seed Home | 10' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 1 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$120 |
+| PT Plywood | ~$200 |
+| OSB | ~$100 |
+| Insulation | ~$60 |
+| Hardware | ~$50 |
+| **Total** | **~$530** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module 6.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module-7'></a>
+## SH7 - Wall Module 7
+> **OSE Seed Home | 9' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 9' wide × 8' long × ~126" deep
+**Assembly Time**: ~2-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 1 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 9' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$108 |
+| PT Plywood | ~$180 |
+| OSB | ~$90 |
+| Insulation | ~$54 |
+| Hardware | ~$50 |
+| **Total** | **~$482** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module 7.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module-8'></a>
+## SH7 - Wall Module 8
+> **OSE Seed Home | 12' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 12' wide × 8' long × ~126" deep
+**Assembly Time**: ~3-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 3 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 12' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$144 |
+| PT Plywood | ~$240 |
+| OSB | ~$120 |
+| Insulation | ~$72 |
+| Hardware | ~$50 |
+| **Total** | **~$626** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module 8.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---wall-module-9'></a>
+## SH7 - Wall Module 9
+> **OSE Seed Home | 12' x 8' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 12' wide × 8' long × ~126" deep
+**Assembly Time**: ~3-4 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 3 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 8' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 12' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (8')                                                    │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (8')                                                    │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$144 |
+| PT Plywood | ~$240 |
+| OSB | ~$120 |
+| Insulation | ~$72 |
+| Hardware | ~$50 |
+| **Total** | **~$626** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Wall Module 9.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='front-veranda---roof-module-1'></a>
+## Front Veranda - Roof Module 1
+> **OSE Seed Home | 10' x 14' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 14' long × ~25" deep
+**Assembly Time**: ~4-7 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 3 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 14' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (14')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (14')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$210 |
+| PT Plywood | ~$350 |
+| OSB | ~$175 |
+| Insulation | ~$105 |
+| Hardware | ~$50 |
+| **Total** | **~$890** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: Front Veranda - Roof Module 1.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='front-veranda---roof-module-2'></a>
+## Front Veranda - Roof Module 2
+> **OSE Seed Home | 10' x 14' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 14' long × ~25" deep
+**Assembly Time**: ~4-7 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 3 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 14' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (14')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (14')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$210 |
+| PT Plywood | ~$350 |
+| OSB | ~$175 |
+| Insulation | ~$105 |
+| Hardware | ~$50 |
+| **Total** | **~$890** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: Front Veranda - Roof Module 2.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='front-veranda---roof-module-3'></a>
+## Front Veranda - Roof Module 3
+> **OSE Seed Home | 10' x 14' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 14' long × ~25" deep
+**Assembly Time**: ~4-7 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 3 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 14' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (14')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (14')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$210 |
+| PT Plywood | ~$350 |
+| OSB | ~$175 |
+| Insulation | ~$105 |
+| Hardware | ~$50 |
+| **Total** | **~$890** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: Front Veranda - Roof Module 3.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='front-veranda---roof-module-4'></a>
+## Front Veranda - Roof Module 4
+> **OSE Seed Home | 10' x 14' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 14' long × ~25" deep
+**Assembly Time**: ~4-7 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 3 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 14' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (14')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (14')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$210 |
+| PT Plywood | ~$350 |
+| OSB | ~$175 |
+| Insulation | ~$105 |
+| Hardware | ~$50 |
+| **Total** | **~$890** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: Front Veranda - Roof Module 4.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='front-veranda---roof-module-5'></a>
+## Front Veranda - Roof Module 5
+> **OSE Seed Home | 10' x 14' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 14' long × ~25" deep
+**Assembly Time**: ~4-7 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 3 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 14' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (14')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (14')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$210 |
+| PT Plywood | ~$350 |
+| OSB | ~$175 |
+| Insulation | ~$105 |
+| Hardware | ~$50 |
+| **Total** | **~$890** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: Front Veranda - Roof Module 5.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='front-veranda---roof-module-6'></a>
+## Front Veranda - Roof Module 6
+> **OSE Seed Home | 10' x 14' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 14' long × ~25" deep
+**Assembly Time**: ~4-7 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 3 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 14' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (14')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (14')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$210 |
+| PT Plywood | ~$350 |
+| OSB | ~$175 |
+| Insulation | ~$105 |
+| Hardware | ~$50 |
+| **Total** | **~$890** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: Front Veranda - Roof Module 6.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='front-veranda---roof-module-7'></a>
+## Front Veranda - Roof Module 7
+> **OSE Seed Home | 10' x 14' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 10' wide × 14' long × ~25" deep
+**Assembly Time**: ~4-7 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 3 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 14' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 10' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (14')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (14')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$210 |
+| PT Plywood | ~$350 |
+| OSB | ~$175 |
+| Insulation | ~$105 |
+| Hardware | ~$50 |
+| **Total** | **~$890** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: Front Veranda - Roof Module 7.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='front-veranda---roof-module-8'></a>
+## Front Veranda - Roof Module 8
+> **OSE Seed Home | 8' x 14' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 8' wide × 14' long × ~25" deep
+**Assembly Time**: ~3-5 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 3 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 14' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 8' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (14')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (14')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$168 |
+| PT Plywood | ~$280 |
+| OSB | ~$140 |
+| Insulation | ~$84 |
+| Hardware | ~$50 |
+| **Total** | **~$722** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: Front Veranda - Roof Module 8.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---roof---seed---assembly----fr'></a>
+## SH7 - Roof - Seed - Assembly  - FR
+> **OSE Seed Home | 19' x 27' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 19' wide × 27' long × ~30" deep
+**Assembly Time**: ~17-25 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 11 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 9 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~162 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 27' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 19' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 3: Install Insulation
+
+**Step 7: Install Batt Insulation**
+1. Frame should now be right-side up
+2. Cut insulation batts to fit between joists
+3. Place batts paper-side UP (toward living space)
+4. Fill all joist bays completely
+5. Avoid compressing insulation - reduces R-value
+
+> ⚠️ **Important**: Do not leave gaps. Insulation should fit snugly but not be compressed.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (27')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (27')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$769 |
+| PT Plywood | ~$1282 |
+| OSB | ~$641 |
+| Insulation | ~$384 |
+| Hardware | ~$50 |
+| **Total** | **~$3126** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Roof - Seed - Assembly  - FR.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---roof---seed---assembly----kitchen'></a>
+## SH7 - Roof - Seed - Assembly  - Kitchen
+> **OSE Seed Home | 18' x 27' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 18' wide × 27' long × ~30" deep
+**Assembly Time**: ~16-24 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 11 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+### Bottom Sheathing (3/4" Pressure Treated Plywood)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| PT Plywood | 2 | 4' × 8' | Bottom layer - moisture barrier |
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 4 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~108 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 27' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 18' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 2: Install Bottom Sheathing
+
+**Step 5: Install Plywood Sheathing**
+1. Start at one end with full 4'×8' sheet
+2. Apply construction adhesive to joist bottoms (optional but recommended)
+3. Position plywood flush with frame edges
+4. Drive 2" screws every 6" along edges, 12" in field
+5. Stagger joints between rows
+6. Cut final sheet to fit
+
+> ✅ **QC Checkpoint**: All sheathing edges supported by joists. No gaps > 1/8".
+
+---
+
+### Phase 3: Install Insulation
+
+**Step 7: Install Batt Insulation**
+1. Frame should now be right-side up
+2. Cut insulation batts to fit between joists
+3. Place batts paper-side UP (toward living space)
+4. Fill all joist bays completely
+5. Avoid compressing insulation - reduces R-value
+
+> ⚠️ **Important**: Do not leave gaps. Insulation should fit snugly but not be compressed.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (27')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (27')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$729 |
+| PT Plywood | ~$1215 |
+| OSB | ~$607 |
+| Insulation | ~$364 |
+| Hardware | ~$50 |
+| **Total** | **~$2965** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Roof - Seed - Assembly  - Kitchen.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---roof---seed---assembly---bath'></a>
+## SH7 - Roof - Seed - Assembly - Bath
+> **OSE Seed Home | 19' x 27' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 19' wide × 27' long × ~30" deep
+**Assembly Time**: ~17-25 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 11 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 9 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~162 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 27' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 19' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 3: Install Insulation
+
+**Step 7: Install Batt Insulation**
+1. Frame should now be right-side up
+2. Cut insulation batts to fit between joists
+3. Place batts paper-side UP (toward living space)
+4. Fill all joist bays completely
+5. Avoid compressing insulation - reduces R-value
+
+> ⚠️ **Important**: Do not leave gaps. Insulation should fit snugly but not be compressed.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (27')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (27')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$769 |
+| PT Plywood | ~$1282 |
+| OSB | ~$641 |
+| Insulation | ~$384 |
+| Hardware | ~$50 |
+| **Total** | **~$3126** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Roof - Seed - Assembly - Bath.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---roof---seed---decking---bath'></a>
+## SH7 - Roof - Seed - Decking - Bath
+> **OSE Seed Home | 15' x 23' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 15' wide × 23' long × ~8" deep
+**Assembly Time**: ~11-17 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 10 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~180 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 23' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 15' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (23')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (23')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$517 |
+| PT Plywood | ~$862 |
+| OSB | ~$431 |
+| Insulation | ~$258 |
+| Hardware | ~$50 |
+| **Total** | **~$2118** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Roof - Seed - Decking - Bath.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---roof---seed---decking---fr'></a>
+## SH7 - Roof - Seed - Decking - FR
+> **OSE Seed Home | 15' x 23' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 15' wide × 23' long × ~8" deep
+**Assembly Time**: ~11-17 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 10 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~180 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 23' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 15' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (23')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (23')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$517 |
+| PT Plywood | ~$862 |
+| OSB | ~$431 |
+| Insulation | ~$258 |
+| Hardware | ~$50 |
+| **Total** | **~$2118** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Roof - Seed - Decking - FR.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---roof---seed---decking---kitchen'></a>
+## SH7 - Roof - Seed - Decking - Kitchen
+> **OSE Seed Home | 15' x 23' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 15' wide × 23' long × ~8" deep
+**Assembly Time**: ~11-17 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 10 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~180 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 23' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 15' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (23')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (23')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$517 |
+| PT Plywood | ~$862 |
+| OSB | ~$431 |
+| Insulation | ~$258 |
+| Hardware | ~$50 |
+| **Total** | **~$2118** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Roof - Seed - Decking - Kitchen.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---roof---seed---insulation---bath'></a>
+## SH7 - Roof - Seed - Insulation - Bath
+> **OSE Seed Home | 17' x 25' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 17' wide × 25' long × ~10" deep
+**Assembly Time**: ~14-21 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🧊 Insulation
+
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| R-30 Batt Insulation | 22 | 16" × 93" | Between joists |
+| *Install after frame complete, before top sheathing*
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 25' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 17' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 3: Install Insulation
+
+**Step 7: Install Batt Insulation**
+1. Frame should now be right-side up
+2. Cut insulation batts to fit between joists
+3. Place batts paper-side UP (toward living space)
+4. Fill all joist bays completely
+5. Avoid compressing insulation - reduces R-value
+
+> ⚠️ **Important**: Do not leave gaps. Insulation should fit snugly but not be compressed.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (25')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (25')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$637 |
+| PT Plywood | ~$1062 |
+| OSB | ~$531 |
+| Insulation | ~$318 |
+| Hardware | ~$50 |
+| **Total** | **~$2598** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Roof - Seed - Insulation - Bath.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---roof---seed---insulation---fr'></a>
+## SH7 - Roof - Seed - Insulation - FR
+> **OSE Seed Home | 17' x 25' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 17' wide × 25' long × ~10" deep
+**Assembly Time**: ~14-21 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🧊 Insulation
+
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| R-30 Batt Insulation | 22 | 16" × 93" | Between joists |
+| *Install after frame complete, before top sheathing*
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 25' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 17' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 3: Install Insulation
+
+**Step 7: Install Batt Insulation**
+1. Frame should now be right-side up
+2. Cut insulation batts to fit between joists
+3. Place batts paper-side UP (toward living space)
+4. Fill all joist bays completely
+5. Avoid compressing insulation - reduces R-value
+
+> ⚠️ **Important**: Do not leave gaps. Insulation should fit snugly but not be compressed.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (25')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (25')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$637 |
+| PT Plywood | ~$1062 |
+| OSB | ~$531 |
+| Insulation | ~$318 |
+| Hardware | ~$50 |
+| **Total** | **~$2598** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Roof - Seed - Insulation - FR.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---roof---seed---insulation---kitchen'></a>
+## SH7 - Roof - Seed - Insulation - Kitchen
+> **OSE Seed Home | 17' x 25' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 17' wide × 25' long × ~10" deep
+**Assembly Time**: ~14-21 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🧊 Insulation
+
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| R-30 Batt Insulation | 22 | 16" × 93" | Between joists |
+| *Install after frame complete, before top sheathing*
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 25' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 17' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 3: Install Insulation
+
+**Step 7: Install Batt Insulation**
+1. Frame should now be right-side up
+2. Cut insulation batts to fit between joists
+3. Place batts paper-side UP (toward living space)
+4. Fill all joist bays completely
+5. Avoid compressing insulation - reduces R-value
+
+> ⚠️ **Important**: Do not leave gaps. Insulation should fit snugly but not be compressed.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (25')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (25')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$637 |
+| PT Plywood | ~$1062 |
+| OSB | ~$531 |
+| Insulation | ~$318 |
+| Hardware | ~$50 |
+| **Total** | **~$2598** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Roof - Seed - Insulation - Kitchen.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---roof---seed---truss---tapered---left-edges'></a>
+## SH7 - Roof - Seed - Truss - Tapered - Left Edges
+> **OSE Seed Home | 7' x 26' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 7' wide × 26' long × ~22" deep
+**Assembly Time**: ~6-9 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 8 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 26' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 7' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (26')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (26')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$273 |
+| PT Plywood | ~$455 |
+| OSB | ~$227 |
+| Insulation | ~$136 |
+| Hardware | ~$50 |
+| **Total** | **~$1141** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Roof - Seed - Truss - Tapered - Left Edges.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---roof---seed---truss---tapered---middle'></a>
+## SH7 - Roof - Seed - Truss - Tapered - Middle
+> **OSE Seed Home | 7' x 26' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 7' wide × 26' long × ~22" deep
+**Assembly Time**: ~6-9 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 7 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+### Top Sheathing (3/4" OSB)
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| OSB | 2 | 4' × 8' | Top subfloor surface |
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 26' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 7' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 4: Install Top Sheathing (Subfloor)
+
+**Step 8: Install OSB Sheathing**
+1. Apply construction adhesive to joist tops
+2. Start at one end, flush with frame edges
+3. Drive 1-5/8" subfloor screws every 6" along edges, 8" in field
+4. Stagger joints (offset from plywood layer below)
+5. Leave 1/8" gap between sheets for expansion
+
+> ✅ **QC Checkpoint**: Walk entire surface. No squeaks or soft spots.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (26')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (26')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$273 |
+| PT Plywood | ~$455 |
+| OSB | ~$227 |
+| Insulation | ~$136 |
+| Hardware | ~$50 |
+| **Total** | **~$1141** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Roof - Seed - Truss - Tapered - Middle.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='sh7---roof---seed---truss---tapered---right-edges'></a>
+## SH7 - Roof - Seed - Truss - Tapered - Right Edges
+> **OSE Seed Home | 7' x 26' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 7' wide × 26' long × ~22" deep
+**Assembly Time**: ~6-9 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Framing 2X4 (2x4) | 16 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 26' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 7' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (26')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (26')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$273 |
+| PT Plywood | ~$455 |
+| OSB | ~$227 |
+| Insulation | ~$136 |
+| Hardware | ~$50 |
+| **Total** | **~$1141** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: SH7 - Roof - Seed - Truss - Tapered - Right Edges.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='front-veranda---deck-module-1'></a>
+## Front Veranda - Deck Module 1
+> **OSE Seed Home | 11' x 14' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 11' wide × 14' long × ~15" deep
+**Assembly Time**: ~5-7 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Rim Joist (2x8) | 7 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 14' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 11' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (14')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (14')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$231 |
+| PT Plywood | ~$385 |
+| OSB | ~$192 |
+| Insulation | ~$115 |
+| Hardware | ~$50 |
+| **Total** | **~$973** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: Front Veranda - Deck Module 1.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='front-veranda---deck-module-2'></a>
+## Front Veranda - Deck Module 2
+> **OSE Seed Home | 11' x 14' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 11' wide × 14' long × ~15" deep
+**Assembly Time**: ~5-7 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Rim Joist (2x8) | 7 | See CAD | From extracted data |
+| Framing 2X8 (2x8) | 3 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 14' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 11' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (14')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (14')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$231 |
+| PT Plywood | ~$385 |
+| OSB | ~$192 |
+| Insulation | ~$115 |
+| Hardware | ~$50 |
+| **Total** | **~$973** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: Front Veranda - Deck Module 2.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='front-veranda---deck-module-3'></a>
+## Front Veranda - Deck Module 3
+> **OSE Seed Home | 11' x 14' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 11' wide × 14' long × ~15" deep
+**Assembly Time**: ~5-7 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Rim Joist (2x8) | 7 | See CAD | From extracted data |
+| Framing 2X8 (2x8) | 3 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 14' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 11' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (14')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (14')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$231 |
+| PT Plywood | ~$385 |
+| OSB | ~$192 |
+| Insulation | ~$115 |
+| Hardware | ~$50 |
+| **Total** | **~$973** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: Front Veranda - Deck Module 3.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='front-veranda---deck-module-4'></a>
+## Front Veranda - Deck Module 4
+> **OSE Seed Home | 11' x 14' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 11' wide × 14' long × ~15" deep
+**Assembly Time**: ~5-7 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Rim Joist (2x8) | 7 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 14' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 11' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (14')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (14')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$231 |
+| PT Plywood | ~$385 |
+| OSB | ~$192 |
+| Insulation | ~$115 |
+| Hardware | ~$50 |
+| **Total** | **~$973** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: Front Veranda - Deck Module 4.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='front-veranda---deck-module-5'></a>
+## Front Veranda - Deck Module 5
+> **OSE Seed Home | 11' x 14' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 11' wide × 14' long × ~15" deep
+**Assembly Time**: ~5-7 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Rim Joist (2x8) | 7 | See CAD | From extracted data |
+| Framing 2X8 (2x8) | 3 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 14' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 11' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (14')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (14')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$231 |
+| PT Plywood | ~$385 |
+| OSB | ~$192 |
+| Insulation | ~$115 |
+| Hardware | ~$50 |
+| **Total** | **~$973** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: Front Veranda - Deck Module 5.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='front-veranda---deck-module-6'></a>
+## Front Veranda - Deck Module 6
+> **OSE Seed Home | 11' x 14' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 11' wide × 14' long × ~15" deep
+**Assembly Time**: ~5-7 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Rim Joist (2x8) | 7 | See CAD | From extracted data |
+| Framing 2X8 (2x8) | 3 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 14' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 11' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (14')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (14')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$231 |
+| PT Plywood | ~$385 |
+| OSB | ~$192 |
+| Insulation | ~$115 |
+| Hardware | ~$50 |
+| **Total** | **~$973** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: Front Veranda - Deck Module 6.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='front-veranda---deck-module-7'></a>
+## Front Veranda - Deck Module 7
+> **OSE Seed Home | 11' x 14' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 11' wide × 14' long × ~15" deep
+**Assembly Time**: ~5-7 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Rim Joist (2x8) | 7 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 14' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 11' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (14')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (14')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$231 |
+| PT Plywood | ~$385 |
+| OSB | ~$192 |
+| Insulation | ~$115 |
+| Hardware | ~$50 |
+| **Total** | **~$973** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: Front Veranda - Deck Module 7.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='front-veranda-deck-module-1'></a>
+## Front Veranda Deck Module 1
+> **OSE Seed Home | 11' x 14' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 11' wide × 14' long × ~15" deep
+**Assembly Time**: ~5-7 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Rim Joist (2x8) | 7 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 14' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 11' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (14')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (14')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$231 |
+| PT Plywood | ~$385 |
+| OSB | ~$192 |
+| Insulation | ~$115 |
+| Hardware | ~$50 |
+| **Total** | **~$973** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: Front Veranda - Deck Module 1.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='front-veranda-deck-module-2'></a>
+## Front Veranda Deck Module 2
+> **OSE Seed Home | 11' x 14' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 11' wide × 14' long × ~15" deep
+**Assembly Time**: ~5-7 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Rim Joist (2x8) | 7 | See CAD | From extracted data |
+| Framing 2X8 (2x8) | 3 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 14' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 11' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (14')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (14')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$231 |
+| PT Plywood | ~$385 |
+| OSB | ~$192 |
+| Insulation | ~$115 |
+| Hardware | ~$50 |
+| **Total** | **~$973** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: Front Veranda - Deck Module 2.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='front-veranda-deck-module-3'></a>
+## Front Veranda Deck Module 3
+> **OSE Seed Home | 11' x 14' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 11' wide × 14' long × ~15" deep
+**Assembly Time**: ~5-7 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Rim Joist (2x8) | 7 | See CAD | From extracted data |
+| Framing 2X8 (2x8) | 3 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 14' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 11' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (14')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (14')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$231 |
+| PT Plywood | ~$385 |
+| OSB | ~$192 |
+| Insulation | ~$115 |
+| Hardware | ~$50 |
+| **Total** | **~$973** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: Front Veranda - Deck Module 3.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='front-veranda-deck-module-4'></a>
+## Front Veranda Deck Module 4
+> **OSE Seed Home | 11' x 14' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 11' wide × 14' long × ~15" deep
+**Assembly Time**: ~5-7 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Rim Joist (2x8) | 7 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 14' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 11' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (14')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (14')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$231 |
+| PT Plywood | ~$385 |
+| OSB | ~$192 |
+| Insulation | ~$115 |
+| Hardware | ~$50 |
+| **Total** | **~$973** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: Front Veranda - Deck Module 4.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='front-veranda-deck-module-5'></a>
+## Front Veranda Deck Module 5
+> **OSE Seed Home | 11' x 14' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 11' wide × 14' long × ~15" deep
+**Assembly Time**: ~5-7 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Rim Joist (2x8) | 7 | See CAD | From extracted data |
+| Framing 2X8 (2x8) | 3 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 14' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 11' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (14')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (14')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$231 |
+| PT Plywood | ~$385 |
+| OSB | ~$192 |
+| Insulation | ~$115 |
+| Hardware | ~$50 |
+| **Total** | **~$973** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: Front Veranda - Deck Module 5.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='front-veranda-deck-module-6'></a>
+## Front Veranda Deck Module 6
+> **OSE Seed Home | 11' x 14' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 11' wide × 14' long × ~15" deep
+**Assembly Time**: ~5-7 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Rim Joist (2x8) | 7 | See CAD | From extracted data |
+| Framing 2X8 (2x8) | 3 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 14' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 11' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (14')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (14')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$231 |
+| PT Plywood | ~$385 |
+| OSB | ~$192 |
+| Insulation | ~$115 |
+| Hardware | ~$50 |
+| **Total** | **~$973** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: Front Veranda - Deck Module 6.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='front-veranda-deck-module-7'></a>
+## Front Veranda Deck Module 7
+> **OSE Seed Home | 11' x 14' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 11' wide × 14' long × ~15" deep
+**Assembly Time**: ~5-7 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+### Frame Lumber
+| Part | Qty | Size | Notes |
+|------|-----|------|-------|
+| Rim Joist (2x8) | 7 | See CAD | From extracted data |
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 14' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 11' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (14')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (14')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$231 |
+| PT Plywood | ~$385 |
+| OSB | ~$192 |
+| Insulation | ~$115 |
+| Hardware | ~$50 |
+| **Total** | **~$973** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: Front Veranda - Deck Module 7.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>
+
+<a name='hangar'></a>
+## Hangar
+> **OSE Seed Home | 11' x 21' Floor Module**
+> Auto-generated by OSE Weaver Protocol v2.0 (Platinum Format)
+> Date: January 21, 2026
+
+---
+
+## 📋 Overview
+
+**Dimensions**: 11' wide × 21' long × ~20" deep
+**Assembly Time**: ~7-11 hours (2 people)
+**Skill Level**: Intermediate (framing experience helpful)
+
+---
+
+## 🔧 Tools Required
+
+| Tool | Purpose |
+|------|---------|
+| Circular Saw | Cutting lumber to length |
+| Drill/Driver | Driving screws |
+| Framing Square | Ensuring 90° corners |
+| Tape Measure | Measuring / layout |
+| Chalk Line | Marking joist positions |
+| Level (4') | Checking for level/flat |
+| Speed Square | Marking cut lines |
+| Hammer | Adjustments, persuasion |
+| Safety Glasses | Eye protection |
+| Work Gloves | Hand protection |
+
+---
+
+## 🪵 Lumber Cut List
+
+
+---
+
+## 📦 Sheet Goods
+
+---
+
+## 🔩 Hardware
+
+### Screws (Recommended)
+| Type | Qty | Purpose |
+|------|-----|---------|
+| 3" Deck Screws | ~50 | Joist-to-joist connections |
+| 2" Deck Screws | ~100 | Sheathing to joists |
+| 1-5/8" Subfloor Screws | ~100 | OSB to joists |
+
+### Optional/Recommended
+| Item | Qty | Purpose |
+|------|-----|---------|
+| Construction Adhesive | 2 tubes | Glue sheathing to joists (reduces squeaks) |
+| Joist Hangers (2x8) | 0 | Code-compliant joist connections |
+| Simpson Strong-Ties | 4 | Corner reinforcement |
+
+---
+
+## 🏗️ Assembly Steps
+
+### Phase 1: Build the Floor Frame (Ground Level)
+
+**Step 1: Layout Rim Joists**
+1. Place both 21' rim joists parallel on sawhorses or blocks
+2. Measure to ensure they are exactly 11' apart (outside to outside)
+3. Mark joist locations on rim joists at 16" on-center
+
+**Step 2: Install Floor Joists**
+1. Position first floor joist flush with one end
+2. Drive 3 screws (or nails) through rim joist into joist end
+3. Repeat for all 0 floor joists at marked locations
+4. Use framing square to ensure 90° at each connection
+
+**Step 3: Square the Frame**
+1. Measure diagonals (corner to corner)
+2. Adjust until diagonals are equal (±1/8")
+3. Frame is now square
+
+> ✅ **QC Checkpoint**: Frame should be square, level, and all joists secured.
+
+---
+
+### Phase 5: Final QC & Completion
+
+**Final Inspection Checklist:**
+- [ ] All screws/nails driven flush
+- [ ] No gaps in insulation
+- [ ] Subfloor is flat and level
+- [ ] Edges clean and square
+- [ ] Module ready for transport or installation
+
+---
+
+## 📐 Reference Diagrams
+
+### Joist Layout (Top View)
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  RIM JOIST (21')                                                   │
+├────┬────┬────┬────┬────┬────────────────────────────────────────┬──────┤
+│    │    │    │    │    │                                        │ ○    │
+│    │    │    │    │    │                                        │water │
+│    │    │    │    │    │                                        │inlet │
+├────┴────┴────┴────┴────┴────────────────────────────────────────┴──────┤
+│  RIM JOIST (21')                                                   │
+└──────────────────────────────────────────────────────────────────────┘
+     ↑    ↑    ↑    ↑    ↑
+   Joists @ 16" OC
+```
+
+### Cross-Section
+```
+        ┌────────────────────────────────────┐
+        │      OSB (3/4")                    │  ← Subfloor
+        ├────┬─────────────────┬─────────────┤
+        │2x8 │  INSULATION     │ 2x8        │  ← Joists + Batt
+        │    │  R-30 BATT      │            │
+        ├────┴─────────────────┴─────────────┤
+        │      PT PLYWOOD (3/4")             │  ← Moisture Barrier
+        └────────────────────────────────────┘
+```
+
+---
+
+## ⏱️ Time Estimates
+
+| Phase | Time (2 people) |
+|-------|-----------------|
+| 1. Frame Assembly | 1 hour |
+| 2. Bottom Sheathing | 1 hour |
+| 3. Insulation | 30 min |
+| 4. Top Sheathing | 1 hour |
+| 5. QC & Cleanup | 30 min |
+| **Total** | **4 hours** |
+
+---
+
+## 💰 Estimated Cost
+
+| Category | Cost |
+|----------|------|
+| Lumber | ~$346 |
+| PT Plywood | ~$577 |
+| OSB | ~$288 |
+| Insulation | ~$173 |
+| Hardware | ~$50 |
+| **Total** | **~$1434** |
+
+*Prices vary by region and market conditions.*
+
+---
+
+## 📝 Notes
+
+- This module is part of a multi-module floor system
+- Ensure proper vapor barrier on bottom (PT plywood serves this purpose)
+- Module designed to connect to other OSE modules
+- See OSE Wiki for full Seed Home documentation
+
+---
+
+> **Generated by**: OSE Weaver Protocol v2.0 (Platinum Format)
+> **Source File**: Hangar.fcstd
+> **Agent**: Antigravity (Gemini)
+
+
+---
+<div style='page-break-after: always;'></div>

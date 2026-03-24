@@ -134,8 +134,25 @@ def estimate_module_dimensions(parts):
 # Main Generation Functions
 # ============================================================================
 
+def estimate_assembly_hours(parts):
+    """Estimate total assembly hours based on what phases exist (matches detail table)."""
+    hours = 1.0  # Phase 1: frame always present
+    has_plywood = any("plywood" in p.get("label", "").lower() and p.get("type_id") == "Part::Box" for p in parts)
+    has_osb = any("osb" in p.get("label", "").lower() and p.get("type_id") == "Part::Box" for p in parts)
+    has_insulation = any("insulation" in p.get("label", "").lower() and p.get("type_id") == "Part::Box" for p in parts)
+    if has_plywood:
+        hours += 1.0
+    if has_insulation:
+        hours += 0.5
+    if has_osb:
+        hours += 1.0
+    hours += 0.5  # QC always present
+    return int(hours) if hours == int(hours) else hours
+
+
 def generate_overview(filename, parts, width_ft, length_ft, depth_in):
     """Generate the overview section."""
+    total_hours = estimate_assembly_hours(parts)
     lines = []
     lines.append(f"# {filename.replace('.fcstd', '').replace('.json', '')} - Build Instructions")
     lines.append(f"> **OSE Seed Home | {width_ft}' x {length_ft}' Floor Module**")
@@ -147,7 +164,7 @@ def generate_overview(filename, parts, width_ft, length_ft, depth_in):
     lines.append("## 📋 Overview")
     lines.append("")
     lines.append(f"**Dimensions**: {width_ft}' wide × {length_ft}' long × ~{depth_in}\" deep")
-    lines.append(f"**Assembly Time**: ~{max(2, (width_ft * length_ft) // 30)}-{max(4, (width_ft * length_ft) // 20)} hours (2 people)")
+    lines.append(f"**Assembly Time**: ~{total_hours} hours (2 people)")
     lines.append("**Skill Level**: Intermediate (framing experience helpful)")
     lines.append("")
     return lines
@@ -168,6 +185,9 @@ def generate_tools_section():
     return lines
 
 
+PRIMITIVE_TYPES = {"Part::Box", "Part::Cylinder", "Part::Sphere", "Part::Cone"}
+
+
 def generate_lumber_section(parts):
     """Generate lumber cut list from parts."""
     lines = []
@@ -175,15 +195,17 @@ def generate_lumber_section(parts):
     lines.append("")
     lines.append("## 🪵 Lumber Cut List")
     lines.append("")
-    
-    # Categorize lumber
+
+    # Categorize lumber — only count primitive geometry, not compound/feature wrappers
     lumber_counts = defaultdict(lambda: defaultdict(int))
-    
+
     for p in parts:
+        if p.get("type_id") not in PRIMITIVE_TYPES:
+            continue
         label = p.get("label", "")
         category = classify_part(label)
         lumber_size = get_lumber_size(label)
-        
+
         if lumber_size and category in ["rim_joist", "floor_joist", "framing_2x4", "framing_2x8"]:
             lumber_counts[lumber_size][category] += 1
     
@@ -257,9 +279,9 @@ def generate_hardware_section(parts):
     lines.append("## 🔩 Hardware")
     lines.append("")
     
-    # Count parts to estimate hardware
-    joist_count = sum(1 for p in parts if "joist" in p.get("label", "").lower() and "rim" not in p.get("label", "").lower())
-    sheet_count = sum(1 for p in parts if any(x in p.get("label", "").lower() for x in ["osb", "plywood"]) and p.get("type_id") in ["Part::Box", "Part::Feature"])
+    # Count parts to estimate hardware — primitives only
+    joist_count = sum(1 for p in parts if p.get("type_id") in PRIMITIVE_TYPES and "joist" in p.get("label", "").lower() and "rim" not in p.get("label", "").lower())
+    sheet_count = sum(1 for p in parts if p.get("type_id") in PRIMITIVE_TYPES and any(x in p.get("label", "").lower() for x in ["osb", "plywood"]))
     
     deck_screws_3in = joist_count * HARDWARE_ESTIMATES["joist_to_rim"]
     deck_screws_2in = sheet_count * HARDWARE_ESTIMATES["sheathing_edge"]
@@ -301,7 +323,7 @@ def generate_assembly_steps(parts, width_ft, length_ft):
     lines.append("3. Mark joist locations on rim joists at 16\" on-center")
     lines.append("")
     
-    joist_count = sum(1 for p in parts if "joist" in p.get("label", "").lower() and "rim" not in p.get("label", "").lower())
+    joist_count = sum(1 for p in parts if p.get("type_id") in PRIMITIVE_TYPES and "joist" in p.get("label", "").lower() and "rim" not in p.get("label", "").lower())
     lines.append("**Step 2: Install Floor Joists**")
     lines.append("1. Position first floor joist flush with one end")
     lines.append("2. Drive 3 screws (or nails) through rim joist into joist end")
@@ -412,7 +434,7 @@ def generate_assembly_steps(parts, width_ft, length_ft):
     return lines
 
 
-def generate_diagrams(width_ft, length_ft):
+def generate_diagrams(width_ft, length_ft, has_water_inlet=False):
     """Generate ASCII reference diagrams."""
     lines = []
     lines.append("---")
@@ -421,15 +443,24 @@ def generate_diagrams(width_ft, length_ft):
     lines.append("")
     lines.append("### Joist Layout (Top View)")
     lines.append("```")
-    lines.append(f"┌{'─' * 70}┐")
-    lines.append(f"│  RIM JOIST ({length_ft}'){' ' * (68 - len(str(length_ft)) - 15)}│")
-    lines.append(f"├────┬────┬────┬────┬────┬{'─' * 40}┬──────┤")
-    lines.append(f"│    │    │    │    │    │{' ' * 40}│ ○    │")
-    lines.append(f"│    │    │    │    │    │{' ' * 40}│water │")
-    lines.append(f"│    │    │    │    │    │{' ' * 40}│inlet │")
-    lines.append(f"├────┴────┴────┴────┴────┴{'─' * 40}┴──────┤")
-    lines.append(f"│  RIM JOIST ({length_ft}'){' ' * (68 - len(str(length_ft)) - 15)}│")
-    lines.append(f"└{'─' * 70}┘")
+    if has_water_inlet:
+        lines.append(f"┌{'─' * 70}┐")
+        lines.append(f"│  RIM JOIST ({length_ft}'){' ' * (68 - len(str(length_ft)) - 15)}│")
+        lines.append(f"├────┬────┬────┬────┬────┬{'─' * 40}┬──────┤")
+        lines.append(f"│    │    │    │    │    │{' ' * 40}│ ○    │")
+        lines.append(f"│    │    │    │    │    │{' ' * 40}│water │")
+        lines.append(f"│    │    │    │    │    │{' ' * 40}│inlet │")
+        lines.append(f"├────┴────┴────┴────┴────┴{'─' * 40}┴──────┤")
+        lines.append(f"│  RIM JOIST ({length_ft}'){' ' * (68 - len(str(length_ft)) - 15)}│")
+        lines.append(f"└{'─' * 70}┘")
+    else:
+        lines.append(f"┌{'─' * 70}┐")
+        lines.append(f"│  RIM JOIST ({length_ft}'){' ' * (68 - len(str(length_ft)) - 15)}│")
+        lines.append(f"├────┬────┬────┬────┬────┬{'─' * 46}┤")
+        lines.append(f"│    │    │    │    │    │{' ' * 46}│")
+        lines.append(f"├────┴────┴────┴────┴────┴{'─' * 46}┤")
+        lines.append(f"│  RIM JOIST ({length_ft}'){' ' * (68 - len(str(length_ft)) - 15)}│")
+        lines.append(f"└{'─' * 70}┘")
     lines.append("     ↑    ↑    ↑    ↑    ↑")
     lines.append("   Joists @ 16\" OC")
     lines.append("```")
@@ -455,19 +486,29 @@ def generate_time_cost(width_ft, length_ft, parts):
     """Generate time and cost estimates."""
     lines = []
     
-    # Time estimates
+    # Time estimates — derive from what's actually in the model
+    has_plywood = any("plywood" in p.get("label", "").lower() and p.get("type_id") == "Part::Box" for p in parts)
+    has_osb = any("osb" in p.get("label", "").lower() and p.get("type_id") == "Part::Box" for p in parts)
+    has_insulation = any("insulation" in p.get("label", "").lower() and p.get("type_id") == "Part::Box" for p in parts)
+    phase_rows = [("1. Frame Assembly", "1 hour")]
+    if has_plywood:
+        phase_rows.append(("2. Bottom Sheathing", "1 hour"))
+    if has_insulation:
+        phase_rows.append(("3. Insulation", "30 min"))
+    if has_osb:
+        phase_rows.append((f"{len(phase_rows) + 1}. Top Sheathing", "1 hour"))
+    phase_rows.append((f"{len(phase_rows) + 1}. QC & Cleanup", "30 min"))
+    total_hours = estimate_assembly_hours(parts)
+
     lines.append("---")
     lines.append("")
     lines.append("## ⏱️ Time Estimates")
     lines.append("")
     lines.append("| Phase | Time (2 people) |")
     lines.append("|-------|-----------------|")
-    lines.append("| 1. Frame Assembly | 1 hour |")
-    lines.append("| 2. Bottom Sheathing | 1 hour |")
-    lines.append("| 3. Insulation | 30 min |")
-    lines.append("| 4. Top Sheathing | 1 hour |")
-    lines.append("| 5. QC & Cleanup | 30 min |")
-    lines.append("| **Total** | **4 hours** |")
+    for phase, time in phase_rows:
+        lines.append(f"| {phase} | {time} |")
+    lines.append(f"| **Total** | **{total_hours} hours** |")
     lines.append("")
     
     # Cost estimates (rough)
@@ -540,6 +581,12 @@ def weave_platinum_instructions(json_path, output_path=None):
     # Estimate dimensions
     width_ft, length_ft, depth_in = estimate_module_dimensions(parts)
     
+    # Pre-compute shared flags
+    has_water_inlet = any(
+        "water" in p.get("label", "").lower() or "inlet" in p.get("label", "").lower()
+        for p in parts
+    )
+
     # Generate all sections
     md_lines = []
     md_lines.extend(generate_overview(filename, parts, width_ft, length_ft, depth_in))
@@ -549,7 +596,7 @@ def weave_platinum_instructions(json_path, output_path=None):
     md_lines.extend(generate_insulation_section(parts))
     md_lines.extend(generate_hardware_section(parts))
     md_lines.extend(generate_assembly_steps(parts, width_ft, length_ft))
-    md_lines.extend(generate_diagrams(width_ft, length_ft))
+    md_lines.extend(generate_diagrams(width_ft, length_ft, has_water_inlet))
     md_lines.extend(generate_time_cost(width_ft, length_ft, parts))
     md_lines.extend(generate_footer(filename))
     

@@ -6,6 +6,7 @@
       "label": "2x4 bottom plate",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x4 bottom plate",
         "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -14,6 +15,7 @@
       "label": "2x4 top plate",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x4 top plate",
         "Placement": "Placement [Pos=(0,0,3032.12), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -22,6 +24,7 @@
       "label": "2x4 stud 001",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x4 stud 001",
         "Placement": "Placement [Pos=(0,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -30,6 +33,7 @@
       "label": "2x4 stud 002",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x4 stud 002",
         "Placement": "Placement [Pos=(1181.1,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -38,6 +42,7 @@
       "label": "2x4 flat header",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x4 flat header",
         "Placement": "Placement [Pos=(38.1,0,2165.35), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -46,6 +51,7 @@
       "label": "2x4 cripple - top",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x4 cripple - top",
         "Placement": "Placement [Pos=(590.55,0,2203.45), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -54,6 +60,7 @@
       "label": "1/2 osb - left",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "1/2 osb - left",
         "Placement": "Placement [Pos=(0,-12.7,0), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -62,6 +69,7 @@
       "label": "1/2 osb - right",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "1/2 osb - right",
         "Placement": "Placement [Pos=(1181.1,-12.7,0), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -70,6 +78,7 @@
       "label": "1/2 osb - top",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "1/2 osb - top",
         "Placement": "Placement [Pos=(0,-12.7,2165.35), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -77,7 +86,9 @@
       "name": "Group",
       "label": "PARTS",
       "type_id": "App::DocumentObjectGroup",
-      "properties": {}
+      "properties": {
+        "Label": "PARTS"
+      }
     }
   ]
 }

@@ -6,6 +6,7 @@
       "label": "3/4 osb - decking 001",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "3/4 osb - decking 001",
         "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -14,6 +15,7 @@
       "label": "3/4 osb - decking 002",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "3/4 osb - decking 002",
         "Placement": "Placement [Pos=(2438.4,0,0), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -22,6 +24,7 @@
       "label": "3/4 osb - decking 003",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "3/4 osb - decking 003",
         "Placement": "Placement [Pos=(0,1219.2,0), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -30,6 +33,7 @@
       "label": "3/4 osb - decking 004",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "3/4 osb - decking 004",
         "Placement": "Placement [Pos=(1168.4,1219.2,0), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -38,6 +42,7 @@
       "label": "3/4 osb - decking 005",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "3/4 osb - decking 005",
         "Placement": "Placement [Pos=(2438.4,2438.4,0), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -46,6 +51,7 @@
       "label": "3/4 osb - decking 006",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "3/4 osb - decking 006",
         "Placement": "Placement [Pos=(0,2438.4,0), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -54,6 +60,7 @@
       "label": "3/4 osb - decking 007",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "3/4 osb - decking 007",
         "Placement": "Placement [Pos=(1168.4,3657.6,0), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -62,6 +69,7 @@
       "label": "3/4 osb - decking 008",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "3/4 osb - decking 008",
         "Placement": "Placement [Pos=(0,3657.6,0), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -70,6 +78,7 @@
       "label": "3/4 osb - decking 009",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "3/4 osb - decking 009",
         "Placement": "Placement [Pos=(2438.4,4876.8,0), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -78,6 +87,7 @@
       "label": "3/4 osb - decking 010",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "3/4 osb - decking 010",
         "Placement": "Placement [Pos=(0,4876.8,0), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -85,13 +95,16 @@
       "name": "Group",
       "label": "roof decking - FR (parts)",
       "type_id": "App::DocumentObjectGroup",
-      "properties": {}
+      "properties": {
+        "Label": "roof decking - FR (parts)"
+      }
     },
     {
       "name": "Compound002",
       "label": "roof decking - FR",
       "type_id": "Part::Feature",
       "properties": {
+        "Label": "roof decking - FR",
         "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
       }
     }

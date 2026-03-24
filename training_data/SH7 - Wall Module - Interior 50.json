@@ -6,6 +6,7 @@
       "label": "2x4 bottom header",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x4 bottom header",
         "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -14,6 +15,7 @@
       "label": "2x4 top header",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x4 top header",
         "Placement": "Placement [Pos=(0,0,939.8), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -22,6 +24,7 @@
       "label": "2x4 stud 001",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x4 stud 001",
         "Placement": "Placement [Pos=(0,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -30,6 +33,7 @@
       "label": "2x4 stud 002",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x4 stud 002",
         "Placement": "Placement [Pos=(590.55,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -38,6 +42,7 @@
       "label": "2x4 stud 003",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x4 stud 003",
         "Placement": "Placement [Pos=(1200.15,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -46,6 +51,7 @@
       "label": "2x4 stud 004",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x4 stud 004",
         "Placement": "Placement [Pos=(1809.75,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -54,6 +60,7 @@
       "label": "2x4 stud 005",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x4 stud 005",
         "Placement": "Placement [Pos=(2247.9,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -61,13 +68,16 @@
       "name": "Group",
       "label": "PARTS",
       "type_id": "App::DocumentObjectGroup",
-      "properties": {}
+      "properties": {
+        "Label": "PARTS"
+      }
     },
     {
       "name": "Compound001",
       "label": "Simple Copy",
       "type_id": "Part::Feature",
       "properties": {
+        "Label": "Simple Copy",
         "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
       }
     }

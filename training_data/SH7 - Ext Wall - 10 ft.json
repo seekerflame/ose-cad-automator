@@ -6,6 +6,7 @@
       "label": "2x6 top plate",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x6 top plate",
         "Placement": "Placement [Pos=(0,0,2971.8), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -14,6 +15,7 @@
       "label": "2x6 bottom plate",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x6 bottom plate",
         "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -22,6 +24,7 @@
       "label": "2x6 stud - left",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x6 stud - left",
         "Placement": "Placement [Pos=(0,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -30,6 +33,7 @@
       "label": "2x6 stud - center",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x6 stud - center",
         "Placement": "Placement [Pos=(590.55,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -38,6 +42,7 @@
       "label": "2x6 stud - right",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x6 stud - right",
         "Placement": "Placement [Pos=(1181.1,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -45,13 +50,16 @@
       "name": "Group",
       "label": "48",
       "type_id": "App::DocumentObjectGroup",
-      "properties": {}
+      "properties": {
+        "Label": "48"
+      }
     },
     {
       "name": "Box005",
       "label": "2x6 stud - corner U 001",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x6 stud - corner U 001",
         "Placement": "Placement [Pos=(38.1,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -60,6 +68,7 @@
       "label": "2x6 stud - corner U 002",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x6 stud - corner U 002",
         "Placement": "Placement [Pos=(177.8,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -68,6 +77,7 @@
       "label": "2x6 stud - corner U 003",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x6 stud - corner U 003",
         "Placement": "Placement [Pos=(38.1,101.6,38.1), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -75,13 +85,16 @@
       "name": "Group001",
       "label": "U - left corner",
       "type_id": "App::DocumentObjectGroup",
-      "properties": {}
+      "properties": {
+        "Label": "U - left corner"
+      }
     },
     {
       "name": "Box008",
       "label": "1/2 osb",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "1/2 osb",
         "Placement": "Placement [Pos=(0,-12.7,0), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -89,13 +102,16 @@
       "name": "Group002",
       "label": "21",
       "type_id": "App::DocumentObjectGroup",
-      "properties": {}
+      "properties": {
+        "Label": "21"
+      }
     },
     {
       "name": "Box009",
       "label": "2x6 top plate001",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x6 top plate001",
         "Placement": "Placement [Pos=(0,0,2971.8), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -104,6 +120,7 @@
       "label": "2x6 stud - right001",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x6 stud - right001",
         "Placement": "Placement [Pos=(495.3,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -112,6 +129,7 @@
       "label": "2x6 stud - left001",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x6 stud - left001",
         "Placement": "Placement [Pos=(0,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -120,6 +138,7 @@
       "label": "2x6 bottom plate001",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x6 bottom plate001",
         "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -128,6 +147,7 @@
       "label": "1/2 osb001",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "1/2 osb001",
         "Placement": "Placement [Pos=(0,-12.7,0), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -135,13 +155,16 @@
       "name": "Group003",
       "label": "27 + Corner",
       "type_id": "App::DocumentObjectGroup",
-      "properties": {}
+      "properties": {
+        "Label": "27 + Corner"
+      }
     },
     {
       "name": "Box015",
       "label": "2x6 top plate002",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x6 top plate002",
         "Placement": "Placement [Pos=(0,0,2971.8), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -150,6 +173,7 @@
       "label": "2x6 stud - right002",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x6 stud - right002",
         "Placement": "Placement [Pos=(647.7,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -158,6 +182,7 @@
       "label": "2x6 stud - left002",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x6 stud - left002",
         "Placement": "Placement [Pos=(0,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -166,6 +191,7 @@
       "label": "2x6 bottom plate002",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x6 bottom plate002",
         "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -174,6 +200,7 @@
       "label": "1/2 osb002",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "1/2 osb002",
         "Placement": "Placement [Pos=(0,-12.7,0), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -182,6 +209,7 @@
       "label": "2x6 stud - corner U 005",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x6 stud - corner U 005",
         "Placement": "Placement [Pos=(469.9,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -190,6 +218,7 @@
       "label": "2x6 stud - corner U 006",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x6 stud - corner U 006",
         "Placement": "Placement [Pos=(508,101.6,38.1), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -198,6 +227,7 @@
       "label": "2x6 stud - corner U 004",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x6 stud - corner U 004",
         "Placement": "Placement [Pos=(508,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -205,13 +235,16 @@
       "name": "Group004",
       "label": "17 + corner",
       "type_id": "App::DocumentObjectGroup",
-      "properties": {}
+      "properties": {
+        "Label": "17 + corner"
+      }
     },
     {
       "name": "Box024",
       "label": "1/2 osb003",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "1/2 osb003",
         "Placement": "Placement [Pos=(0,-12.7,0), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -220,6 +253,7 @@
       "label": "2x6 stud - left003",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x6 stud - left003",
         "Placement": "Placement [Pos=(0,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -228,6 +262,7 @@
       "label": "2x6 stud - right003",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x6 stud - right003",
         "Placement": "Placement [Pos=(393.7,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -236,6 +271,7 @@
       "label": "2x6 bottom plate003",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x6 bottom plate003",
         "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -244,6 +280,7 @@
       "label": "2x6 stud - corner U 007",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x6 stud - corner U 007",
         "Placement": "Placement [Pos=(38.1,101.6,38.1), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -252,6 +289,7 @@
       "label": "2x6 stud - corner U 008",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x6 stud - corner U 008",
         "Placement": "Placement [Pos=(38.1,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -260,6 +298,7 @@
       "label": "2x6 stud - corner U 009",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x6 stud - corner U 009",
         "Placement": "Placement [Pos=(177.8,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -268,6 +307,7 @@
       "label": "2x6 top plate003",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x6 top plate003",
         "Placement": "Placement [Pos=(0,0,2971.8), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -276,6 +316,7 @@
       "label": "Compound001",
       "type_id": "Part::Feature",
       "properties": {
+        "Label": "Compound001",
         "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
       }
     }

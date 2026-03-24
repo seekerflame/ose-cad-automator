@@ -6,6 +6,7 @@
       "label": "2x4 bottom plate",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x4 bottom plate",
         "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -14,6 +15,7 @@
       "label": "2x4 top plate",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x4 top plate",
         "Placement": "Placement [Pos=(0,0,3032.12), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -22,6 +24,7 @@
       "label": "2x4 stud 001",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x4 stud 001",
         "Placement": "Placement [Pos=(0,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -30,6 +33,7 @@
       "label": "2x4 stud 002",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x4 stud 002",
         "Placement": "Placement [Pos=(1181.1,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -38,6 +42,7 @@
       "label": "2x4 flat header",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x4 flat header",
         "Placement": "Placement [Pos=(38.1,0,2755.9), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -46,6 +51,7 @@
       "label": "2x4 sill",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x4 sill",
         "Placement": "Placement [Pos=(165.1,0,266.7), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -54,6 +60,7 @@
       "label": "2x4 stud 004",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x4 stud 004",
         "Placement": "Placement [Pos=(1054.1,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -62,6 +69,7 @@
       "label": "2x4 cripple - bottom",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x4 cripple - bottom",
         "Placement": "Placement [Pos=(590.55,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -70,6 +78,7 @@
       "label": "2x4 cripple - top",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x4 cripple - top",
         "Placement": "Placement [Pos=(590.55,0,2794), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -78,6 +87,7 @@
       "label": "2x4 blocking 001",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x4 blocking 001",
         "Placement": "Placement [Pos=(38.1,0,590.55), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -86,6 +96,7 @@
       "label": "2x4 blocking 002",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x4 blocking 002",
         "Placement": "Placement [Pos=(38.1,0,1200.15), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -94,6 +105,7 @@
       "label": "2x4 blocking 003",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x4 blocking 003",
         "Placement": "Placement [Pos=(38.1,0,1809.75), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -102,6 +114,7 @@
       "label": "2x4 blocking 004",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x4 blocking 004",
         "Placement": "Placement [Pos=(38.1,0,2419.35), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -110,6 +123,7 @@
       "label": "2x4 blocking 005",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x4 blocking 005",
         "Placement": "Placement [Pos=(1092.2,0,590.55), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -118,6 +132,7 @@
       "label": "2x4 blocking 006",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x4 blocking 006",
         "Placement": "Placement [Pos=(1092.2,0,1200.15), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -126,6 +141,7 @@
       "label": "2x4 blocking 007",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x4 blocking 007",
         "Placement": "Placement [Pos=(1092.2,0,1809.75), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -134,6 +150,7 @@
       "label": "2x4 blocking 008",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x4 blocking 008",
         "Placement": "Placement [Pos=(1092.2,0,2419.35), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -142,6 +159,7 @@
       "label": "1/2 osb - left",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "1/2 osb - left",
         "Placement": "Placement [Pos=(0,-12.7,304.8), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -150,6 +168,7 @@
       "label": "2x4 blocking 009",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x4 blocking 009",
         "Placement": "Placement [Pos=(38.1,0,2717.8), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -158,6 +177,7 @@
       "label": "2x4 blocking 010",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x4 blocking 010",
         "Placement": "Placement [Pos=(1092.2,0,2717.8), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -166,6 +186,7 @@
       "label": "1/2 osb - right",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "1/2 osb - right",
         "Placement": "Placement [Pos=(1054.1,-12.7,304.8), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -174,6 +195,7 @@
       "label": "1/2 osb - top",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "1/2 osb - top",
         "Placement": "Placement [Pos=(0,-12.7,2755.9), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -182,6 +204,7 @@
       "label": "1/2 osb - bottom",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "1/2 osb - bottom",
         "Placement": "Placement [Pos=(0,-12.7,0), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -189,13 +212,16 @@
       "name": "Group",
       "label": "PARTS",
       "type_id": "App::DocumentObjectGroup",
-      "properties": {}
+      "properties": {
+        "Label": "PARTS"
+      }
     },
     {
       "name": "Box024",
       "label": "2x4 stud 005",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x4 stud 005",
         "Placement": "Placement [Pos=(127,0,38.1), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -204,6 +230,7 @@
       "label": "Simple Copy",
       "type_id": "Part::Feature",
       "properties": {
+        "Label": "Simple Copy",
         "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
       }
     }

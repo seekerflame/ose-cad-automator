@@ -5,13 +5,16 @@
       "name": "Group001",
       "label": "Frame",
       "type_id": "App::DocumentObjectGroup",
-      "properties": {}
+      "properties": {
+        "Label": "Frame"
+      }
     },
     {
       "name": "Box009",
       "label": "2x8 rim joist - back",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x8 rim joist - back",
         "Placement": "Placement [Pos=(38.1,2362.2,0), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -20,6 +23,7 @@
       "label": "2x8 rim joist - left",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x8 rim joist - left",
         "Placement": "Placement [Pos=(0,38.1,0), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -28,6 +32,7 @@
       "label": "2x8 rim joist - right",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x8 rim joist - right",
         "Placement": "Placement [Pos=(1247.77,38.1,0), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -36,6 +41,7 @@
       "label": "2x8 rim joist - middle 001",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x8 rim joist - middle 001",
         "Placement": "Placement [Pos=(38.1,590.55,0), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -44,6 +50,7 @@
       "label": "2x8 rim joist - middle 002",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x8 rim joist - middle 002",
         "Placement": "Placement [Pos=(38.1,1200.15,0), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -52,6 +59,7 @@
       "label": "2x8 rim joist - middle 003",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x8 rim joist - middle 003",
         "Placement": "Placement [Pos=(38.1,1809.75,0), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -59,13 +67,16 @@
       "name": "Group002",
       "label": "PARTS",
       "type_id": "App::DocumentObjectGroup",
-      "properties": {}
+      "properties": {
+        "Label": "PARTS"
+      }
     },
     {
       "name": "Box016",
       "label": "2x8 rim joist - front",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x8 rim joist - front",
         "Placement": "Placement [Pos=(38.1,38.1,0), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -74,6 +85,7 @@
       "label": "2x8 blocking 001",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x8 blocking 001",
         "Placement": "Placement [Pos=(993.775,76.2,0), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -82,6 +94,7 @@
       "label": "2x8 blocking 002",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x8 blocking 002",
         "Placement": "Placement [Pos=(993.775,114.3,0), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -90,6 +103,7 @@
       "label": "2x8 blocking 003",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "2x8 blocking 003",
         "Placement": "Placement [Pos=(993.775,152.4,0), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -98,6 +112,7 @@
       "label": "5/4 x 6 deck board - decking 001",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "5/4 x 6 deck board - decking 001",
         "Placement": "Placement [Pos=(0,0,184.15), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -106,6 +121,7 @@
       "label": "5/4 x 6 deck board - decking 002",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "5/4 x 6 deck board - decking 002",
         "Placement": "Placement [Pos=(142.875,0,184.15), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -114,6 +130,7 @@
       "label": "5/4 x 6 deck board - decking 003",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "5/4 x 6 deck board - decking 003",
         "Placement": "Placement [Pos=(285.75,0,184.15), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -122,6 +139,7 @@
       "label": "5/4 x 6 deck board - decking 004",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "5/4 x 6 deck board - decking 004",
         "Placement": "Placement [Pos=(428.625,0,184.15), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -130,6 +148,7 @@
       "label": "5/4 x 6 deck board - decking 005",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "5/4 x 6 deck board - decking 005",
         "Placement": "Placement [Pos=(571.5,0,184.15), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -138,6 +157,7 @@
       "label": "5/4 x 6 deck board - decking 006",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "5/4 x 6 deck board - decking 006",
         "Placement": "Placement [Pos=(714.375,0,184.15), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -146,6 +166,7 @@
       "label": "5/4 x 6 deck board - decking 007",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "5/4 x 6 deck board - decking 007",
         "Placement": "Placement [Pos=(857.25,0,184.15), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -154,6 +175,7 @@
       "label": "5/4 x 6 deck board - decking 008",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "5/4 x 6 deck board - decking 008",
         "Placement": "Placement [Pos=(1000.12,0,184.15), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -161,13 +183,16 @@
       "name": "Group",
       "label": "Decking",
       "type_id": "App::DocumentObjectGroup",
-      "properties": {}
+      "properties": {
+        "Label": "Decking"
+      }
     },
     {
       "name": "Box012",
       "label": "5/4 x 6 deck board - decking 009",
       "type_id": "Part::Box",
       "properties": {
+        "Label": "5/4 x 6 deck board - decking 009",
         "Placement": "Placement [Pos=(1143,0,184.15), Yaw-Pitch-Roll=(0,0,0)]"
       }
     },
@@ -176,6 +201,7 @@
       "label": "Simple Copy ",
       "type_id": "Part::Feature",
       "properties": {
+        "Label": "Simple Copy ",
         "Placement": "Placement [Pos=(0,0,0), Yaw-Pitch-Roll=(0,0,0)]"
       }
     }
