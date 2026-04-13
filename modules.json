@@ -1,0 +1,2009 @@
+[
+  {
+    "id": "SH7CAD__CAD_2__Technical__SH7_-_Assembly",
+    "name": "SH7 - Assembly",
+    "parts": 365,
+    "bom": {
+      "unknown": 95,
+      "2x6 plate": 36,
+      "1/2 inch OSB": 60,
+      "insulation": 18,
+      "2x4 plate": 1,
+      "6x6 lumber": 4,
+      "2x4 blocking": 8,
+      "2x4 lumber": 11,
+      "1x3 lumber": 15,
+      "1x4 lumber": 26,
+      "1x8 lumber": 7,
+      "1x6 lumber": 28,
+      "1x2 lumber": 29,
+      "gutter": 7,
+      "1x12 lumber": 5,
+      "3/4 inch plywood": 2,
+      "4x4 lumber": 1,
+      "2x8 joist": 6,
+      "3/4 inch OSB": 6
+    }
+  },
+  {
+    "id": "SH7CAD__CAD__Technical__SH7_-_Assembly",
+    "name": "SH7 - Assembly",
+    "parts": 365,
+    "bom": {
+      "unknown": 95,
+      "2x6 plate": 36,
+      "1/2 inch OSB": 60,
+      "insulation": 18,
+      "2x4 plate": 1,
+      "6x6 lumber": 4,
+      "2x4 blocking": 8,
+      "2x4 lumber": 11,
+      "1x3 lumber": 15,
+      "1x4 lumber": 26,
+      "1x8 lumber": 7,
+      "1x6 lumber": 28,
+      "1x2 lumber": 29,
+      "gutter": 7,
+      "1x12 lumber": 5,
+      "3/4 inch plywood": 2,
+      "4x4 lumber": 1,
+      "2x8 joist": 6,
+      "3/4 inch OSB": 6
+    }
+  },
+  {
+    "id": "SEH6_-_Assembly",
+    "name": "SEH6 - Assembly",
+    "parts": 349,
+    "bom": {
+      "unknown": 93,
+      "2x6 plate": 36,
+      "1/2 inch OSB": 60,
+      "insulation": 18,
+      "2x4 plate": 1,
+      "6x6 lumber": 4,
+      "2x4 blocking": 8,
+      "2x4 lumber": 11,
+      "1x3 lumber": 15,
+      "1x4 lumber": 26,
+      "1x8 lumber": 7,
+      "1x6 lumber": 28,
+      "1x2 lumber": 26,
+      "gutter": 7,
+      "1x12 lumber": 5,
+      "3/4 inch plywood": 2,
+      "4x4 lumber": 1,
+      "ridge beam": 1
+    }
+  },
+  {
+    "id": "SH7CAD__CAD_2__Technical__Structural_Assemblies__Roof__SH7_-_Roof_-_Seed_-_Assembly",
+    "name": "SH7 - Roof - Seed - Assembly",
+    "parts": 100,
+    "bom": {
+      "3/4 inch OSB": 4,
+      "2x12 lumber": 5,
+      "2x4 lumber": 6,
+      "insulation": 1,
+      "2x6 lumber": 4,
+      "PV mounting rail": 8,
+      "PV panel": 2,
+      "OSB sheathing": 3,
+      "1x8 lumber": 1,
+      "unknown": 44,
+      "1x10 lumber": 1,
+      "gutter": 4,
+      "1x102 lumber": 1,
+      "1x12 lumber": 1,
+      "1x6 lumber": 5,
+      "1x3 lumber": 3,
+      "1x2 lumber": 1,
+      "1x4 lumber": 4,
+      "metal flashing": 1,
+      "2x10 lumber": 1
+    }
+  },
+  {
+    "id": "SH7CAD__CAD__Technical__Structural_Assemblies__Roof__SH7_-_Roof_-_Seed_-_Assembly",
+    "name": "SH7 - Roof - Seed - Assembly",
+    "parts": 100,
+    "bom": {
+      "3/4 inch OSB": 4,
+      "2x12 lumber": 5,
+      "2x4 lumber": 6,
+      "insulation": 1,
+      "2x6 lumber": 4,
+      "PV mounting rail": 8,
+      "PV panel": 2,
+      "OSB sheathing": 3,
+      "1x8 lumber": 1,
+      "unknown": 44,
+      "1x10 lumber": 1,
+      "gutter": 4,
+      "1x102 lumber": 1,
+      "1x12 lumber": 1,
+      "1x6 lumber": 5,
+      "1x3 lumber": 3,
+      "1x2 lumber": 1,
+      "1x4 lumber": 4,
+      "metal flashing": 1,
+      "2x10 lumber": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Roof__Roof_-_Bath__SH7_-_Roof_-_Seed_-_Assembly_-_Bath",
+    "name": "SH7 - Roof - Seed - Assembly - Bath",
+    "parts": 48,
+    "bom": {
+      "unknown": 15,
+      "1/2 inch OSB": 9,
+      "2x6 lumber": 3,
+      "2x12 lumber": 4,
+      "2x4 lumber": 1,
+      "1x4 lumber": 5,
+      "1x8 lumber": 1,
+      "gutter": 1,
+      "PV mounting rail": 7,
+      "PV panel": 2
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Roof__Roof_-_FR__SH7_-_Roof_-_Seed_-_Assembly__-_FR",
+    "name": "SH7 - Roof - Seed - Assembly  - FR",
+    "parts": 47,
+    "bom": {
+      "unknown": 14,
+      "1/2 inch OSB": 9,
+      "2x6 lumber": 3,
+      "2x12 lumber": 4,
+      "2x4 lumber": 1,
+      "1x4 lumber": 5,
+      "1x8 lumber": 1,
+      "gutter": 1,
+      "PV mounting rail": 7,
+      "PV panel": 2
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Roof__Roof_-_Kitchen__SH7_-_Roof_-_Seed_-_Assembly__-_Kitchen",
+    "name": "SH7 - Roof - Seed - Assembly  - Kitchen",
+    "parts": 37,
+    "bom": {
+      "unknown": 14,
+      "1/2 inch OSB": 4,
+      "2x6 lumber": 1,
+      "2x12 lumber": 2,
+      "2x4 lumber": 3,
+      "1x4 lumber": 1,
+      "1x8 lumber": 1,
+      "gutter": 1,
+      "PV mounting rail": 6,
+      "PV panel": 2,
+      "1/2 inch plywood": 2
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__SH7_-_Wall_Module_27",
+    "name": "SH7 - Wall Module 27",
+    "parts": 31,
+    "bom": {
+      "unknown": 12,
+      "1/2 inch OSB": 5,
+      "2x6 plate": 2,
+      "2x6 stud": 4,
+      "2x12 header": 2,
+      "2x6 header": 1,
+      "2x6 lumber": 5
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__SH7_-_Wall_Module_22",
+    "name": "SH7 - Wall Module 22",
+    "parts": 30,
+    "bom": {
+      "1/2 inch OSB": 5,
+      "2x6 stud": 7,
+      "2x6 plate": 2,
+      "2x12 header": 2,
+      "2x6 header": 1,
+      "2x6 lumber": 5,
+      "unknown": 8
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__Templates__SH7_-_Ext_Wall_-_10_ft",
+    "name": "SH7 - Ext Wall - 10 ft",
+    "parts": 30,
+    "bom": {
+      "2x6 plate": 8,
+      "2x6 stud": 18,
+      "1/2 inch OSB": 4
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Wall_Modules__ARCHIVE__Front_Veranda_-_Wall_Module_-_Back_3",
+    "name": "Front Veranda - Wall Module - Back 3",
+    "parts": 24,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 4,
+      "2x4 header": 1,
+      "2x4 lumber": 3,
+      "2x4 blocking": 10,
+      "1/2 inch OSB": 4
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Wall_Modules__ARCHIVE__Front_Veranda_-_Wall_Module_-_Back_7",
+    "name": "Front Veranda - Wall Module - Back 7",
+    "parts": 24,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 4,
+      "2x4 header": 1,
+      "2x4 lumber": 3,
+      "2x4 blocking": 10,
+      "1/2 inch OSB": 4
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Wall_Modules__SH7_-_Wall_Module_-_Front_Veranda_53",
+    "name": "SH7 - Wall Module - Front Veranda 53",
+    "parts": 24,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 4,
+      "2x4 header": 1,
+      "2x4 lumber": 3,
+      "2x4 blocking": 10,
+      "1/2 inch OSB": 4
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Wall_Modules__SH7_-_Wall_Module_-_Front_Veranda_57",
+    "name": "SH7 - Wall Module - Front Veranda 57",
+    "parts": 24,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 4,
+      "2x4 header": 1,
+      "2x4 lumber": 3,
+      "2x4 blocking": 10,
+      "1/2 inch OSB": 4
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Wall_Modules__Templates__Front_Veranda_-_Wall_Module_-_Window",
+    "name": "Front Veranda - Wall Module - Window",
+    "parts": 24,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 4,
+      "2x4 header": 1,
+      "2x4 lumber": 3,
+      "2x4 blocking": 10,
+      "1/2 inch OSB": 4
+    }
+  },
+  {
+    "id": "SH7CAD__SH7_-_Floor_Module_5",
+    "name": "SH7 - Floor Module 5",
+    "parts": 23,
+    "bom": {
+      "2x8 joist": 7,
+      "3/4 inch plywood": 5,
+      "3/4 inch OSB": 5,
+      "insulation": 3,
+      "2x4 lumber": 2,
+      "2x8 lumber": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Roof__Roof_-_Bath__SH7_-_Roof_-_Seed_-_Insulation_-_Bath",
+    "name": "SH7 - Roof - Seed - Insulation - Bath",
+    "parts": 22,
+    "bom": {
+      "2 inch rigid foam insulation": 10,
+      "insulation": 12
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Roof__Roof_-_FR__SH7_-_Roof_-_Seed_-_Insulation_-_FR",
+    "name": "SH7 - Roof - Seed - Insulation - FR",
+    "parts": 22,
+    "bom": {
+      "2 inch rigid foam insulation": 10,
+      "insulation": 12
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Roof__Roof_-_Kitchen__SH7_-_Roof_-_Seed_-_Insulation_-_Kitchen",
+    "name": "SH7 - Roof - Seed - Insulation - Kitchen",
+    "parts": 22,
+    "bom": {
+      "2 inch rigid foam insulation": 10,
+      "insulation": 12
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__Archive__SH7_-_Wall_Module_-_Front_8",
+    "name": "SH7 - Wall Module - Front 8",
+    "parts": 22,
+    "bom": {
+      "2x6 plate": 2,
+      "2x6 stud": 7,
+      "2x12 header": 2,
+      "2x6 header": 1,
+      "2x6 lumber": 5,
+      "1/2 inch OSB": 5
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__SH7_-_Wall_Module_12",
+    "name": "SH7 - Wall Module 12",
+    "parts": 20,
+    "bom": {
+      "2x6 plate": 3,
+      "2x6 stud": 6,
+      "2x12 header": 2,
+      "2x6 header": 1,
+      "2x6 lumber": 1,
+      "2x6 blocking": 4,
+      "1/2 inch OSB": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Deck_Modules__ARCHIVE__Front_Veranda_-_Deck_Module_2",
+    "name": "Front Veranda - Deck Module 2",
+    "parts": 19,
+    "bom": {
+      "5/4x6 deck board": 9,
+      "2x8 joist": 7,
+      "2x8 blocking": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Deck_Modules__ARCHIVE__Front_Veranda_-_Deck_Module_3",
+    "name": "Front Veranda - Deck Module 3",
+    "parts": 19,
+    "bom": {
+      "5/4x6 deck board": 9,
+      "2x8 joist": 7,
+      "2x8 blocking": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Deck_Modules__ARCHIVE__Front_Veranda_-_Deck_Module_5",
+    "name": "Front Veranda - Deck Module 5",
+    "parts": 19,
+    "bom": {
+      "5/4x6 deck board": 9,
+      "2x8 joist": 7,
+      "2x8 blocking": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Deck_Modules__ARCHIVE__Front_Veranda_-_Deck_Module_6",
+    "name": "Front Veranda - Deck Module 6",
+    "parts": 19,
+    "bom": {
+      "5/4x6 deck board": 9,
+      "2x8 joist": 7,
+      "2x8 blocking": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Deck_Modules__Front_Veranda_-_Deck_Module_2",
+    "name": "Front Veranda - Deck Module 2",
+    "parts": 19,
+    "bom": {
+      "2x8 joist": 7,
+      "2x8 blocking": 3,
+      "5/4x6 deck board": 9
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Deck_Modules__Front_Veranda_-_Deck_Module_3",
+    "name": "Front Veranda - Deck Module 3",
+    "parts": 19,
+    "bom": {
+      "2x8 joist": 7,
+      "2x8 blocking": 3,
+      "5/4x6 deck board": 9
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Deck_Modules__Front_Veranda_-_Deck_Module_5",
+    "name": "Front Veranda - Deck Module 5",
+    "parts": 19,
+    "bom": {
+      "2x8 joist": 7,
+      "2x8 blocking": 3,
+      "5/4x6 deck board": 9
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Deck_Modules__Front_Veranda_-_Deck_Module_6",
+    "name": "Front Veranda - Deck Module 6",
+    "parts": 19,
+    "bom": {
+      "2x8 joist": 7,
+      "2x8 blocking": 3,
+      "5/4x6 deck board": 9
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__Archive__SH7_-_Wall_Module_-_Front_3",
+    "name": "SH7 - Wall Module - Front 3",
+    "parts": 19,
+    "bom": {
+      "2x6 plate": 2,
+      "2x6 stud": 4,
+      "2x12 header": 2,
+      "2x6 header": 1,
+      "2x6 lumber": 5,
+      "1/2 inch OSB": 5
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__Archive__SH7_-_Wall_Module_-_Right_1",
+    "name": "SH7 - Wall Module - Right 1",
+    "parts": 19,
+    "bom": {
+      "2x6 plate": 2,
+      "2x6 stud": 7,
+      "2x6 header": 1,
+      "2x6 blocking": 6,
+      "1/2 inch OSB": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__SH7_-_Wall_Module_18",
+    "name": "SH7 - Wall Module 18",
+    "parts": 19,
+    "bom": {
+      "2x6 plate": 2,
+      "2x6 stud": 7,
+      "2x6 header": 1,
+      "2x6 blocking": 6,
+      "1/2 inch OSB": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__Templates__SH7_-_Ext_Wall_-_10_ft_-_Window_30",
+    "name": "SH7 - Ext Wall - 10 ft - Window 30",
+    "parts": 19,
+    "bom": {
+      "2x6 plate": 2,
+      "2x6 stud": 4,
+      "2x12 header": 2,
+      "2x6 header": 1,
+      "2x6 lumber": 5,
+      "1/2 inch OSB": 5
+    }
+  },
+  {
+    "id": "SH7CAD__CAD_2__Technical__Structural_Assemblies__Floor__SH7_-_Floor_-_6x20",
+    "name": "SH7 - Floor - 6x20",
+    "parts": 17,
+    "bom": {
+      "2x8 joist": 7,
+      "3/4 inch plywood": 5,
+      "3/4 inch OSB": 5
+    }
+  },
+  {
+    "id": "SH7CAD__CAD__Technical__Structural_Assemblies__Floor__SH7_-_Floor_-_6x20",
+    "name": "SH7 - Floor - 6x20",
+    "parts": 17,
+    "bom": {
+      "2x8 joist": 7,
+      "3/4 inch plywood": 5,
+      "3/4 inch OSB": 5
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Floor__SH7_-_Floor_Module_1",
+    "name": "SH7 - Floor Module 1",
+    "parts": 17,
+    "bom": {
+      "2x8 joist": 7,
+      "3/4 inch plywood": 5,
+      "3/4 inch OSB": 5
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Floor__SH7_-_Floor_Module_2",
+    "name": "SH7 - Floor Module 2",
+    "parts": 17,
+    "bom": {
+      "2x8 joist": 7,
+      "3/4 inch plywood": 5,
+      "3/4 inch OSB": 5
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Floor__SH7_-_Floor_Module_3",
+    "name": "SH7 - Floor Module 3",
+    "parts": 17,
+    "bom": {
+      "2x8 joist": 7,
+      "3/4 inch plywood": 5,
+      "3/4 inch OSB": 5
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Floor__SH7_-_Floor_Module_4",
+    "name": "SH7 - Floor Module 4",
+    "parts": 17,
+    "bom": {
+      "2x8 joist": 7,
+      "3/4 inch plywood": 5,
+      "3/4 inch OSB": 5
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Floor__SH7_-_Floor_Module_5",
+    "name": "SH7 - Floor Module 5",
+    "parts": 17,
+    "bom": {
+      "2x8 joist": 7,
+      "3/4 inch plywood": 5,
+      "3/4 inch OSB": 5
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Floor__SH7_-_Floor_Module_6",
+    "name": "SH7 - Floor Module 6",
+    "parts": 17,
+    "bom": {
+      "2x8 joist": 7,
+      "3/4 inch plywood": 5,
+      "3/4 inch OSB": 5
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Floor__Templates__SH7_-_Floor_-_6x20",
+    "name": "SH7 - Floor - 6x20",
+    "parts": 17,
+    "bom": {
+      "2x8 joist": 7,
+      "3/4 inch plywood": 5,
+      "3/4 inch OSB": 5
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__Archive__SH7_-_Wall_Module_-_Back_3",
+    "name": "SH7 - Wall Module - Back 3",
+    "parts": 17,
+    "bom": {
+      "2x6 plate": 3,
+      "2x6 stud": 6,
+      "2x12 header": 2,
+      "2x6 header": 1,
+      "2x6 lumber": 2,
+      "1/2 inch OSB": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__Archive__SH7_-_Wall_Module_-_Back_4",
+    "name": "SH7 - Wall Module - Back 4",
+    "parts": 17,
+    "bom": {
+      "2x6 plate": 3,
+      "2x6 stud": 6,
+      "2x12 header": 2,
+      "2x6 header": 1,
+      "2x6 lumber": 2,
+      "1/2 inch OSB": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__Archive__SH7_-_Wall_Module_-_Front_6",
+    "name": "SH7 - Wall Module - Front 6",
+    "parts": 17,
+    "bom": {
+      "2x6 plate": 3,
+      "2x6 stud": 6,
+      "2x12 header": 2,
+      "2x6 header": 1,
+      "2x6 lumber": 1,
+      "1x6 spacer": 1,
+      "1/2 inch OSB": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__SH7_-_Wall_Module_11",
+    "name": "SH7 - Wall Module 11",
+    "parts": 17,
+    "bom": {
+      "2x6 plate": 3,
+      "2x6 stud": 6,
+      "2x12 header": 2,
+      "2x6 header": 1,
+      "2x6 lumber": 1,
+      "1/2 inch OSB": 4
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__SH7_-_Wall_Module_24",
+    "name": "SH7 - Wall Module 24",
+    "parts": 17,
+    "bom": {
+      "2x6 plate": 3,
+      "2x6 stud": 6,
+      "2x12 header": 2,
+      "2x6 header": 1,
+      "2x6 lumber": 1,
+      "1x6 spacer": 1,
+      "1/2 inch OSB": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__SH7_-_Wall_Module_8",
+    "name": "SH7 - Wall Module 8",
+    "parts": 17,
+    "bom": {
+      "2x6 plate": 3,
+      "2x6 stud": 6,
+      "2x12 header": 2,
+      "2x6 header": 1,
+      "2x6 lumber": 2,
+      "1/2 inch OSB": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__SH7_-_Wall_Module_9",
+    "name": "SH7 - Wall Module 9",
+    "parts": 17,
+    "bom": {
+      "2x6 stud": 6,
+      "2x12 header": 2,
+      "2x6 lumber": 2,
+      "2x6 header": 1,
+      "1/2 inch OSB": 3,
+      "2x6 plate": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__Templates__SH7_-_Ext_Wall_-_10_ft_-_Door_36",
+    "name": "SH7 - Ext Wall - 10 ft - Door 36",
+    "parts": 17,
+    "bom": {
+      "2x6 plate": 3,
+      "2x6 stud": 6,
+      "2x12 header": 2,
+      "2x6 header": 1,
+      "2x6 lumber": 1,
+      "1x6 spacer": 1,
+      "1/2 inch OSB": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Deck_Modules__ARCHIVE__Front_Veranda_-_Deck_Module_1",
+    "name": "Front Veranda - Deck Module 1",
+    "parts": 16,
+    "bom": {
+      "5/4x6 deck board": 9,
+      "2x8 joist": 7
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Deck_Modules__ARCHIVE__Front_Veranda_-_Deck_Module_4",
+    "name": "Front Veranda - Deck Module 4",
+    "parts": 16,
+    "bom": {
+      "5/4x6 deck board": 9,
+      "2x8 joist": 7
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Deck_Modules__ARCHIVE__Front_Veranda_-_Deck_Module_7",
+    "name": "Front Veranda - Deck Module 7",
+    "parts": 16,
+    "bom": {
+      "5/4x6 deck board": 9,
+      "2x8 joist": 7
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Deck_Modules__Front_Veranda_-_Deck_Module_1",
+    "name": "Front Veranda - Deck Module 1",
+    "parts": 16,
+    "bom": {
+      "5/4x6 deck board": 9,
+      "2x8 joist": 7
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Deck_Modules__Front_Veranda_-_Deck_Module_4",
+    "name": "Front Veranda - Deck Module 4",
+    "parts": 16,
+    "bom": {
+      "2x8 joist": 7,
+      "5/4x6 deck board": 9
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Deck_Modules__Front_Veranda_-_Deck_Module_7",
+    "name": "Front Veranda - Deck Module 7",
+    "parts": 16,
+    "bom": {
+      "2x8 joist": 7,
+      "5/4x6 deck board": 9
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Roof__Trusses__SH7_-_Roof_-_Seed_-_Truss_-_Tapered_-_Right_Edges",
+    "name": "SH7 - Roof - Seed - Truss - Tapered - Right Edges",
+    "parts": 16,
+    "bom": {
+      "2x4 lumber": 8,
+      "2x4 stud": 8
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__Archive__SH7_-_Wall_Module_-_Back_6",
+    "name": "SH7 - Wall Module - Back 6",
+    "parts": 16,
+    "bom": {
+      "2x6 plate": 3,
+      "2x6 stud": 6,
+      "2x12 header": 2,
+      "2x6 header": 1,
+      "2x6 lumber": 1,
+      "1/2 inch OSB": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__Archive__SH7_-_Wall_Module_-_Back_7",
+    "name": "SH7 - Wall Module - Back 7",
+    "parts": 16,
+    "bom": {
+      "2x6 plate": 3,
+      "2x6 stud": 6,
+      "2x12 header": 2,
+      "2x6 header": 1,
+      "2x6 lumber": 1,
+      "1/2 inch OSB": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__INTERIOR_WALLS__Archived__SH7_-_Wall_Module_-_Interior_5",
+    "name": "SH7 - Wall Module - Interior 5",
+    "parts": 14,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 4,
+      "2x4 lumber": 7,
+      "2x4 header": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__INTERIOR_WALLS__Archived__SH7_-_Wall_Module_-_Interior_6",
+    "name": "SH7 - Wall Module - Interior 6",
+    "parts": 14,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 4,
+      "2x4 lumber": 7,
+      "2x4 header": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__INTERIOR_WALLS__SH7_-_Wall_Module_-_Interior_34",
+    "name": "SH7 - Wall Module - Interior 34",
+    "parts": 14,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 4,
+      "2x4 lumber": 7,
+      "2x4 header": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__INTERIOR_WALLS__SH7_-_Wall_Module_-_Interior_39",
+    "name": "SH7 - Wall Module - Interior 39",
+    "parts": 14,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 4,
+      "2x4 lumber": 7,
+      "2x4 header": 1
+    }
+  },
+  {
+    "id": "SH7CAD__CAD_2__Technical__Structural_Assemblies__Roof__SH7_-_Roof_-_Seed_-_Truss_-_Ends",
+    "name": "SH7 - Roof - Seed - Truss - Ends",
+    "parts": 13,
+    "bom": {
+      "2x4 lumber": 8,
+      "1/2 inch OSB": 5
+    }
+  },
+  {
+    "id": "SH7CAD__CAD_2__Technical__Structural_Assemblies__Roof__SH7_-_Roof_-_Seed_-_Truss_-_Middle",
+    "name": "SH7 - Roof - Seed - Truss - Middle",
+    "parts": 13,
+    "bom": {
+      "2x4 lumber": 8,
+      "1/2 inch OSB": 5
+    }
+  },
+  {
+    "id": "SH7CAD__CAD__Technical__Structural_Assemblies__Roof__SH7_-_Roof_-_Seed_-_Truss_-_Ends",
+    "name": "SH7 - Roof - Seed - Truss - Ends",
+    "parts": 13,
+    "bom": {
+      "2x4 lumber": 8,
+      "1/2 inch OSB": 5
+    }
+  },
+  {
+    "id": "SH7CAD__CAD__Technical__Structural_Assemblies__Roof__SH7_-_Roof_-_Seed_-_Truss_-_Middle",
+    "name": "SH7 - Roof - Seed - Truss - Middle",
+    "parts": 13,
+    "bom": {
+      "2x4 lumber": 8,
+      "1/2 inch OSB": 5
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__INTERIOR_WALLS__Archived__SH7_-_Wall_Module_-_Interior_12",
+    "name": "SH7 - Wall Module - Interior 12",
+    "parts": 13,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3,
+      "2x4 lumber": 8
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__INTERIOR_WALLS__SH7_-_Wall_Module_-_Interior_47",
+    "name": "SH7 - Wall Module - Interior 47",
+    "parts": 13,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3,
+      "2x4 lumber": 8
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__Templates__SH7_-_Ext_Wall_-_10_ft_-_Door_34",
+    "name": "SH7 - Ext Wall - 10 ft - Door 34",
+    "parts": 13,
+    "bom": {
+      "2x6 plate": 3,
+      "2x6 stud": 6,
+      "2x12 header": 2,
+      "2x6 header": 1,
+      "2x6 lumber": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__INTERIOR_WALLS__SH7_-_Wall_Module_-_Interior_30",
+    "name": "SH7 - Wall Module - Interior 30",
+    "parts": 12,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 5,
+      "2x4 header": 1,
+      "2x4 lumber": 1,
+      "2x4 blocking": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__INTERIOR_WALLS__SH7_-_Wall_Module_-_Interior_35",
+    "name": "SH7 - Wall Module - Interior 35",
+    "parts": 12,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 5,
+      "2x4 header": 1,
+      "2x4 lumber": 1,
+      "2x4 blocking": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__INTERIOR_WALLS__SH7_-_Wall_Module_-_Interior_48",
+    "name": "SH7 - Wall Module - Interior 48",
+    "parts": 12,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 5,
+      "2x4 header": 1,
+      "2x4 lumber": 1,
+      "2x4 blocking": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__INTERIOR_WALLS__Archived__SH7_-_Wall_Module_-_Interior_1",
+    "name": "SH7 - Wall Module - Interior 1",
+    "parts": 11,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 4,
+      "2x4 header": 1,
+      "2x4 lumber": 1,
+      "2x4 blocking": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__INTERIOR_WALLS__Archived__SH7_-_Wall_Module_-_Interior_10",
+    "name": "SH7 - Wall Module - Interior 10",
+    "parts": 11,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 4,
+      "2x4 header": 1,
+      "2x4 lumber": 1,
+      "2x4 blocking": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__INTERIOR_WALLS__Archived__SH7_-_Wall_Module_-_Interior_13",
+    "name": "SH7 - Wall Module - Interior 13",
+    "parts": 11,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 4,
+      "2x4 header": 1,
+      "2x4 lumber": 1,
+      "2x4 blocking": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Roof__Roof_-_Bath__SH7_-_Roof_-_Seed_-_Decking_-_Bath",
+    "name": "SH7 - Roof - Seed - Decking - Bath",
+    "parts": 10,
+    "bom": {
+      "deck board": 10
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Roof__Roof_-_FR__SH7_-_Roof_-_Seed_-_Decking_-_FR",
+    "name": "SH7 - Roof - Seed - Decking - FR",
+    "parts": 10,
+    "bom": {
+      "deck board": 10
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Roof__Roof_-_Kitchen__SH7_-_Roof_-_Seed_-_Decking_-_Kitchen",
+    "name": "SH7 - Roof - Seed - Decking - Kitchen",
+    "parts": 10,
+    "bom": {
+      "deck board": 10
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__Archive__SH7_-_Wall_Module_-_Back_8",
+    "name": "SH7 - Wall Module - Back 8",
+    "parts": 10,
+    "bom": {
+      "2x6 plate": 2,
+      "2x6 stud": 3,
+      "1/2 inch OSB": 1,
+      "2x4 lumber": 4
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__Archive__SH7_-_Wall_Module_-_Right_2",
+    "name": "SH7 - Wall Module - Right 2",
+    "parts": 10,
+    "bom": {
+      "2x6 plate": 2,
+      "2x6 stud": 3,
+      "1/2 inch OSB": 1,
+      "2x4 lumber": 4
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__SH7_-_Wall_Module_13",
+    "name": "SH7 - Wall Module 13",
+    "parts": 10,
+    "bom": {
+      "2x6 plate": 2,
+      "2x6 stud": 3,
+      "1/2 inch OSB": 1,
+      "2x4 lumber": 4
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__SH7_-_Wall_Module_17",
+    "name": "SH7 - Wall Module 17",
+    "parts": 10,
+    "bom": {
+      "2x6 plate": 2,
+      "2x6 stud": 3,
+      "1/2 inch OSB": 1,
+      "2x4 lumber": 4
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__SH7_-_Wall_Module_20",
+    "name": "SH7 - Wall Module 20",
+    "parts": 10,
+    "bom": {
+      "2x6 plate": 2,
+      "2x6 stud": 3,
+      "1/2 inch OSB": 1,
+      "2x4 lumber": 4
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Wall_Modules__ARCHIVE__Front_Veranda_-_Wall_Module_-_Back_5",
+    "name": "Front Veranda - Wall Module - Back 5",
+    "parts": 9,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 2,
+      "2x4 header": 1,
+      "2x4 lumber": 1,
+      "1/2 inch OSB": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Wall_Modules__SH7_-_Wall_Module_-_Front_Veranda_51",
+    "name": "SH7 - Wall Module - Front Veranda 51",
+    "parts": 9,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 6,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Wall_Modules__SH7_-_Wall_Module_-_Front_Veranda_55",
+    "name": "SH7 - Wall Module - Front Veranda 55",
+    "parts": 9,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 2,
+      "2x4 header": 1,
+      "2x4 lumber": 1,
+      "1/2 inch OSB": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Wall_Modules__Templates__Front_Veranda_-_Wall_Module_-_Door",
+    "name": "Front Veranda - Wall Module - Door",
+    "parts": 9,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 2,
+      "2x4 header": 1,
+      "2x4 lumber": 1,
+      "1/2 inch OSB": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Roof__Trusses__SH7_-_Roof_-_Seed_-_Truss_-_Tapered_-_Middle",
+    "name": "SH7 - Roof - Seed - Truss - Tapered - Middle",
+    "parts": 9,
+    "bom": {
+      "2x4 lumber": 2,
+      "2x4 stud": 5,
+      "1/2 inch OSB": 2
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__Archive__SH7_-_Wall_Module_-_Back_1",
+    "name": "SH7 - Wall Module - Back 1",
+    "parts": 9,
+    "bom": {
+      "2x6 plate": 2,
+      "2x6 stud": 6,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__Archive__SH7_-_Wall_Module_-_Back_9",
+    "name": "SH7 - Wall Module - Back 9",
+    "parts": 9,
+    "bom": {
+      "2x6 plate": 2,
+      "2x6 stud": 6,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__Archive__SH7_-_Wall_Module_-_Front_1",
+    "name": "SH7 - Wall Module - Front 1",
+    "parts": 9,
+    "bom": {
+      "2x6 plate": 2,
+      "2x6 stud": 6,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__Archive__SH7_-_Wall_Module_-_Front_10",
+    "name": "SH7 - Wall Module - Front 10",
+    "parts": 9,
+    "bom": {
+      "2x6 plate": 2,
+      "2x6 stud": 6,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__Archive__SH7_-_Wall_Module_-_Front_12",
+    "name": "SH7 - Wall Module - Front 12",
+    "parts": 9,
+    "bom": {
+      "2x6 plate": 2,
+      "2x6 stud": 6,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__SH7_-_Wall_Module_14",
+    "name": "SH7 - Wall Module 14",
+    "parts": 9,
+    "bom": {
+      "2x6 plate": 2,
+      "2x6 stud": 6,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__SH7_-_Wall_Module_19",
+    "name": "SH7 - Wall Module 19",
+    "parts": 9,
+    "bom": {
+      "2x6 stud": 6,
+      "2x6 plate": 2,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__SH7_-_Wall_Module_21",
+    "name": "SH7 - Wall Module 21",
+    "parts": 9,
+    "bom": {
+      "2x6 stud": 6,
+      "2x6 plate": 2,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__SH7_-_Wall_Module_29",
+    "name": "SH7 - Wall Module 29",
+    "parts": 9,
+    "bom": {
+      "2x6 plate": 2,
+      "2x6 stud": 6,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__SH7_-_Wall_Module_6",
+    "name": "SH7 - Wall Module 6",
+    "parts": 9,
+    "bom": {
+      "2x6 plate": 2,
+      "2x6 stud": 6,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__INTERIOR_WALLS__Archived__SH7_-_Wall_Module_-_Interior_8",
+    "name": "SH7 - Wall Module - Interior 8",
+    "parts": 9,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3,
+      "2x4 lumber": 4
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__INTERIOR_WALLS__SH7_-_Wall_Module_-_Interior_37",
+    "name": "SH7 - Wall Module - Interior 37",
+    "parts": 9,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3,
+      "2x4 lumber": 4
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Wall_Modules__ARCHIVE__Front_Veranda_-_Wall_Module_-_Left_2",
+    "name": "Front Veranda - Wall Module - Left 2",
+    "parts": 8,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3,
+      "2x4 lumber": 2,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Wall_Modules__ARCHIVE__Front_Veranda_-_Wall_Module_-_Right_2",
+    "name": "Front Veranda - Wall Module - Right 2",
+    "parts": 8,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3,
+      "2x4 lumber": 2,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Roof__Trusses__SH7_-_Roof_-_Seed_-_Truss_-_Tapered_-_Left_Edges",
+    "name": "SH7 - Roof - Seed - Truss - Tapered - Left Edges",
+    "parts": 8,
+    "bom": {
+      "2x4 lumber": 4,
+      "2x4 stud": 4
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__Archive__SH7_-_Wall_Module_-_Front_4",
+    "name": "SH7 - Wall Module - Front 4",
+    "parts": 8,
+    "bom": {
+      "1/2 inch OSB": 1,
+      "2x6 plate": 2,
+      "2x6 stud": 5
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__Archive__SH7_-_Wall_Module_-_Front_5",
+    "name": "SH7 - Wall Module - Front 5",
+    "parts": 8,
+    "bom": {
+      "1/2 inch OSB": 1,
+      "2x6 plate": 2,
+      "2x6 stud": 5
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__SH7_-_Wall_Module_25",
+    "name": "SH7 - Wall Module 25",
+    "parts": 8,
+    "bom": {
+      "1/2 inch OSB": 1,
+      "2x6 plate": 2,
+      "2x6 stud": 5
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__SH7_-_Wall_Module_26",
+    "name": "SH7 - Wall Module 26",
+    "parts": 8,
+    "bom": {
+      "1/2 inch OSB": 1,
+      "2x6 plate": 2,
+      "2x6 stud": 5
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__INTERIOR_WALLS__Archived__SH7_-_Wall_Module_-_Interior_20",
+    "name": "SH7 - Wall Module - Interior 20",
+    "parts": 7,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 5
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__INTERIOR_WALLS__Archived__SH7_-_Wall_Module_-_Interior_21",
+    "name": "SH7 - Wall Module - Interior 21",
+    "parts": 7,
+    "bom": {
+      "2x4 header": 2,
+      "2x4 stud": 5
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__INTERIOR_WALLS__SH7_-_Wall_Module_-_Interior_49",
+    "name": "SH7 - Wall Module - Interior 49",
+    "parts": 7,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 5
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__INTERIOR_WALLS__SH7_-_Wall_Module_-_Interior_50",
+    "name": "SH7 - Wall Module - Interior 50",
+    "parts": 7,
+    "bom": {
+      "2x4 header": 2,
+      "2x4 stud": 5
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Roof_Modules__Front_Veranda_-_Roof_Module_1",
+    "name": "Front Veranda - Roof Module 1",
+    "parts": 6,
+    "bom": {
+      "2x6 header": 2,
+      "2x6 lumber": 1,
+      "2x4 lumber": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Roof_Modules__Front_Veranda_-_Roof_Module_2",
+    "name": "Front Veranda - Roof Module 2",
+    "parts": 6,
+    "bom": {
+      "2x6 header": 2,
+      "2x6 lumber": 1,
+      "2x4 lumber": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Roof_Modules__Front_Veranda_-_Roof_Module_3",
+    "name": "Front Veranda - Roof Module 3",
+    "parts": 6,
+    "bom": {
+      "2x6 header": 2,
+      "2x6 lumber": 1,
+      "2x4 lumber": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Roof_Modules__Front_Veranda_-_Roof_Module_4",
+    "name": "Front Veranda - Roof Module 4",
+    "parts": 6,
+    "bom": {
+      "2x6 header": 2,
+      "2x6 lumber": 1,
+      "2x4 lumber": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Roof_Modules__Front_Veranda_-_Roof_Module_5",
+    "name": "Front Veranda - Roof Module 5",
+    "parts": 6,
+    "bom": {
+      "2x6 header": 2,
+      "2x6 lumber": 1,
+      "2x4 lumber": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Roof_Modules__Front_Veranda_-_Roof_Module_6",
+    "name": "Front Veranda - Roof Module 6",
+    "parts": 6,
+    "bom": {
+      "2x6 header": 2,
+      "2x6 lumber": 1,
+      "2x4 lumber": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Roof_Modules__Front_Veranda_-_Roof_Module_7",
+    "name": "Front Veranda - Roof Module 7",
+    "parts": 6,
+    "bom": {
+      "2x6 header": 2,
+      "2x6 lumber": 1,
+      "2x4 lumber": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Roof_Modules__Front_Veranda_-_Roof_Module_8",
+    "name": "Front Veranda - Roof Module 8",
+    "parts": 6,
+    "bom": {
+      "2x6 header": 2,
+      "2x6 lumber": 1,
+      "2x4 lumber": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Wall_Modules__ARCHIVE__Front_Veranda_-_Wall_Module_-_Back_1",
+    "name": "Front Veranda - Wall Module - Back 1",
+    "parts": 6,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Wall_Modules__ARCHIVE__Front_Veranda_-_Wall_Module_-_Back_4",
+    "name": "Front Veranda - Wall Module - Back 4",
+    "parts": 6,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Wall_Modules__ARCHIVE__Front_Veranda_-_Wall_Module_-_Back_6",
+    "name": "Front Veranda - Wall Module - Back 6",
+    "parts": 6,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Wall_Modules__ARCHIVE__Front_Veranda_-_Wall_Module_-_Back_8",
+    "name": "Front Veranda - Wall Module - Back 8",
+    "parts": 6,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Wall_Modules__ARCHIVE__Front_Veranda_-_Wall_Module_-_Left_1",
+    "name": "Front Veranda - Wall Module - Left 1",
+    "parts": 6,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Wall_Modules__ARCHIVE__Front_Veranda_-_Wall_Module_-_Right_1",
+    "name": "Front Veranda - Wall Module - Right 1",
+    "parts": 6,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Wall_Modules__SH7_-_Wall_Module_-_Front_Veranda_54",
+    "name": "SH7 - Wall Module - Front Veranda 54",
+    "parts": 6,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Wall_Modules__SH7_-_Wall_Module_-_Front_Veranda_56",
+    "name": "SH7 - Wall Module - Front Veranda 56",
+    "parts": 6,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Wall_Modules__SH7_-_Wall_Module_-_Front_Veranda_58",
+    "name": "SH7 - Wall Module - Front Veranda 58",
+    "parts": 6,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Wall_Modules__SH7_-_Wall_Module_-_Front_Veranda_60",
+    "name": "SH7 - Wall Module - Front Veranda 60",
+    "parts": 6,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Wall_Modules__SH7_-_Wall_Module_-_Front_Veranda_61",
+    "name": "SH7 - Wall Module - Front Veranda 61",
+    "parts": 6,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Wall_Modules__SH7_-_Wall_Module_-_Front_Veranda_62",
+    "name": "SH7 - Wall Module - Front Veranda 62",
+    "parts": 6,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Wall_Modules__SH7_-_Wall_Module_-_Front_Veranda_63",
+    "name": "SH7 - Wall Module - Front Veranda 63",
+    "parts": 6,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__Archive__SH7_-_Wall_Module_-_Front_11",
+    "name": "SH7 - Wall Module - Front 11",
+    "parts": 6,
+    "bom": {
+      "2x6 plate": 2,
+      "2x6 stud": 3,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__Archive__SH7_-_Wall_Module_-_Front_7",
+    "name": "SH7 - Wall Module - Front 7",
+    "parts": 6,
+    "bom": {
+      "2x6 plate": 2,
+      "2x6 stud": 3,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__Archive__SH7_-_Wall_Module_-_Left_1",
+    "name": "SH7 - Wall Module - Left 1",
+    "parts": 6,
+    "bom": {
+      "2x6 plate": 2,
+      "2x6 stud": 3,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__Archive__SH7_-_Wall_Module_-_Left_2",
+    "name": "SH7 - Wall Module - Left 2",
+    "parts": 6,
+    "bom": {
+      "2x6 plate": 2,
+      "2x6 stud": 3,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__Archive__SH7_-_Wall_Module_-_Left_3",
+    "name": "SH7 - Wall Module - Left 3",
+    "parts": 6,
+    "bom": {
+      "2x6 plate": 2,
+      "2x6 stud": 3,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__Archive__SH7_-_Wall_Module_-_Left_4",
+    "name": "SH7 - Wall Module - Left 4",
+    "parts": 6,
+    "bom": {
+      "2x6 plate": 2,
+      "2x6 stud": 3,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__Archive__SH7_-_Wall_Module_-_Right_3",
+    "name": "SH7 - Wall Module - Right 3",
+    "parts": 6,
+    "bom": {
+      "2x6 plate": 2,
+      "2x6 stud": 3,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__Archive__SH7_-_Wall_Module_-_Right_4",
+    "name": "SH7 - Wall Module - Right 4",
+    "parts": 6,
+    "bom": {
+      "2x6 plate": 2,
+      "2x6 stud": 3,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__SH7_-_Wall_Module_1",
+    "name": "SH7 - Wall Module 1",
+    "parts": 6,
+    "bom": {
+      "2x6 plate": 2,
+      "2x6 stud": 3,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__SH7_-_Wall_Module_15",
+    "name": "SH7 - Wall Module 15",
+    "parts": 6,
+    "bom": {
+      "2x6 plate": 2,
+      "2x6 stud": 3,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__SH7_-_Wall_Module_16",
+    "name": "SH7 - Wall Module 16",
+    "parts": 6,
+    "bom": {
+      "2x6 plate": 2,
+      "2x6 stud": 3,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__SH7_-_Wall_Module_2",
+    "name": "SH7 - Wall Module 2",
+    "parts": 6,
+    "bom": {
+      "2x6 plate": 2,
+      "2x6 stud": 3,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__SH7_-_Wall_Module_23",
+    "name": "SH7 - Wall Module 23",
+    "parts": 6,
+    "bom": {
+      "2x6 plate": 2,
+      "2x6 stud": 3,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__SH7_-_Wall_Module_3",
+    "name": "SH7 - Wall Module 3",
+    "parts": 6,
+    "bom": {
+      "2x6 plate": 2,
+      "2x6 stud": 3,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__SH7_-_Wall_Module_4",
+    "name": "SH7 - Wall Module 4",
+    "parts": 6,
+    "bom": {
+      "2x6 plate": 2,
+      "2x6 stud": 3,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__SH7_-_Wall_Module_5",
+    "name": "SH7 - Wall Module 5",
+    "parts": 6,
+    "bom": {
+      "2x6 plate": 2,
+      "2x6 stud": 3,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Wall_Modules__ARCHIVE__Front_Veranda_-_Wall_Module_-_Back_2",
+    "name": "Front Veranda - Wall Module - Back 2",
+    "parts": 5,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 2,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Wall_Modules__ARCHIVE__Front_Veranda_-_Wall_Module_-_Back_9",
+    "name": "Front Veranda - Wall Module - Back 9",
+    "parts": 5,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 2,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Wall_Modules__SH7_-_Wall_Module_-_Front_Veranda_52",
+    "name": "SH7 - Wall Module - Front Veranda 52",
+    "parts": 5,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 2,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Front_Veranda__Front_Veranda_-_Wall_Modules__SH7_-_Wall_Module_-_Front_Veranda_59",
+    "name": "SH7 - Wall Module - Front Veranda 59",
+    "parts": 5,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 2,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__Archive__SH7_-_Wall_Module_-_Back_2",
+    "name": "SH7 - Wall Module - Back 2",
+    "parts": 5,
+    "bom": {
+      "2x6 plate": 2,
+      "2x6 stud": 2,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__Archive__SH7_-_Wall_Module_-_Back_5",
+    "name": "SH7 - Wall Module - Back 5",
+    "parts": 5,
+    "bom": {
+      "2x6 plate": 2,
+      "2x6 stud": 2,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__Archive__SH7_-_Wall_Module_-_Front_2",
+    "name": "SH7 - Wall Module - Front 2",
+    "parts": 5,
+    "bom": {
+      "2x6 plate": 2,
+      "2x6 stud": 2,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__SH7_-_Wall_Module_10",
+    "name": "SH7 - Wall Module 10",
+    "parts": 5,
+    "bom": {
+      "2x6 plate": 2,
+      "2x6 stud": 2,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__SH7_-_Wall_Module_28",
+    "name": "SH7 - Wall Module 28",
+    "parts": 5,
+    "bom": {
+      "2x6 plate": 2,
+      "2x6 stud": 2,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__EXTERIOR_WALLS__SH7_-_Wall_Module_7",
+    "name": "SH7 - Wall Module 7",
+    "parts": 5,
+    "bom": {
+      "2x6 plate": 2,
+      "2x6 stud": 2,
+      "1/2 inch OSB": 1
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__INTERIOR_WALLS__Archived__SH7_-_Wall_Module_-_Interior_11",
+    "name": "SH7 - Wall Module - Interior 11",
+    "parts": 5,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__INTERIOR_WALLS__Archived__SH7_-_Wall_Module_-_Interior_14",
+    "name": "SH7 - Wall Module - Interior 14",
+    "parts": 5,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__INTERIOR_WALLS__Archived__SH7_-_Wall_Module_-_Interior_15",
+    "name": "SH7 - Wall Module - Interior 15",
+    "parts": 5,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__INTERIOR_WALLS__Archived__SH7_-_Wall_Module_-_Interior_16",
+    "name": "SH7 - Wall Module - Interior 16",
+    "parts": 5,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__INTERIOR_WALLS__Archived__SH7_-_Wall_Module_-_Interior_17",
+    "name": "SH7 - Wall Module - Interior 17",
+    "parts": 5,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__INTERIOR_WALLS__Archived__SH7_-_Wall_Module_-_Interior_18",
+    "name": "SH7 - Wall Module - Interior 18",
+    "parts": 5,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__INTERIOR_WALLS__Archived__SH7_-_Wall_Module_-_Interior_19",
+    "name": "SH7 - Wall Module - Interior 19",
+    "parts": 5,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__INTERIOR_WALLS__Archived__SH7_-_Wall_Module_-_Interior_2",
+    "name": "SH7 - Wall Module - Interior 2",
+    "parts": 5,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__INTERIOR_WALLS__Archived__SH7_-_Wall_Module_-_Interior_3",
+    "name": "SH7 - Wall Module - Interior 3",
+    "parts": 5,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__INTERIOR_WALLS__Archived__SH7_-_Wall_Module_-_Interior_4",
+    "name": "SH7 - Wall Module - Interior 4",
+    "parts": 5,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__INTERIOR_WALLS__Archived__SH7_-_Wall_Module_-_Interior_7",
+    "name": "SH7 - Wall Module - Interior 7",
+    "parts": 5,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__INTERIOR_WALLS__Archived__SH7_-_Wall_Module_-_Interior_9",
+    "name": "SH7 - Wall Module - Interior 9",
+    "parts": 5,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__INTERIOR_WALLS__SH7_-_Wall_Module_-_Interior_31",
+    "name": "SH7 - Wall Module - Interior 31",
+    "parts": 5,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__INTERIOR_WALLS__SH7_-_Wall_Module_-_Interior_32",
+    "name": "SH7 - Wall Module - Interior 32",
+    "parts": 5,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__INTERIOR_WALLS__SH7_-_Wall_Module_-_Interior_33",
+    "name": "SH7 - Wall Module - Interior 33",
+    "parts": 5,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__INTERIOR_WALLS__SH7_-_Wall_Module_-_Interior_36",
+    "name": "SH7 - Wall Module - Interior 36",
+    "parts": 5,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__INTERIOR_WALLS__SH7_-_Wall_Module_-_Interior_38",
+    "name": "SH7 - Wall Module - Interior 38",
+    "parts": 5,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__INTERIOR_WALLS__SH7_-_Wall_Module_-_Interior_40",
+    "name": "SH7 - Wall Module - Interior 40",
+    "parts": 5,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__INTERIOR_WALLS__SH7_-_Wall_Module_-_Interior_41",
+    "name": "SH7 - Wall Module - Interior 41",
+    "parts": 5,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__INTERIOR_WALLS__SH7_-_Wall_Module_-_Interior_42",
+    "name": "SH7 - Wall Module - Interior 42",
+    "parts": 5,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__INTERIOR_WALLS__SH7_-_Wall_Module_-_Interior_43",
+    "name": "SH7 - Wall Module - Interior 43",
+    "parts": 5,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__INTERIOR_WALLS__SH7_-_Wall_Module_-_Interior_44",
+    "name": "SH7 - Wall Module - Interior 44",
+    "parts": 5,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__INTERIOR_WALLS__SH7_-_Wall_Module_-_Interior_45",
+    "name": "SH7 - Wall Module - Interior 45",
+    "parts": 5,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3
+    }
+  },
+  {
+    "id": "SH7CAD__Structural_Assemblies__Walls__INTERIOR_WALLS__SH7_-_Wall_Module_-_Interior_46",
+    "name": "SH7 - Wall Module - Interior 46",
+    "parts": 5,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3
+    }
+  },
+  {
+    "id": "HANGAR__Hangar",
+    "name": "Hangar",
+    "parts": 0,
+    "bom": {}
+  }
+]

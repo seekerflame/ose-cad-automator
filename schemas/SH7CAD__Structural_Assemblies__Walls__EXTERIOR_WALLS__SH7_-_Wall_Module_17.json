@@ -1,0 +1,176 @@
+{
+  "metadata": {
+    "name": "SH7 - Wall Module 17",
+    "version": "1.0.0",
+    "ose_reference": "SH7 - Wall Module 17.fcstd",
+    "license": "CC BY-SA 4.0",
+    "description": "Extracted from /Volumes/Extreme SSD/Nick/OSE/SH7CAD/Structural Assemblies/Walls/EXTERIOR WALLS/SH7 - Wall Module 17.fcstd",
+    "total_parts": 10,
+    "bom": {
+      "2x6 plate": 2,
+      "2x6 stud": 3,
+      "1/2 inch OSB": 1,
+      "2x4 lumber": 4
+    }
+  },
+  "parts": [
+    {
+      "id": "2x6_bottom_plate_0",
+      "label": "2x6 bottom plate",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_top_plate_1",
+      "label": "2x6 top plate",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 3009.9
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_stud___left_2",
+      "label": "2x6 stud - left",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 139.7,
+      "height_mm": 2971.8,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x6 stud"
+    },
+    {
+      "id": "2x6_stud___middle_3",
+      "label": "2x6 stud - middle",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 139.7,
+      "height_mm": 2971.8,
+      "position": {
+        "x": 590.55,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x6 stud"
+    },
+    {
+      "id": "2x6_stud___right_4",
+      "label": "2x6 stud - right",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 139.7,
+      "height_mm": 2971.8,
+      "position": {
+        "x": 1181.1,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x6 stud"
+    },
+    {
+      "id": "1_2_osb_6",
+      "label": "1/2 osb",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 12.7,
+      "height_mm": 3048.0,
+      "position": {
+        "x": 0.0,
+        "y": -12.7,
+        "z": 0.0
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "2x4_ladder___left_001_7",
+      "label": "2x4 ladder - left 001",
+      "type": "box",
+      "length_mm": 552.45,
+      "width_mm": 38.1,
+      "height_mm": 88.9,
+      "position": {
+        "x": 38.1,
+        "y": 101.6,
+        "z": 565.15
+      },
+      "material": "2x4 lumber"
+    },
+    {
+      "id": "2x4_ladder___left_003_8",
+      "label": "2x4 ladder - left 003",
+      "type": "box",
+      "length_mm": 552.45,
+      "width_mm": 38.1,
+      "height_mm": 88.9,
+      "position": {
+        "x": 38.1,
+        "y": 101.6,
+        "z": 1784.35
+      },
+      "material": "2x4 lumber"
+    },
+    {
+      "id": "2x4_ladder___left_002_9",
+      "label": "2x4 ladder - left 002",
+      "type": "box",
+      "length_mm": 552.45,
+      "width_mm": 38.1,
+      "height_mm": 88.9,
+      "position": {
+        "x": 38.1,
+        "y": 101.6,
+        "z": 1174.75
+      },
+      "material": "2x4 lumber"
+    },
+    {
+      "id": "2x4_ladder___left_004_10",
+      "label": "2x4 ladder - left 004",
+      "type": "box",
+      "length_mm": 552.45,
+      "width_mm": 38.1,
+      "height_mm": 88.9,
+      "position": {
+        "x": 38.1,
+        "y": 101.6,
+        "z": 2393.95
+      },
+      "material": "2x4 lumber"
+    }
+  ],
+  "groups": [
+    {
+      "id": "parts_5",
+      "label": "PARTS",
+      "children": [
+        "2x6_bottom_plate_0",
+        "2x6_top_plate_1",
+        "2x6_stud___left_2",
+        "2x6_stud___middle_3",
+        "2x6_stud___right_4",
+        "1_2_osb_5",
+        "2x4_ladder___left_004_6",
+        "2x4_ladder___left_001_7",
+        "2x4_ladder___left_003_8",
+        "2x4_ladder___left_002_9"
+      ]
+    }
+  ]
+}

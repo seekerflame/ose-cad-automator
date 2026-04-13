@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "name": "SH7 - Wall Module - Interior 43",
+    "version": "1.0.0",
+    "ose_reference": "SH7 - Wall Module - Interior 43.fcstd",
+    "license": "CC BY-SA 4.0",
+    "description": "Extracted from /Volumes/Extreme SSD/Nick/OSE/SH7CAD/Structural Assemblies/Walls/INTERIOR WALLS/SH7 - Wall Module - Interior 43.fcstd",
+    "total_parts": 5,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 3
+    }
+  },
+  "parts": [
+    {
+      "id": "2x4_bottom_plate_0",
+      "label": "2x4 bottom plate",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 88.9,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "material": "2x4 plate"
+    },
+    {
+      "id": "2x4_top_plate_1",
+      "label": "2x4 top plate",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 88.9,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 3009.9
+      },
+      "material": "2x4 plate"
+    },
+    {
+      "id": "2x4_stud___left_2",
+      "label": "2x4 stud - left",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 88.9,
+      "height_mm": 2971.8,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x4 stud"
+    },
+    {
+      "id": "2x4_stud___middle_3",
+      "label": "2x4 stud - middle",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 88.9,
+      "height_mm": 2971.8,
+      "position": {
+        "x": 590.55,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x4 stud"
+    },
+    {
+      "id": "2x4_stud___right_4",
+      "label": "2x4 stud - right",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 88.9,
+      "height_mm": 2971.8,
+      "position": {
+        "x": 1181.1,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x4 stud"
+    }
+  ],
+  "groups": [
+    {
+      "id": "parts_5",
+      "label": "PARTS",
+      "children": [
+        "2x4_bottom_plate_0",
+        "2x4_top_plate_1",
+        "2x4_stud___left_2",
+        "2x4_stud___middle_3",
+        "2x4_stud___right_4"
+      ]
+    }
+  ]
+}

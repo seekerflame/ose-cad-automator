@@ -1,0 +1,360 @@
+{
+  "metadata": {
+    "name": "SH7 - Roof - Seed - Insulation - Bath",
+    "version": "1.0.0",
+    "ose_reference": "SH7 - Roof - Seed - Insulation - Bath.fcstd",
+    "license": "CC BY-SA 4.0",
+    "description": "Extracted from /Volumes/Extreme SSD/Nick/OSE/SH7CAD/Structural Assemblies/Roof/Roof - Bath/SH7 - Roof - Seed - Insulation - Bath.fcstd",
+    "total_parts": 22,
+    "bom": {
+      "2 inch rigid foam insulation": 10,
+      "insulation": 12
+    }
+  },
+  "parts": [
+    {
+      "id": "2in_rigid_insulation_001_0",
+      "label": "2in rigid insulation 001",
+      "type": "box",
+      "length_mm": 2438.4,
+      "width_mm": 1219.2,
+      "height_mm": 50.8,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "material": "2 inch rigid foam insulation"
+    },
+    {
+      "id": "2in_rigid_insulation_002_1",
+      "label": "2in rigid insulation 002",
+      "type": "box",
+      "length_mm": 1130.3,
+      "width_mm": 1219.2,
+      "height_mm": 50.8,
+      "position": {
+        "x": 2438.4,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "material": "2 inch rigid foam insulation"
+    },
+    {
+      "id": "2in_rigid_insulation_003_2",
+      "label": "2in rigid insulation 003",
+      "type": "box",
+      "length_mm": 1130.3,
+      "width_mm": 1219.2,
+      "height_mm": 50.8,
+      "position": {
+        "x": 0.0,
+        "y": 1219.2,
+        "z": 0.0
+      },
+      "material": "2 inch rigid foam insulation"
+    },
+    {
+      "id": "2in_rigid_insulation_004_3",
+      "label": "2in rigid insulation 004",
+      "type": "box",
+      "length_mm": 2438.4,
+      "width_mm": 1219.2,
+      "height_mm": 50.8,
+      "position": {
+        "x": 1130.3,
+        "y": 1219.2,
+        "z": 0.0
+      },
+      "material": "2 inch rigid foam insulation"
+    },
+    {
+      "id": "2in_rigid_insulation_005_4",
+      "label": "2in rigid insulation 005",
+      "type": "box",
+      "length_mm": 2438.4,
+      "width_mm": 1219.2,
+      "height_mm": 50.8,
+      "position": {
+        "x": 0.0,
+        "y": 2438.4,
+        "z": 0.0
+      },
+      "material": "2 inch rigid foam insulation"
+    },
+    {
+      "id": "2in_rigid_insulation_006_5",
+      "label": "2in rigid insulation 006",
+      "type": "box",
+      "length_mm": 1130.3,
+      "width_mm": 1219.2,
+      "height_mm": 50.8,
+      "position": {
+        "x": 2438.4,
+        "y": 2438.4,
+        "z": 0.0
+      },
+      "material": "2 inch rigid foam insulation"
+    },
+    {
+      "id": "2in_rigid_insulation_007_6",
+      "label": "2in rigid insulation 007",
+      "type": "box",
+      "length_mm": 1130.3,
+      "width_mm": 1219.2,
+      "height_mm": 50.8,
+      "position": {
+        "x": 0.0,
+        "y": 3657.6,
+        "z": 0.0
+      },
+      "material": "2 inch rigid foam insulation"
+    },
+    {
+      "id": "2in_rigid_insulation_008_7",
+      "label": "2in rigid insulation 008",
+      "type": "box",
+      "length_mm": 2438.4,
+      "width_mm": 1219.2,
+      "height_mm": 50.8,
+      "position": {
+        "x": 1130.3,
+        "y": 3657.6,
+        "z": 0.0
+      },
+      "material": "2 inch rigid foam insulation"
+    },
+    {
+      "id": "2in_rigid_insulation_009_8",
+      "label": "2in rigid insulation 009",
+      "type": "box",
+      "length_mm": 2438.4,
+      "width_mm": 1143.0,
+      "height_mm": 50.8,
+      "position": {
+        "x": 0.0,
+        "y": 4876.8,
+        "z": 0.0
+      },
+      "material": "2 inch rigid foam insulation"
+    },
+    {
+      "id": "2in_rigid_insulation_010_9",
+      "label": "2in rigid insulation 010",
+      "type": "box",
+      "length_mm": 1130.3,
+      "width_mm": 1143.0,
+      "height_mm": 50.8,
+      "position": {
+        "x": 2438.4,
+        "y": 4876.8,
+        "z": 0.0
+      },
+      "material": "2 inch rigid foam insulation"
+    },
+    {
+      "id": "2_rigid_insulation_001_11",
+      "label": "2 rigid insulation 001",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 2438.4,
+      "height_mm": 50.8,
+      "position": {
+        "x": 609.6,
+        "y": 609.6,
+        "z": 50.8
+      },
+      "material": "insulation"
+    },
+    {
+      "id": "2_rigid_insulation_002_12",
+      "label": "2 rigid insulation 002",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 2438.4,
+      "height_mm": 50.8,
+      "position": {
+        "x": 1828.8,
+        "y": 609.6,
+        "z": 50.8
+      },
+      "material": "insulation"
+    },
+    {
+      "id": "2_rigid_insulation_003_13",
+      "label": "2 rigid insulation 003",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 2438.4,
+      "height_mm": 50.8,
+      "position": {
+        "x": 609.6,
+        "y": 3048.0,
+        "z": 50.8
+      },
+      "material": "insulation"
+    },
+    {
+      "id": "2_rigid_insulation_004_14",
+      "label": "2 rigid insulation 004",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 2438.4,
+      "height_mm": 50.8,
+      "position": {
+        "x": 1828.8,
+        "y": 3048.0,
+        "z": 50.8
+      },
+      "material": "insulation"
+    },
+    {
+      "id": "2_rigid_insulation_005_15",
+      "label": "2 rigid insulation 005",
+      "type": "box",
+      "length_mm": 2349.5,
+      "width_mm": 609.6,
+      "height_mm": 50.8,
+      "position": {
+        "x": 1219.2,
+        "y": 0.0,
+        "z": 50.8
+      },
+      "material": "insulation"
+    },
+    {
+      "id": "2_rigid_insulation_006_16",
+      "label": "2 rigid insulation 006",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 609.6,
+      "height_mm": 50.8,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 50.8
+      },
+      "material": "insulation"
+    },
+    {
+      "id": "2_rigid_insulation_007_17",
+      "label": "2 rigid insulation 007",
+      "type": "box",
+      "length_mm": 609.6,
+      "width_mm": 2438.4,
+      "height_mm": 50.8,
+      "position": {
+        "x": 0.0,
+        "y": 609.6,
+        "z": 50.8
+      },
+      "material": "insulation"
+    },
+    {
+      "id": "2_rigid_insulation_008_18",
+      "label": "2 rigid insulation 008",
+      "type": "box",
+      "length_mm": 609.6,
+      "width_mm": 2438.4,
+      "height_mm": 50.8,
+      "position": {
+        "x": 0.0,
+        "y": 3048.0,
+        "z": 50.8
+      },
+      "material": "insulation"
+    },
+    {
+      "id": "2_rigid_insulation_009_19",
+      "label": "2 rigid insulation 009",
+      "type": "box",
+      "length_mm": 2438.4,
+      "width_mm": 533.4,
+      "height_mm": 50.8,
+      "position": {
+        "x": 1130.3,
+        "y": 5486.4,
+        "z": 50.8
+      },
+      "material": "insulation"
+    },
+    {
+      "id": "2_rigid_insulation_010_20",
+      "label": "2 rigid insulation 010",
+      "type": "box",
+      "length_mm": 1130.3,
+      "width_mm": 533.4,
+      "height_mm": 50.8,
+      "position": {
+        "x": 0.0,
+        "y": 5486.4,
+        "z": 50.8
+      },
+      "material": "insulation"
+    },
+    {
+      "id": "2_rigid_insulation_011_21",
+      "label": "2 rigid insulation 011",
+      "type": "box",
+      "length_mm": 520.7,
+      "width_mm": 2438.4,
+      "height_mm": 50.8,
+      "position": {
+        "x": 3048.0,
+        "y": 609.6,
+        "z": 50.8
+      },
+      "material": "insulation"
+    },
+    {
+      "id": "2_rigid_insulation_012_22",
+      "label": "2 rigid insulation 012",
+      "type": "box",
+      "length_mm": 520.7,
+      "width_mm": 2438.4,
+      "height_mm": 50.8,
+      "position": {
+        "x": 3048.0,
+        "y": 3048.0,
+        "z": 50.8
+      },
+      "material": "insulation"
+    }
+  ],
+  "groups": [
+    {
+      "id": "2_in_rigid_insulation___bottom_layer_parts_10",
+      "label": "2 in rigid insulation - bottom layer (parts)",
+      "children": [
+        "2in_rigid_insulation_001_0",
+        "2in_rigid_insulation_002_1",
+        "2in_rigid_insulation_003_2",
+        "2in_rigid_insulation_004_3",
+        "2in_rigid_insulation_005_4",
+        "2in_rigid_insulation_006_5",
+        "2in_rigid_insulation_007_6",
+        "2in_rigid_insulation_008_7",
+        "2in_rigid_insulation_009_8",
+        "2in_rigid_insulation_010_9"
+      ]
+    },
+    {
+      "id": "2_in_rigid_insulation___top_layer_parts_23",
+      "label": "2 in rigid insulation - top layer (parts)",
+      "children": [
+        "2_rigid_insulation_001_0",
+        "2_rigid_insulation_002_1",
+        "2_rigid_insulation_003_2",
+        "2_rigid_insulation_004_3",
+        "2_rigid_insulation_005_4",
+        "2_rigid_insulation_006_5",
+        "2_rigid_insulation_007_6",
+        "2_rigid_insulation_008_7",
+        "2_rigid_insulation_009_8",
+        "2_rigid_insulation_010_9",
+        "2_rigid_insulation_011_10",
+        "2_rigid_insulation_012_11"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "metadata": {
+    "name": "Front Veranda - Deck Module 1",
+    "version": "1.0.0",
+    "ose_reference": "Front Veranda - Deck Module 1.fcstd",
+    "license": "CC BY-SA 4.0",
+    "description": "Extracted from /Volumes/Extreme SSD/Nick/OSE/SH7CAD/Structural Assemblies/Front Veranda/Front Veranda - Deck Modules/Front Veranda - Deck Module 1.fcstd",
+    "total_parts": 16,
+    "bom": {
+      "5/4x6 deck board": 9,
+      "2x8 joist": 7
+    }
+  },
+  "parts": [
+    {
+      "id": "5_4_x_6_deck_board___decking_001_0",
+      "label": "5/4 x 6 deck board - decking 001",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 2438.4,
+      "height_mm": 25.4,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 184.15
+      },
+      "material": "5/4x6 deck board"
+    },
+    {
+      "id": "5_4_x_6_deck_board___decking_002_1",
+      "label": "5/4 x 6 deck board - decking 002",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 2438.4,
+      "height_mm": 25.4,
+      "position": {
+        "x": 142.875,
+        "y": 0.0,
+        "z": 184.15
+      },
+      "material": "5/4x6 deck board"
+    },
+    {
+      "id": "5_4_x_6_deck_board___decking_003_2",
+      "label": "5/4 x 6 deck board - decking 003",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 2438.4,
+      "height_mm": 25.4,
+      "position": {
+        "x": 285.75,
+        "y": 0.0,
+        "z": 184.15
+      },
+      "material": "5/4x6 deck board"
+    },
+    {
+      "id": "5_4_x_6_deck_board___decking_004_3",
+      "label": "5/4 x 6 deck board - decking 004",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 2438.4,
+      "height_mm": 25.4,
+      "position": {
+        "x": 428.625,
+        "y": 0.0,
+        "z": 184.15
+      },
+      "material": "5/4x6 deck board"
+    },
+    {
+      "id": "5_4_x_6_deck_board___decking_005_4",
+      "label": "5/4 x 6 deck board - decking 005",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 2438.4,
+      "height_mm": 25.4,
+      "position": {
+        "x": 571.5,
+        "y": 0.0,
+        "z": 184.15
+      },
+      "material": "5/4x6 deck board"
+    },
+    {
+      "id": "5_4_x_6_deck_board___decking_006_5",
+      "label": "5/4 x 6 deck board - decking 006",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 2438.4,
+      "height_mm": 25.4,
+      "position": {
+        "x": 714.375,
+        "y": 0.0,
+        "z": 184.15
+      },
+      "material": "5/4x6 deck board"
+    },
+    {
+      "id": "5_4_x_6_deck_board___decking_007_6",
+      "label": "5/4 x 6 deck board - decking 007",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 2438.4,
+      "height_mm": 25.4,
+      "position": {
+        "x": 857.25,
+        "y": 0.0,
+        "z": 184.15
+      },
+      "material": "5/4x6 deck board"
+    },
+    {
+      "id": "5_4_x_6_deck_board___decking_008_7",
+      "label": "5/4 x 6 deck board - decking 008",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 2438.4,
+      "height_mm": 25.4,
+      "position": {
+        "x": 1000.12,
+        "y": 0.0,
+        "z": 184.15
+      },
+      "material": "5/4x6 deck board"
+    },
+    {
+      "id": "2x8_rim_joist___back_10",
+      "label": "2x8 rim joist - back",
+      "type": "box",
+      "length_mm": 1209.67,
+      "width_mm": 38.1,
+      "height_mm": 184.15,
+      "position": {
+        "x": 38.1,
+        "y": 2362.2,
+        "z": 0.0
+      },
+      "material": "2x8 joist"
+    },
+    {
+      "id": "2x8_rim_joist___left_11",
+      "label": "2x8 rim joist - left",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 2362.2,
+      "height_mm": 184.15,
+      "position": {
+        "x": 0.0,
+        "y": 38.1,
+        "z": 0.0
+      },
+      "material": "2x8 joist"
+    },
+    {
+      "id": "2x8_rim_joist___right_12",
+      "label": "2x8 rim joist - right",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 2362.2,
+      "height_mm": 184.15,
+      "position": {
+        "x": 1247.77,
+        "y": 38.1,
+        "z": 0.0
+      },
+      "material": "2x8 joist"
+    },
+    {
+      "id": "5_4_x_6_deck_board___decking_009_13",
+      "label": "5/4 x 6 deck board - decking 009",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 2438.4,
+      "height_mm": 25.4,
+      "position": {
+        "x": 1143.0,
+        "y": 0.0,
+        "z": 184.15
+      },
+      "material": "5/4x6 deck board"
+    },
+    {
+      "id": "2x8_rim_joist___middle_001_14",
+      "label": "2x8 rim joist - middle 001",
+      "type": "box",
+      "length_mm": 1209.67,
+      "width_mm": 38.1,
+      "height_mm": 184.15,
+      "position": {
+        "x": 38.1,
+        "y": 590.55,
+        "z": 0.0
+      },
+      "material": "2x8 joist"
+    },
+    {
+      "id": "2x8_rim_joist___middle_002_15",
+      "label": "2x8 rim joist - middle 002",
+      "type": "box",
+      "length_mm": 1209.67,
+      "width_mm": 38.1,
+      "height_mm": 184.15,
+      "position": {
+        "x": 38.1,
+        "y": 1200.15,
+        "z": 0.0
+      },
+      "material": "2x8 joist"
+    },
+    {
+      "id": "2x8_rim_joist___middle_003_16",
+      "label": "2x8 rim joist - middle 003",
+      "type": "box",
+      "length_mm": 1209.67,
+      "width_mm": 38.1,
+      "height_mm": 184.15,
+      "position": {
+        "x": 38.1,
+        "y": 1809.75,
+        "z": 0.0
+      },
+      "material": "2x8 joist"
+    },
+    {
+      "id": "2x8_rim_joist___front_18",
+      "label": "2x8 rim joist - front",
+      "type": "box",
+      "length_mm": 1209.67,
+      "width_mm": 38.1,
+      "height_mm": 184.15,
+      "position": {
+        "x": 38.1,
+        "y": 38.1,
+        "z": 0.0
+      },
+      "material": "2x8 joist"
+    }
+  ],
+  "groups": [
+    {
+      "id": "decking_8",
+      "label": "Decking",
+      "children": [
+        "5_4_x_6_deck_board___decking_001_0",
+        "5_4_x_6_deck_board___decking_002_1",
+        "5_4_x_6_deck_board___decking_003_2",
+        "5_4_x_6_deck_board___decking_004_3",
+        "5_4_x_6_deck_board___decking_005_4",
+        "5_4_x_6_deck_board___decking_006_5",
+        "5_4_x_6_deck_board___decking_007_6",
+        "5_4_x_6_deck_board___decking_008_7",
+        "5_4_x_6_deck_board___decking_009_8"
+      ]
+    },
+    {
+      "id": "frame_9",
+      "label": "Frame",
+      "children": [
+        "2x8_rim_joist___back_0",
+        "2x8_rim_joist___left_1",
+        "2x8_rim_joist___right_2",
+        "2x8_rim_joist___middle_001_3",
+        "2x8_rim_joist___middle_002_4",
+        "2x8_rim_joist___middle_003_5",
+        "2x8_rim_joist___front_6"
+      ]
+    },
+    {
+      "id": "parts_17",
+      "label": "PARTS",
+      "children": [
+        "decking_0",
+        "frame_1"
+      ]
+    }
+  ]
+}

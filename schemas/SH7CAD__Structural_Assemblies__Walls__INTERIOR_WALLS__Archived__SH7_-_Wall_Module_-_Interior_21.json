@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "name": "SH7 - Wall Module - Interior 21",
+    "version": "1.0.0",
+    "ose_reference": "SH7 - Wall Module - Interior 21.fcstd",
+    "license": "CC BY-SA 4.0",
+    "description": "Extracted from /Volumes/Extreme SSD/Nick/OSE/SH7CAD/Structural Assemblies/Walls/INTERIOR WALLS/Archived/SH7 - Wall Module - Interior 21.fcstd",
+    "total_parts": 7,
+    "bom": {
+      "2x4 header": 2,
+      "2x4 stud": 5
+    }
+  },
+  "parts": [
+    {
+      "id": "2x4_bottom_header_0",
+      "label": "2x4 bottom header",
+      "type": "box",
+      "length_mm": 2273.3,
+      "width_mm": 88.9,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "material": "2x4 header"
+    },
+    {
+      "id": "2x4_top_header_1",
+      "label": "2x4 top header",
+      "type": "box",
+      "length_mm": 2273.3,
+      "width_mm": 88.9,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 939.8
+      },
+      "material": "2x4 header"
+    },
+    {
+      "id": "2x4_stud_001_2",
+      "label": "2x4 stud 001",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 88.9,
+      "height_mm": 901.7,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x4 stud"
+    },
+    {
+      "id": "2x4_stud_002_3",
+      "label": "2x4 stud 002",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 88.9,
+      "height_mm": 901.7,
+      "position": {
+        "x": 590.55,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x4 stud"
+    },
+    {
+      "id": "2x4_stud_003_4",
+      "label": "2x4 stud 003",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 88.9,
+      "height_mm": 901.7,
+      "position": {
+        "x": 1200.15,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x4 stud"
+    },
+    {
+      "id": "2x4_stud_004_5",
+      "label": "2x4 stud 004",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 88.9,
+      "height_mm": 901.7,
+      "position": {
+        "x": 1809.75,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x4 stud"
+    },
+    {
+      "id": "2x4_stud_005_6",
+      "label": "2x4 stud 005",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 88.9,
+      "height_mm": 901.7,
+      "position": {
+        "x": 2235.2,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x4 stud"
+    }
+  ],
+  "groups": [
+    {
+      "id": "parts_7",
+      "label": "PARTS",
+      "children": [
+        "2x4_bottom_header_0",
+        "2x4_top_header_1",
+        "2x4_stud_001_2",
+        "2x4_stud_002_3",
+        "2x4_stud_003_4",
+        "2x4_stud_004_5",
+        "2x4_stud_005_6"
+      ]
+    }
+  ]
+}

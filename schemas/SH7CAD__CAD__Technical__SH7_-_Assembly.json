@@ -1,0 +1,6356 @@
+{
+  "metadata": {
+    "name": "SH7 - Assembly",
+    "version": "1.0.0",
+    "ose_reference": "SH7 - Assembly.fcstd",
+    "license": "CC BY-SA 4.0",
+    "description": "Extracted from /Volumes/Extreme SSD/Nick/OSE/SH7CAD/CAD/Technical/SH7 - Assembly.fcstd",
+    "total_parts": 365,
+    "bom": {
+      "unknown": 95,
+      "2x6 plate": 36,
+      "1/2 inch OSB": 60,
+      "insulation": 18,
+      "2x4 plate": 1,
+      "6x6 lumber": 4,
+      "2x4 blocking": 8,
+      "2x4 lumber": 11,
+      "1x3 lumber": 15,
+      "1x4 lumber": 26,
+      "1x8 lumber": 7,
+      "1x6 lumber": 28,
+      "1x2 lumber": 29,
+      "gutter": 7,
+      "1x12 lumber": 5,
+      "3/4 inch plywood": 2,
+      "4x4 lumber": 1,
+      "2x8 joist": 6,
+      "3/4 inch OSB": 6
+    }
+  },
+  "parts": [
+    {
+      "id": "drywall___kitchen___right_001_36",
+      "label": "drywall - kitchen - right 001",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 1219.2,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 7213.6,
+        "y": 3517.9,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "drywall___kitchen___right_002_37",
+      "label": "drywall - kitchen - right 002",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 1219.2,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 7213.6,
+        "y": 2298.7,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "drywall___bath_1___right_001_39",
+      "label": "drywall - bath 1 - right 001",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 711.2,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 8997.95,
+        "y": 2806.7,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "drywall___bath_1___right_002_40",
+      "label": "drywall - bath 1 - right 002",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 1219.2,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 8997.95,
+        "y": 3517.9,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "drywall___bath_1___left_001_41",
+      "label": "drywall - bath 1 - left 001",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 711.2,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 7404.1,
+        "y": 2806.7,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "drywall___bath_1___left_002_42",
+      "label": "drywall - bath 1 - left 002",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 1219.2,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 7404.1,
+        "y": 3517.9,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "drywall___bath_2___left_001_43",
+      "label": "drywall - bath 2 - left 001",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 1219.2,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 9213.85,
+        "y": 4737.1,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "drywall___bath_2___left_003_44",
+      "label": "drywall - bath 2 - left 003",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 711.2,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 9213.85,
+        "y": 2806.7,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "drywall___bath_2___right_001_45",
+      "label": "drywall - bath 2 - right 001",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 939.8,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 10820.4,
+        "y": 5016.5,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "drywall___bath_1___front_001_48",
+      "label": "drywall - bath 1 - front 001",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 12.7,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 7416.8,
+        "y": 2806.7,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "drywall___bath_1___front_002_49",
+      "label": "drywall - bath 1 - front 002",
+      "type": "box",
+      "length_mm": 358.775,
+      "width_mm": 12.7,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 8639.17,
+        "y": 2806.7,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "drywall___bath_2___back_001_50",
+      "label": "drywall - bath 2 - back 001",
+      "type": "box",
+      "length_mm": 1066.8,
+      "width_mm": 12.7,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 9753.6,
+        "y": 5943.6,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "drywall___bath_2___back_002_51",
+      "label": "drywall - bath 2 - back 002",
+      "type": "box",
+      "length_mm": 527.05,
+      "width_mm": 12.7,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 9226.55,
+        "y": 5943.6,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "drywall___bath_1___right_003_52",
+      "label": "drywall - bath 1 - right 003",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 1219.2,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 8997.95,
+        "y": 4737.1,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "drywall___bath_2___right_002_53",
+      "label": "drywall - bath 2 - right 002",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 1219.2,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 10820.4,
+        "y": 3797.3,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "drywall___bath_2___right_003_54",
+      "label": "drywall - bath 2 - right 003",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 977.9,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 10820.4,
+        "y": 2819.4,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "fixtures___bath_1___bathtub_55",
+      "label": "fixtures - bath 1 - bathtub",
+      "type": "box",
+      "length_mm": 1524.0,
+      "width_mm": 800.1,
+      "height_mm": 1962.15,
+      "position": {
+        "x": 7473.95,
+        "y": 2819.4,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "fixtures___bath_2___bathtub_56",
+      "label": "fixtures - bath 2 - bathtub",
+      "type": "box",
+      "length_mm": 1524.0,
+      "width_mm": 800.1,
+      "height_mm": 1962.15,
+      "position": {
+        "x": 9226.55,
+        "y": 5143.5,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "kitchen_cabinets___cooktop__oven_58",
+      "label": "Kitchen Cabinets - Cooktop + Oven",
+      "type": "box",
+      "length_mm": 609.6,
+      "width_mm": 1219.2,
+      "height_mm": 914.4,
+      "position": {
+        "x": 6600.82,
+        "y": 2590.8,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "drywall___kitchen___right_003_59",
+      "label": "drywall - kitchen - right 003",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 939.8,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 7213.6,
+        "y": 1358.9,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "kitchen_island_60",
+      "label": "Kitchen Island",
+      "type": "box",
+      "length_mm": 1066.8,
+      "width_mm": 3048.0,
+      "height_mm": 914.4,
+      "position": {
+        "x": 4162.43,
+        "y": 1676.4,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "drywall___bath_2___left_004_61",
+      "label": "drywall - bath 2 - left 004",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 1219.2,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 9213.85,
+        "y": 3517.9,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "fixtures___bath_1___vanity_64",
+      "label": "fixtures - bath 1 - vanity",
+      "type": "box",
+      "length_mm": 558.8,
+      "width_mm": 1549.4,
+      "height_mm": 914.4,
+      "position": {
+        "x": 8439.15,
+        "y": 4394.2,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "drywall___bath_1___back_001_65",
+      "label": "drywall - bath 1 - back 001",
+      "type": "box",
+      "length_mm": 463.55,
+      "width_mm": 12.7,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 8534.4,
+        "y": 5943.6,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "drywall___bath_1___back_002_66",
+      "label": "drywall - bath 1 - back 002",
+      "type": "box",
+      "length_mm": 190.5,
+      "width_mm": 12.7,
+      "height_mm": 2095.5,
+      "position": {
+        "x": 8343.9,
+        "y": 5943.6,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "drywall___bath_1___left_003_67",
+      "label": "drywall - bath 1 - left 003",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 114.3,
+      "height_mm": 2095.5,
+      "position": {
+        "x": 7404.1,
+        "y": 5842.0,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "drywall___bath_1___back_003_68",
+      "label": "drywall - bath 1 - back 003",
+      "type": "box",
+      "length_mm": 63.5,
+      "width_mm": 12.7,
+      "height_mm": 2095.5,
+      "position": {
+        "x": 7416.8,
+        "y": 5943.6,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "drywall___bath_1___left_004_69",
+      "label": "drywall - bath 1 - left 004",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 1219.2,
+      "height_mm": 647.7,
+      "position": {
+        "x": 7404.1,
+        "y": 4737.1,
+        "z": 2317.75
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "drywall___bath_1___back_004_70",
+      "label": "drywall - bath 1 - back 004",
+      "type": "box",
+      "length_mm": 1117.6,
+      "width_mm": 12.7,
+      "height_mm": 647.7,
+      "position": {
+        "x": 7416.8,
+        "y": 5943.6,
+        "z": 2317.75
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "drywall___bath_2___front_001_71",
+      "label": "drywall - bath 2 - front 001",
+      "type": "box",
+      "length_mm": 387.35,
+      "width_mm": 12.7,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 9226.55,
+        "y": 2806.7,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "drywall___bath_2___front_002_72",
+      "label": "drywall - bath 2 - front 002",
+      "type": "box",
+      "length_mm": 241.3,
+      "width_mm": 12.7,
+      "height_mm": 2095.5,
+      "position": {
+        "x": 9613.9,
+        "y": 2806.7,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "fixtures___bath_2___vanity_73",
+      "label": "fixtures - bath 2 - vanity",
+      "type": "box",
+      "length_mm": 558.8,
+      "width_mm": 1549.4,
+      "height_mm": 914.4,
+      "position": {
+        "x": 9226.55,
+        "y": 2819.4,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "drywall___bath_1___left_005_74",
+      "label": "drywall - bath 1 - left 005",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 241.3,
+      "height_mm": 2095.5,
+      "position": {
+        "x": 7404.1,
+        "y": 4737.1,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "drywall___kitchen___right_006_75",
+      "label": "drywall - kitchen - right 006",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 241.3,
+      "height_mm": 2095.5,
+      "position": {
+        "x": 7213.6,
+        "y": 4737.1,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "drywall___kitchen___right_004_76",
+      "label": "drywall - kitchen - right 004",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 114.3,
+      "height_mm": 2095.5,
+      "position": {
+        "x": 7213.6,
+        "y": 5842.0,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "drywall___kitchen___right_005_77",
+      "label": "drywall - kitchen - right 005",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 1219.2,
+      "height_mm": 647.7,
+      "position": {
+        "x": 7213.6,
+        "y": 4737.1,
+        "z": 2317.75
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "drywall___bed___back_001_82",
+      "label": "drywall - bed - back 001",
+      "type": "box",
+      "length_mm": 241.3,
+      "width_mm": 12.7,
+      "height_mm": 2095.5,
+      "position": {
+        "x": 9613.9,
+        "y": 2705.1,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "drywall___bed___back_002_83",
+      "label": "drywall - bed - back 002",
+      "type": "box",
+      "length_mm": 114.3,
+      "width_mm": 12.7,
+      "height_mm": 2095.5,
+      "position": {
+        "x": 10718.8,
+        "y": 2705.1,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "drywall___bed___back_003_84",
+      "label": "drywall - bed - back 003",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 12.7,
+      "height_mm": 647.7,
+      "position": {
+        "x": 9613.9,
+        "y": 2705.1,
+        "z": 2317.75
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "drywall___bath_2___front_003_85",
+      "label": "drywall - bath 2 - front 003",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 12.7,
+      "height_mm": 647.7,
+      "position": {
+        "x": 9613.9,
+        "y": 2806.7,
+        "z": 2317.75
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "drywall___bath_2___front_004_86",
+      "label": "drywall - bath 2 - front 004",
+      "type": "box",
+      "length_mm": 114.3,
+      "width_mm": 12.7,
+      "height_mm": 2095.5,
+      "position": {
+        "x": 10718.8,
+        "y": 2806.7,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "fixtures___laundry___clothes_washer_87",
+      "label": "fixtures - laundry - clothes washer",
+      "type": "box",
+      "length_mm": 685.8,
+      "width_mm": 762.0,
+      "height_mm": 914.4,
+      "position": {
+        "x": 8953.5,
+        "y": 1790.7,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "drywall___bed___left_001_89",
+      "label": "drywall - bed - left 001",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 419.1,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 7404.1,
+        "y": 2298.7,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "drywall___bed___left_002_90",
+      "label": "drywall - bed - left 002",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 939.8,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 7404.1,
+        "y": 1358.9,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "drywall___bed___back_004_91",
+      "label": "drywall - bed - back 004",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 12.7,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 7419.97,
+        "y": 2705.1,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "drywall___bed___left_003_92",
+      "label": "drywall - bed - left 003",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 127.0,
+      "height_mm": 2095.5,
+      "position": {
+        "x": 7404.1,
+        "y": 1231.9,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "drywall___bed___left_004_93",
+      "label": "drywall - bed - left 004",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 127.0,
+      "height_mm": 2095.5,
+      "position": {
+        "x": 7404.1,
+        "y": 139.7,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "drywall___bed___left_005_94",
+      "label": "drywall - bed - left 005",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 1219.2,
+      "height_mm": 647.7,
+      "position": {
+        "x": 7404.1,
+        "y": 139.7,
+        "z": 2317.75
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "wall___laundry___front_001_97",
+      "label": "wall - laundry - front 001",
+      "type": "box",
+      "length_mm": 304.8,
+      "width_mm": 114.3,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 7416.8,
+        "y": 1304.92,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "drywall___bed___back_005_98",
+      "label": "drywall - bed - back 005",
+      "type": "box",
+      "length_mm": 974.725,
+      "width_mm": 12.7,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 8639.17,
+        "y": 2705.1,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "wall___laundry___right_001_99",
+      "label": "wall - laundry - right 001",
+      "type": "box",
+      "length_mm": 114.3,
+      "width_mm": 1400.17,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 9664.7,
+        "y": 1304.92,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "wall___laundry___front_002_100",
+      "label": "wall - laundry - front 002",
+      "type": "box",
+      "length_mm": 1943.1,
+      "width_mm": 114.3,
+      "height_mm": 647.7,
+      "position": {
+        "x": 7721.6,
+        "y": 1304.92,
+        "z": 2317.75
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "fixtures___laundry___clothes_dryer_101",
+      "label": "fixtures - laundry - clothes dryer",
+      "type": "box",
+      "length_mm": 685.8,
+      "width_mm": 762.0,
+      "height_mm": 863.6,
+      "position": {
+        "x": 8953.5,
+        "y": 1790.7,
+        "z": 1136.65
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "fixtures___laundry___bottom_cabinet_102",
+      "label": "fixtures - laundry - bottom cabinet",
+      "type": "box",
+      "length_mm": 1536.7,
+      "width_mm": 609.6,
+      "height_mm": 914.4,
+      "position": {
+        "x": 7416.8,
+        "y": 2095.5,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "fixtures___laundry___top_cabinet_103",
+      "label": "fixtures - laundry - top cabinet",
+      "type": "box",
+      "length_mm": 1536.7,
+      "width_mm": 304.8,
+      "height_mm": 1371.6,
+      "position": {
+        "x": 7416.8,
+        "y": 2400.3,
+        "z": 1593.85
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "2x6_top_plate___bb___bottom___front_001_106",
+      "label": "2x6 top plate - BB - bottom - front 001",
+      "type": "box",
+      "length_mm": 3429.0,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 7404.1,
+        "y": 0.0,
+        "z": 2955.92
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_top_plate___bb___bottom___left_001_107",
+      "label": "2x6 top plate - BB - bottom - left 001",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 3289.3,
+      "height_mm": 38.1,
+      "position": {
+        "x": 7315.2,
+        "y": 2806.7,
+        "z": 2955.92
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_top_plate___bb___bottom___left_002_108",
+      "label": "2x6 top plate - BB - bottom - left 002",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 2717.8,
+      "height_mm": 38.1,
+      "position": {
+        "x": 7315.2,
+        "y": 0.0,
+        "z": 2955.92
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_top_plate___bb___bottom___right_001_109",
+      "label": "2x6 top plate - BB - bottom - right 001",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 2717.8,
+      "height_mm": 38.1,
+      "position": {
+        "x": 10833.1,
+        "y": 0.0,
+        "z": 2955.92
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_top_plate___bb___bottom___right_002_110",
+      "label": "2x6 top plate - BB - bottom - right 002",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 3289.3,
+      "height_mm": 38.1,
+      "position": {
+        "x": 10833.1,
+        "y": 2806.7,
+        "z": 2955.92
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_top_plate___bb___bottom___int_bed_001_111",
+      "label": "2x6 top plate - BB - bottom - int bed 001",
+      "type": "box",
+      "length_mm": 1695.45,
+      "width_mm": 88.9,
+      "height_mm": 38.1,
+      "position": {
+        "x": 7315.2,
+        "y": 2717.8,
+        "z": 2955.92
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_top_plate___kitchen___bottom___right_001_112",
+      "label": "2x6 top plate - kitchen - bottom - right 001",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 3187.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 7226.3,
+        "y": 2908.3,
+        "z": 2955.92
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_top_plate___kitchen___bottom___right_002_113",
+      "label": "2x6 top plate - kitchen - bottom - right 002",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 2908.3,
+      "height_mm": 38.1,
+      "position": {
+        "x": 7226.3,
+        "y": 0.0,
+        "z": 2955.92
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_top_plate___bb___bottom___back_114",
+      "label": "2x6 top plate - BB - bottom - back",
+      "type": "box",
+      "length_mm": 3429.0,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 7404.1,
+        "y": 5956.3,
+        "z": 2955.92
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_top_plate___bb___bottom___int_bath_001_115",
+      "label": "2x6 top plate - BB - bottom - int bath 001",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 3238.5,
+      "height_mm": 38.1,
+      "position": {
+        "x": 9010.65,
+        "y": 2717.8,
+        "z": 2955.92
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_top_plate___bb___bottom___int_bath_002_116",
+      "label": "2x6 top plate - BB - bottom - int bath 002",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 3238.5,
+      "height_mm": 38.1,
+      "position": {
+        "x": 9124.95,
+        "y": 2717.8,
+        "z": 2955.92
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_top_plate___bb___bottom___int_bed_002_117",
+      "label": "2x6 top plate - BB - bottom - int bed 002",
+      "type": "box",
+      "length_mm": 1758.95,
+      "width_mm": 88.9,
+      "height_mm": 38.1,
+      "position": {
+        "x": 9220.2,
+        "y": 2717.8,
+        "z": 2955.92
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_top_plate___bb___top___front_001_118",
+      "label": "2x6 top plate - BB - top - front 001",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 7315.2,
+        "y": 0.0,
+        "z": 2994.02
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_top_plate___bb___top___right_001_119",
+      "label": "2x6 top plate - BB - top - right 001",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 3657.6,
+      "height_mm": 38.1,
+      "position": {
+        "x": 10833.1,
+        "y": 139.7,
+        "z": 2994.02
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_top_plate___bb___top___back_120",
+      "label": "2x6 top plate - BB - top - back",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 7315.2,
+        "y": 5956.3,
+        "z": 2994.02
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_top_plate___bb___top___left_001_121",
+      "label": "2x6 top plate - BB - top - left 001",
+      "type": "box",
+      "length_mm": 92.075,
+      "width_mm": 3657.6,
+      "height_mm": 38.1,
+      "position": {
+        "x": 7315.2,
+        "y": 139.7,
+        "z": 2994.02
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_top_plate___bb___top___left_002_122",
+      "label": "2x6 top plate - BB - top - left 002",
+      "type": "box",
+      "length_mm": 92.075,
+      "width_mm": 2159.0,
+      "height_mm": 38.1,
+      "position": {
+        "x": 7315.2,
+        "y": 3797.3,
+        "z": 2994.02
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_top_plate___kitchen___bottom___front_125",
+      "label": "2x6 top plate - Kitchen - bottom - front",
+      "type": "box",
+      "length_mm": 3568.7,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 3657.6,
+        "y": 0.0,
+        "z": 2955.92
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_top_plate___kitchen___bottom___back_126",
+      "label": "2x6 top plate - Kitchen - bottom - back",
+      "type": "box",
+      "length_mm": 3568.7,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 3657.6,
+        "y": 5956.3,
+        "z": 2955.92
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_top_plate___kitchen___top___front_127",
+      "label": "2x6 top plate - Kitchen - top - front",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 3657.6,
+        "y": 0.0,
+        "z": 2994.02
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_top_plate___kitchen___top___back_128",
+      "label": "2x6 top plate - Kitchen - top - back",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 3657.6,
+        "y": 5956.3,
+        "z": 2994.02
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_top_plate___kitchen___top___right_001_129",
+      "label": "2x6 top plate - kitchen - top - right 001",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 3657.6,
+      "height_mm": 38.1,
+      "position": {
+        "x": 7226.3,
+        "y": 139.7,
+        "z": 2994.02
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_top_plate___bb___top___right_002_137",
+      "label": "2x6 top plate - BB - top - right 002",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 2159.0,
+      "height_mm": 38.1,
+      "position": {
+        "x": 10833.1,
+        "y": 3797.3,
+        "z": 2994.02
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_top_plate___kitchen___top___right_138",
+      "label": "2x6 top plate - Kitchen - top - right",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 2159.0,
+      "height_mm": 38.1,
+      "position": {
+        "x": 7226.3,
+        "y": 3797.3,
+        "z": 2994.02
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_top_plate___fr___bottom___left_001_140",
+      "label": "2x6 top plate - FR - bottom - left 001",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 3492.5,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 2955.92
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_top_plate___fr___bottom___left_002_141",
+      "label": "2x6 top plate - FR - bottom - left 002",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 2603.5,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 3492.5,
+        "z": 2955.92
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_top_plate___fr___bottom___back_142",
+      "label": "2x6 top plate - FR - bottom - back",
+      "type": "box",
+      "length_mm": 3517.9,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 139.7,
+        "y": 5956.3,
+        "z": 2955.92
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_top_plate___fr___bottom___front_143",
+      "label": "2x6 top plate - FR - bottom - front",
+      "type": "box",
+      "length_mm": 3517.9,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 139.7,
+        "y": 0.0,
+        "z": 2955.92
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_top_plate___fr___top___back_144",
+      "label": "2x6 top plate - FR - top - back",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 5956.3,
+        "z": 2994.02
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_top_plate___fr___top___front_145",
+      "label": "2x6 top plate - FR - top - front",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 2994.02
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_top_plate___fr___top___left_001_146",
+      "label": "2x6 top plate - FR - top - left 001",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 3657.6,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 2438.4,
+        "z": 2994.02
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_top_plate___fr___top___left_002_147",
+      "label": "2x6 top plate - FR - top - left 002",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 2298.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 139.7,
+        "z": 2994.02
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "1_2_osb___fr___front_wall_001_162",
+      "label": "1/2 osb - FR - front wall 001",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 12.7,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 0.0,
+        "y": -12.7,
+        "z": 222.25
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___fr___front_wall_002_163",
+      "label": "1/2 osb - FR - front wall 002",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 12.7,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 1219.2,
+        "y": -12.7,
+        "z": 222.25
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___fr___front_wall_003_164",
+      "label": "1/2 osb - FR - front wall 003",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 12.7,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 2438.4,
+        "y": -12.7,
+        "z": 222.25
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___fr___front_top_001_165",
+      "label": "1/2 osb - FR - front top 001",
+      "type": "box",
+      "length_mm": 2743.2,
+      "width_mm": 12.7,
+      "height_mm": 847.725,
+      "position": {
+        "x": 0.0,
+        "y": -12.7,
+        "z": 2965.45
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___fr___front_top_002_166",
+      "label": "1/2 osb - FR - front top 002",
+      "type": "box",
+      "length_mm": 914.4,
+      "width_mm": 12.7,
+      "height_mm": 847.725,
+      "position": {
+        "x": 2743.2,
+        "y": -12.7,
+        "z": 2965.45
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___kitchen___front_top_001_168",
+      "label": "1/2 osb - kitchen - front top 001",
+      "type": "box",
+      "length_mm": 2743.2,
+      "width_mm": 12.7,
+      "height_mm": 847.725,
+      "position": {
+        "x": 3657.6,
+        "y": -12.7,
+        "z": 2965.45
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___kitchen___front_top_002_169",
+      "label": "1/2 osb - kitchen - front top 002",
+      "type": "box",
+      "length_mm": 914.4,
+      "width_mm": 12.7,
+      "height_mm": 847.725,
+      "position": {
+        "x": 6400.8,
+        "y": -12.7,
+        "z": 2965.45
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___bb___front_wall_001_171",
+      "label": "1/2 osb - BB - front wall 001",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 12.7,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 7315.2,
+        "y": -12.7,
+        "z": 222.25
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "ext_wall___u_parts_172",
+      "label": "Ext Wall - U (parts)",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 12.7,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 8534.4,
+        "y": -12.7,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "1_2_osb___bb___front_wall_003_173",
+      "label": "1/2 osb - BB - front wall 003",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 12.7,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 9753.6,
+        "y": -12.7,
+        "z": 222.25
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___bb___front_top_001_174",
+      "label": "1/2 osb - BB - front top 001",
+      "type": "box",
+      "length_mm": 2743.2,
+      "width_mm": 12.7,
+      "height_mm": 847.725,
+      "position": {
+        "x": 7315.2,
+        "y": -12.7,
+        "z": 2965.45
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___bb___front_top_002_175",
+      "label": "1/2 osb - BB - front top 002",
+      "type": "box",
+      "length_mm": 914.4,
+      "width_mm": 12.7,
+      "height_mm": 847.725,
+      "position": {
+        "x": 10058.4,
+        "y": -12.7,
+        "z": 2965.45
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_rigid_insulation___fr___front_001_177",
+      "label": "1/2 rigid insulation - FR - front 001",
+      "type": "box",
+      "length_mm": 2438.4,
+      "width_mm": 12.7,
+      "height_mm": 222.25,
+      "position": {
+        "x": 0.0,
+        "y": -12.7,
+        "z": 0.0
+      },
+      "material": "insulation"
+    },
+    {
+      "id": "1_2_rigid_insulation___fr___front_002_178",
+      "label": "1/2 rigid insulation - FR - front 002",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 12.7,
+      "height_mm": 222.25,
+      "position": {
+        "x": 2438.4,
+        "y": -12.7,
+        "z": 0.0
+      },
+      "material": "insulation"
+    },
+    {
+      "id": "1_2_rigid_insulation___kitchen___front_001_180",
+      "label": "1/2 rigid insulation - kitchen - front 001",
+      "type": "box",
+      "length_mm": 2438.4,
+      "width_mm": 12.7,
+      "height_mm": 222.25,
+      "position": {
+        "x": 3657.6,
+        "y": -12.7,
+        "z": 0.0
+      },
+      "material": "insulation"
+    },
+    {
+      "id": "1_2_rigid_insulation___kitchen___front_002_181",
+      "label": "1/2 rigid insulation - kitchen - front 002",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 12.7,
+      "height_mm": 222.25,
+      "position": {
+        "x": 6096.0,
+        "y": -12.7,
+        "z": 0.0
+      },
+      "material": "insulation"
+    },
+    {
+      "id": "1_2_rigid_insulation___bb___front_001_183",
+      "label": "1/2 rigid insulation - BB - front 001",
+      "type": "box",
+      "length_mm": 2438.4,
+      "width_mm": 12.7,
+      "height_mm": 222.25,
+      "position": {
+        "x": 7315.2,
+        "y": -12.7,
+        "z": 0.0
+      },
+      "material": "insulation"
+    },
+    {
+      "id": "1_2_rigid_insulation___bb___front_002_184",
+      "label": "1/2 rigid insulation - BB - front 002",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 12.7,
+      "height_mm": 222.25,
+      "position": {
+        "x": 9753.6,
+        "y": -12.7,
+        "z": 0.0
+      },
+      "material": "insulation"
+    },
+    {
+      "id": "2x6_top_plate___front_veranda___left_210",
+      "label": "2x6 top plate - front veranda - left",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 2438.4,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": -2451.1,
+        "z": 2955.92
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x4_top_plate___front_veranda___right_211",
+      "label": "2x4 top plate - front veranda - right",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 2438.4,
+      "height_mm": 38.1,
+      "position": {
+        "x": 9309.1,
+        "y": -2451.1,
+        "z": 2955.92
+      },
+      "material": "2x4 plate"
+    },
+    {
+      "id": "6x6_post___front_veranda___001_215",
+      "label": "6x6 post - front veranda - 001",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 139.7,
+      "height_mm": 2771.77,
+      "position": {
+        "x": 3416.3,
+        "y": -2451.1,
+        "z": 222.25
+      },
+      "material": "6x6 lumber"
+    },
+    {
+      "id": "6x6_post___front_veranda___002_216",
+      "label": "6x6 post - front veranda - 002",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 139.7,
+      "height_mm": 2771.77,
+      "position": {
+        "x": 5842.0,
+        "y": -2451.1,
+        "z": 222.25
+      },
+      "material": "6x6 lumber"
+    },
+    {
+      "id": "6x6_post___front_veranda___003_217",
+      "label": "6x6 post - front veranda - 003",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 139.7,
+      "height_mm": 2771.77,
+      "position": {
+        "x": 990.6,
+        "y": -2451.1,
+        "z": 222.25
+      },
+      "material": "6x6 lumber"
+    },
+    {
+      "id": "6x6_post___front_veranda___004_218",
+      "label": "6x6 post - front veranda - 004",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 139.7,
+      "height_mm": 2771.77,
+      "position": {
+        "x": 8267.7,
+        "y": -2451.1,
+        "z": 222.25
+      },
+      "material": "6x6 lumber"
+    },
+    {
+      "id": "1_2_osb___kitchen___front_wall_001_229",
+      "label": "1/2 osb - kitchen - front wall 001",
+      "type": "box",
+      "length_mm": 2082.8,
+      "width_mm": 12.7,
+      "height_mm": 711.2,
+      "position": {
+        "x": 3657.6,
+        "y": -12.7,
+        "z": 2254.25
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___kitchen___front_wall_002_230",
+      "label": "1/2 osb - kitchen - front wall 002",
+      "type": "box",
+      "length_mm": 114.3,
+      "width_mm": 12.7,
+      "height_mm": 2032.0,
+      "position": {
+        "x": 3657.6,
+        "y": -12.7,
+        "z": 222.25
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___kitchen___front_wall_003_231",
+      "label": "1/2 osb - kitchen - front wall 003",
+      "type": "box",
+      "length_mm": 133.35,
+      "width_mm": 12.7,
+      "height_mm": 2032.0,
+      "position": {
+        "x": 5607.05,
+        "y": -12.7,
+        "z": 222.25
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___kitchen___front_wall_004_232",
+      "label": "1/2 osb - kitchen - front wall 004",
+      "type": "box",
+      "length_mm": 355.6,
+      "width_mm": 12.7,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 5740.4,
+        "y": -12.7,
+        "z": 222.25
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___kitchen___front_wall_005_233",
+      "label": "1/2 osb - kitchen - front wall 005",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 12.7,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 6096.0,
+        "y": -12.7,
+        "z": 222.25
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "front_veranda___roof___metal_corrugated_roofing_234",
+      "label": "front veranda - roof - metal corrugated roofing",
+      "type": "box",
+      "length_mm": 9499.6,
+      "width_mm": 2514.6,
+      "height_mm": 19.05,
+      "position": {
+        "x": -50.8,
+        "y": -2508.25,
+        "z": 3165.47
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "1_2_osb___veranda___left_wall_001_236",
+      "label": "1/2 osb - veranda - left wall 001",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 1219.2,
+      "height_mm": 2743.2,
+      "position": {
+        "x": -12.7,
+        "y": -1231.9,
+        "z": 222.25
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___veranda___left_wall_002_237",
+      "label": "1/2 osb - veranda - left wall 002",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 1219.2,
+      "height_mm": 2743.2,
+      "position": {
+        "x": -12.7,
+        "y": -2451.1,
+        "z": 222.25
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___veranda___right_wall_001_238",
+      "label": "1/2 osb - veranda - right wall 001",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 1219.2,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 9398.0,
+        "y": -1231.9,
+        "z": 222.25
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___veranda___right_wall_002_239",
+      "label": "1/2 osb - veranda - right wall 002",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 1219.2,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 9398.0,
+        "y": -2451.1,
+        "z": 222.25
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___fr___left_wall_001_240",
+      "label": "1/2 osb - FR - left wall 001",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 1219.2,
+      "height_mm": 2743.2,
+      "position": {
+        "x": -12.7,
+        "y": 139.7,
+        "z": 222.25
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___fr___left_wall_002_241",
+      "label": "1/2 osb - FR - left wall 002",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 1219.2,
+      "height_mm": 2743.2,
+      "position": {
+        "x": -12.7,
+        "y": 1358.9,
+        "z": 222.25
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___fr___left_wall_003_242",
+      "label": "1/2 osb - FR - left wall 003",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 1219.2,
+      "height_mm": 2743.2,
+      "position": {
+        "x": -12.7,
+        "y": 2578.1,
+        "z": 222.25
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___fr___left_wall_004_243",
+      "label": "1/2 osb - FR - left wall 004",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 1219.2,
+      "height_mm": 2743.2,
+      "position": {
+        "x": -12.7,
+        "y": 3797.3,
+        "z": 222.25
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___fr___left_wall_005_244",
+      "label": "1/2 osb - FR - left wall 005",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 1079.5,
+      "height_mm": 2743.2,
+      "position": {
+        "x": -12.7,
+        "y": 5016.5,
+        "z": 222.25
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___fr___left_top_001_245",
+      "label": "1/2 osb - FR - left top 001",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 2743.2,
+      "height_mm": 847.725,
+      "position": {
+        "x": -12.7,
+        "y": 0.0,
+        "z": 2965.45
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___fr___left_top_002_246",
+      "label": "1/2 osb - FR - left top 002",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 2743.2,
+      "height_mm": 847.725,
+      "position": {
+        "x": -12.7,
+        "y": 2743.2,
+        "z": 2965.45
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___fr___left_top_003_247",
+      "label": "1/2 osb - FR - left top 003",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 609.6,
+      "height_mm": 847.725,
+      "position": {
+        "x": -12.7,
+        "y": 5486.4,
+        "z": 2965.45
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___fr___left_wall_006_248",
+      "label": "1/2 osb - FR - left wall 006",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 139.7,
+      "height_mm": 2743.2,
+      "position": {
+        "x": -12.7,
+        "y": 0.0,
+        "z": 222.25
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___bb___right_001_249",
+      "label": "1/2 osb - BB - right 001",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 139.7,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 10972.8,
+        "y": 0.0,
+        "z": 222.25
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___bb___right_004_250",
+      "label": "1/2 osb - BB - right 004",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 1219.2,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 10972.8,
+        "y": 2578.1,
+        "z": 222.25
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___bb___right_005_251",
+      "label": "1/2 osb - BB - right 005",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 1219.2,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 10972.8,
+        "y": 3797.3,
+        "z": 222.25
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___bb___right_006_252",
+      "label": "1/2 osb - BB - right 006",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 1079.5,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 10972.8,
+        "y": 5016.5,
+        "z": 222.25
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___bb___right_top_002_253",
+      "label": "1/2 osb - BB - right top 002",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 2743.2,
+      "height_mm": 847.725,
+      "position": {
+        "x": 10972.8,
+        "y": 0.0,
+        "z": 2965.45
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___bb___right_top_003_254",
+      "label": "1/2 osb - BB - right top 003",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 2743.2,
+      "height_mm": 847.725,
+      "position": {
+        "x": 10972.8,
+        "y": 2743.2,
+        "z": 2965.45
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___bb___right_top_001_255",
+      "label": "1/2 osb - BB - right top 001",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 609.6,
+      "height_mm": 847.725,
+      "position": {
+        "x": 10972.8,
+        "y": 5486.4,
+        "z": 2965.45
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___bb___back_wall_001_257",
+      "label": "1/2 osb - BB - back wall 001",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 12.7,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 9753.6,
+        "y": 6096.0,
+        "z": 222.25
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___bb___back_wall_002_258",
+      "label": "1/2 osb - BB - back wall 002",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 12.7,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 8534.4,
+        "y": 6096.0,
+        "z": 222.25
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___kitchen___back_wall_002_261",
+      "label": "1/2 osb - kitchen - back wall 002",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 12.7,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 6096.0,
+        "y": 6096.0,
+        "z": 222.25
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___kitchen___back_wall_003_262",
+      "label": "1/2 osb - kitchen - back wall 003",
+      "type": "box",
+      "length_mm": 685.8,
+      "width_mm": 12.7,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 5410.2,
+        "y": 6096.0,
+        "z": 222.25
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___kitchen___back_wall_004_263",
+      "label": "1/2 osb - kitchen - back wall 004",
+      "type": "box",
+      "length_mm": 114.3,
+      "width_mm": 12.7,
+      "height_mm": 2032.0,
+      "position": {
+        "x": 5295.9,
+        "y": 6096.0,
+        "z": 222.25
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___kitchen___back_wall_005_264",
+      "label": "1/2 osb - kitchen - back wall 005",
+      "type": "box",
+      "length_mm": 1752.6,
+      "width_mm": 12.7,
+      "height_mm": 711.2,
+      "position": {
+        "x": 3657.6,
+        "y": 6096.0,
+        "z": 2254.25
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___kitchen___back_wall_006_265",
+      "label": "1/2 osb - kitchen - back wall 006",
+      "type": "box",
+      "length_mm": 114.3,
+      "width_mm": 12.7,
+      "height_mm": 2032.0,
+      "position": {
+        "x": 3657.6,
+        "y": 6096.0,
+        "z": 222.25
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___fr___back_wall_007_266",
+      "label": "1/2 osb - FR - back wall 007",
+      "type": "box",
+      "length_mm": 114.3,
+      "width_mm": 12.7,
+      "height_mm": 2032.0,
+      "position": {
+        "x": 3543.3,
+        "y": 6096.0,
+        "z": 222.25
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___fr___back_wall_008_267",
+      "label": "1/2 osb - FR - back wall 008",
+      "type": "box",
+      "length_mm": 1752.6,
+      "width_mm": 12.7,
+      "height_mm": 711.2,
+      "position": {
+        "x": 1905.0,
+        "y": 6096.0,
+        "z": 2254.25
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___fr___back_wall_009_268",
+      "label": "1/2 osb - FR - back wall 009",
+      "type": "box",
+      "length_mm": 114.3,
+      "width_mm": 12.7,
+      "height_mm": 2032.0,
+      "position": {
+        "x": 1905.0,
+        "y": 6096.0,
+        "z": 222.25
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___fr___back_wall_010_269",
+      "label": "1/2 osb - FR - back wall 010",
+      "type": "box",
+      "length_mm": 685.8,
+      "width_mm": 12.7,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 1219.2,
+        "y": 6096.0,
+        "z": 222.25
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___fr___back_wall_011_270",
+      "label": "1/2 osb - FR - back wall 011",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 12.7,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 0.0,
+        "y": 6096.0,
+        "z": 222.25
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___bb___back_wall_003_274",
+      "label": "1/2 osb - BB - back wall 003",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 12.7,
+      "height_mm": 2743.2,
+      "position": {
+        "x": 7315.2,
+        "y": 6096.0,
+        "z": 222.25
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___bb___back_top_001_275",
+      "label": "1/2 osb - BB - back top 001",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 12.7,
+      "height_mm": 669.925,
+      "position": {
+        "x": 9753.6,
+        "y": 6096.0,
+        "z": 2963.54
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___bb___back_top_002_276",
+      "label": "1/2 osb - BB - back top 002",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 12.7,
+      "height_mm": 669.925,
+      "position": {
+        "x": 8534.4,
+        "y": 6096.0,
+        "z": 2963.54
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___bb___back_top_003_277",
+      "label": "1/2 osb - BB - back top 003",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 12.7,
+      "height_mm": 669.925,
+      "position": {
+        "x": 7315.2,
+        "y": 6096.0,
+        "z": 2963.54
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___kitchen___back_top_001_278",
+      "label": "1/2 osb - kitchen - back top 001",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 12.7,
+      "height_mm": 669.925,
+      "position": {
+        "x": 6096.0,
+        "y": 6096.0,
+        "z": 2963.54
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___kitchen___back_top_002_279",
+      "label": "1/2 osb - kitchen - back top 002",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 12.7,
+      "height_mm": 669.925,
+      "position": {
+        "x": 4876.8,
+        "y": 6096.0,
+        "z": 2963.54
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___kitchen___back_top_003_280",
+      "label": "1/2 osb - kitchen - back top 003",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 12.7,
+      "height_mm": 669.925,
+      "position": {
+        "x": 3657.6,
+        "y": 6096.0,
+        "z": 2963.54
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___fr___back_top_001_281",
+      "label": "1/2 osb - FR - back top 001",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 12.7,
+      "height_mm": 669.925,
+      "position": {
+        "x": 2438.4,
+        "y": 6096.0,
+        "z": 2962.27
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___fr___back_top_002_282",
+      "label": "1/2 osb - FR - back top 002",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 12.7,
+      "height_mm": 669.925,
+      "position": {
+        "x": 1219.2,
+        "y": 6096.0,
+        "z": 2962.27
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___fr___back_top_003_283",
+      "label": "1/2 osb - FR - back top 003",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 12.7,
+      "height_mm": 669.925,
+      "position": {
+        "x": 0.0,
+        "y": 6096.0,
+        "z": 2962.27
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "2x4_gable_blocking___left_001_288",
+      "label": "2x4 gable blocking - left 001",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 38.1,
+      "height_mm": 304.8,
+      "position": {
+        "x": 0.0,
+        "y": -50.8,
+        "z": 2994.02
+      },
+      "material": "2x4 blocking"
+    },
+    {
+      "id": "2x4_gable_blocking___left_002_289",
+      "label": "2x4 gable blocking - left 002",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 38.1,
+      "height_mm": 146.05,
+      "position": {
+        "x": 0.0,
+        "y": -1250.95,
+        "z": 2994.02
+      },
+      "material": "2x4 blocking"
+    },
+    {
+      "id": "2x4_gable_blocking___right_001_290",
+      "label": "2x4 gable blocking - right 001",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 38.1,
+      "height_mm": 304.8,
+      "position": {
+        "x": 9309.1,
+        "y": -50.8,
+        "z": 2994.02
+      },
+      "material": "2x4 blocking"
+    },
+    {
+      "id": "2x4_gable_blocking___right_002_291",
+      "label": "2x4 gable blocking - right 002",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 38.1,
+      "height_mm": 146.05,
+      "position": {
+        "x": 9309.1,
+        "y": -1250.95,
+        "z": 2994.02
+      },
+      "material": "2x4 blocking"
+    },
+    {
+      "id": "dripcap___front_veranda___roof_back___top_001_293",
+      "label": "dripcap - front veranda - roof back - top 001",
+      "type": "box",
+      "length_mm": 3048.0,
+      "width_mm": 3.175,
+      "height_mm": 63.5,
+      "position": {
+        "x": -31.75,
+        "y": -15.875,
+        "z": 3513.45
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "dripcap___front_veranda___roof_back___bottom_001_294",
+      "label": "dripcap - front veranda - roof back - bottom 001",
+      "type": "box",
+      "length_mm": 3048.0,
+      "width_mm": 50.8,
+      "height_mm": 3.175,
+      "position": {
+        "x": -31.75,
+        "y": -63.5,
+        "z": 3506.47
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "dripcap___front_veranda___roof_back___top_002_295",
+      "label": "dripcap - front veranda - roof back - top 002",
+      "type": "box",
+      "length_mm": 3048.0,
+      "width_mm": 3.175,
+      "height_mm": 63.5,
+      "position": {
+        "x": 2965.45,
+        "y": -15.875,
+        "z": 3513.45
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "dripcap___front_veranda___roof_back___top_003_296",
+      "label": "dripcap - front veranda - roof back - top 003",
+      "type": "box",
+      "length_mm": 3048.0,
+      "width_mm": 3.175,
+      "height_mm": 63.5,
+      "position": {
+        "x": 5962.65,
+        "y": -15.875,
+        "z": 3513.45
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "dripcap___front_veranda___roof_back___top_004_297",
+      "label": "dripcap - front veranda - roof back - top 004",
+      "type": "box",
+      "length_mm": 485.775,
+      "width_mm": 3.175,
+      "height_mm": 63.5,
+      "position": {
+        "x": 8959.85,
+        "y": -15.875,
+        "z": 3513.45
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "1_2_rigid_insulation___fr___left_001_299",
+      "label": "1/2 rigid insulation - FR - left 001",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 2438.4,
+      "height_mm": 222.25,
+      "position": {
+        "x": -12.7,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "material": "insulation"
+    },
+    {
+      "id": "1_2_rigid_insulation___fr___left_002_300",
+      "label": "1/2 rigid insulation - FR - left 002",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 2438.4,
+      "height_mm": 222.25,
+      "position": {
+        "x": -12.7,
+        "y": 2438.4,
+        "z": 0.0
+      },
+      "material": "insulation"
+    },
+    {
+      "id": "1_2_rigid_insulation___fr___left_003_301",
+      "label": "1/2 rigid insulation - FR - left 003",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 1219.2,
+      "height_mm": 222.25,
+      "position": {
+        "x": -12.7,
+        "y": 4876.8,
+        "z": 0.0
+      },
+      "material": "insulation"
+    },
+    {
+      "id": "2x4_pt___fr___left_001_302",
+      "label": "2x4 PT - FR - left 001",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 3048.0,
+      "height_mm": 88.9,
+      "position": {
+        "x": -50.8,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "material": "2x4 lumber"
+    },
+    {
+      "id": "2x4_pt___fr___left_002_303",
+      "label": "2x4 PT - FR - left 002",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 3060.7,
+      "height_mm": 88.9,
+      "position": {
+        "x": -50.8,
+        "y": 3048.0,
+        "z": 0.0
+      },
+      "material": "2x4 lumber"
+    },
+    {
+      "id": "1x3_siding_cap___vertical_001_304",
+      "label": "1x3 siding cap - vertical 001",
+      "type": "box",
+      "length_mm": 19.05,
+      "width_mm": 63.5,
+      "height_mm": 3622.67,
+      "position": {
+        "x": -31.75,
+        "y": 0.0,
+        "z": 101.6
+      },
+      "material": "1x3 lumber"
+    },
+    {
+      "id": "1x4_siding_cap___fr___roof_edge_001_305",
+      "label": "1x4 siding cap - FR - roof edge 001",
+      "type": "box",
+      "length_mm": 3689.35,
+      "width_mm": 19.05,
+      "height_mm": 88.9,
+      "position": {
+        "x": -31.75,
+        "y": -31.75,
+        "z": 3724.27
+      },
+      "material": "1x4 lumber"
+    },
+    {
+      "id": "1x8_lp_trim___front_fascia_001_306",
+      "label": "1x8 LP trim - front fascia 001",
+      "type": "box",
+      "length_mm": 4876.8,
+      "width_mm": 19.05,
+      "height_mm": 184.15,
+      "position": {
+        "x": -31.75,
+        "y": -31.75,
+        "z": 3540.12
+      },
+      "material": "1x8 lumber"
+    },
+    {
+      "id": "dripcap___front_veranda___roof_back___bottom_002_307",
+      "label": "dripcap - front veranda - roof back - bottom 002",
+      "type": "box",
+      "length_mm": 3048.0,
+      "width_mm": 50.8,
+      "height_mm": 3.175,
+      "position": {
+        "x": 2965.45,
+        "y": -63.5,
+        "z": 3506.47
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "dripcap___front_veranda___roof_back___bottom_003_308",
+      "label": "dripcap - front veranda - roof back - bottom 003",
+      "type": "box",
+      "length_mm": 3048.0,
+      "width_mm": 50.8,
+      "height_mm": 3.175,
+      "position": {
+        "x": 5962.65,
+        "y": -63.5,
+        "z": 3506.47
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "dripcap___front_veranda___roof_back___bottom_004_309",
+      "label": "dripcap - front veranda - roof back - bottom 004",
+      "type": "box",
+      "length_mm": 488.95,
+      "width_mm": 50.8,
+      "height_mm": 3.175,
+      "position": {
+        "x": 8959.85,
+        "y": -63.5,
+        "z": 3506.47
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "1x3_siding_cap___vertical_002_310",
+      "label": "1x3 siding cap - vertical 002",
+      "type": "box",
+      "length_mm": 19.05,
+      "width_mm": 63.5,
+      "height_mm": 3622.67,
+      "position": {
+        "x": -31.75,
+        "y": 6032.5,
+        "z": 101.6
+      },
+      "material": "1x3 lumber"
+    },
+    {
+      "id": "2x4_pt___front_veranda___left_312",
+      "label": "2x4 PT - front veranda - left",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 2451.1,
+      "height_mm": 88.9,
+      "position": {
+        "x": -50.8,
+        "y": -2451.1,
+        "z": 50.8
+      },
+      "material": "2x4 lumber"
+    },
+    {
+      "id": "1x6_pt___roof_box_trim___top_001_313",
+      "label": "1x6 PT - roof box trim - top 001",
+      "type": "box",
+      "length_mm": 4876.8,
+      "width_mm": 139.7,
+      "height_mm": 19.05,
+      "position": {
+        "x": -101.6,
+        "y": -101.6,
+        "z": 3819.52
+      },
+      "material": "1x6 lumber"
+    },
+    {
+      "id": "1x6_pt___roof_box_trim___down_001_314",
+      "label": "1x6 PT - roof box trim - down 001",
+      "type": "box",
+      "length_mm": 4876.8,
+      "width_mm": 19.05,
+      "height_mm": 139.7,
+      "position": {
+        "x": -53.975,
+        "y": -63.5,
+        "z": 3679.82
+      },
+      "material": "1x6 lumber"
+    },
+    {
+      "id": "1x6_pt___roof_box_trim___top_004_315",
+      "label": "1x6 PT - roof box trim - top 004",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 4876.8,
+      "height_mm": 19.05,
+      "position": {
+        "x": -101.6,
+        "y": 38.1,
+        "z": 3819.52
+      },
+      "material": "1x6 lumber"
+    },
+    {
+      "id": "t1_11_siding___front_veranda___left_001_316",
+      "label": "T1-11 siding - front veranda - left 001",
+      "type": "box",
+      "length_mm": 15.875,
+      "width_mm": 1219.2,
+      "height_mm": 2438.4,
+      "position": {
+        "x": 88.9,
+        "y": -2451.1,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "t1_11_siding___front_veranda___left_002_317",
+      "label": "T1-11 siding - front veranda - left 002",
+      "type": "box",
+      "length_mm": 15.875,
+      "width_mm": 1219.2,
+      "height_mm": 2438.4,
+      "position": {
+        "x": 88.9,
+        "y": -1231.9,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "1x2_cedar_trim___front_veranda___siding_joint___left_320",
+      "label": "1x2 Cedar trim - front veranda - siding joint - left",
+      "type": "box",
+      "length_mm": 19.05,
+      "width_mm": 2419.35,
+      "height_mm": 38.1,
+      "position": {
+        "x": 104.775,
+        "y": -2451.1,
+        "z": 2641.6
+      },
+      "material": "1x2 lumber"
+    },
+    {
+      "id": "1x2_cedar_trim___front_veranda___trim___ceiling_front_001_321",
+      "label": "1x2 Cedar trim - front veranda - trim - ceiling front 001",
+      "type": "box",
+      "length_mm": 869.95,
+      "width_mm": 38.1,
+      "height_mm": 19.05,
+      "position": {
+        "x": 120.65,
+        "y": -2451.1,
+        "z": 2959.1
+      },
+      "material": "1x2 lumber"
+    },
+    {
+      "id": "1x3_siding_cap___vertical_009_322",
+      "label": "1x3 siding cap - vertical 009",
+      "type": "box",
+      "length_mm": 19.05,
+      "width_mm": 63.5,
+      "height_mm": 3019.42,
+      "position": {
+        "x": -31.75,
+        "y": -2451.1,
+        "z": 152.4
+      },
+      "material": "1x3 lumber"
+    },
+    {
+      "id": "1x3_siding_cap___fr___roof_edge_002_324",
+      "label": "1x3 siding cap - FR - roof edge 002",
+      "type": "box",
+      "length_mm": 3619.5,
+      "width_mm": 19.05,
+      "height_mm": 184.15,
+      "position": {
+        "x": 38.1,
+        "y": 6108.7,
+        "z": 3448.05
+      },
+      "material": "1x3 lumber"
+    },
+    {
+      "id": "1x3_siding_cap___vertical_003_325",
+      "label": "1x3 siding cap - vertical 003",
+      "type": "box",
+      "length_mm": 63.5,
+      "width_mm": 19.05,
+      "height_mm": 3530.6,
+      "position": {
+        "x": -25.4,
+        "y": 6108.7,
+        "z": 101.6
+      },
+      "material": "1x3 lumber"
+    },
+    {
+      "id": "1x4_siding_cap___fr___roof_edge_002_327",
+      "label": "1x4 siding cap - FR - roof edge 002",
+      "type": "box",
+      "length_mm": 19.05,
+      "width_mm": 6108.7,
+      "height_mm": 88.9,
+      "position": {
+        "x": -31.75,
+        "y": -12.7,
+        "z": 3724.27
+      },
+      "material": "1x4 lumber"
+    },
+    {
+      "id": "roof___fr___gutter_flashing_328",
+      "label": "roof - FR - gutter flashing",
+      "type": "box",
+      "length_mm": 3619.5,
+      "width_mm": 3.175,
+      "height_mm": 152.4,
+      "position": {
+        "x": 38.1,
+        "y": 6146.8,
+        "z": 3454.4
+      },
+      "material": "gutter"
+    },
+    {
+      "id": "1x3_siding_cap___kitchen___roof_edge_001_329",
+      "label": "1x3 siding cap - kitchen - roof edge 001",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 19.05,
+      "height_mm": 184.15,
+      "position": {
+        "x": 3657.6,
+        "y": 6108.7,
+        "z": 3448.05
+      },
+      "material": "1x3 lumber"
+    },
+    {
+      "id": "1x3_siding_cap___bb___roof_edge_001_330",
+      "label": "1x3 siding cap - BB - roof edge 001",
+      "type": "box",
+      "length_mm": 3619.5,
+      "width_mm": 19.05,
+      "height_mm": 184.15,
+      "position": {
+        "x": 7315.2,
+        "y": 6108.7,
+        "z": 3448.05
+      },
+      "material": "1x3 lumber"
+    },
+    {
+      "id": "1x3_siding_cap___vertical_004_331",
+      "label": "1x3 siding cap - vertical 004",
+      "type": "box",
+      "length_mm": 63.5,
+      "width_mm": 19.05,
+      "height_mm": 3530.6,
+      "position": {
+        "x": 10934.7,
+        "y": 6108.7,
+        "z": 101.6
+      },
+      "material": "1x3 lumber"
+    },
+    {
+      "id": "roof___fr___gutter_back_332",
+      "label": "roof - FR - gutter back",
+      "type": "box",
+      "length_mm": 3600.45,
+      "width_mm": 19.05,
+      "height_mm": 234.95,
+      "position": {
+        "x": 57.15,
+        "y": 6127.75,
+        "z": 3397.25
+      },
+      "material": "gutter"
+    },
+    {
+      "id": "roof___kitchen___gutter_back_333",
+      "label": "roof - kitchen - gutter back",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 19.05,
+      "height_mm": 234.95,
+      "position": {
+        "x": 3657.6,
+        "y": 6127.75,
+        "z": 3397.25
+      },
+      "material": "gutter"
+    },
+    {
+      "id": "roof___bb___gutter_back_334",
+      "label": "roof - BB - gutter back",
+      "type": "box",
+      "length_mm": 3600.45,
+      "width_mm": 19.05,
+      "height_mm": 234.95,
+      "position": {
+        "x": 7315.2,
+        "y": 6127.75,
+        "z": 3397.25
+      },
+      "material": "gutter"
+    },
+    {
+      "id": "1x4_siding_cap___kitchen___roof_edge_001_335",
+      "label": "1x4 siding cap - kitchen - roof edge 001",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 19.05,
+      "height_mm": 88.9,
+      "position": {
+        "x": 3657.6,
+        "y": -31.75,
+        "z": 3724.27
+      },
+      "material": "1x4 lumber"
+    },
+    {
+      "id": "1x4_siding_cap___bb___roof_edge_001_336",
+      "label": "1x4 siding cap - BB - roof edge 001",
+      "type": "box",
+      "length_mm": 3689.35,
+      "width_mm": 19.05,
+      "height_mm": 88.9,
+      "position": {
+        "x": 7315.2,
+        "y": -31.75,
+        "z": 3724.27
+      },
+      "material": "1x4 lumber"
+    },
+    {
+      "id": "roof___kitchen___gutter_flashing_340",
+      "label": "roof - kitchen - gutter flashing",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 3.175,
+      "height_mm": 152.4,
+      "position": {
+        "x": 3657.6,
+        "y": 6146.8,
+        "z": 3454.4
+      },
+      "material": "gutter"
+    },
+    {
+      "id": "roof___bb___gutter_flashing_341",
+      "label": "roof - BB - gutter flashing",
+      "type": "box",
+      "length_mm": 3619.5,
+      "width_mm": 3.175,
+      "height_mm": 152.4,
+      "position": {
+        "x": 7315.2,
+        "y": 6146.8,
+        "z": 3454.4
+      },
+      "material": "gutter"
+    },
+    {
+      "id": "roof___gutter_342",
+      "label": "roof - gutter",
+      "type": "box",
+      "length_mm": 10972.8,
+      "width_mm": 127.0,
+      "height_mm": 95.25,
+      "position": {
+        "x": 19.05,
+        "y": 6146.8,
+        "z": 3397.25
+      },
+      "material": "gutter"
+    },
+    {
+      "id": "2x6_top_plate___bb___top___int_bed_001_350",
+      "label": "2x6 top plate - BB - top - int bed 001",
+      "type": "box",
+      "length_mm": 3425.82,
+      "width_mm": 88.9,
+      "height_mm": 38.1,
+      "position": {
+        "x": 7407.27,
+        "y": 2717.8,
+        "z": 2994.02
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_top_plate___bb___top___int_bath_001_351",
+      "label": "2x6 top plate - BB - top - int bath 001",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 3149.6,
+      "height_mm": 38.1,
+      "position": {
+        "x": 9010.65,
+        "y": 2806.7,
+        "z": 2994.02
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_top_plate___bb___top___int_bath_002_352",
+      "label": "2x6 top plate - BB - top - int bath 002",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 3149.6,
+      "height_mm": 38.1,
+      "position": {
+        "x": 9124.95,
+        "y": 2806.7,
+        "z": 2994.02
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "1x4_siding_cap___bb___roof_edge_003_355",
+      "label": "1x4 siding cap - BB - roof edge 003",
+      "type": "box",
+      "length_mm": 19.05,
+      "width_mm": 6108.7,
+      "height_mm": 88.9,
+      "position": {
+        "x": 10985.5,
+        "y": -12.7,
+        "z": 3724.27
+      },
+      "material": "1x4 lumber"
+    },
+    {
+      "id": "1x3_siding_cap___vertical_005_356",
+      "label": "1x3 siding cap - vertical 005",
+      "type": "box",
+      "length_mm": 19.05,
+      "width_mm": 63.5,
+      "height_mm": 3622.67,
+      "position": {
+        "x": 10985.5,
+        "y": 0.0,
+        "z": 101.6
+      },
+      "material": "1x3 lumber"
+    },
+    {
+      "id": "1x3_siding_cap___vertical_006_357",
+      "label": "1x3 siding cap - vertical 006",
+      "type": "box",
+      "length_mm": 19.05,
+      "width_mm": 63.5,
+      "height_mm": 3622.67,
+      "position": {
+        "x": 10985.5,
+        "y": 6032.5,
+        "z": 101.6
+      },
+      "material": "1x3 lumber"
+    },
+    {
+      "id": "1x3_siding_cap___vertical_007_358",
+      "label": "1x3 siding cap - vertical 007",
+      "type": "box",
+      "length_mm": 63.5,
+      "width_mm": 19.05,
+      "height_mm": 3622.67,
+      "position": {
+        "x": 10934.7,
+        "y": -31.75,
+        "z": 101.6
+      },
+      "material": "1x3 lumber"
+    },
+    {
+      "id": "1x3_siding_cap___vertical_008_359",
+      "label": "1x3 siding cap - vertical 008",
+      "type": "box",
+      "length_mm": 63.5,
+      "width_mm": 19.05,
+      "height_mm": 3622.67,
+      "position": {
+        "x": 9448.8,
+        "y": -31.75,
+        "z": 101.6
+      },
+      "material": "1x3 lumber"
+    },
+    {
+      "id": "1_2_rigid_insulation___fr___back_001_360",
+      "label": "1/2 rigid insulation - FR - back 001",
+      "type": "box",
+      "length_mm": 2438.4,
+      "width_mm": 12.7,
+      "height_mm": 222.25,
+      "position": {
+        "x": 0.0,
+        "y": 6096.0,
+        "z": 0.0
+      },
+      "material": "insulation"
+    },
+    {
+      "id": "1_2_rigid_insulation___fr___back_002_361",
+      "label": "1/2 rigid insulation - FR - back 002",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 12.7,
+      "height_mm": 222.25,
+      "position": {
+        "x": 2438.4,
+        "y": 6096.0,
+        "z": 0.0
+      },
+      "material": "insulation"
+    },
+    {
+      "id": "2x4_pt___fr___back_001_362",
+      "label": "2x4 PT - FR - back 001",
+      "type": "box",
+      "length_mm": 1498.6,
+      "width_mm": 38.1,
+      "height_mm": 88.9,
+      "position": {
+        "x": -50.8,
+        "y": 6108.7,
+        "z": 0.0
+      },
+      "material": "2x4 lumber"
+    },
+    {
+      "id": "metal_siding___seed___left_364",
+      "label": "metal siding - seed - left",
+      "type": "box",
+      "length_mm": 19.05,
+      "width_mm": 5969.0,
+      "height_mm": 3622.67,
+      "position": {
+        "x": -31.75,
+        "y": 63.5,
+        "z": 101.6
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "1x6_pt___roof_box_trim___top_002_366",
+      "label": "1x6 PT - roof box trim - top 002",
+      "type": "box",
+      "length_mm": 4876.8,
+      "width_mm": 139.7,
+      "height_mm": 19.05,
+      "position": {
+        "x": 4775.2,
+        "y": -101.6,
+        "z": 3819.52
+      },
+      "material": "1x6 lumber"
+    },
+    {
+      "id": "1x6_pt___roof_box_trim___top_003_367",
+      "label": "1x6 PT - roof box trim - top 003",
+      "type": "box",
+      "length_mm": 1422.4,
+      "width_mm": 139.7,
+      "height_mm": 19.05,
+      "position": {
+        "x": 9652.0,
+        "y": -101.6,
+        "z": 3819.52
+      },
+      "material": "1x6 lumber"
+    },
+    {
+      "id": "1x6_pt___roof_box_trim___down_002_368",
+      "label": "1x6 PT - roof box trim - down 002",
+      "type": "box",
+      "length_mm": 4876.8,
+      "width_mm": 19.05,
+      "height_mm": 139.7,
+      "position": {
+        "x": 4775.2,
+        "y": -63.5,
+        "z": 3679.82
+      },
+      "material": "1x6 lumber"
+    },
+    {
+      "id": "1x6_pt___roof_box_trim___down_003_369",
+      "label": "1x6 PT - roof box trim - down 003",
+      "type": "box",
+      "length_mm": 1374.77,
+      "width_mm": 19.05,
+      "height_mm": 139.7,
+      "position": {
+        "x": 9652.0,
+        "y": -63.5,
+        "z": 3679.82
+      },
+      "material": "1x6 lumber"
+    },
+    {
+      "id": "1x8_lp_trim___front_fascia_002_371",
+      "label": "1x8 LP trim - front fascia 002",
+      "type": "box",
+      "length_mm": 4600.57,
+      "width_mm": 19.05,
+      "height_mm": 184.15,
+      "position": {
+        "x": 4845.05,
+        "y": -31.75,
+        "z": 3540.12
+      },
+      "material": "1x8 lumber"
+    },
+    {
+      "id": "1x6_pt___roof_box_trim___down_004_372",
+      "label": "1x6 PT - roof box trim - down 004",
+      "type": "box",
+      "length_mm": 19.05,
+      "width_mm": 4876.8,
+      "height_mm": 139.7,
+      "position": {
+        "x": -53.975,
+        "y": -44.45,
+        "z": 3679.82
+      },
+      "material": "1x6 lumber"
+    },
+    {
+      "id": "1x6_lp_trim___siding_trim___vertical_001_374",
+      "label": "1x6 LP trim - siding trim - vertical 001",
+      "type": "box",
+      "length_mm": 19.05,
+      "width_mm": 139.7,
+      "height_mm": 3578.22,
+      "position": {
+        "x": -50.8,
+        "y": -50.8,
+        "z": 101.6
+      },
+      "material": "1x6 lumber"
+    },
+    {
+      "id": "1x4_pt___siding_trim___vertical_001_375",
+      "label": "1x4 PT - siding trim - vertical 001",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 19.05,
+      "height_mm": 3530.6,
+      "position": {
+        "x": -31.75,
+        "y": 6127.75,
+        "z": 101.6
+      },
+      "material": "1x4 lumber"
+    },
+    {
+      "id": "1x6_pt___siding_trim___vertical_001_376",
+      "label": "1x6 PT - siding trim - vertical 001",
+      "type": "box",
+      "length_mm": 19.05,
+      "width_mm": 139.7,
+      "height_mm": 3578.22,
+      "position": {
+        "x": -50.8,
+        "y": 6007.1,
+        "z": 101.6
+      },
+      "material": "1x6 lumber"
+    },
+    {
+      "id": "1x6_pt___roof_box_trim___top_005_377",
+      "label": "1x6 PT - roof box trim - top 005",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 1247.77,
+      "height_mm": 19.05,
+      "position": {
+        "x": -101.6,
+        "y": 4914.9,
+        "z": 3819.52
+      },
+      "material": "1x6 lumber"
+    },
+    {
+      "id": "1x6_pt___roof_box_trim___down_005_378",
+      "label": "1x6 PT - roof box trim - down 005",
+      "type": "box",
+      "length_mm": 19.05,
+      "width_mm": 1317.62,
+      "height_mm": 139.7,
+      "position": {
+        "x": -53.975,
+        "y": 4832.35,
+        "z": 3679.82
+      },
+      "material": "1x6 lumber"
+    },
+    {
+      "id": "1x12_lp_trim___back_fascia_001_382",
+      "label": "1x12 LP trim - back fascia 001",
+      "type": "box",
+      "length_mm": 19.05,
+      "width_mm": 47.625,
+      "height_mm": 285.75,
+      "position": {
+        "x": -53.975,
+        "y": 6149.97,
+        "z": 3533.77
+      },
+      "material": "1x12 lumber"
+    },
+    {
+      "id": "1x12_lp_trim___back_fascia_002_383",
+      "label": "1x12 LP trim - back fascia 002",
+      "type": "box",
+      "length_mm": 4876.8,
+      "width_mm": 19.05,
+      "height_mm": 285.75,
+      "position": {
+        "x": -53.975,
+        "y": 6197.6,
+        "z": 3533.77
+      },
+      "material": "1x12 lumber"
+    },
+    {
+      "id": "1x12_lp_trim___back_fascia_003_384",
+      "label": "1x12 LP trim - back fascia 003",
+      "type": "box",
+      "length_mm": 4876.8,
+      "width_mm": 19.05,
+      "height_mm": 285.75,
+      "position": {
+        "x": 4822.82,
+        "y": 6197.6,
+        "z": 3533.77
+      },
+      "material": "1x12 lumber"
+    },
+    {
+      "id": "1x4_pt___roof_box_trim___top_006_385",
+      "label": "1x4 PT - roof box trim - top 006",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 88.9,
+      "height_mm": 19.05,
+      "position": {
+        "x": -101.6,
+        "y": 6162.67,
+        "z": 3819.52
+      },
+      "material": "1x4 lumber"
+    },
+    {
+      "id": "1x6_pt___roof_box_trim___top_006_386",
+      "label": "1x6 PT - roof box trim - top 006",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 4876.8,
+      "height_mm": 19.05,
+      "position": {
+        "x": 10934.7,
+        "y": 38.1,
+        "z": 3819.52
+      },
+      "material": "1x6 lumber"
+    },
+    {
+      "id": "1x6_pt___roof_box_trim___top_007_387",
+      "label": "1x6 PT - roof box trim - top 007",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 1247.77,
+      "height_mm": 19.05,
+      "position": {
+        "x": 10934.7,
+        "y": 4914.9,
+        "z": 3819.52
+      },
+      "material": "1x6 lumber"
+    },
+    {
+      "id": "1x6_pt___roof_box_trim___down_006_388",
+      "label": "1x6 PT - roof box trim - down 006",
+      "type": "box",
+      "length_mm": 19.05,
+      "width_mm": 4876.8,
+      "height_mm": 139.7,
+      "position": {
+        "x": 11007.7,
+        "y": -44.45,
+        "z": 3679.82
+      },
+      "material": "1x6 lumber"
+    },
+    {
+      "id": "1x6_pt___roof_box_trim___down_007_389",
+      "label": "1x6 PT - roof box trim - down 007",
+      "type": "box",
+      "length_mm": 19.05,
+      "width_mm": 1317.62,
+      "height_mm": 139.7,
+      "position": {
+        "x": 11007.7,
+        "y": 4832.35,
+        "z": 3679.82
+      },
+      "material": "1x6 lumber"
+    },
+    {
+      "id": "1x12_lp_trim___back_fascia_004_390",
+      "label": "1x12 LP trim - back fascia 004",
+      "type": "box",
+      "length_mm": 1327.15,
+      "width_mm": 19.05,
+      "height_mm": 285.75,
+      "position": {
+        "x": 9699.62,
+        "y": 6197.6,
+        "z": 3533.77
+      },
+      "material": "1x12 lumber"
+    },
+    {
+      "id": "1x12_lp_trim___back_fascia_005_391",
+      "label": "1x12 LP trim - back fascia 005",
+      "type": "box",
+      "length_mm": 19.05,
+      "width_mm": 47.625,
+      "height_mm": 285.75,
+      "position": {
+        "x": 11007.7,
+        "y": 6149.97,
+        "z": 3533.77
+      },
+      "material": "1x12 lumber"
+    },
+    {
+      "id": "1x4_pt___roof_box_trim___top_007_392",
+      "label": "1x4 PT - roof box trim - top 007",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 88.9,
+      "height_mm": 19.05,
+      "position": {
+        "x": 3556.0,
+        "y": 6162.67,
+        "z": 3819.52
+      },
+      "material": "1x4 lumber"
+    },
+    {
+      "id": "1x4_pt___roof_box_trim___top_008_393",
+      "label": "1x4 PT - roof box trim - top 008",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 88.9,
+      "height_mm": 19.05,
+      "position": {
+        "x": 7213.6,
+        "y": 6162.67,
+        "z": 3819.52
+      },
+      "material": "1x4 lumber"
+    },
+    {
+      "id": "1x4_pt___roof_box_trim___top_009_394",
+      "label": "1x4 PT - roof box trim - top 009",
+      "type": "box",
+      "length_mm": 203.2,
+      "width_mm": 88.9,
+      "height_mm": 19.05,
+      "position": {
+        "x": 10871.2,
+        "y": 6162.67,
+        "z": 3819.52
+      },
+      "material": "1x4 lumber"
+    },
+    {
+      "id": "1x4_pt___siding_trim___vertical_002_395",
+      "label": "1x4 PT - siding trim - vertical 002",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 19.05,
+      "height_mm": 3530.6,
+      "position": {
+        "x": 10915.6,
+        "y": 6127.75,
+        "z": 101.6
+      },
+      "material": "1x4 lumber"
+    },
+    {
+      "id": "1x6_pt___siding_trim___vertical_002_396",
+      "label": "1x6 PT - siding trim - vertical 002",
+      "type": "box",
+      "length_mm": 19.05,
+      "width_mm": 139.7,
+      "height_mm": 3578.22,
+      "position": {
+        "x": 11004.5,
+        "y": 6010.27,
+        "z": 101.6
+      },
+      "material": "1x6 lumber"
+    },
+    {
+      "id": "1x6_lp_trim___siding_trim___vertical_002_397",
+      "label": "1x6 LP trim - siding trim - vertical 002",
+      "type": "box",
+      "length_mm": 19.05,
+      "width_mm": 139.7,
+      "height_mm": 3578.22,
+      "position": {
+        "x": 11004.5,
+        "y": -50.8,
+        "z": 101.6
+      },
+      "material": "1x6 lumber"
+    },
+    {
+      "id": "1x4_pt___siding_trim___vertical_003_398",
+      "label": "1x4 PT - siding trim - vertical 003",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 19.05,
+      "height_mm": 3581.4,
+      "position": {
+        "x": 10915.6,
+        "y": -50.8,
+        "z": 101.6
+      },
+      "material": "1x4 lumber"
+    },
+    {
+      "id": "1_2_rigid_insulation___kitchen___back_001_401",
+      "label": "1/2 rigid insulation - Kitchen - back 001",
+      "type": "box",
+      "length_mm": 2438.4,
+      "width_mm": 12.7,
+      "height_mm": 222.25,
+      "position": {
+        "x": 3657.6,
+        "y": 6096.0,
+        "z": 0.0
+      },
+      "material": "insulation"
+    },
+    {
+      "id": "1_2_rigid_insulation___kitchen___back_002_402",
+      "label": "1/2 rigid insulation - Kitchen - back 002",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 12.7,
+      "height_mm": 222.25,
+      "position": {
+        "x": 6096.0,
+        "y": 6096.0,
+        "z": 0.0
+      },
+      "material": "insulation"
+    },
+    {
+      "id": "1_2_rigid_insulation___bb___back_001_403",
+      "label": "1/2 rigid insulation - BB - back 001",
+      "type": "box",
+      "length_mm": 2438.4,
+      "width_mm": 12.7,
+      "height_mm": 222.25,
+      "position": {
+        "x": 7315.2,
+        "y": 6096.0,
+        "z": 0.0
+      },
+      "material": "insulation"
+    },
+    {
+      "id": "1_2_rigid_insulation___bb___back_002_404",
+      "label": "1/2 rigid insulation - BB - back 002",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 12.7,
+      "height_mm": 222.25,
+      "position": {
+        "x": 9753.6,
+        "y": 6096.0,
+        "z": 0.0
+      },
+      "material": "insulation"
+    },
+    {
+      "id": "2x4_pt___kitchen___back_001_405",
+      "label": "2x4 PT - Kitchen - back 001",
+      "type": "box",
+      "length_mm": 1447.8,
+      "width_mm": 38.1,
+      "height_mm": 88.9,
+      "position": {
+        "x": 5867.4,
+        "y": 6108.7,
+        "z": 0.0
+      },
+      "material": "2x4 lumber"
+    },
+    {
+      "id": "2x4_pt___bb___back_001_406",
+      "label": "2x4 PT - BB - back 001",
+      "type": "box",
+      "length_mm": 3048.0,
+      "width_mm": 38.1,
+      "height_mm": 88.9,
+      "position": {
+        "x": 7315.2,
+        "y": 6108.7,
+        "z": 0.0
+      },
+      "material": "2x4 lumber"
+    },
+    {
+      "id": "2x4_pt___bb___back_002_407",
+      "label": "2x4 PT - BB - back 002",
+      "type": "box",
+      "length_mm": 660.4,
+      "width_mm": 38.1,
+      "height_mm": 88.9,
+      "position": {
+        "x": 10363.2,
+        "y": 6108.7,
+        "z": 0.0
+      },
+      "material": "2x4 lumber"
+    },
+    {
+      "id": "2x4_pt___bb___left_002_408",
+      "label": "2x4 PT - BB - left 002",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 3060.7,
+      "height_mm": 88.9,
+      "position": {
+        "x": 10985.5,
+        "y": 3048.0,
+        "z": 0.0
+      },
+      "material": "2x4 lumber"
+    },
+    {
+      "id": "2x4_pt___bb___left_001_409",
+      "label": "2x4 PT - BB - left 001",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 3060.7,
+      "height_mm": 88.9,
+      "position": {
+        "x": 10985.5,
+        "y": -12.7,
+        "z": 0.0
+      },
+      "material": "2x4 lumber"
+    },
+    {
+      "id": "1_2_rigid_insulation___bb___left_002_410",
+      "label": "1/2 rigid insulation - BB - left 002",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 2438.4,
+      "height_mm": 222.25,
+      "position": {
+        "x": 10972.8,
+        "y": -12.7,
+        "z": 0.0
+      },
+      "material": "insulation"
+    },
+    {
+      "id": "1_2_rigid_insulation___bb___left_001_411",
+      "label": "1/2 rigid insulation - BB - left 001",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 2438.4,
+      "height_mm": 222.25,
+      "position": {
+        "x": 10972.8,
+        "y": 2425.7,
+        "z": 0.0
+      },
+      "material": "insulation"
+    },
+    {
+      "id": "1_2_rigid_insulation___bb___left_003_412",
+      "label": "1/2 rigid insulation - BB - left 003",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 1231.9,
+      "height_mm": 222.25,
+      "position": {
+        "x": 10972.8,
+        "y": 4864.1,
+        "z": 0.0
+      },
+      "material": "insulation"
+    },
+    {
+      "id": "metal_siding___seed___front_413",
+      "label": "metal siding - seed - front",
+      "type": "box",
+      "length_mm": 1409.7,
+      "width_mm": 19.05,
+      "height_mm": 3622.67,
+      "position": {
+        "x": 9518.65,
+        "y": -31.75,
+        "z": 101.6
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "metal_siding___seed___right_001_415",
+      "label": "metal siding - seed - right 001",
+      "type": "box",
+      "length_mm": 19.05,
+      "width_mm": 450.85,
+      "height_mm": 3622.67,
+      "position": {
+        "x": 10985.5,
+        "y": 63.5,
+        "z": 101.6
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "metal_siding___seed___right_002_416",
+      "label": "metal siding - seed - right 002",
+      "type": "box",
+      "length_mm": 19.05,
+      "width_mm": 1689.1,
+      "height_mm": 612.775,
+      "position": {
+        "x": 10985.5,
+        "y": 514.35,
+        "z": 101.6
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "metal_siding___seed___right_004_417",
+      "label": "metal siding - seed - right 004",
+      "type": "box",
+      "length_mm": 19.05,
+      "width_mm": 3829.05,
+      "height_mm": 3622.67,
+      "position": {
+        "x": 10985.5,
+        "y": 2203.45,
+        "z": 101.6
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "metal_siding___seed___right_003_418",
+      "label": "metal siding - seed - right 003",
+      "type": "box",
+      "length_mm": 19.05,
+      "width_mm": 1689.1,
+      "height_mm": 1409.7,
+      "position": {
+        "x": 10985.5,
+        "y": 514.35,
+        "z": 2314.57
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "1x6_lp_trim___siding_trim___vertical_004_426",
+      "label": "1x6 LP trim - siding trim - vertical 004",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 19.05,
+      "height_mm": 3121.02,
+      "position": {
+        "x": -50.8,
+        "y": -2470.15,
+        "z": 50.8
+      },
+      "material": "1x6 lumber"
+    },
+    {
+      "id": "1x6_lp_trim___siding_trim___horizontal_001_427",
+      "label": "1x6 LP trim - siding trim - horizontal 001",
+      "type": "box",
+      "length_mm": 4876.8,
+      "width_mm": 19.05,
+      "height_mm": 139.7,
+      "position": {
+        "x": 88.9,
+        "y": -2470.15,
+        "z": 3032.12
+      },
+      "material": "1x6 lumber"
+    },
+    {
+      "id": "1x3_siding_cap___vertical_010_428",
+      "label": "1x3 siding cap - vertical 010",
+      "type": "box",
+      "length_mm": 19.05,
+      "width_mm": 63.5,
+      "height_mm": 3333.75,
+      "position": {
+        "x": 9410.7,
+        "y": -76.2,
+        "z": 152.4
+      },
+      "material": "1x3 lumber"
+    },
+    {
+      "id": "1x6_lp_trim___siding_trim___vertical_006_431",
+      "label": "1x6 LP trim - siding trim - vertical 006",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 19.05,
+      "height_mm": 3121.02,
+      "position": {
+        "x": 9309.1,
+        "y": -2470.15,
+        "z": 50.8
+      },
+      "material": "1x6 lumber"
+    },
+    {
+      "id": "1x6_lp_trim___siding_trim___horizontal_002_432",
+      "label": "1x6 LP trim - siding trim - horizontal 002",
+      "type": "box",
+      "length_mm": 4343.4,
+      "width_mm": 19.05,
+      "height_mm": 139.7,
+      "position": {
+        "x": 4965.7,
+        "y": -2470.15,
+        "z": 3032.12
+      },
+      "material": "1x6 lumber"
+    },
+    {
+      "id": "1x4_pt_trim___siding_trim___horizontal_003_433",
+      "label": "1x4 PT trim - siding trim - horizontal 003",
+      "type": "box",
+      "length_mm": 4876.8,
+      "width_mm": 19.05,
+      "height_mm": 88.9,
+      "position": {
+        "x": 88.9,
+        "y": -2470.15,
+        "z": 2943.22
+      },
+      "material": "1x4 lumber"
+    },
+    {
+      "id": "1x4_pt_trim___siding_trim___horizontal_004_434",
+      "label": "1x4 PT trim - siding trim - horizontal 004",
+      "type": "box",
+      "length_mm": 4343.4,
+      "width_mm": 19.05,
+      "height_mm": 88.9,
+      "position": {
+        "x": 4965.7,
+        "y": -2470.15,
+        "z": 2943.22
+      },
+      "material": "1x4 lumber"
+    },
+    {
+      "id": "1x2_pt_trim___siding_trim___vertical_007_435",
+      "label": "1x2 PT trim - siding trim - vertical 007",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 19.05,
+      "height_mm": 2714.62,
+      "position": {
+        "x": 88.9,
+        "y": -2470.15,
+        "z": 228.6
+      },
+      "material": "1x2 lumber"
+    },
+    {
+      "id": "1x2_pt_trim___siding_trim___vertical_008_436",
+      "label": "1x2 PT trim - siding trim - vertical 008",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 19.05,
+      "height_mm": 2714.62,
+      "position": {
+        "x": 9271.0,
+        "y": -2470.15,
+        "z": 228.6
+      },
+      "material": "1x2 lumber"
+    },
+    {
+      "id": "1x6_lp_trim___siding_trim___horizontal_003_437",
+      "label": "1x6 LP trim - siding trim - horizontal 003",
+      "type": "box",
+      "length_mm": 4876.8,
+      "width_mm": 19.05,
+      "height_mm": 139.7,
+      "position": {
+        "x": 88.9,
+        "y": -2470.15,
+        "z": 50.8
+      },
+      "material": "1x6 lumber"
+    },
+    {
+      "id": "1x6_lp_trim___siding_trim___horizontal_004_438",
+      "label": "1x6 LP trim - siding trim - horizontal 004",
+      "type": "box",
+      "length_mm": 4343.4,
+      "width_mm": 19.05,
+      "height_mm": 139.7,
+      "position": {
+        "x": 4965.7,
+        "y": -2470.15,
+        "z": 50.8
+      },
+      "material": "1x6 lumber"
+    },
+    {
+      "id": "1x2_pt_trim___siding_trim___horizontal_005_439",
+      "label": "1x2 PT trim - siding trim - horizontal 005",
+      "type": "box",
+      "length_mm": 4876.8,
+      "width_mm": 19.05,
+      "height_mm": 38.1,
+      "position": {
+        "x": 88.9,
+        "y": -2470.15,
+        "z": 190.5
+      },
+      "material": "1x2 lumber"
+    },
+    {
+      "id": "1x2_pt_trim___siding_trim___horizontal_006_440",
+      "label": "1x2 PT trim - siding trim - horizontal 006",
+      "type": "box",
+      "length_mm": 4343.4,
+      "width_mm": 19.05,
+      "height_mm": 38.1,
+      "position": {
+        "x": 4965.7,
+        "y": -2470.15,
+        "z": 190.5
+      },
+      "material": "1x2 lumber"
+    },
+    {
+      "id": "3_4_pt_plywood___back_veranda___gable_left_002_443",
+      "label": "3/4 PT plywood - back veranda - gable left 002",
+      "type": "box",
+      "length_mm": 19.05,
+      "width_mm": 1219.2,
+      "height_mm": 714.375,
+      "position": {
+        "x": 5829.3,
+        "y": 6108.7,
+        "z": 50.8
+      },
+      "material": "3/4 inch plywood"
+    },
+    {
+      "id": "3_4_pt_plywood___back_veranda___gable_right_002_444",
+      "label": "3/4 PT plywood - back veranda - gable right 002",
+      "type": "box",
+      "length_mm": 19.05,
+      "width_mm": 1219.2,
+      "height_mm": 714.375,
+      "position": {
+        "x": 1466.85,
+        "y": 6108.7,
+        "z": 50.8
+      },
+      "material": "3/4 inch plywood"
+    },
+    {
+      "id": "1x2_cedar_trim___siding_trim___horizontal_003_448",
+      "label": "1x2 Cedar trim - siding trim - horizontal 003",
+      "type": "box",
+      "length_mm": 19.05,
+      "width_mm": 1041.4,
+      "height_mm": 38.1,
+      "position": {
+        "x": 1447.8,
+        "y": 6197.6,
+        "z": 752.475
+      },
+      "material": "1x2 lumber"
+    },
+    {
+      "id": "1x2_cedar_trim___siding_trim___horizontal_004_452",
+      "label": "1x2 Cedar trim - siding trim - horizontal 004",
+      "type": "box",
+      "length_mm": 19.05,
+      "width_mm": 1041.4,
+      "height_mm": 38.1,
+      "position": {
+        "x": 5848.35,
+        "y": 6197.6,
+        "z": 752.475
+      },
+      "material": "1x2 lumber"
+    },
+    {
+      "id": "2x4_blocking___back_veranda___left_001_453",
+      "label": "2x4 blocking - back veranda - left 001",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 812.8,
+      "height_mm": 38.1,
+      "position": {
+        "x": 5740.4,
+        "y": 6108.7,
+        "z": 2994.02
+      },
+      "material": "2x4 blocking"
+    },
+    {
+      "id": "2x4_blocking___back_veranda___left_002_454",
+      "label": "2x4 blocking - back veranda - left 002",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 38.1,
+      "height_mm": 101.6,
+      "position": {
+        "x": 5740.4,
+        "y": 6108.7,
+        "z": 2886.07
+      },
+      "material": "2x4 blocking"
+    },
+    {
+      "id": "2x4_blocking___back_veranda___right_001_458",
+      "label": "2x4 blocking - back veranda - right 001",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 812.8,
+      "height_mm": 38.1,
+      "position": {
+        "x": 1485.9,
+        "y": 6108.7,
+        "z": 2994.02
+      },
+      "material": "2x4 blocking"
+    },
+    {
+      "id": "2x4_blocking___back_veranda___right_002_459",
+      "label": "2x4 blocking - back veranda - right 002",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 38.1,
+      "height_mm": 101.6,
+      "position": {
+        "x": 1485.9,
+        "y": 6108.7,
+        "z": 2886.07
+      },
+      "material": "2x4 blocking"
+    },
+    {
+      "id": "1x2_siding_cap___vertical_011_470",
+      "label": "1x2 siding cap - vertical 011",
+      "type": "box",
+      "length_mm": 63.5,
+      "width_mm": 19.05,
+      "height_mm": 3346.45,
+      "position": {
+        "x": 1384.3,
+        "y": 6108.7,
+        "z": 101.6
+      },
+      "material": "1x2 lumber"
+    },
+    {
+      "id": "1x8_cedar_trim___siding_trim___vertical_001_471",
+      "label": "1x8 Cedar trim - siding trim - vertical 001",
+      "type": "box",
+      "length_mm": 184.15,
+      "width_mm": 19.05,
+      "height_mm": 3013.07,
+      "position": {
+        "x": 1447.8,
+        "y": 7327.9,
+        "z": 50.8
+      },
+      "material": "1x8 lumber"
+    },
+    {
+      "id": "1x2_cedar_trim___back_veranda___siding_seam___right_472",
+      "label": "1x2 Cedar trim - back veranda - siding seam - right",
+      "type": "box",
+      "length_mm": 19.05,
+      "width_mm": 1184.27,
+      "height_mm": 38.1,
+      "position": {
+        "x": 1590.67,
+        "y": 6143.62,
+        "z": 2641.6
+      },
+      "material": "1x2 lumber"
+    },
+    {
+      "id": "1x8_cedar_trim___siding_trim___vertical_002_473",
+      "label": "1x8 Cedar trim - siding trim - vertical 002",
+      "type": "box",
+      "length_mm": 184.15,
+      "width_mm": 19.05,
+      "height_mm": 3013.07,
+      "position": {
+        "x": 5683.25,
+        "y": 7327.9,
+        "z": 50.8
+      },
+      "material": "1x8 lumber"
+    },
+    {
+      "id": "1x2_cedar_trim___back_veranda___siding_seam___left_474",
+      "label": "1x2 Cedar trim - back veranda - siding seam - left",
+      "type": "box",
+      "length_mm": 19.05,
+      "width_mm": 1184.27,
+      "height_mm": 38.1,
+      "position": {
+        "x": 5705.47,
+        "y": 6143.62,
+        "z": 2641.6
+      },
+      "material": "1x2 lumber"
+    },
+    {
+      "id": "1x8_cedar_trim___siding_trim___horizontal_001_475",
+      "label": "1x8 Cedar trim - siding trim - horizontal 001",
+      "type": "box",
+      "length_mm": 4051.3,
+      "width_mm": 19.05,
+      "height_mm": 184.15,
+      "position": {
+        "x": 1631.95,
+        "y": 7327.9,
+        "z": 2879.72
+      },
+      "material": "1x8 lumber"
+    },
+    {
+      "id": "1x8_cedar_trim___siding_trim___horizontal_002_476",
+      "label": "1x8 Cedar trim - siding trim - horizontal 002",
+      "type": "box",
+      "length_mm": 4051.3,
+      "width_mm": 19.05,
+      "height_mm": 171.45,
+      "position": {
+        "x": 1631.95,
+        "y": 7327.9,
+        "z": 50.8
+      },
+      "material": "1x8 lumber"
+    },
+    {
+      "id": "1x3_siding_cap___vertical_012_477",
+      "label": "1x3 siding cap - vertical 012",
+      "type": "box",
+      "length_mm": 63.5,
+      "width_mm": 19.05,
+      "height_mm": 3346.45,
+      "position": {
+        "x": 5867.4,
+        "y": 6108.7,
+        "z": 101.6
+      },
+      "material": "1x3 lumber"
+    },
+    {
+      "id": "dripcap___back_veranda___top_001_478",
+      "label": "dripcap - back veranda - top 001",
+      "type": "box",
+      "length_mm": 3048.0,
+      "width_mm": 3.175,
+      "height_mm": 63.5,
+      "position": {
+        "x": 1447.8,
+        "y": 6108.7,
+        "z": 3238.5
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "dripcap___back_veranda___bottom_001_479",
+      "label": "dripcap - back veranda - bottom 001",
+      "type": "box",
+      "length_mm": 3048.0,
+      "width_mm": 50.8,
+      "height_mm": 3.175,
+      "position": {
+        "x": 1447.8,
+        "y": 6108.7,
+        "z": 3238.5
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "dripcap___back_veranda___top_002_480",
+      "label": "dripcap - back veranda - top 002",
+      "type": "box",
+      "length_mm": 1422.4,
+      "width_mm": 3.175,
+      "height_mm": 63.5,
+      "position": {
+        "x": 4445.0,
+        "y": 6108.7,
+        "z": 3238.5
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "dripcap___back_veranda___bottom_002_481",
+      "label": "dripcap - back veranda - bottom 002",
+      "type": "box",
+      "length_mm": 1422.4,
+      "width_mm": 50.8,
+      "height_mm": 3.175,
+      "position": {
+        "x": 4445.0,
+        "y": 6108.7,
+        "z": 3238.5
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "1x8_lp_trim_ripped___siding_trim___horizontal_005_482",
+      "label": "1x8 LP trim (ripped) - siding trim - horizontal 005",
+      "type": "box",
+      "length_mm": 4419.6,
+      "width_mm": 19.05,
+      "height_mm": 184.15,
+      "position": {
+        "x": 1447.8,
+        "y": 6108.7,
+        "z": 3263.9
+      },
+      "material": "1x8 lumber"
+    },
+    {
+      "id": "4x4_post___back_veranda_483",
+      "label": "4x4 post - back veranda",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 88.9,
+      "height_mm": 2663.82,
+      "position": {
+        "x": 3613.15,
+        "y": 7239.0,
+        "z": 222.25
+      },
+      "material": "4x4 lumber"
+    },
+    {
+      "id": "metal_siding___seed___back_001_486",
+      "label": "metal siding - seed - back 001",
+      "type": "box",
+      "length_mm": 1320.8,
+      "width_mm": 19.05,
+      "height_mm": 3333.75,
+      "position": {
+        "x": 50.8,
+        "y": 6108.7,
+        "z": 101.6
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "metal_siding___seed___back_002_487",
+      "label": "metal siding - seed - back 002",
+      "type": "box",
+      "length_mm": 4978.4,
+      "width_mm": 19.05,
+      "height_mm": 3333.75,
+      "position": {
+        "x": 5943.6,
+        "y": 6108.7,
+        "z": 101.6
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "1x4_lp_trim___siding_trim___vertical_001_488",
+      "label": "1x4 LP trim - siding trim - vertical 001",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 19.05,
+      "height_mm": 3295.65,
+      "position": {
+        "x": 1358.9,
+        "y": 6127.75,
+        "z": 101.6
+      },
+      "material": "1x4 lumber"
+    },
+    {
+      "id": "1x4_lp_trim___siding_trim___vertical_002_489",
+      "label": "1x4 LP trim - siding trim - vertical 002",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 19.05,
+      "height_mm": 3295.65,
+      "position": {
+        "x": 5867.4,
+        "y": 6127.75,
+        "z": 101.6
+      },
+      "material": "1x4 lumber"
+    },
+    {
+      "id": "1x3_siding_cap___vertical_013_490",
+      "label": "1x3 siding cap - vertical 013",
+      "type": "box",
+      "length_mm": 19.05,
+      "width_mm": 63.5,
+      "height_mm": 3019.42,
+      "position": {
+        "x": 9410.7,
+        "y": -2451.1,
+        "z": 152.4
+      },
+      "material": "1x3 lumber"
+    },
+    {
+      "id": "1x4_pt___siding_trim___vertical_004_494",
+      "label": "1x4 PT - siding trim - vertical 004",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 19.05,
+      "height_mm": 3581.4,
+      "position": {
+        "x": 9448.8,
+        "y": -50.8,
+        "z": 101.6
+      },
+      "material": "1x4 lumber"
+    },
+    {
+      "id": "2x4_pt___bb___front_001_495",
+      "label": "2x4 PT - BB - front 001",
+      "type": "box",
+      "length_mm": 1574.8,
+      "width_mm": 38.1,
+      "height_mm": 88.9,
+      "position": {
+        "x": 9448.8,
+        "y": -50.8,
+        "z": 0.0
+      },
+      "material": "2x4 lumber"
+    },
+    {
+      "id": "1_2_osb___veranda___left_wall_003_505",
+      "label": "1/2 osb - veranda - left wall 003",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 2438.4,
+      "height_mm": 171.45,
+      "position": {
+        "x": -12.7,
+        "y": -2451.1,
+        "z": 50.8
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "2x4_pt___front_veranda___right_506",
+      "label": "2x4 PT - front veranda - right",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 2451.1,
+      "height_mm": 88.9,
+      "position": {
+        "x": 9410.7,
+        "y": -2451.1,
+        "z": 50.8
+      },
+      "material": "2x4 lumber"
+    },
+    {
+      "id": "1_2_osb___veranda___right_wall_003_507",
+      "label": "1/2 osb - veranda - right wall 003",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 2438.4,
+      "height_mm": 171.45,
+      "position": {
+        "x": 9398.0,
+        "y": -2451.1,
+        "z": 50.8
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1x4_lp_trim___front_door___left_511",
+      "label": "1x4 LP trim - front door - left",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 19.05,
+      "height_mm": 2047.87,
+      "position": {
+        "x": 3651.25,
+        "y": -31.75,
+        "z": 222.25
+      },
+      "material": "1x4 lumber"
+    },
+    {
+      "id": "1x4_lp_trim___front_door___right_512",
+      "label": "1x4 LP trim - front door - right",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 19.05,
+      "height_mm": 2047.87,
+      "position": {
+        "x": 5626.1,
+        "y": -31.75,
+        "z": 222.25
+      },
+      "material": "1x4 lumber"
+    },
+    {
+      "id": "1x4_lp_trim___front_door___top_513",
+      "label": "1x4 LP trim - front door - top",
+      "type": "box",
+      "length_mm": 2063.75,
+      "width_mm": 19.05,
+      "height_mm": 88.9,
+      "position": {
+        "x": 3651.25,
+        "y": -31.75,
+        "z": 2270.13
+      },
+      "material": "1x4 lumber"
+    },
+    {
+      "id": "t1_11_siding___front_veranda___right_001_518",
+      "label": "T1-11 siding - front veranda - right 001",
+      "type": "box",
+      "length_mm": 15.875,
+      "width_mm": 1219.2,
+      "height_mm": 2438.4,
+      "position": {
+        "x": 9296.4,
+        "y": -1231.9,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "t1_11_siding___front_veranda___right_002_519",
+      "label": "T1-11 siding - front veranda - right 002",
+      "type": "box",
+      "length_mm": 15.875,
+      "width_mm": 1219.2,
+      "height_mm": 2438.4,
+      "position": {
+        "x": 9296.4,
+        "y": -2451.1,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "1x2_cedar_trim___front_veranda___siding_joint___right_522",
+      "label": "1x2 Cedar trim - front veranda - siding joint - right",
+      "type": "box",
+      "length_mm": 19.05,
+      "width_mm": 2419.35,
+      "height_mm": 38.1,
+      "position": {
+        "x": 9277.35,
+        "y": -2451.1,
+        "z": 2641.6
+      },
+      "material": "1x2 lumber"
+    },
+    {
+      "id": "1x2_cedar_trim___front_veranda___trim___ceiling_front_002_525",
+      "label": "1x2 Cedar trim - front veranda - trim - ceiling front 002",
+      "type": "box",
+      "length_mm": 2286.0,
+      "width_mm": 38.1,
+      "height_mm": 19.05,
+      "position": {
+        "x": 1130.3,
+        "y": -2451.1,
+        "z": 2959.1
+      },
+      "material": "1x2 lumber"
+    },
+    {
+      "id": "1x2_cedar_trim___front_veranda___trim___ceiling_front_003_526",
+      "label": "1x2 Cedar trim - front veranda - trim - ceiling front 003",
+      "type": "box",
+      "length_mm": 2286.0,
+      "width_mm": 38.1,
+      "height_mm": 19.05,
+      "position": {
+        "x": 3556.0,
+        "y": -2451.1,
+        "z": 2959.1
+      },
+      "material": "1x2 lumber"
+    },
+    {
+      "id": "1x2_cedar_trim___front_veranda___trim___ceiling_front_004_527",
+      "label": "1x2 Cedar trim - front veranda - trim - ceiling front 004",
+      "type": "box",
+      "length_mm": 2286.0,
+      "width_mm": 38.1,
+      "height_mm": 19.05,
+      "position": {
+        "x": 5981.7,
+        "y": -2451.1,
+        "z": 2959.1
+      },
+      "material": "1x2 lumber"
+    },
+    {
+      "id": "1x2_cedar_trim___front_veranda___trim___ceiling_front_005_528",
+      "label": "1x2 Cedar trim - front veranda - trim - ceiling front 005",
+      "type": "box",
+      "length_mm": 869.95,
+      "width_mm": 38.1,
+      "height_mm": 19.05,
+      "position": {
+        "x": 8407.4,
+        "y": -2451.1,
+        "z": 2959.1
+      },
+      "material": "1x2 lumber"
+    },
+    {
+      "id": "1x2_cedar_trim___front_veranda___corner___left_529",
+      "label": "1x2 Cedar trim - front veranda - corner - left",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 19.05,
+      "height_mm": 3063.88,
+      "position": {
+        "x": 104.775,
+        "y": -31.75,
+        "z": 222.25
+      },
+      "material": "1x2 lumber"
+    },
+    {
+      "id": "1x2_cedar_trim___front_veranda___corner___right_530",
+      "label": "1x2 Cedar trim - front veranda - corner - right",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 19.05,
+      "height_mm": 3063.88,
+      "position": {
+        "x": 9258.3,
+        "y": -31.75,
+        "z": 222.25
+      },
+      "material": "1x2 lumber"
+    },
+    {
+      "id": "1x2_cedar_trim___front_veranda___ceiling_back_001_531",
+      "label": "1x2 Cedar trim - front veranda - ceiling back 001",
+      "type": "box",
+      "length_mm": 2438.4,
+      "width_mm": 19.05,
+      "height_mm": 38.1,
+      "position": {
+        "x": 142.875,
+        "y": -31.75,
+        "z": 3248.02
+      },
+      "material": "1x2 lumber"
+    },
+    {
+      "id": "1x2_cedar_trim___front_veranda___ceiling_back_002_532",
+      "label": "1x2 Cedar trim - front veranda - ceiling back 002",
+      "type": "box",
+      "length_mm": 2438.4,
+      "width_mm": 19.05,
+      "height_mm": 38.1,
+      "position": {
+        "x": 2581.27,
+        "y": -31.75,
+        "z": 3248.02
+      },
+      "material": "1x2 lumber"
+    },
+    {
+      "id": "1x2_cedar_trim___front_veranda___ceiling_back_003_533",
+      "label": "1x2 Cedar trim - front veranda - ceiling back 003",
+      "type": "box",
+      "length_mm": 2438.4,
+      "width_mm": 19.05,
+      "height_mm": 38.1,
+      "position": {
+        "x": 5019.67,
+        "y": -31.75,
+        "z": 3248.02
+      },
+      "material": "1x2 lumber"
+    },
+    {
+      "id": "1x2_cedar_trim___front_veranda___ceiling_back_004_534",
+      "label": "1x2 Cedar trim - front veranda - ceiling back 004",
+      "type": "box",
+      "length_mm": 1800.22,
+      "width_mm": 19.05,
+      "height_mm": 38.1,
+      "position": {
+        "x": 7458.07,
+        "y": -31.75,
+        "z": 3248.02
+      },
+      "material": "1x2 lumber"
+    },
+    {
+      "id": "cedar_shakes___front_veranda_001_536",
+      "label": "cedar shakes - front veranda 001",
+      "type": "box",
+      "length_mm": 3508.38,
+      "width_mm": 19.05,
+      "height_mm": 3025.77,
+      "position": {
+        "x": 142.875,
+        "y": -31.75,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "cedar_shakes___front_veranda_002_537",
+      "label": "cedar shakes - front veranda 002",
+      "type": "box",
+      "length_mm": 3543.3,
+      "width_mm": 19.05,
+      "height_mm": 3025.77,
+      "position": {
+        "x": 5715.0,
+        "y": -31.75,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "cedar_shakes___front_veranda_003_538",
+      "label": "cedar shakes - front veranda 003",
+      "type": "box",
+      "length_mm": 2063.75,
+      "width_mm": 19.05,
+      "height_mm": 889.0,
+      "position": {
+        "x": 3651.25,
+        "y": -31.75,
+        "z": 2359.03
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "t1_11_siding___back_veranda___back_wall___top_001_543",
+      "label": "T1-11 siding - back veranda - back wall - top 001",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 15.875,
+      "height_mm": 361.95,
+      "position": {
+        "x": 1590.67,
+        "y": 6108.7,
+        "z": 2660.65
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "t1_11_siding___back_veranda___back_wall___top_002_544",
+      "label": "T1-11 siding - back veranda - back wall - top 002",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 15.875,
+      "height_mm": 361.95,
+      "position": {
+        "x": 2809.87,
+        "y": 6108.7,
+        "z": 2660.65
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "t1_11_siding___back_veranda___back_wall___top_003_545",
+      "label": "T1-11 siding - back veranda - back wall - top 003",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 15.875,
+      "height_mm": 361.95,
+      "position": {
+        "x": 4029.07,
+        "y": 6108.7,
+        "z": 2660.65
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "t1_11_siding___back_veranda___back_wall___top_004_546",
+      "label": "T1-11 siding - back veranda - back wall - top 004",
+      "type": "box",
+      "length_mm": 476.25,
+      "width_mm": 15.875,
+      "height_mm": 361.95,
+      "position": {
+        "x": 5248.27,
+        "y": 6108.7,
+        "z": 2660.65
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "t1_11_siding___back_veranda___gable_left_001_548",
+      "label": "T1-11 siding - back veranda - gable left 001",
+      "type": "box",
+      "length_mm": 15.875,
+      "width_mm": 1219.2,
+      "height_mm": 2438.4,
+      "position": {
+        "x": 5724.52,
+        "y": 6108.7,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "t1_11_siding___back_veranda___gable_right_001_551",
+      "label": "T1-11 siding - back veranda - gable right 001",
+      "type": "box",
+      "length_mm": 15.875,
+      "width_mm": 1219.2,
+      "height_mm": 2438.4,
+      "position": {
+        "x": 1574.8,
+        "y": 6108.7,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "1x2_cedar_trim___back_veranda___corner___right_553",
+      "label": "1x2 Cedar trim - back veranda - corner - right",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 19.05,
+      "height_mm": 2800.35,
+      "position": {
+        "x": 1590.67,
+        "y": 6124.57,
+        "z": 222.25
+      },
+      "material": "1x2 lumber"
+    },
+    {
+      "id": "1x2_cedar_trim___back_veranda___corner___left_554",
+      "label": "1x2 Cedar trim - back veranda - corner - left",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 19.05,
+      "height_mm": 2800.35,
+      "position": {
+        "x": 5686.42,
+        "y": 6124.57,
+        "z": 222.25
+      },
+      "material": "1x2 lumber"
+    },
+    {
+      "id": "1x2_cedar_trim___back_veranda___siding_seam___back_555",
+      "label": "1x2 Cedar trim - back veranda - siding seam - back",
+      "type": "box",
+      "length_mm": 4057.65,
+      "width_mm": 19.05,
+      "height_mm": 38.1,
+      "position": {
+        "x": 1628.77,
+        "y": 6124.57,
+        "z": 2641.6
+      },
+      "material": "1x2 lumber"
+    },
+    {
+      "id": "1x2_cedar_trim___back_veranda___ceiling___back_556",
+      "label": "1x2 Cedar trim - back veranda - ceiling - back",
+      "type": "box",
+      "length_mm": 4057.65,
+      "width_mm": 19.05,
+      "height_mm": 38.1,
+      "position": {
+        "x": 1628.77,
+        "y": 6124.57,
+        "z": 2984.5
+      },
+      "material": "1x2 lumber"
+    },
+    {
+      "id": "1x4_lp_trim___back_door___left_top_559",
+      "label": "1x4 LP trim - back door - left top",
+      "type": "box",
+      "length_mm": 1511.3,
+      "width_mm": 19.05,
+      "height_mm": 88.9,
+      "position": {
+        "x": 3775.07,
+        "y": 6124.57,
+        "z": 2241.55
+      },
+      "material": "1x4 lumber"
+    },
+    {
+      "id": "1x4_lp_trim___back_door___right_top_560",
+      "label": "1x4 LP trim - back door - right top",
+      "type": "box",
+      "length_mm": 1511.3,
+      "width_mm": 19.05,
+      "height_mm": 88.9,
+      "position": {
+        "x": 2025.65,
+        "y": 6124.57,
+        "z": 2241.55
+      },
+      "material": "1x4 lumber"
+    },
+    {
+      "id": "1x4_lp_trim___back_door___right_right_561",
+      "label": "1x4 LP trim - back door - right right",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 19.05,
+      "height_mm": 2108.2,
+      "position": {
+        "x": 1936.75,
+        "y": 6124.57,
+        "z": 222.25
+      },
+      "material": "1x4 lumber"
+    },
+    {
+      "id": "1x4_lp_trim___back_door___right_left_562",
+      "label": "1x4 LP trim - back door - right left",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 19.05,
+      "height_mm": 2108.2,
+      "position": {
+        "x": 3536.95,
+        "y": 6124.57,
+        "z": 222.25
+      },
+      "material": "1x4 lumber"
+    },
+    {
+      "id": "1x4_lp_trim___back_door___left_right_563",
+      "label": "1x4 LP trim - back door - left right",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 19.05,
+      "height_mm": 2108.2,
+      "position": {
+        "x": 3686.17,
+        "y": 6124.57,
+        "z": 222.25
+      },
+      "material": "1x4 lumber"
+    },
+    {
+      "id": "1x4_lp_trim___back_door___left_right001_564",
+      "label": "1x4 LP trim - back door - left right001",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 19.05,
+      "height_mm": 2108.2,
+      "position": {
+        "x": 5286.38,
+        "y": 6124.57,
+        "z": 222.25
+      },
+      "material": "1x4 lumber"
+    },
+    {
+      "id": "back_veranda___roof___metal_corrugated_roofing_565",
+      "label": "back veranda - roof - metal corrugated roofing",
+      "type": "box",
+      "length_mm": 4419.6,
+      "width_mm": 1289.05,
+      "height_mm": 19.05,
+      "position": {
+        "x": 1447.8,
+        "y": 6108.7,
+        "z": 3219.45
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "kitchen_cabinets___range_hood__water_heaters_572",
+      "label": "Kitchen Cabinets - Range Hood + Water Heaters",
+      "type": "box",
+      "length_mm": 406.4,
+      "width_mm": 1117.6,
+      "height_mm": 1066.8,
+      "position": {
+        "x": 6807.2,
+        "y": 2641.6,
+        "z": 1898.65
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "1x6_pt___roof_box_trim___top_008_579",
+      "label": "1x6 PT - roof box trim - top 008",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 4876.8,
+      "height_mm": 19.05,
+      "position": {
+        "x": 3587.75,
+        "y": 38.1,
+        "z": 3819.52
+      },
+      "material": "1x6 lumber"
+    },
+    {
+      "id": "1x6_pt___roof_box_trim___top_009_580",
+      "label": "1x6 PT - roof box trim - top 009",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 1247.77,
+      "height_mm": 19.05,
+      "position": {
+        "x": 3587.75,
+        "y": 4914.9,
+        "z": 3819.52
+      },
+      "material": "1x6 lumber"
+    },
+    {
+      "id": "1x6_pt___roof_box_trim___top_010_581",
+      "label": "1x6 PT - roof box trim - top 010",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 4876.8,
+      "height_mm": 19.05,
+      "position": {
+        "x": 7245.35,
+        "y": 38.1,
+        "z": 3819.52
+      },
+      "material": "1x6 lumber"
+    },
+    {
+      "id": "1x6_pt___roof_box_trim___top_011_582",
+      "label": "1x6 PT - roof box trim - top 011",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 1247.77,
+      "height_mm": 19.05,
+      "position": {
+        "x": 7245.35,
+        "y": 4914.9,
+        "z": 3819.52
+      },
+      "material": "1x6 lumber"
+    },
+    {
+      "id": "3_in_casing___kitchen___left_door_001_591",
+      "label": "3-in casing - kitchen - left door 001",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 76.2,
+      "height_mm": 2171.7,
+      "position": {
+        "x": 7200.9,
+        "y": 4902.2,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "3_in_casing___kitchen___left_door_002_594",
+      "label": "3-in casing - kitchen - left door 002",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 76.2,
+      "height_mm": 2171.7,
+      "position": {
+        "x": 7200.9,
+        "y": 5842.0,
+        "z": 222.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "3_in_casing___kitchen___left_door_003_595",
+      "label": "3-in casing - kitchen - left door 003",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 863.6,
+      "height_mm": 76.2,
+      "position": {
+        "x": 7200.9,
+        "y": 4978.4,
+        "z": 2317.75
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "1x2_trim___kitchen___left_door_001_596",
+      "label": "1x2 trim - kitchen - left door 001",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 19.05,
+      "height_mm": 2190.75,
+      "position": {
+        "x": 7175.5,
+        "y": 4883.15,
+        "z": 222.25
+      },
+      "material": "1x2 lumber"
+    },
+    {
+      "id": "1x2_trim___kitchen___left_door_002_597",
+      "label": "1x2 trim - kitchen - left door 002",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 19.05,
+      "height_mm": 2190.75,
+      "position": {
+        "x": 7175.5,
+        "y": 5918.2,
+        "z": 222.25
+      },
+      "material": "1x2 lumber"
+    },
+    {
+      "id": "1x2_trim___kitchen___left_door_003_598",
+      "label": "1x2 trim - kitchen - left door 003",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 1016.0,
+      "height_mm": 19.05,
+      "position": {
+        "x": 7175.5,
+        "y": 4902.2,
+        "z": 2393.95
+      },
+      "material": "1x2 lumber"
+    },
+    {
+      "id": "2x8_rim_joist___fr___front_614",
+      "label": "2x8 rim joist - FR - front",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 38.1,
+      "height_mm": 184.15,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 19.05
+      },
+      "material": "2x8 joist"
+    },
+    {
+      "id": "2x8_rim_joist___fr___back_615",
+      "label": "2x8 rim joist - FR - back",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 38.1,
+      "height_mm": 184.15,
+      "position": {
+        "x": 0.0,
+        "y": 6057.9,
+        "z": 19.05
+      },
+      "material": "2x8 joist"
+    },
+    {
+      "id": "3_4_osb___rim_joist_scab___fr___front_616",
+      "label": "3/4 OSB - rim joist scab - FR - front",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 38.1,
+      "height_mm": 19.05,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 203.2
+      },
+      "material": "3/4 inch OSB"
+    },
+    {
+      "id": "3_4_osb___rim_joist_scab___fr___back_617",
+      "label": "3/4 OSB - rim joist scab - FR - back",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 38.1,
+      "height_mm": 19.05,
+      "position": {
+        "x": 0.0,
+        "y": 6057.9,
+        "z": 203.2
+      },
+      "material": "3/4 inch OSB"
+    },
+    {
+      "id": "3_4_osb___kitchen___rim_joist_scab___front_621",
+      "label": "3/4 OSB - Kitchen - rim joist scab - front",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 38.1,
+      "height_mm": 19.05,
+      "position": {
+        "x": 3657.6,
+        "y": 0.0,
+        "z": 203.2
+      },
+      "material": "3/4 inch OSB"
+    },
+    {
+      "id": "3_4_osb___kitchen___rim_joist_scab___back_623",
+      "label": "3/4 OSB - Kitchen - rim joist scab - back",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 38.1,
+      "height_mm": 19.05,
+      "position": {
+        "x": 3657.6,
+        "y": 6057.9,
+        "z": 203.2
+      },
+      "material": "3/4 inch OSB"
+    },
+    {
+      "id": "2x8_rim_joist___kitchen___front_625",
+      "label": "2x8 rim joist - Kitchen - front",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 38.1,
+      "height_mm": 184.15,
+      "position": {
+        "x": 3657.6,
+        "y": 0.0,
+        "z": 19.05
+      },
+      "material": "2x8 joist"
+    },
+    {
+      "id": "2x8_rim_joist___kitchen___back_627",
+      "label": "2x8 rim joist - Kitchen - back",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 38.1,
+      "height_mm": 184.15,
+      "position": {
+        "x": 3657.6,
+        "y": 6057.9,
+        "z": 19.05
+      },
+      "material": "2x8 joist"
+    },
+    {
+      "id": "2x8_rim_joist___bb___back_631",
+      "label": "2x8 rim joist - BB - back",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 38.1,
+      "height_mm": 184.15,
+      "position": {
+        "x": 7315.2,
+        "y": 6057.9,
+        "z": 19.05
+      },
+      "material": "2x8 joist"
+    },
+    {
+      "id": "3_4_osb___bb___rim_joist_scab___front_634",
+      "label": "3/4 OSB - BB - rim joist scab - front",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 38.1,
+      "height_mm": 19.05,
+      "position": {
+        "x": 7315.2,
+        "y": 0.0,
+        "z": 203.2
+      },
+      "material": "3/4 inch OSB"
+    },
+    {
+      "id": "2x8_rim_joist___bb___front_636",
+      "label": "2x8 rim joist - BB - front",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 38.1,
+      "height_mm": 184.15,
+      "position": {
+        "x": 7315.2,
+        "y": 0.0,
+        "z": 19.05
+      },
+      "material": "2x8 joist"
+    },
+    {
+      "id": "3_4_osb___bb___rim_joist_scab___back001_637",
+      "label": "3/4 OSB - BB - rim joist scab - back001",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 38.1,
+      "height_mm": 19.05,
+      "position": {
+        "x": 7315.2,
+        "y": 6057.9,
+        "z": 203.2
+      },
+      "material": "3/4 inch OSB"
+    }
+  ],
+  "groups": [
+    {
+      "id": "floor___fr_0",
+      "label": "Floor - FR",
+      "children": [
+        "floor___fr___top_sheathing___left_0",
+        "floor___fr___bottom_sheathing___left_1",
+        "floor___fr___frame___left_2",
+        "floor___fr___frame___right_3",
+        "floor___fr___bottom_sheathing___right_4",
+        "floor___fr___top_sheathing___right_5",
+        "2x8_rim_joist___fr___front_6",
+        "2x8_rim_joist___fr___back_7",
+        "3_4_osb___rim_joist_scab___fr___front_8",
+        "3_4_osb___rim_joist_scab___fr___back_9"
+      ]
+    },
+    {
+      "id": "floor___kitchen_1",
+      "label": "Floor - Kitchen",
+      "children": [
+        "floor___kitchen___frame___right_0",
+        "floor___kitchen___top_sheathing___right_1",
+        "floor___kitchen___bottom_sheathing___right_2",
+        "2x8_rim_joist___kitchen___back_3",
+        "floor___kitchen___bottom_sheathing___left_4",
+        "floor___kitchen___top_sheathing___left_5",
+        "3_4_osb___kitchen___rim_joist_scab___front_6",
+        "floor___kitchen___frame___left_7",
+        "2x8_rim_joist___kitchen___front_8",
+        "3_4_osb___kitchen___rim_joist_scab___back_9"
+      ]
+    },
+    {
+      "id": "floor___bath_bed_2",
+      "label": "Floor - Bath/Bed",
+      "children": [
+        "floor___bb___top_sheathing___left_0",
+        "2x8_rim_joist___bb___back_1",
+        "floor___bb___bottom_sheathing___right_2",
+        "3_4_osb___bb___rim_joist_scab___front_3",
+        "floor___bb___top_sheathing___right_4",
+        "floor___bb___frame___right_5",
+        "floor___bb___frame___left_6",
+        "3_4_osb___bb___rim_joist_scab___back001_7",
+        "2x8_rim_joist___bb___front_8",
+        "floor___bb___bottom_sheathing___left_9"
+      ]
+    },
+    {
+      "id": "walls___bb_4",
+      "label": "Walls - BB",
+      "children": [
+        "wall___bb___back_0",
+        "wall___bb___front_1",
+        "wall___bb___right_2",
+        "wall___bb___left_3",
+        "int_walls___bb_4"
+      ]
+    },
+    {
+      "id": "wall___bb___back_5",
+      "label": "Wall - BB - Back",
+      "children": [
+        "wall___bb___back_001_0",
+        "wall___bb___back_002_1",
+        "wall___bb___back_003_2",
+        "wall___bb___back_003_door_insert_3"
+      ]
+    },
+    {
+      "id": "wall___bb___front_6",
+      "label": "Wall - BB - Front",
+      "children": [
+        "wall___bb___front_003_0",
+        "wall___bb___front_001_1",
+        "wall___bb___front_002_2"
+      ]
+    },
+    {
+      "id": "wall___bb___right_7",
+      "label": "Wall - BB - Right",
+      "children": [
+        "wall___bb___right_003_0",
+        "wall___bb___right_001_1",
+        "wall___bb___right_004_2",
+        "wall___bb___right_002_3",
+        "wall___bb___right_004_window_insert_4",
+        "wall___bb___right_005_window_insert_5",
+        "window___30x60___left_6",
+        "window___30x60___right_7"
+      ]
+    },
+    {
+      "id": "wall___bb___left_8",
+      "label": "Wall - BB - Left",
+      "children": [
+        "int_wall___bb___left_002_0",
+        "int_wall___bb___left_003_1",
+        "int_wall___bb___left_006_2",
+        "int_wall___bb___left_007_3",
+        "int_wall___bb___left_005_4"
+      ]
+    },
+    {
+      "id": "walls___kitchen_11",
+      "label": "Walls - Kitchen",
+      "children": [
+        "wall___kitchen___back_0",
+        "wall___kitchen___front_1",
+        "wall___kitchen___right_2"
+      ]
+    },
+    {
+      "id": "wall___kitchen___back_12",
+      "label": "Wall - Kitchen - Back",
+      "children": [
+        "wall___kitchen___back_002_0",
+        "wall___kitchen___back_001_1",
+        "wall___kitchen___back_001_door_insert_2",
+        "wall___kitchen___back_003_3"
+      ]
+    },
+    {
+      "id": "walls___fr_13",
+      "label": "Walls - FR",
+      "children": [
+        "wall___fm___back_0",
+        "wall___fm___left_1",
+        "wall___fm___front_2"
+      ]
+    },
+    {
+      "id": "wall___fm___back_14",
+      "label": "Wall - FM - Back",
+      "children": [
+        "wall___fm___back_003_0",
+        "wall___fm___back_001_1",
+        "wall___fm___back_002_2"
+      ]
+    },
+    {
+      "id": "wall___fm___left_23",
+      "label": "Wall - FM - Left",
+      "children": [
+        "wall___fr___left_001_0",
+        "wall___fr___left_002_1",
+        "wall___fr___left_003_2",
+        "wall___fr___left_004_3",
+        "wall___fr___left_005_4"
+      ]
+    },
+    {
+      "id": "wall___fm___front_24",
+      "label": "Wall - FM - Front",
+      "children": [
+        "wall___fm___front_001_0",
+        "wall___fm___front_002_1",
+        "wall___fm___front_003_2"
+      ]
+    },
+    {
+      "id": "wall___kitchen___front_26",
+      "label": "Wall - Kitchen - Front",
+      "children": [
+        "wall___kitchen___front_003_0",
+        "wall___kitchen___front_004_1",
+        "wall___kitchen___front_001_2",
+        "wall___front_door_3"
+      ]
+    },
+    {
+      "id": "int_walls___bb_33",
+      "label": "Int Walls - BB",
+      "children": [
+        "wall___bb___bath_001_0",
+        "wall___bb___bath_004_1",
+        "wall___bb___bath_002_2",
+        "wall___bb___bath_005_3",
+        "wall___bb___bed_003_4",
+        "wall___bb___bath_003_5",
+        "wall___bb___bath_006_6",
+        "wall___bb___bed_002_7",
+        "wall___bb___bed_001_8"
+      ]
+    },
+    {
+      "id": "drywall___kitchen_38",
+      "label": "Drywall - Kitchen",
+      "children": [
+        "drywall___kitchen___right_001_0",
+        "drywall___kitchen___right_002_1",
+        "drywall___kitchen___right_003_2",
+        "drywall___kitchen___right_004_3",
+        "drywall___kitchen___right_005_4",
+        "drywall___kitchen___right_006_5"
+      ]
+    },
+    {
+      "id": "drywall___bb_46",
+      "label": "Drywall - BB",
+      "children": [
+        "drywall___bath_1___right_001_0",
+        "drywall___bath_1___right_002_1",
+        "drywall___bath_1___left_001_2",
+        "drywall___bath_1___left_002_3",
+        "drywall___bath_2___left_001_4",
+        "drywall___bath_2___left_003_5",
+        "drywall___bath_2___right_001_6",
+        "drywall___bath_1___front_001_7",
+        "drywall___bath_1___right_003_8",
+        "drywall___bath_2___right_002_9",
+        "drywall___bath_2___right_003_10",
+        "drywall___bath_1___front_002_11",
+        "drywall___bath_2___back_001_12",
+        "drywall___bath_2___back_002_13",
+        "drywall___bath_2___left_004_14",
+        "drywall___bath_1___back_001_15",
+        "drywall___bath_1___back_002_16",
+        "drywall___bath_1___left_003_17",
+        "drywall___bath_1___back_003_18",
+        "drywall___bath_1___left_004_19",
+        "drywall___bath_1___back_004_20",
+        "drywall___bath_2___front_001_21",
+        "drywall___bath_2___front_002_22",
+        "drywall___bath_1___left_005_23",
+        "drywall___bed___back_001_24",
+        "drywall___bed___back_002_25",
+        "drywall___bed___back_003_26",
+        "drywall___bath_2___front_003_27",
+        "drywall___bath_2___front_004_28",
+        "drywall___bedroom_29"
+      ]
+    },
+    {
+      "id": "fixtures___baths_57",
+      "label": "Fixtures - Baths",
+      "children": [
+        "fixtures___bath_1___bathtub_0",
+        "fixtures___bath_2___bathtub_1",
+        "fixtures___bath_1___vanity_2",
+        "fixtures___bath_2___vanity_3"
+      ]
+    },
+    {
+      "id": "interior_doors_78",
+      "label": "Interior Doors",
+      "children": [
+        "int_door___bath_1___32___back_0",
+        "int_door___bath_1___32___left_1",
+        "int_door___bed___36_2",
+        "int_door___36_pre_hung___split_jamb_3"
+      ]
+    },
+    {
+      "id": "drywall___bedroom_88",
+      "label": "drywall - bedroom",
+      "children": [
+        "drywall___bed___left_001_0",
+        "drywall___bed___left_002_1",
+        "drywall___bed___back_004_2",
+        "drywall___bed___left_003_3",
+        "drywall___bed___left_004_4",
+        "drywall___bed___left_005_5",
+        "drywall___bed___back_005_6"
+      ]
+    },
+    {
+      "id": "fixtures___laundry_96",
+      "label": "Fixtures - Laundry",
+      "children": [
+        "fixtures___laundry___clothes_washer_0",
+        "fixtures___laundry___clothes_dryer_1",
+        "fixtures___laundry___bottom_cabinet_2",
+        "fixtures___laundry___top_cabinet_3"
+      ]
+    },
+    {
+      "id": "walls___laundry_104",
+      "label": "Walls - Laundry",
+      "children": [
+        "wall___laundry___front_001_0",
+        "wall___laundry___right_001_1",
+        "wall___laundry___front_002_2"
+      ]
+    },
+    {
+      "id": "fixtures___kitchen_105",
+      "label": "Fixtures - Kitchen",
+      "children": [
+        "kitchen_cabinets___cooktop__oven_0",
+        "kitchen_island_1",
+        "kitchen_cabinets___range_hood__water_heaters_2",
+        "kitchen_cabinets___tower___left_3",
+        "kitchen_cabinets___tower___right_4"
+      ]
+    },
+    {
+      "id": "top_plate___bb_123",
+      "label": "Top Plate - BB",
+      "children": [
+        "2x6_top_plate___bb___bottom___front_001_0",
+        "2x6_top_plate___bb___bottom___left_001_1",
+        "2x6_top_plate___bb___bottom___left_002_2",
+        "2x6_top_plate___bb___bottom___right_001_3",
+        "2x6_top_plate___bb___bottom___right_002_4",
+        "2x6_top_plate___bb___bottom___int_bed_001_5",
+        "2x6_top_plate___bb___bottom___back_6",
+        "2x6_top_plate___bb___bottom___int_bath_001_7",
+        "2x6_top_plate___bb___bottom___int_bath_002_8",
+        "2x6_top_plate___bb___bottom___int_bed_002_9",
+        "2x6_top_plate___bb___top___front_001_10",
+        "2x6_top_plate___bb___top___right_001_11",
+        "2x6_top_plate___bb___top___back_12",
+        "2x6_top_plate___bb___top___left_001_13",
+        "2x6_top_plate___bb___top___left_002_14",
+        "2x6_top_plate___bb___top___right_002_15",
+        "2x6_top_plate___bb___top___int_bed_001_16",
+        "2x6_top_plate___bb___top___int_bath_001_17",
+        "2x6_top_plate___bb___top___int_bath_002_18"
+      ]
+    },
+    {
+      "id": "top_plate___kitchen_124",
+      "label": "Top Plate - Kitchen",
+      "children": [
+        "2x6_top_plate___kitchen___bottom___right_001_0",
+        "2x6_top_plate___kitchen___bottom___right_002_1",
+        "2x6_top_plate___kitchen___bottom___front_2",
+        "2x6_top_plate___kitchen___bottom___back_3",
+        "2x6_top_plate___kitchen___top___front_4",
+        "2x6_top_plate___kitchen___top___back_5",
+        "2x6_top_plate___kitchen___top___right_001_6",
+        "2x6_top_plate___kitchen___top___right_7"
+      ]
+    },
+    {
+      "id": "wall___kitchen___right_133",
+      "label": "Wall - Kitchen - Right",
+      "children": [
+        "int_wall___kitchen___right_002_0",
+        "int_wall___kitchen___right_005_1",
+        "int_wall___kitchen___right_003_2",
+        "int_wall___kitchen___right_004_3",
+        "int_wall___kitchen___right_001_4"
+      ]
+    },
+    {
+      "id": "top_plate___fr_139",
+      "label": "Top Plate - FR",
+      "children": [
+        "2x6_top_plate___fr___bottom___left_001_0",
+        "2x6_top_plate___fr___bottom___left_002_1",
+        "2x6_top_plate___fr___bottom___back_2",
+        "2x6_top_plate___fr___bottom___front_3",
+        "2x6_top_plate___fr___top___back_4",
+        "2x6_top_plate___fr___top___front_5",
+        "2x6_top_plate___fr___top___left_001_6",
+        "2x6_top_plate___fr___top___left_002_7"
+      ]
+    },
+    {
+      "id": "roof___fr_152",
+      "label": "Roof - FR",
+      "children": [
+        "roof___fr___decking_0",
+        "roof___fr___insulation_1",
+        "roof___fr___osb_rim_2",
+        "roof___fr___2x6_rim_3",
+        "roof___fr___box_ledge_4",
+        "roof___fr___gutter_back_5",
+        "roof___fr___membrane_6",
+        "roof___fr___gutter_flashing_7",
+        "roof___fr___edge___siding_caps_8",
+        "roof___fr___pv_runners_9",
+        "roof___fr___pv_runner_ties_10",
+        "roof___fr___tapers_rim_11",
+        "roof___fr___trusses_12"
+      ]
+    },
+    {
+      "id": "roof___kitchen_153",
+      "label": "Roof - Kitchen",
+      "children": [
+        "roof___kitchen___box_ledge_0",
+        "roof___kitchen___decking_1",
+        "roof___kitchen___insulation_2",
+        "roof___kitchen___osb_rim_3",
+        "roof___kitchen___2x6_rim_4",
+        "roof___kitchen___gutter_back_5",
+        "roof___kitchen___membrane_6",
+        "roof___kitchen___gutter_flashing_7",
+        "roof___kitchen___edge___siding_caps_8",
+        "roof___kitchen___pv_runners_9",
+        "roof___kitchen___pv_runner_ties_10",
+        "roof___kitchen___trusses_11",
+        "roof___kitchen___tapers_rim_12"
+      ]
+    },
+    {
+      "id": "roof___bb_157",
+      "label": "Roof - BB",
+      "children": [
+        "roof___bb___box_0",
+        "roof___bb___decking_1",
+        "roof___bb___insulation_2",
+        "roof___bb___truss_cap_osb_3",
+        "roof___bb___2x6_truss_cap_4",
+        "roof___bb___gutter_back_5",
+        "roof___bb___gutter_flashing_6",
+        "roof___bb___edge___siding_caps_7",
+        "roof___bb___pv_runners_8",
+        "roof___bb___pv_runner_ties_9",
+        "roof___bb___membrane_10",
+        "roof___bb___trusses_11",
+        "roof___bb___tapers_rim_12"
+      ]
+    },
+    {
+      "id": "ext_sheathing___fr_161",
+      "label": "Ext Sheathing - FR",
+      "children": [
+        "ext_sheathing___fr___front_wall_0",
+        "ext_sheathing___fr___back_wall_1",
+        "ext_sheathing___fr___left_wall_2"
+      ]
+    },
+    {
+      "id": "ext_sheathing___kitchen_167",
+      "label": "Ext Sheathing - Kitchen",
+      "children": [
+        "ext_sheathing___kitchen___back_wall_0",
+        "ext_sheathing___kitchen___front_wall_1"
+      ]
+    },
+    {
+      "id": "ext_sheathing___bb_170",
+      "label": "Ext Sheathing - BB",
+      "children": [
+        "ext_sheathing___bb___front_wall_0",
+        "ext__sheathing___bb___right_wall_1",
+        "ext_sheathing___bb___back_wall_2"
+      ]
+    },
+    {
+      "id": "bottom_skirt___fr_176",
+      "label": "Bottom Skirt - FR",
+      "children": [
+        "1_2_rigid_insulation___fr___front_001_0",
+        "1_2_rigid_insulation___fr___front_002_1",
+        "1_2_rigid_insulation___fr___left_001_2",
+        "1_2_rigid_insulation___fr___left_002_3",
+        "1_2_rigid_insulation___fr___left_003_4",
+        "2x4_pt___fr___left_001_5",
+        "2x4_pt___fr___left_002_6",
+        "1_2_rigid_insulation___fr___back_001_7",
+        "1_2_rigid_insulation___fr___back_002_8",
+        "2x4_pt___fr___back_001_9"
+      ]
+    },
+    {
+      "id": "bottom_skirt___kitchen_179",
+      "label": "Bottom Skirt - Kitchen",
+      "children": [
+        "1_2_rigid_insulation___kitchen___front_001_0",
+        "1_2_rigid_insulation___kitchen___front_002_1",
+        "1_2_rigid_insulation___kitchen___back_001_2",
+        "1_2_rigid_insulation___kitchen___back_002_3",
+        "2x4_pt___kitchen___back_001_4"
+      ]
+    },
+    {
+      "id": "bottom_skirt___bb_182",
+      "label": "Bottom Skirt - BB",
+      "children": [
+        "1_2_rigid_insulation___bb___front_001_0",
+        "1_2_rigid_insulation___bb___front_002_1",
+        "1_2_rigid_insulation___bb___back_001_2",
+        "1_2_rigid_insulation___bb___back_002_3",
+        "2x4_pt___bb___back_002_4",
+        "2x4_pt___bb___back_001_5",
+        "2x4_pt___bb___left_001_6",
+        "2x4_pt___bb___left_002_7",
+        "1_2_rigid_insulation___bb___left_001_8",
+        "1_2_rigid_insulation___bb___left_002_9",
+        "1_2_rigid_insulation___bb___left_003_10",
+        "2x4_pt___bb___front_001_11"
+      ]
+    },
+    {
+      "id": "ext_sheathing___bb___front_wall_200",
+      "label": "ext sheathing - BB - front wall",
+      "children": [
+        "1_2_osb___bb___front_wall_001_0",
+        "ext_wall___u_parts_1",
+        "1_2_osb___bb___front_wall_003_2",
+        "1_2_osb___bb___front_top_001_3",
+        "1_2_osb___bb___front_top_002_4"
+      ]
+    },
+    {
+      "id": "ext__sheathing___bb___right_wall_201",
+      "label": "ext  sheathing - BB - right wall",
+      "children": [
+        "1_2_osb___bb___right_001_0",
+        "1_2_osb___bb___right_004_1",
+        "1_2_osb___bb___right_005_2",
+        "1_2_osb___bb___right_006_3",
+        "1_2_osb___bb___right_top_001_4",
+        "1_2_osb___bb___right_top_002_5",
+        "1_2_osb___bb___right_top_003_6",
+        "1_2_osb___bb___right_002_7",
+        "1_2_osb___bb___right_003_8"
+      ]
+    },
+    {
+      "id": "front_veranda___roof_208",
+      "label": "Front Veranda - Roof",
+      "children": [
+        "front_veranda___roof___ceiling_0",
+        "front_veranda___roof_module_001_1",
+        "front_veranda___roof_module_002_2",
+        "front_veranda___roof_module_003_3",
+        "front_veranda___roof___metal_corrugated_roofing_4"
+      ]
+    },
+    {
+      "id": "front_veranda___deck_209",
+      "label": "Front Veranda - Deck",
+      "children": [
+        "120x96_deck_module_1_0",
+        "120x96_deck_module_2_1",
+        "120x96_deck_module_3__2",
+        "120x96_deck_module_4_3",
+        "front_veranda___decking_4"
+      ]
+    },
+    {
+      "id": "front_veranda___top_plate_212",
+      "label": "Front Veranda - Top Plate",
+      "children": [
+        "2x6_top_plate___front_veranda___left_0",
+        "2x4_top_plate___front_veranda___right_1"
+      ]
+    },
+    {
+      "id": "front_veranda___walls_213",
+      "label": "Front Veranda - Walls",
+      "children": [
+        "front_veranda___blocking_0",
+        "wall___front_veranda___left_001_1",
+        "wall___front_veranda___left_002_2",
+        "wall___front_veranda___right_001_3",
+        "wall___front_veranda___right_002_4"
+      ]
+    },
+    {
+      "id": "front_veranda___posts_214",
+      "label": "Front Veranda - Posts",
+      "children": [
+        "6x6_post___front_veranda___001_0",
+        "6x6_post___front_veranda___002_1",
+        "6x6_post___front_veranda___003_2",
+        "6x6_post___front_veranda___004_3"
+      ]
+    },
+    {
+      "id": "front_veranda_224",
+      "label": "FRONT VERANDA",
+      "children": [
+        "front_veranda___roof_0",
+        "front_veranda___deck_1",
+        "front_veranda___top_plate_2",
+        "front_veranda___walls_3",
+        "front_veranda___posts_4",
+        "front_veranda___exterior_sheathing_5",
+        "front_veranda___wall_covering_6",
+        "front_veranda___dripcap_7"
+      ]
+    },
+    {
+      "id": "front_veranda___exterior_sheathing_235",
+      "label": "Front Veranda - Exterior Sheathing",
+      "children": [
+        "1_2_osb___veranda___left_wall_001_0",
+        "1_2_osb___veranda___left_wall_002_1",
+        "1_2_osb___veranda___right_wall_001_2",
+        "1_2_osb___veranda___right_wall_002_3",
+        "1_2_osb___veranda_gable___right___back_4",
+        "1_2_osb___veranda_gable___right___front_5",
+        "1_2_osb___veranda_gable___left___back_6",
+        "1_2_osb___veranda_gable___left___front_7",
+        "1_2_osb___veranda___left_wall_003_8",
+        "1_2_osb___veranda___right_wall_003_9"
+      ]
+    },
+    {
+      "id": "ext_sheathing___bb___back_wall_256",
+      "label": "ext sheathing - BB - back wall",
+      "children": [
+        "1_2_osb___bb___back_wall_001_0",
+        "1_2_osb___bb___back_wall_002_1",
+        "1_2_osb___bb___back_wall_003_2",
+        "1_2_osb___bb___back_top_001_3",
+        "1_2_osb___bb___back_top_002_4",
+        "1_2_osb___bb___back_top_003_5"
+      ]
+    },
+    {
+      "id": "ext_sheathing___kitchen___back_wall_259",
+      "label": "ext sheathing - kitchen - back wall",
+      "children": [
+        "1_2_osb___kitchen___back_wall_002_0",
+        "1_2_osb___kitchen___back_wall_003_1",
+        "1_2_osb___kitchen___back_wall_004_2",
+        "1_2_osb___kitchen___back_wall_005_3",
+        "1_2_osb___kitchen___back_wall_006_4",
+        "1_2_osb___kitchen___back_top_001_5",
+        "1_2_osb___kitchen___back_top_002_6",
+        "1_2_osb___kitchen___back_top_003_7"
+      ]
+    },
+    {
+      "id": "ext_sheathing___kitchen___front_wall_260",
+      "label": "ext sheathing - kitchen - front wall",
+      "children": [
+        "1_2_osb___kitchen___front_top_001_0",
+        "1_2_osb___kitchen___front_top_002_1",
+        "1_2_osb___kitchen___front_wall_001_2",
+        "1_2_osb___kitchen___front_wall_002_3",
+        "1_2_osb___kitchen___front_wall_003_4",
+        "1_2_osb___kitchen___front_wall_004_5",
+        "1_2_osb___kitchen___front_wall_005_6"
+      ]
+    },
+    {
+      "id": "ext_sheathing___fr___front_wall_271",
+      "label": "ext sheathing - FR - front wall",
+      "children": [
+        "1_2_osb___fr___front_wall_001_0",
+        "1_2_osb___fr___front_wall_002_1",
+        "1_2_osb___fr___front_wall_003_2",
+        "1_2_osb___fr___front_top_001_3",
+        "1_2_osb___fr___front_top_002_4"
+      ]
+    },
+    {
+      "id": "ext_sheathing___fr___back_wall_272",
+      "label": "ext sheathing - FR - back wall",
+      "children": [
+        "1_2_osb___fr___back_wall_007_0",
+        "1_2_osb___fr___back_wall_008_1",
+        "1_2_osb___fr___back_wall_009_2",
+        "1_2_osb___fr___back_wall_010_3",
+        "1_2_osb___fr___back_wall_011_4",
+        "1_2_osb___fr___back_top_001_5",
+        "1_2_osb___fr___back_top_002_6",
+        "1_2_osb___fr___back_top_003_7"
+      ]
+    },
+    {
+      "id": "ext_sheathing___fr___left_wall_273",
+      "label": "ext sheathing - FR - left wall",
+      "children": [
+        "1_2_osb___fr___left_wall_001_0",
+        "1_2_osb___fr___left_wall_002_1",
+        "1_2_osb___fr___left_wall_003_2",
+        "1_2_osb___fr___left_wall_004_3",
+        "1_2_osb___fr___left_wall_005_4",
+        "1_2_osb___fr___left_top_001_5",
+        "1_2_osb___fr___left_top_002_6",
+        "1_2_osb___fr___left_top_003_7",
+        "1_2_osb___fr___left_wall_006_8"
+      ]
+    },
+    {
+      "id": "front_veranda___blocking_292",
+      "label": "front veranda - blocking",
+      "children": [
+        "2x4_gable_blocking___left_001_0",
+        "2x4_gable_blocking___left_002_1",
+        "2x4_gable_blocking___right_001_2",
+        "2x4_gable_blocking___right_002_3"
+      ]
+    },
+    {
+      "id": "front_veranda___dripcap_298",
+      "label": "Front Veranda - Dripcap",
+      "children": [
+        "dripcap___front_veranda___roof_back___top_001_0",
+        "dripcap___front_veranda___roof_back___bottom_001_1",
+        "dripcap___front_veranda___roof_back___top_002_2",
+        "dripcap___front_veranda___roof_back___top_003_3",
+        "dripcap___front_veranda___roof_back___top_004_4",
+        "dripcap___front_veranda___roof_back___bottom_002_5",
+        "dripcap___front_veranda___roof_back___bottom_003_6",
+        "dripcap___front_veranda___roof_back___bottom_004_7"
+      ]
+    },
+    {
+      "id": "bottom_skirt___front_veranda_311",
+      "label": "Bottom Skirt - Front Veranda",
+      "children": [
+        "2x4_pt___front_veranda___left_0",
+        "2x4_pt___front_veranda___right_1"
+      ]
+    },
+    {
+      "id": "exterior_trim___roof_box_326",
+      "label": "exterior trim - roof box",
+      "children": [
+        "1x6_pt___roof_box_trim___top_001_0",
+        "1x6_pt___roof_box_trim___down_001_1",
+        "1x6_pt___roof_box_trim___top_004_2",
+        "1x6_pt___roof_box_trim___top_002_3",
+        "1x6_pt___roof_box_trim___top_003_4",
+        "1x6_pt___roof_box_trim___down_002_5",
+        "1x6_pt___roof_box_trim___down_003_6",
+        "1x6_pt___roof_box_trim___down_004_7",
+        "1x6_pt___roof_box_trim___top_005_8",
+        "1x6_pt___roof_box_trim___down_005_9",
+        "1x4_pt___roof_box_trim___top_006_10",
+        "1x6_pt___roof_box_trim___top_006_11",
+        "1x6_pt___roof_box_trim___top_007_12",
+        "1x6_pt___roof_box_trim___down_006_13",
+        "1x6_pt___roof_box_trim___down_007_14",
+        "1x4_pt___roof_box_trim___top_007_15",
+        "1x4_pt___roof_box_trim___top_008_16",
+        "1x4_pt___roof_box_trim___top_009_17",
+        "1x6_pt___roof_box_trim___top_008_18",
+        "1x6_pt___roof_box_trim___top_009_19",
+        "1x6_pt___roof_box_trim___top_010_20",
+        "1x6_pt___roof_box_trim___top_011_21",
+        "1x6_pt___roof_box___taper_001_22",
+        "1x6_pt___roof_box___taper_002_23",
+        "1x6_pt___roof_box___taper_003_24",
+        "1x6_pt___roof_box___taper_004_25",
+        "1x6_pt___roof_box___taper_005_26",
+        "1x6_pt___roof_box___taper_006_27"
+      ]
+    },
+    {
+      "id": "gutters_339",
+      "label": "GUTTERS",
+      "children": [
+        "roof___gutter_0"
+      ]
+    },
+    {
+      "id": "family_room_343",
+      "label": "FAMILY ROOM",
+      "children": [
+        "floor___fr_0",
+        "walls___fr_1",
+        "top_plate___fr_2",
+        "roof___fr_3",
+        "ext_sheathing___fr_4",
+        "ext_doors_windows___fr_5"
+      ]
+    },
+    {
+      "id": "kitchen_344",
+      "label": "KITCHEN",
+      "children": [
+        "floor___kitchen_0",
+        "walls___kitchen_1",
+        "top_plate___kitchen_2",
+        "ext_sheathing___kitchen_3",
+        "roof___kitchen_4",
+        "drywall___kitchen_5",
+        "fixtures___kitchen_6",
+        "ext_doors_windows___kitchen_7",
+        "interior_trim_8"
+      ]
+    },
+    {
+      "id": "bed__bath_345",
+      "label": "BED + BATH",
+      "children": [
+        "floor___bath_bed_0",
+        "walls___bb_1",
+        "top_plate___bb_2",
+        "roof___bb_3",
+        "drywall___bb_4",
+        "fixtures___baths_5",
+        "ext_sheathing___bb_6"
+      ]
+    },
+    {
+      "id": "front_veranda___wall_covering_346",
+      "label": "Front Veranda - Wall Covering",
+      "children": [
+        "front_veranda___t1_11_0",
+        "front_veranda___trim_1",
+        "front_veranda___cedar_shakes_2"
+      ]
+    },
+    {
+      "id": "roof___fr___edge___siding_caps_347",
+      "label": "roof - FR - edge - siding caps",
+      "children": [
+        "1x4_siding_cap___fr___roof_edge_002_0",
+        "1x3_siding_cap___fr___roof_edge_002_1",
+        "1x4_siding_cap___fr___roof_edge_001_2"
+      ]
+    },
+    {
+      "id": "roof___kitchen___edge___siding_caps_348",
+      "label": "roof - kitchen - edge - siding caps",
+      "children": [
+        "1x3_siding_cap___kitchen___roof_edge_001_0",
+        "1x4_siding_cap___kitchen___roof_edge_001_1"
+      ]
+    },
+    {
+      "id": "roof___bb___edge___siding_caps_349",
+      "label": "roof - BB - edge - siding caps",
+      "children": [
+        "1x3_siding_cap___bb___roof_edge_001_0",
+        "1x4_siding_cap___bb___roof_edge_001_1",
+        "1x4_siding_cap___bb___roof_edge_003_2"
+      ]
+    },
+    {
+      "id": "laundry_353",
+      "label": "Laundry",
+      "children": [
+        "walls___laundry_0",
+        "fixtures___laundry_1"
+      ]
+    },
+    {
+      "id": "caps__j_channel_354",
+      "label": "Caps & J-Channel",
+      "children": [
+        "siding_caps___verticals_0",
+        "siding_caps___horizontals_1",
+        "siding_caps___windows_2"
+      ]
+    },
+    {
+      "id": "metal_panels_363",
+      "label": "Metal Panels",
+      "children": [
+        "metal_siding___seed___left_0",
+        "metal_siding___seed___front_1",
+        "metal_siding___seed___right_001_2",
+        "metal_siding___seed___right_002_3",
+        "metal_siding___seed___right_004_4",
+        "metal_siding___seed___right_003_5",
+        "metal_siding___front_veranda___left_6",
+        "metal_siding___front_veranda___right_7",
+        "metal_siding___seed___back_001_8",
+        "metal_siding___seed___back_002_9"
+      ]
+    },
+    {
+      "id": "trim_365",
+      "label": "Trim",
+      "children": [
+        "exterior_trim___roof_box_0",
+        "exterior_trim___front_fascia_1",
+        "exterior_trim___verticals_2",
+        "exterior_trim___back_fascia_3",
+        "exterior_trim___windows_4",
+        "exterior_trim___horizontals_5",
+        "exterior_trim___doors_6"
+      ]
+    },
+    {
+      "id": "exterior_trim___front_fascia_370",
+      "label": "exterior trim - front fascia",
+      "children": [
+        "1x8_lp_trim___front_fascia_001_0",
+        "1x8_lp_trim___front_fascia_002_1"
+      ]
+    },
+    {
+      "id": "exterior_trim___verticals_373",
+      "label": "exterior trim - verticals",
+      "children": [
+        "1x6_lp_trim___siding_trim___vertical_001_0",
+        "1x4_pt___siding_trim___vertical_001_1",
+        "1x6_pt___siding_trim___vertical_001_2",
+        "1x4_pt___siding_trim___vertical_002_3",
+        "1x6_pt___siding_trim___vertical_002_4",
+        "1x6_lp_trim___siding_trim___vertical_002_5",
+        "1x4_pt___siding_trim___vertical_003_6",
+        "1x6_lp_trim___siding_trim___vertical_003_7",
+        "1x6_lp_trim___siding_trim___vertical_004_8",
+        "1x6_lp_trim___siding_trim___vertical_005_9",
+        "1x6_lp_trim___siding_trim___vertical_006_10",
+        "1x2_pt_trim___siding_trim___vertical_007_11",
+        "1x2_pt_trim___siding_trim___vertical_008_12",
+        "1x4_cedar_trim___siding_trim___vertical_007_13",
+        "1x4_cedar_trim___siding_trim___vertical_008_14",
+        "1x4_cedar_trim___siding_trim___vertical_009_15",
+        "1x4_cedar_trim___siding_trim___vertical_010_16",
+        "1x8_cedar_trim___siding_trim___vertical_001_17",
+        "1x8_cedar_trim___siding_trim___vertical_002_18",
+        "1x4_lp_trim___siding_trim___vertical_001_19",
+        "1x4_lp_trim___siding_trim___vertical_002_20",
+        "1x6_lp_trim___siding_trim___vertical_007_21",
+        "1x4_pt___siding_trim___vertical_004_22"
+      ]
+    },
+    {
+      "id": "ext_doors_windows___fr_380",
+      "label": "Ext Doors-Windows - FR",
+      "children": [
+        "ext_door___fr___sliding_door_0"
+      ]
+    },
+    {
+      "id": "exterior_trim___back_fascia_381",
+      "label": "exterior trim - back fascia",
+      "children": [
+        "1x12_lp_trim___back_fascia_001_0",
+        "1x12_lp_trim___back_fascia_002_1",
+        "1x12_lp_trim___back_fascia_003_2",
+        "1x12_lp_trim___back_fascia_004_3",
+        "1x12_lp_trim___back_fascia_005_4"
+      ]
+    },
+    {
+      "id": "ext_doors_windows___kitchen_400",
+      "label": "Ext Doors-Windows - Kitchen",
+      "children": [
+        "ext_door___kitchen___sliding_door_0"
+      ]
+    },
+    {
+      "id": "siding_caps___verticals_414",
+      "label": "siding caps - verticals",
+      "children": [
+        "1x3_siding_cap___vertical_001_0",
+        "1x3_siding_cap___vertical_002_1",
+        "1x3_siding_cap___vertical_003_2",
+        "1x3_siding_cap___vertical_004_3",
+        "1x3_siding_cap___vertical_005_4",
+        "1x3_siding_cap___vertical_006_5",
+        "1x3_siding_cap___vertical_007_6",
+        "1x3_siding_cap___vertical_008_7",
+        "1x3_siding_cap___vertical_009_8",
+        "1x3_siding_cap___vertical_010_9",
+        "1x2_siding_cap___vertical_011_10",
+        "1x3_siding_cap___vertical_012_11",
+        "1x3_siding_cap___vertical_013_12"
+      ]
+    },
+    {
+      "id": "exterior_trim___windows_419",
+      "label": "exterior trim - windows",
+      "children": [
+        "exterior_trim___window___1x4___double_30x60__0",
+        "exterior_trim___window___1x2___double_30x60__1"
+      ]
+    },
+    {
+      "id": "back_veranda_420",
+      "label": "BACK VERANDA",
+      "children": [
+        "back_veranda___walls_0",
+        "back_veranda___exterior_sheathing_1",
+        "back_veranda___wall_covering_2",
+        "back_veranda___roof_3",
+        "back_veranda___deck_4",
+        "back_veranda___drip_cap_5",
+        "back_veranda___post_6"
+      ]
+    },
+    {
+      "id": "siding_caps___horizontals_421",
+      "label": "siding caps - horizontals",
+      "children": [
+        "1x2_siding_cap___horizontal_001_0",
+        "1x2_siding_cap___horizontal_002_1"
+      ]
+    },
+    {
+      "id": "exterior_trim___horizontals_423",
+      "label": "exterior trim - horizontals",
+      "children": [
+        "1x4_lp_trim___siding_trim___horizontal_001_0",
+        "1x6_lp_trim___siding_trim___horizontal_001_1",
+        "1x6_lp_trim___siding_trim___horizontal_002_2",
+        "1x4_pt_trim___siding_trim___horizontal_003_3",
+        "1x4_pt_trim___siding_trim___horizontal_004_4",
+        "1x6_lp_trim___siding_trim___horizontal_003_5",
+        "1x6_lp_trim___siding_trim___horizontal_004_6",
+        "1x2_pt_trim___siding_trim___horizontal_005_7",
+        "1x2_pt_trim___siding_trim___horizontal_006_8",
+        "1x4_cedar_trim___siding_trim___horizontal_003_9",
+        "1x2_cedar_trim___siding_trim___horizontal_003_10",
+        "1x4_cedar_trim___siding_trim___horizontal_004_11",
+        "1x2_cedar_trim___siding_trim___horizontal_004_12",
+        "1x8_cedar_trim___siding_trim___horizontal_001_13",
+        "1x8_cedar_trim___siding_trim___horizontal_002_14",
+        "1x8_lp_trim_ripped___siding_trim___horizontal_005_15",
+        "1x4_lp_trim___siding_trim___horizontal_002_16"
+      ]
+    },
+    {
+      "id": "back_veranda___walls___blocking_457",
+      "label": "back veranda - walls - blocking",
+      "children": [
+        "2x4_blocking___back_veranda___left_001_0",
+        "2x4_blocking___back_veranda___left_002_1",
+        "2x4_blocking___back_veranda___right_001_2",
+        "2x4_blocking___back_veranda___right_002_3"
+      ]
+    },
+    {
+      "id": "back_veranda___walls_460",
+      "label": "Back Veranda - Walls",
+      "children": [
+        "wall___back_veranda___left_0",
+        "wall___back_veranda___right_1",
+        "back_veranda___walls___blocking_2"
+      ]
+    },
+    {
+      "id": "back_veranda___exterior_sheathing_461",
+      "label": "Back Veranda - Exterior Sheathing",
+      "children": [
+        "3_4_pt_plywood___back_veranda___gable_left_001_0",
+        "3_4_pt_plywood___back_veranda___gable_right_001_1",
+        "3_4_pt_plywood___back_veranda___gable_left_002_2",
+        "3_4_pt_plywood___back_veranda___gable_right_002_3"
+      ]
+    },
+    {
+      "id": "back_veranda___wall_covering_462",
+      "label": "Back Veranda - Wall Covering",
+      "children": [
+        "back_veranda___trim_0",
+        "back_veranda___t1_11_1"
+      ]
+    },
+    {
+      "id": "back_veranda___roof_463",
+      "label": "Back Veranda - Roof",
+      "children": [
+        "roof___back_veranda___frame_0",
+        "back_veranda___roof___metal_corrugated_roofing_1"
+      ]
+    },
+    {
+      "id": "back_veranda___deck_468",
+      "label": "Back Veranda - Deck",
+      "children": [
+        "back_veranda___deck___decking_001_0",
+        "back_veranda___deck___decking_002_1",
+        "back_veranda___deck___module_001_2",
+        "back_veranda___deck___module_002_3"
+      ]
+    },
+    {
+      "id": "bottom_skirt_469",
+      "label": "Bottom Skirt",
+      "children": [
+        "bottom_skirt___fr_0",
+        "bottom_skirt___kitchen_1",
+        "bottom_skirt___bb_2",
+        "bottom_skirt___front_veranda_3"
+      ]
+    },
+    {
+      "id": "back_veranda___drip_cap_484",
+      "label": "Back Veranda - Drip Cap",
+      "children": [
+        "dripcap___back_veranda___top_001_0",
+        "dripcap___back_veranda___bottom_001_1",
+        "dripcap___back_veranda___top_002_2",
+        "dripcap___back_veranda___bottom_002_3"
+      ]
+    },
+    {
+      "id": "back_veranda___post_485",
+      "label": "Back Veranda - Post",
+      "children": [
+        "4x4_post___back_veranda_0"
+      ]
+    },
+    {
+      "id": "siding_caps___windows_501",
+      "label": "siding caps - windows",
+      "children": [
+        "exterior_trim___window___siding_cap___double_30x60_0",
+        "exterior_trim___window___j_channel___double_30x60_1"
+      ]
+    },
+    {
+      "id": "exterior_finishing_508",
+      "label": "EXTERIOR FINISHING",
+      "children": [
+        "caps__j_channel_0",
+        "metal_panels_1",
+        "trim_2",
+        "bottom_skirt_3"
+      ]
+    },
+    {
+      "id": "exterior_trim___doors_510",
+      "label": "exterior trim - doors",
+      "children": [
+        "1x4_lp_trim___front_door___left_0",
+        "1x4_lp_trim___front_door___right_1",
+        "1x4_lp_trim___front_door___top_2"
+      ]
+    },
+    {
+      "id": "front_veranda___t1_11_523",
+      "label": "Front Veranda - T1-11",
+      "children": [
+        "t1_11_siding___front_veranda___left_001_0",
+        "t1_11_siding___front_veranda___left_002_1",
+        "t1_11_siding___front_veranda___left_top_001_2",
+        "t1_11_siding___front_veranda___left_top_002_3",
+        "t1_11_siding___front_veranda___right_001_4",
+        "t1_11_siding___front_veranda___right_002_5",
+        "t1_11_siding___front_veranda___right_top_001_6",
+        "t1_11_siding___front_veranda___right_top_002_7"
+      ]
+    },
+    {
+      "id": "front_veranda___trim_524",
+      "label": "Front Veranda - Trim",
+      "children": [
+        "1x2_cedar_trim___front_veranda___siding_joint___left_0",
+        "1x2_cedar_trim___front_veranda___siding_joint___right_1",
+        "1x2_cedar_trim___front_veranda___trim___ceiling_front_001_2",
+        "1x2_cedar_trim___front_veranda___trim___ceiling_front_002_3",
+        "1x2_cedar_trim___front_veranda___trim___ceiling_front_003_4",
+        "1x2_cedar_trim___front_veranda___trim___ceiling_front_004_5",
+        "1x2_cedar_trim___front_veranda___trim___ceiling_front_005_6",
+        "1x2_cedar_trim___front_veranda___corner___left_7",
+        "1x2_cedar_trim___front_veranda___corner___right_8",
+        "1x2_cedar_trim___front_veranda___ceiling_back_001_9",
+        "1x2_cedar_trim___front_veranda___ceiling_back_002_10",
+        "1x2_cedar_trim___front_veranda___ceiling_back_003_11",
+        "1x2_cedar_trim___front_veranda___ceiling_back_004_12",
+        "1x2_cedar_trim___front_veranda___ceiling_left_13",
+        "1x2_cedar_trim___front_veranda___ceiling_right_14"
+      ]
+    },
+    {
+      "id": "front_veranda___cedar_shakes_535",
+      "label": "Front Veranda - Cedar Shakes",
+      "children": [
+        "cedar_shakes___front_veranda_001_0",
+        "cedar_shakes___front_veranda_002_1",
+        "cedar_shakes___front_veranda_003_2"
+      ]
+    },
+    {
+      "id": "back_veranda___trim_552",
+      "label": "Back Veranda - Trim",
+      "children": [
+        "1x2_cedar_trim___back_veranda___siding_seam___right_0",
+        "1x2_cedar_trim___back_veranda___siding_seam___left_1",
+        "1x2_cedar_trim___back_veranda___corner___right_2",
+        "1x2_cedar_trim___back_veranda___corner___left_3",
+        "1x2_cedar_trim___back_veranda___siding_seam___back_4",
+        "1x2_cedar_trim___back_veranda___ceiling___back_5",
+        "1x2_cedar_trim___back_veranda___ceiling___left_6",
+        "1x2_cedar_trim___back_veranda___ceiling___right_7",
+        "1x4_lp_trim___back_door___left_top_8",
+        "1x4_lp_trim___back_door___right_top_9",
+        "1x4_lp_trim___back_door___right_right_10",
+        "1x4_lp_trim___back_door___right_left_11",
+        "1x4_lp_trim___back_door___left_right_12",
+        "1x4_lp_trim___back_door___left_right001_13"
+      ]
+    },
+    {
+      "id": "back_veranda___t1_11_567",
+      "label": "Back Veranda - T1-11",
+      "children": [
+        "t1_11_siding___back_veranda___back_wall_001_0",
+        "t1_11_siding___back_veranda___back_wall_003_1",
+        "t1_11_siding___back_veranda___back_wall_002_2",
+        "t1_11_siding___back_veranda___back_wall___top_003_3",
+        "t1_11_siding___back_veranda___back_wall___top_001_4",
+        "t1_11_siding___back_veranda___back_wall___top_002_5",
+        "t1_11_siding___back_veranda___back_wall___top_004_6",
+        "t1_11_siding___back_veranda___back_wall_004_7",
+        "t1_11_siding___back_veranda___gable_left_001_8",
+        "t1_11_siding___back_veranda___gable_right_002_9",
+        "t1_11_siding___back_veranda___gable_right_001_10",
+        "t1_11_siding___back_veranda___gable_left_004_11"
+      ]
+    },
+    {
+      "id": "interior_trim_590",
+      "label": "Interior Trim",
+      "children": [
+        "doors_0"
+      ]
+    },
+    {
+      "id": "doors_601",
+      "label": "Doors",
+      "children": [
+        "3_in_casing___kitchen___left_door_001_0",
+        "3_in_casing___kitchen___left_door_002_1",
+        "3_in_casing___kitchen___left_door_003_2",
+        "1x2_trim___kitchen___left_door_001_3",
+        "1x2_trim___kitchen___left_door_002_4",
+        "1x2_trim___kitchen___left_door_003_5"
+      ]
+    }
+  ]
+}

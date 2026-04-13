@@ -1,233 +1,97 @@
-# OSE CAD Automator 🏗️
+# CADAM — OSE Schema Library
 
-> **Transform FreeCAD CAD files into build instructions automatically**  
-> Part of the [Open Source Ecology](https://opensourceecology.org) ecosystem
+A bidirectional pipeline that turns Open Source Ecology FreeCAD files into
+clean schemas, fabrication-ready STLs, human-readable build instructions, and
+CSV bills of materials. Every artifact is verifiable, forkable, and
+reproducible with free open-source tools.
 
-![License: CERN-OHL-S-2.0](https://img.shields.io/badge/License-CERN--OHL--S--2.0-blue.svg)
-![Python 3.8+](https://img.shields.io/badge/python-3.8+-green.svg)
-![FreeCAD 0.21+](https://img.shields.io/badge/FreeCAD-0.21+-orange.svg)
-[![Platform: Cross](https://img.shields.io/badge/platform-macOS%20|%20Linux%20|%20Windows-lightgrey.svg)](https://github.com/seekerflame/ose-cad-automator)
+**Live browser:** Open `index.html` in any modern browser. No install, no
+server. Click a module on the left, spin it in 3D, download the STL, read the
+build steps.
 
----
+## What's in this export
 
-## 🎯 What is this?
+- **185 modules** from the OSE SH7 seed house and related assemblies
+- **3,339 parts** total, with dimensions and placements
+- **184 compiled STL files** — open in any slicer or 3D viewer
+- **185 FreeCAD .fcstd files** — fully editable sources
+- **185 markdown build guides** — step-by-step assembly in ground-up order
+- **185 CSV bills of materials** — material type and count per module
+- All under 10 MB total
 
-OSE CAD Automator transforms FreeCAD CAD files into **platinum-quality build instructions** that anyone can follow to construct real-world projects.
-
-**Problem Solved**: Thousands of hours of CAD documentation → Automated in minutes.
-
-**Features:**
-
-- 📋 Auto-generated Bill of Materials (BOM)
-- 🔧 Tools list with purposes
-- 🪵 Lumber cut lists with quantities
-- 🔩 Hardware estimates (screws, nails)
-- 🏗️ Step-by-step assembly phases
-- 📐 ASCII reference diagrams
-- ⏱️ Time and cost estimates
-
----
-
-## 🚀 Quick Start
-
-### One-Click Install
-
-**macOS:**
-
-```bash
-curl -fsSL https://raw.githubusercontent.com/seekerflame/ose-cad-automator/main/install.sh | bash
-```
-
-**Linux:**
-
-```bash
-curl -fsSL https://raw.githubusercontent.com/seekerflame/ose-cad-automator/main/install-linux.sh | bash
-```
-
-**Windows (PowerShell as Admin):**
-
-```powershell
-Set-ExecutionPolicy Bypass -Scope Process -Force
-iwr -useb https://raw.githubusercontent.com/seekerflame/ose-cad-automator/main/install-windows.ps1 | iex
-```
-
-### Manual Install
-
-```bash
-git clone https://github.com/seekerflame/ose-cad-automator.git
-cd ose-cad-automator
-# Ready to use!
-```
-
-### Usage
-
-```bash
-# Process a single file
-ose-cad process /path/to/model.fcstd
-
-# Batch process a directory
-ose-cad batch /path/to/cad/folder/
-
-# Output: model_Instructions.md (Platinum format)
-```
-
----
-
-## 📖 OSE Wiki Integration
-
-This tool is designed for the [OSE Wiki](https://wiki.opensourceecology.org) with a dedicated namespace:
-
-### Wiki Structure: `OSE:CAD/*`
+## Pipeline architecture
 
 ```
-OSE:CAD/                          # Main namespace (protected)
-├── OSE:CAD/Automator             # Tool documentation
-├── OSE:CAD/Schema                # LOD 1000 specification
-├── OSE:CAD/SH7/                  # Seed Home 7 modules
-│   ├── Floor_Module_1
-│   ├── Floor_Module_5
-│   ├── Wall_Modules
-│   └── Roof_Modules
-├── OSE:CAD/GVCS/                 # Global Village Construction Set
-│   ├── CEB_Press
-│   ├── LifeTrac
-│   └── Power_Cube
-└── OSE:CAD/Community/            # User-submitted designs
-    └── [Pending review]
+OSE .fcstd  ──reverse compiler──▶  schema.json  ──forward compiler──▶  .fcstd + .stl
+                                        │
+                                        ├──instruction generator──▶  instructions.md
+                                        └──BOM generator──▶  bom.csv
 ```
 
-### Live Update Flow
+The schema is the single source of truth. It can be written by hand, generated
+from natural language, or extracted from an existing FreeCAD file. Every other
+artifact (STL, instructions, BOM, FreeCAD source) is a compile target.
 
-```
-                    ┌─────────────────┐
-    Builder edits   │   FreeCAD       │
-    CAD file        │   (Local)       │
-                    └────────┬────────┘
-                             │ Save
-                             ▼
-                    ┌─────────────────┐
-                    │  ose-cad        │
-                    │  process        │
-                    └────────┬────────┘
-                             │ Auto-generate
-                             ▼
-                    ┌─────────────────┐
-                    │  Instructions   │
-                    │  (.md file)     │
-                    └────────┬────────┘
-                             │ Push/Sync
-                             ▼
-                    ┌─────────────────┐
-                    │  OSE Wiki       │───► Live update
-                    │  (Protected)    │     for everyone
-                    └─────────────────┘
-```
+## How to use the library
 
-### Contribution Workflow
+### Browse and download
+1. Open `index.html` in a browser.
+2. Click a module on the left (e.g. "SH7 - Assembly" — the full house).
+3. The 3D viewer loads the STL. Drag to rotate, scroll to zoom.
+4. The right panel shows the BOM and a preview of the build instructions.
+5. Download any artifact with the buttons: STL, .fcstd, instructions.md, or BOM.
 
-1. **Fork** the CAD file from protected page
-2. **Edit** in FreeCAD
-3. **Process** with `ose-cad`
-4. **Submit** Pull Request / Wiki edit
-5. **Review** by maintainer (Marcin or designated)
-6. **Merge** to protected main page
+### Fork a module
+1. Download the `.fcstd` file and edit in FreeCAD, OR
+2. Download the schema JSON from `schemas/` and edit directly, OR
+3. Use the full pipeline (see `scripts/cadam/` in the source repo) to
+   regenerate all outputs from your modified schema.
 
----
+### Build physically
+Every module has an `instructions.md` file with numbered build steps organized
+by Z-level (ground up). Dimensions are shown in both metric and imperial.
+Every step lists material, size, and placement coordinates.
 
-## 🗂️ Repository Structure
+## How it was built
 
-```
-ose-cad-automator/
-├── scripts/
-│   ├── extract_cad_data.py   # FreeCAD → JSON extraction
-│   ├── weave_instructions.py # JSON → Markdown (Platinum format)
-│   └── batch_process.py      # Mass file processor
-├── schemas/                  # JSON validation schemas
-├── templates/                # Instruction templates
-├── training_data/            # Sample processed models
-├── docs/                     # Extended documentation
-│   └── BUILDBOT_VOICE_AI.md  # Future: Voice-controlled CAD
-└── tests/                    # Test suite
-```
+**Tools used (all free/open-source):**
+- FreeCAD 1.0.2 (Python scripting via `freecadcmd`)
+- Python 3.13 (stdlib only for the static export)
+- three.js (3D viewer in the browser)
+- No commercial software. No cloud dependency. No telemetry.
 
----
+**Pipeline scripts** (in the source repo, not bundled with this static export):
+- `schema.py` — Pydantic schema defining the module format
+- `reverse_compiler.py` — FreeCAD .fcstd → JSON schema
+- `forward_compiler.py` — JSON schema → .fcstd + .stl
+- `instruction_generator.py` — schema → instructions.md + bom.csv
+- `nl_to_schema.py` — natural language → schema (currently handles floor
+  modules with dimensional parameters)
+- `batch_extract.py` — run the reverse compiler across a whole directory
+- `static_export.py` — build this standalone website
+- `material_inference.py` — infer material type from part labels
 
-## 🔐 Privacy & Security
+## Known limitations
 
-This tool is designed with privacy as a core principle:
+- Currently handles `Part::Box` primitives only. Curved or sketched geometry
+  falls back to "unknown" material and is not regenerated by the forward
+  compiler.
+- Material inference reads part labels — if a label doesn't follow OSE
+  convention, the material defaults to "unknown" (434 of 3,339 parts = 13%).
+- Natural-language generation currently supports floor modules only. Walls,
+  roofs, and other module types are next.
+- Schemas are extracted from existing OSE .fcstd files. Hand-authored
+  schemas also work but are sparse so far.
 
-- ✅ **100% Local Processing** - No cloud required
-- ✅ **No Telemetry** - Zero data collection
-- ✅ **No API Keys** - Works offline
-- ✅ **Open Source** - Fully auditable code
-- ✅ **No Personal Data** - Scripts use relative paths only
+## License
 
----
+- **Code (pipeline scripts):** MIT or Apache 2.0 (pick one, TBD)
+- **Schemas and compiled artifacts:** CC BY-SA 4.0, same as the original OSE
+  source files
+- **Three.js viewer:** MIT (three.js)
 
-## 🛣️ Roadmap
+## Contact
 
-### Phase 1: Core Functionality ✅
-
-- [x] FreeCAD → JSON extraction
-- [x] Platinum instruction generation
-- [x] Cross-platform installers
-- [x] GitHub release
-
-### Phase 2: GVCS Processing (Current)
-
-- [ ] Process all 47 SH7 modules
-- [ ] CEB Press instructions
-- [ ] LifeTrac instructions
-- [ ] Power Cube instructions
-
-### Phase 3: Wiki Integration
-
-- [ ] OSE:CAD namespace setup
-- [ ] Automated wiki sync
-- [ ] Community contribution workflow
-
-### Phase 4: Voice AI (Future)
-
-- [ ] BuildBot voice interface
-- [ ] Kid-friendly mode
-- [ ] Senior accessibility
-- [ ] Ollama + Claude integration
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! See [CONTRIBUTING.md](docs/CONTRIBUTING.md) for guidelines.
-
-**Priority Areas:**
-
-1. Process more GVCS machines
-2. Improve instruction quality
-3. Add STL/STEP import support
-4. Build validation/error diagnosis
-5. Internationalization
-
----
-
-## 📜 License
-
-**CERN Open Hardware License Version 2 - Strongly Reciprocal (CERN-OHL-S-2.0)**
-
-This is the standard license for all OSE projects, ensuring:
-
-- Freedom to use, study, modify, and share
-- Improvements must be shared back
-- No vendor lock-in
-
----
-
-## 🙏 Acknowledgments
-
-- [Open Source Ecology](https://opensourceecology.org) - The movement
-- [FreeCAD](https://freecad.org) - The CAD platform
-- OSE Wiki contributors
-
----
-
-> *"We're developing the Global Village Construction Set – an open source, low-cost, high performance platform for civilization."*  
-> — Marcin Jakubowski, OSE Founder
+Built toward an April 2026 shareable demo for
+[Marcin Jakubowski](https://www.opensourceecology.org/) and the OSE community.
+Feedback, forks, and contributions welcome.

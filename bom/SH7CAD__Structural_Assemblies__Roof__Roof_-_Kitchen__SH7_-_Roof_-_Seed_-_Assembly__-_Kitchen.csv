@@ -1,0 +1,12 @@
+material,count,total_length_mm,avg_length_mm,unique_sizes
+1/2 inch OSB,4,7315.2,1828.8,4
+1/2 inch plywood,2,177.8,88.9,1
+1x4 lumber,1,3657.6,3657.6,1
+1x8 lumber,1,3657.6,3657.6,1
+2x12 lumber,2,7315.2,3657.6,1
+2x4 lumber,3,3835.4,1278.5,2
+2x6 lumber,1,3657.6,3657.6,1
+PV mounting rail,6,6654.8,1109.1,3
+PV panel,2,3276.6,1638.3,1
+gutter,1,3657.6,3657.6,1
+unknown,14,29267.2,2090.5,11

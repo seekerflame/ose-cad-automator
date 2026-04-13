@@ -1,0 +1,388 @@
+{
+  "metadata": {
+    "name": "Front Veranda - Wall Module - Window",
+    "version": "1.0.0",
+    "ose_reference": "Front Veranda - Wall Module - Window.fcstd",
+    "license": "CC BY-SA 4.0",
+    "description": "Extracted from /Volumes/Extreme SSD/Nick/OSE/SH7CAD/Structural Assemblies/Front Veranda/Front Veranda - Wall Modules/Templates/Front Veranda - Wall Module - Window.fcstd",
+    "total_parts": 24,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 4,
+      "2x4 header": 1,
+      "2x4 lumber": 3,
+      "2x4 blocking": 10,
+      "1/2 inch OSB": 4
+    }
+  },
+  "parts": [
+    {
+      "id": "2x4_bottom_plate_0",
+      "label": "2x4 bottom plate",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 88.9,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "material": "2x4 plate"
+    },
+    {
+      "id": "2x4_top_plate_1",
+      "label": "2x4 top plate",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 88.9,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 3032.12
+      },
+      "material": "2x4 plate"
+    },
+    {
+      "id": "2x4_stud_001_2",
+      "label": "2x4 stud 001",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 88.9,
+      "height_mm": 2994.02,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x4 stud"
+    },
+    {
+      "id": "2x4_stud_002_3",
+      "label": "2x4 stud 002",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 88.9,
+      "height_mm": 2994.02,
+      "position": {
+        "x": 1181.1,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x4 stud"
+    },
+    {
+      "id": "2x4_flat_header_4",
+      "label": "2x4 flat header",
+      "type": "box",
+      "length_mm": 1143.0,
+      "width_mm": 88.9,
+      "height_mm": 38.1,
+      "position": {
+        "x": 38.1,
+        "y": 0.0,
+        "z": 2755.9
+      },
+      "material": "2x4 header"
+    },
+    {
+      "id": "2x4_sill_5",
+      "label": "2x4 sill",
+      "type": "box",
+      "length_mm": 889.0,
+      "width_mm": 88.9,
+      "height_mm": 38.1,
+      "position": {
+        "x": 165.1,
+        "y": 0.0,
+        "z": 266.7
+      },
+      "material": "2x4 lumber"
+    },
+    {
+      "id": "2x4_stud_004_6",
+      "label": "2x4 stud 004",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 88.9,
+      "height_mm": 2717.8,
+      "position": {
+        "x": 1054.1,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x4 stud"
+    },
+    {
+      "id": "2x4_cripple___bottom_7",
+      "label": "2x4 cripple - bottom",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 88.9,
+      "height_mm": 228.6,
+      "position": {
+        "x": 590.55,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x4 lumber"
+    },
+    {
+      "id": "2x4_cripple___top_8",
+      "label": "2x4 cripple - top",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 88.9,
+      "height_mm": 238.125,
+      "position": {
+        "x": 590.55,
+        "y": 0.0,
+        "z": 2794.0
+      },
+      "material": "2x4 lumber"
+    },
+    {
+      "id": "2x4_blocking_001_9",
+      "label": "2x4 blocking 001",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 88.9,
+      "height_mm": 38.1,
+      "position": {
+        "x": 38.1,
+        "y": 0.0,
+        "z": 590.55
+      },
+      "material": "2x4 blocking"
+    },
+    {
+      "id": "2x4_blocking_002_10",
+      "label": "2x4 blocking 002",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 88.9,
+      "height_mm": 38.1,
+      "position": {
+        "x": 38.1,
+        "y": 0.0,
+        "z": 1200.15
+      },
+      "material": "2x4 blocking"
+    },
+    {
+      "id": "2x4_blocking_003_11",
+      "label": "2x4 blocking 003",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 88.9,
+      "height_mm": 38.1,
+      "position": {
+        "x": 38.1,
+        "y": 0.0,
+        "z": 1809.75
+      },
+      "material": "2x4 blocking"
+    },
+    {
+      "id": "2x4_blocking_004_12",
+      "label": "2x4 blocking 004",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 88.9,
+      "height_mm": 38.1,
+      "position": {
+        "x": 38.1,
+        "y": 0.0,
+        "z": 2419.35
+      },
+      "material": "2x4 blocking"
+    },
+    {
+      "id": "2x4_blocking_005_13",
+      "label": "2x4 blocking 005",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 88.9,
+      "height_mm": 38.1,
+      "position": {
+        "x": 1092.2,
+        "y": 0.0,
+        "z": 590.55
+      },
+      "material": "2x4 blocking"
+    },
+    {
+      "id": "2x4_blocking_006_14",
+      "label": "2x4 blocking 006",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 88.9,
+      "height_mm": 38.1,
+      "position": {
+        "x": 1092.2,
+        "y": 0.0,
+        "z": 1200.15
+      },
+      "material": "2x4 blocking"
+    },
+    {
+      "id": "2x4_blocking_007_15",
+      "label": "2x4 blocking 007",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 88.9,
+      "height_mm": 38.1,
+      "position": {
+        "x": 1092.2,
+        "y": 0.0,
+        "z": 1809.75
+      },
+      "material": "2x4 blocking"
+    },
+    {
+      "id": "2x4_blocking_008_16",
+      "label": "2x4 blocking 008",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 88.9,
+      "height_mm": 38.1,
+      "position": {
+        "x": 1092.2,
+        "y": 0.0,
+        "z": 2419.35
+      },
+      "material": "2x4 blocking"
+    },
+    {
+      "id": "1_2_osb___left_17",
+      "label": "1/2 osb - left",
+      "type": "box",
+      "length_mm": 165.1,
+      "width_mm": 12.7,
+      "height_mm": 2451.1,
+      "position": {
+        "x": 0.0,
+        "y": -12.7,
+        "z": 304.8
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "2x4_blocking_009_18",
+      "label": "2x4 blocking 009",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 88.9,
+      "height_mm": 38.1,
+      "position": {
+        "x": 38.1,
+        "y": 0.0,
+        "z": 2717.8
+      },
+      "material": "2x4 blocking"
+    },
+    {
+      "id": "2x4_blocking_010_19",
+      "label": "2x4 blocking 010",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 88.9,
+      "height_mm": 38.1,
+      "position": {
+        "x": 1092.2,
+        "y": 0.0,
+        "z": 2717.8
+      },
+      "material": "2x4 blocking"
+    },
+    {
+      "id": "1_2_osb___right_20",
+      "label": "1/2 osb - right",
+      "type": "box",
+      "length_mm": 165.1,
+      "width_mm": 12.7,
+      "height_mm": 2451.1,
+      "position": {
+        "x": 1054.1,
+        "y": -12.7,
+        "z": 304.8
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___top_21",
+      "label": "1/2 osb - top",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 12.7,
+      "height_mm": 314.325,
+      "position": {
+        "x": 0.0,
+        "y": -12.7,
+        "z": 2755.9
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___bottom_22",
+      "label": "1/2 osb - bottom",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 12.7,
+      "height_mm": 304.8,
+      "position": {
+        "x": 0.0,
+        "y": -12.7,
+        "z": 0.0
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "2x4_stud_005_24",
+      "label": "2x4 stud 005",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 88.9,
+      "height_mm": 2717.8,
+      "position": {
+        "x": 127.0,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x4 stud"
+    }
+  ],
+  "groups": [
+    {
+      "id": "parts_23",
+      "label": "PARTS",
+      "children": [
+        "2x4_bottom_plate_0",
+        "2x4_top_plate_1",
+        "2x4_stud_001_2",
+        "2x4_stud_002_3",
+        "2x4_flat_header_4",
+        "2x4_sill_5",
+        "2x4_stud_004_6",
+        "2x4_cripple___bottom_7",
+        "2x4_cripple___top_8",
+        "2x4_blocking_001_9",
+        "2x4_blocking_002_10",
+        "2x4_blocking_003_11",
+        "2x4_blocking_004_12",
+        "2x4_blocking_005_13",
+        "2x4_blocking_006_14",
+        "2x4_blocking_007_15",
+        "2x4_blocking_008_16",
+        "1_2_osb___left_17",
+        "2x4_blocking_009_18",
+        "2x4_blocking_010_19",
+        "1_2_osb___right_20",
+        "1_2_osb___top_21",
+        "1_2_osb___bottom_22",
+        "2x4_stud_005_23"
+      ]
+    }
+  ]
+}

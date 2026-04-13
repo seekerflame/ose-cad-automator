@@ -1,0 +1,1708 @@
+{
+  "metadata": {
+    "name": "SH7 - Roof - Seed - Assembly",
+    "version": "1.0.0",
+    "ose_reference": "SH7 - Roof - Seed - Assembly.fcstd",
+    "license": "CC BY-SA 4.0",
+    "description": "Extracted from /Volumes/Extreme SSD/Nick/OSE/SH7CAD/CAD 2/Technical/Structural Assemblies/Roof/SH7 - Roof - Seed - Assembly.fcstd",
+    "total_parts": 100,
+    "bom": {
+      "3/4 inch OSB": 4,
+      "2x12 lumber": 5,
+      "2x4 lumber": 6,
+      "insulation": 1,
+      "2x6 lumber": 4,
+      "PV mounting rail": 8,
+      "PV panel": 2,
+      "OSB sheathing": 3,
+      "1x8 lumber": 1,
+      "unknown": 44,
+      "1x10 lumber": 1,
+      "gutter": 4,
+      "1x102 lumber": 1,
+      "1x12 lumber": 1,
+      "1x6 lumber": 5,
+      "1x3 lumber": 3,
+      "1x2 lumber": 1,
+      "1x4 lumber": 4,
+      "metal flashing": 1,
+      "2x10 lumber": 1
+    }
+  },
+  "parts": [
+    {
+      "id": "3_4_osb___rim___front_001_1",
+      "label": "3/4 osb - rim - front 001",
+      "type": "box",
+      "length_mm": 2438.4,
+      "width_mm": 19.05,
+      "height_mm": 406.4,
+      "position": {
+        "x": 0.0,
+        "y": 38.1,
+        "z": 0.0
+      },
+      "material": "3/4 inch OSB"
+    },
+    {
+      "id": "3_4_osb___rim___front_002_2",
+      "label": "3/4 osb - rim - front 002",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 19.05,
+      "height_mm": 406.4,
+      "position": {
+        "x": 2438.4,
+        "y": 38.1,
+        "z": 0.0
+      },
+      "material": "3/4 inch OSB"
+    },
+    {
+      "id": "3_4_osb___rim___back_001_3",
+      "label": "3/4 osb - rim - back 001",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 19.05,
+      "height_mm": 406.4,
+      "position": {
+        "x": 0.0,
+        "y": 6038.85,
+        "z": 0.0
+      },
+      "material": "3/4 inch OSB"
+    },
+    {
+      "id": "3_4_osb___rim___back_002_4",
+      "label": "3/4 osb - rim - back 002",
+      "type": "box",
+      "length_mm": 2438.4,
+      "width_mm": 19.05,
+      "height_mm": 406.4,
+      "position": {
+        "x": 1219.2,
+        "y": 6038.85,
+        "z": 0.0
+      },
+      "material": "3/4 inch OSB"
+    },
+    {
+      "id": "2x12_ledge___front_6",
+      "label": "2x12 ledge - front",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 38.1,
+      "height_mm": 285.75,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 406.4
+      },
+      "material": "2x12 lumber"
+    },
+    {
+      "id": "2x12_ledge___left_001_7",
+      "label": "2x12 ledge - left 001",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 3657.6,
+      "height_mm": 285.75,
+      "position": {
+        "x": 0.0,
+        "y": 38.1,
+        "z": 406.4
+      },
+      "material": "2x12 lumber"
+    },
+    {
+      "id": "2x12_ledge___left_002_8",
+      "label": "2x12 ledge - left 002",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 2400.3,
+      "height_mm": 285.75,
+      "position": {
+        "x": 0.0,
+        "y": 3695.7,
+        "z": 406.4
+      },
+      "material": "2x12 lumber"
+    },
+    {
+      "id": "2x12_ledge___right_001_9",
+      "label": "2x12 ledge - right 001",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 3657.6,
+      "height_mm": 285.75,
+      "position": {
+        "x": 3619.5,
+        "y": 38.1,
+        "z": 406.4
+      },
+      "material": "2x12 lumber"
+    },
+    {
+      "id": "2x12_ledge___right_002_10",
+      "label": "2x12 ledge - right 002",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 2400.3,
+      "height_mm": 285.75,
+      "position": {
+        "x": 3619.5,
+        "y": 3695.7,
+        "z": 406.4
+      },
+      "material": "2x12 lumber"
+    },
+    {
+      "id": "2x4_ledge___front_11",
+      "label": "2x4 ledge - front",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 38.1,
+      "height_mm": 88.9,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 692.15
+      },
+      "material": "2x4 lumber"
+    },
+    {
+      "id": "2x4_ledge___left_001_12",
+      "label": "2x4 ledge - left 001",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 3657.6,
+      "height_mm": 88.9,
+      "position": {
+        "x": 0.0,
+        "y": 38.1,
+        "z": 692.15
+      },
+      "material": "2x4 lumber"
+    },
+    {
+      "id": "2x4_ledge___left_002_13",
+      "label": "2x4 ledge - left 002",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 2400.3,
+      "height_mm": 88.9,
+      "position": {
+        "x": 0.0,
+        "y": 3695.7,
+        "z": 692.15
+      },
+      "material": "2x4 lumber"
+    },
+    {
+      "id": "2x4_ledge___right_001_14",
+      "label": "2x4 ledge - right 001",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 3657.6,
+      "height_mm": 88.9,
+      "position": {
+        "x": 3619.5,
+        "y": 38.1,
+        "z": 692.15
+      },
+      "material": "2x4 lumber"
+    },
+    {
+      "id": "2x4_ledge___right_002_15",
+      "label": "2x4 ledge - right 002",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 2400.3,
+      "height_mm": 88.9,
+      "position": {
+        "x": 3619.5,
+        "y": 3695.7,
+        "z": 692.15
+      },
+      "material": "2x4 lumber"
+    },
+    {
+      "id": "2x4_insulation_cap_18",
+      "label": "2x4 insulation cap",
+      "type": "box",
+      "length_mm": 3581.4,
+      "width_mm": 38.1,
+      "height_mm": 88.9,
+      "position": {
+        "x": 38.1,
+        "y": 6057.9,
+        "z": 514.35
+      },
+      "material": "insulation"
+    },
+    {
+      "id": "2x6___rim___front___bottom_23",
+      "label": "2x6 - rim - front - bottom",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 38.1,
+      "height_mm": 139.7,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "material": "2x6 lumber"
+    },
+    {
+      "id": "2x6___rim___front___top_24",
+      "label": "2x6 - rim - front - top",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 38.1,
+      "height_mm": 139.7,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 266.7
+      },
+      "material": "2x6 lumber"
+    },
+    {
+      "id": "2x6___rim___back___bottom_25",
+      "label": "2x6 - rim - back - bottom",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 38.1,
+      "height_mm": 139.7,
+      "position": {
+        "x": 0.0,
+        "y": 6057.9,
+        "z": 0.0
+      },
+      "material": "2x6 lumber"
+    },
+    {
+      "id": "2x6___rim___back___top_26",
+      "label": "2x6 - rim - back - top",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 38.1,
+      "height_mm": 139.7,
+      "position": {
+        "x": 0.0,
+        "y": 6057.9,
+        "z": 266.7
+      },
+      "material": "2x6 lumber"
+    },
+    {
+      "id": "2x6_pv_runner_001_30",
+      "label": "2x6 PV runner 001",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 6070.6,
+      "height_mm": 38.1,
+      "position": {
+        "x": 444.5,
+        "y": 127.0,
+        "z": 746.125
+      },
+      "material": "PV mounting rail"
+    },
+    {
+      "id": "2x6_pv_runner_002_31",
+      "label": "2x6 PV runner 002",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 6070.6,
+      "height_mm": 38.1,
+      "position": {
+        "x": 1333.5,
+        "y": 127.0,
+        "z": 746.125
+      },
+      "material": "PV mounting rail"
+    },
+    {
+      "id": "2x6_pv_runner_003_32",
+      "label": "2x6 PV runner 003",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 6070.6,
+      "height_mm": 38.1,
+      "position": {
+        "x": 2184.4,
+        "y": 127.0,
+        "z": 746.125
+      },
+      "material": "PV mounting rail"
+    },
+    {
+      "id": "pv_panel_001_34",
+      "label": "PV panel 001",
+      "type": "box",
+      "length_mm": 1638.3,
+      "width_mm": 990.6,
+      "height_mm": 38.1,
+      "position": {
+        "x": 139.7,
+        "y": 76.2,
+        "z": 784.225
+      },
+      "material": "PV panel"
+    },
+    {
+      "id": "2x6_pv_runner_004_35",
+      "label": "2x6 PV runner 004",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 6070.6,
+      "height_mm": 38.1,
+      "position": {
+        "x": 3073.4,
+        "y": 127.0,
+        "z": 746.125
+      },
+      "material": "PV mounting rail"
+    },
+    {
+      "id": "osb_sheathing___back_38",
+      "label": "osb sheathing - back",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 12.7,
+      "height_mm": 603.25,
+      "position": {
+        "x": 0.0,
+        "y": 6096.0,
+        "z": 0.0
+      },
+      "material": "OSB sheathing"
+    },
+    {
+      "id": "1x8_siding_cap___top_39",
+      "label": "1x8 siding cap - top",
+      "type": "box",
+      "length_mm": 3619.5,
+      "width_mm": 19.05,
+      "height_mm": 184.15,
+      "position": {
+        "x": 38.1,
+        "y": 6108.7,
+        "z": 419.1
+      },
+      "material": "1x8 lumber"
+    },
+    {
+      "id": "roof___roofing_membrane___main_40",
+      "label": "roof - roofing membrane - main",
+      "type": "box",
+      "length_mm": 3581.4,
+      "width_mm": 6113.14,
+      "height_mm": 3.175,
+      "position": {
+        "x": 38.1,
+        "y": 38.1,
+        "z": 742.95
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roof___edge___1x10_siding_trim___top_001_41",
+      "label": "roof - edge - 1x10 siding trim - top 001",
+      "type": "box",
+      "length_mm": 3600.45,
+      "width_mm": 19.05,
+      "height_mm": 234.95,
+      "position": {
+        "x": 57.15,
+        "y": 6127.75,
+        "z": 368.3
+      },
+      "material": "1x10 lumber"
+    },
+    {
+      "id": "roof___gutter_42",
+      "label": "roof - gutter",
+      "type": "box",
+      "length_mm": 3638.55,
+      "width_mm": 127.0,
+      "height_mm": 95.25,
+      "position": {
+        "x": 19.05,
+        "y": 6146.8,
+        "z": 368.3
+      },
+      "material": "gutter"
+    },
+    {
+      "id": "roof___roofing_membrane___gutter_edge_43",
+      "label": "roof - roofing membrane - gutter edge",
+      "type": "box",
+      "length_mm": 3692.52,
+      "width_mm": 3.175,
+      "height_mm": 76.2,
+      "position": {
+        "x": -31.75,
+        "y": 6149.97,
+        "z": 527.05
+      },
+      "material": "gutter"
+    },
+    {
+      "id": "2x6_pv_runner_000_44",
+      "label": "2x6 PV runner 000",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 6070.6,
+      "height_mm": 38.1,
+      "position": {
+        "x": 38.1,
+        "y": 127.0,
+        "z": 746.125
+      },
+      "material": "PV mounting rail"
+    },
+    {
+      "id": "2x6_pv_runner_005_45",
+      "label": "2x6 PV runner 005",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 6070.6,
+      "height_mm": 38.1,
+      "position": {
+        "x": 3479.8,
+        "y": 127.0,
+        "z": 746.125
+      },
+      "material": "PV mounting rail"
+    },
+    {
+      "id": "roof___edge___pv_runner_top_46",
+      "label": "roof - edge - PV runner top",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 88.9,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 6108.7,
+        "z": 644.525
+      },
+      "material": "PV mounting rail"
+    },
+    {
+      "id": "roof___edge___1x102_fascia___left_47",
+      "label": "roof - edge - 1x102 fascia - left",
+      "type": "box",
+      "length_mm": 19.05,
+      "width_mm": 50.8,
+      "height_mm": 285.75,
+      "position": {
+        "x": -50.8,
+        "y": 6146.8,
+        "z": 501.65
+      },
+      "material": "1x102 lumber"
+    },
+    {
+      "id": "roof___edge___1x12_fascia___back_48",
+      "label": "roof - edge - 1x12 fascia - back",
+      "type": "box",
+      "length_mm": 3708.4,
+      "width_mm": 19.05,
+      "height_mm": 285.75,
+      "position": {
+        "x": -50.8,
+        "y": 6197.6,
+        "z": 501.65
+      },
+      "material": "1x12 lumber"
+    },
+    {
+      "id": "metal_siding___left_56",
+      "label": "metal siding - left",
+      "type": "box",
+      "length_mm": 19.05,
+      "width_mm": 5969.0,
+      "height_mm": 692.15,
+      "position": {
+        "x": -31.75,
+        "y": 63.5,
+        "z": 0.0
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "1x6_pt___roof_ledge_trim___left_top_001_57",
+      "label": "1x6 PT - roof ledge trim - left top 001",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 6140.45,
+      "height_mm": 19.05,
+      "position": {
+        "x": -101.6,
+        "y": 38.1,
+        "z": 787.4
+      },
+      "material": "1x6 lumber"
+    },
+    {
+      "id": "1x6_pt___fr___roof_ledge_trim___left_down_001_58",
+      "label": "1x6 PT - FR - roof ledge trim - left down 001",
+      "type": "box",
+      "length_mm": 19.05,
+      "width_mm": 6184.9,
+      "height_mm": 139.7,
+      "position": {
+        "x": -50.8,
+        "y": -38.1,
+        "z": 647.7
+      },
+      "material": "1x6 lumber"
+    },
+    {
+      "id": "1x3_siding_cap___corner_001_59",
+      "label": "1x3 siding cap - corner 001",
+      "type": "box",
+      "length_mm": 19.05,
+      "width_mm": 63.5,
+      "height_mm": 692.15,
+      "position": {
+        "x": -31.75,
+        "y": 6032.5,
+        "z": 0.0
+      },
+      "material": "1x3 lumber"
+    },
+    {
+      "id": "osb_sheathing___left_60",
+      "label": "osb sheathing - left",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 6096.0,
+      "height_mm": 781.05,
+      "position": {
+        "x": -12.7,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "material": "OSB sheathing"
+    },
+    {
+      "id": "1x3_siding_cap___corner_003_62",
+      "label": "1x3 siding cap - corner 003",
+      "type": "box",
+      "length_mm": 63.5,
+      "width_mm": 19.05,
+      "height_mm": 603.25,
+      "position": {
+        "x": -25.4,
+        "y": 6108.7,
+        "z": 0.0
+      },
+      "material": "1x3 lumber"
+    },
+    {
+      "id": "roof___edge___1x2_siding_trim___corner_001_63",
+      "label": "roof - edge - 1x2 siding trim - corner 001",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 19.05,
+      "height_mm": 603.25,
+      "position": {
+        "x": -31.75,
+        "y": 6127.75,
+        "z": 0.0
+      },
+      "material": "1x2 lumber"
+    },
+    {
+      "id": "metal_siding___back_64",
+      "label": "metal siding - back",
+      "type": "box",
+      "length_mm": 3619.5,
+      "width_mm": 19.05,
+      "height_mm": 419.1,
+      "position": {
+        "x": 38.1,
+        "y": 6108.7,
+        "z": 0.0
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roof___edge___1x6_siding_cap___corner_002_65",
+      "label": "roof - edge - 1x6 siding cap - corner 002",
+      "type": "box",
+      "length_mm": 19.05,
+      "width_mm": 139.7,
+      "height_mm": 647.7,
+      "position": {
+        "x": -50.8,
+        "y": 6007.1,
+        "z": 0.0
+      },
+      "material": "1x6 lumber"
+    },
+    {
+      "id": "1x4_pt___roof_ledge_trim___back_top_001_66",
+      "label": "1x4 PT - roof ledge trim - back top 001",
+      "type": "box",
+      "length_mm": 3759.2,
+      "width_mm": 38.1,
+      "height_mm": 19.05,
+      "position": {
+        "x": -101.6,
+        "y": 6178.55,
+        "z": 787.4
+      },
+      "material": "1x4 lumber"
+    },
+    {
+      "id": "pv_panel_002_67",
+      "label": "PV panel 002",
+      "type": "box",
+      "length_mm": 1638.3,
+      "width_mm": 990.6,
+      "height_mm": 38.1,
+      "position": {
+        "x": 1828.8,
+        "y": 76.2,
+        "z": 784.225
+      },
+      "material": "PV panel"
+    },
+    {
+      "id": "flashing_68",
+      "label": "flashing",
+      "type": "box",
+      "length_mm": 3619.5,
+      "width_mm": 3.175,
+      "height_mm": 127.0,
+      "position": {
+        "x": 38.1,
+        "y": 6146.8,
+        "z": 425.45
+      },
+      "material": "metal flashing"
+    },
+    {
+      "id": "osb_sheathing___front_76",
+      "label": "osb sheathing - front",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 12.7,
+      "height_mm": 781.05,
+      "position": {
+        "x": 0.0,
+        "y": -12.7,
+        "z": 0.0
+      },
+      "material": "OSB sheathing"
+    },
+    {
+      "id": "roof___roofing_membrane___ledge_top___front_82",
+      "label": "roof - roofing membrane - ledge top - front",
+      "type": "box",
+      "length_mm": 3581.4,
+      "width_mm": 69.85,
+      "height_mm": 3.175,
+      "position": {
+        "x": 38.1,
+        "y": -31.75,
+        "z": 781.05
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roof___roofing_membrane___ledge_down___front_83",
+      "label": "roof - roofing membrane - ledge down - front",
+      "type": "box",
+      "length_mm": 3689.35,
+      "width_mm": 3.175,
+      "height_mm": 127.0,
+      "position": {
+        "x": -31.75,
+        "y": -34.925,
+        "z": 657.225
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "1x4_siding_cap___top_84",
+      "label": "1x4 siding cap - top",
+      "type": "box",
+      "length_mm": 3689.35,
+      "width_mm": 19.05,
+      "height_mm": 88.9,
+      "position": {
+        "x": -31.75,
+        "y": -31.75,
+        "z": 692.15
+      },
+      "material": "1x4 lumber"
+    },
+    {
+      "id": "roof___roofing_membrane___ledge_top___left_85",
+      "label": "roof - roofing membrane - ledge top - left",
+      "type": "box",
+      "length_mm": 69.85,
+      "width_mm": 6127.75,
+      "height_mm": 3.175,
+      "position": {
+        "x": -31.75,
+        "y": -31.75,
+        "z": 781.05
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roof___roofing_membrane___ledge_down___left_86",
+      "label": "roof - roofing membrane - ledge down - left",
+      "type": "box",
+      "length_mm": 3.175,
+      "width_mm": 6130.92,
+      "height_mm": 38.1,
+      "position": {
+        "x": -34.925,
+        "y": -34.925,
+        "z": 746.125
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "1x3_siding_cap___corner_002_87",
+      "label": "1x3 siding cap - corner 002",
+      "type": "box",
+      "length_mm": 19.05,
+      "width_mm": 63.5,
+      "height_mm": 692.15,
+      "position": {
+        "x": -31.75,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "material": "1x3 lumber"
+    },
+    {
+      "id": "1x4_siding_cap___top_001_88",
+      "label": "1x4 siding cap - top 001",
+      "type": "box",
+      "length_mm": 19.05,
+      "width_mm": 6108.7,
+      "height_mm": 88.9,
+      "position": {
+        "x": -31.75,
+        "y": -12.7,
+        "z": 692.15
+      },
+      "material": "1x4 lumber"
+    },
+    {
+      "id": "roof___roofing_membrane___inside_box___front_89",
+      "label": "roof - roofing membrane - inside box - front",
+      "type": "box",
+      "length_mm": 3581.4,
+      "width_mm": 3.175,
+      "height_mm": 38.1,
+      "position": {
+        "x": 38.1,
+        "y": 38.1,
+        "z": 746.125
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roof___roofing_membrane___ledge_top___right_92",
+      "label": "roof - roofing membrane - ledge top - right",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 6127.75,
+      "height_mm": 3.175,
+      "position": {
+        "x": 3619.5,
+        "y": -31.75,
+        "z": 781.05
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roof___roofing_membrane___ledge_down___right_93",
+      "label": "roof - roofing membrane - ledge down - right",
+      "type": "box",
+      "length_mm": 3.175,
+      "width_mm": 6130.92,
+      "height_mm": 38.1,
+      "position": {
+        "x": 3657.6,
+        "y": -34.925,
+        "z": 746.125
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roof___roofing_membrane___ledge_edge_left_001_94",
+      "label": "roof - roofing membrane - ledge edge left 001",
+      "type": "box",
+      "length_mm": 76.2,
+      "width_mm": 3.175,
+      "height_mm": 180.975,
+      "position": {
+        "x": -34.925,
+        "y": 6096.0,
+        "z": 603.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roof___roofing_membrane___ledge_edge_left_002_95",
+      "label": "roof - roofing membrane - ledge edge left 002",
+      "type": "box",
+      "length_mm": 73.025,
+      "width_mm": 53.975,
+      "height_mm": 3.175,
+      "position": {
+        "x": -34.925,
+        "y": 6096.0,
+        "z": 603.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roof___roofing_membrane___ledge_edge_right_001_96",
+      "label": "roof - roofing membrane - ledge edge right 001",
+      "type": "box",
+      "length_mm": 41.275,
+      "width_mm": 3.175,
+      "height_mm": 180.975,
+      "position": {
+        "x": 3619.5,
+        "y": 6096.0,
+        "z": 603.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roof___roofing_membrane___ledge_edge_right_002_97",
+      "label": "roof - roofing membrane - ledge edge right 002",
+      "type": "box",
+      "length_mm": 41.275,
+      "width_mm": 53.975,
+      "height_mm": 3.175,
+      "position": {
+        "x": 3619.5,
+        "y": 6096.0,
+        "z": 603.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roof___roofing_membrane___ledge_edge_right_003_98",
+      "label": "roof - roofing membrane - ledge edge right 003",
+      "type": "box",
+      "length_mm": 3.175,
+      "width_mm": 50.8,
+      "height_mm": 142.875,
+      "position": {
+        "x": 3657.6,
+        "y": 6045.2,
+        "z": 603.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roof___roofing_membrane___ledge_edge_left_003_99",
+      "label": "roof - roofing membrane - ledge edge left 003",
+      "type": "box",
+      "length_mm": 3.175,
+      "width_mm": 50.8,
+      "height_mm": 142.875,
+      "position": {
+        "x": -34.29,
+        "y": 6045.2,
+        "z": 603.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roof___edge___1x6_siding_cap___corner_003_101",
+      "label": "roof - edge - 1x6 siding cap - corner 003",
+      "type": "box",
+      "length_mm": 19.05,
+      "width_mm": 139.7,
+      "height_mm": 641.35,
+      "position": {
+        "x": -50.8,
+        "y": -31.75,
+        "z": 0.0
+      },
+      "material": "1x6 lumber"
+    },
+    {
+      "id": "1x6_pt___fr___roof_ledge_trim___front_down_001_102",
+      "label": "1x6 PT - FR - roof ledge trim - front down 001",
+      "type": "box",
+      "length_mm": 3708.4,
+      "width_mm": 19.05,
+      "height_mm": 139.7,
+      "position": {
+        "x": -50.8,
+        "y": -57.15,
+        "z": 647.7
+      },
+      "material": "1x6 lumber"
+    },
+    {
+      "id": "1x4_pt___roof_ledge_trim___front_top_001_103",
+      "label": "1x4 PT - roof ledge trim - front top 001",
+      "type": "box",
+      "length_mm": 3759.2,
+      "width_mm": 139.7,
+      "height_mm": 19.05,
+      "position": {
+        "x": -101.6,
+        "y": -101.6,
+        "z": 787.4
+      },
+      "material": "1x4 lumber"
+    },
+    {
+      "id": "roof___roofing_membrane___main001_104",
+      "label": "roof - roofing membrane - main001",
+      "type": "box",
+      "length_mm": 3581.4,
+      "width_mm": 6113.14,
+      "height_mm": 3.175,
+      "position": {
+        "x": 38.1,
+        "y": 38.1,
+        "z": 742.95
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roof___roofing_membrane___gutter_edge001_105",
+      "label": "roof - roofing membrane - gutter edge001",
+      "type": "box",
+      "length_mm": 3663.95,
+      "width_mm": 3.175,
+      "height_mm": 76.2,
+      "position": {
+        "x": -3.175,
+        "y": 6149.97,
+        "z": 527.05
+      },
+      "material": "gutter"
+    },
+    {
+      "id": "roof___roofing_membrane___ledge_top___front001_107",
+      "label": "roof - roofing membrane - ledge top - front001",
+      "type": "box",
+      "length_mm": 3581.4,
+      "width_mm": 69.85,
+      "height_mm": 3.175,
+      "position": {
+        "x": 38.1,
+        "y": -31.75,
+        "z": 781.05
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roof___roofing_membrane___ledge_top___left001_108",
+      "label": "roof - roofing membrane - ledge top - left001",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 6127.75,
+      "height_mm": 3.175,
+      "position": {
+        "x": 0.0,
+        "y": -31.75,
+        "z": 781.05
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roof___roofing_membrane___ledge_down___left001_109",
+      "label": "roof - roofing membrane - ledge down - left001",
+      "type": "box",
+      "length_mm": 3.175,
+      "width_mm": 6130.92,
+      "height_mm": 38.1,
+      "position": {
+        "x": -3.175,
+        "y": -34.925,
+        "z": 746.125
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roof___roofing_membrane___inside_box___front001_110",
+      "label": "roof - roofing membrane - inside box - front001",
+      "type": "box",
+      "length_mm": 3581.4,
+      "width_mm": 3.175,
+      "height_mm": 38.1,
+      "position": {
+        "x": 38.1,
+        "y": 38.1,
+        "z": 746.125
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roof___roofing_membrane___ledge_top___right001_113",
+      "label": "roof - roofing membrane - ledge top - right001",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 6127.75,
+      "height_mm": 3.175,
+      "position": {
+        "x": 3619.5,
+        "y": -31.75,
+        "z": 781.05
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roof___roofing_membrane___ledge_down___right001_114",
+      "label": "roof - roofing membrane - ledge down - right001",
+      "type": "box",
+      "length_mm": 3.175,
+      "width_mm": 6130.92,
+      "height_mm": 38.1,
+      "position": {
+        "x": 3657.6,
+        "y": -34.925,
+        "z": 746.125
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roof___roofing_membrane___ledge_edge_left_004_115",
+      "label": "roof - roofing membrane - ledge edge left 004",
+      "type": "box",
+      "length_mm": 41.275,
+      "width_mm": 3.175,
+      "height_mm": 180.975,
+      "position": {
+        "x": -3.175,
+        "y": 6096.0,
+        "z": 603.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roof___roofing_membrane___ledge_edge_right_004_116",
+      "label": "roof - roofing membrane - ledge edge right 004",
+      "type": "box",
+      "length_mm": 41.275,
+      "width_mm": 3.175,
+      "height_mm": 180.975,
+      "position": {
+        "x": 3619.5,
+        "y": 6096.0,
+        "z": 603.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roof___roofing_membrane___ledge_edge_right_005_117",
+      "label": "roof - roofing membrane - ledge edge right 005",
+      "type": "box",
+      "length_mm": 41.275,
+      "width_mm": 53.975,
+      "height_mm": 3.175,
+      "position": {
+        "x": 3619.5,
+        "y": 6096.0,
+        "z": 603.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roof___roofing_membrane___ledge_edge_right_006_118",
+      "label": "roof - roofing membrane - ledge edge right 006",
+      "type": "box",
+      "length_mm": 3.175,
+      "width_mm": 50.8,
+      "height_mm": 142.875,
+      "position": {
+        "x": 3657.6,
+        "y": 6045.2,
+        "z": 603.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roof___roofing_membrane___ledge_edge_left_005_119",
+      "label": "roof - roofing membrane - ledge edge left 005",
+      "type": "box",
+      "length_mm": 41.275,
+      "width_mm": 53.975,
+      "height_mm": 3.175,
+      "position": {
+        "x": -3.175,
+        "y": 6096.0,
+        "z": 603.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roof___roofing_membrane___ledge_edge_left_006_120",
+      "label": "roof - roofing membrane - ledge edge left 006",
+      "type": "box",
+      "length_mm": 3.175,
+      "width_mm": 50.8,
+      "height_mm": 142.875,
+      "position": {
+        "x": -3.175,
+        "y": 6045.2,
+        "z": 603.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roof___roofing_membrane___main002_121",
+      "label": "roof - roofing membrane - main002",
+      "type": "box",
+      "length_mm": 3581.4,
+      "width_mm": 6113.14,
+      "height_mm": 3.175,
+      "position": {
+        "x": 38.1,
+        "y": 38.1,
+        "z": 742.95
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roof___roofing_membrane___gutter_edge002_122",
+      "label": "roof - roofing membrane - gutter edge002",
+      "type": "box",
+      "length_mm": 3695.7,
+      "width_mm": 3.175,
+      "height_mm": 76.2,
+      "position": {
+        "x": -3.175,
+        "y": 6149.97,
+        "z": 527.05
+      },
+      "material": "gutter"
+    },
+    {
+      "id": "roof___roofing_membrane___ledge_top___front002_124",
+      "label": "roof - roofing membrane - ledge top - front002",
+      "type": "box",
+      "length_mm": 3581.4,
+      "width_mm": 69.85,
+      "height_mm": 3.175,
+      "position": {
+        "x": 38.1,
+        "y": -31.75,
+        "z": 781.05
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roof___roofing_membrane___ledge_down___left002_125",
+      "label": "roof - roofing membrane - ledge down - left002",
+      "type": "box",
+      "length_mm": 3.175,
+      "width_mm": 6130.92,
+      "height_mm": 38.1,
+      "position": {
+        "x": -3.175,
+        "y": -34.925,
+        "z": 746.125
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roof___roofing_membrane___inside_box___front002_126",
+      "label": "roof - roofing membrane - inside box - front002",
+      "type": "box",
+      "length_mm": 3581.4,
+      "width_mm": 3.175,
+      "height_mm": 38.1,
+      "position": {
+        "x": 38.1,
+        "y": 38.1,
+        "z": 746.125
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roof___roofing_membrane___ledge_top___right002_129",
+      "label": "roof - roofing membrane - ledge top - right002",
+      "type": "box",
+      "length_mm": 69.85,
+      "width_mm": 6127.75,
+      "height_mm": 3.175,
+      "position": {
+        "x": 3619.5,
+        "y": -31.75,
+        "z": 781.05
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roof___roofing_membrane___ledge_down___right002_130",
+      "label": "roof - roofing membrane - ledge down - right002",
+      "type": "box",
+      "length_mm": 3.175,
+      "width_mm": 6130.92,
+      "height_mm": 38.1,
+      "position": {
+        "x": 3689.35,
+        "y": -34.925,
+        "z": 746.125
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roof___roofing_membrane___ledge_edge_left_007_131",
+      "label": "roof - roofing membrane - ledge edge left 007",
+      "type": "box",
+      "length_mm": 41.275,
+      "width_mm": 3.175,
+      "height_mm": 180.975,
+      "position": {
+        "x": -3.175,
+        "y": 6096.0,
+        "z": 603.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roof___roofing_membrane___ledge_edge_right_007_132",
+      "label": "roof - roofing membrane - ledge edge right 007",
+      "type": "box",
+      "length_mm": 69.85,
+      "width_mm": 3.175,
+      "height_mm": 180.975,
+      "position": {
+        "x": 3619.5,
+        "y": 6096.0,
+        "z": 603.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roof___roofing_membrane___ledge_edge_right_008_133",
+      "label": "roof - roofing membrane - ledge edge right 008",
+      "type": "box",
+      "length_mm": 69.85,
+      "width_mm": 53.975,
+      "height_mm": 3.175,
+      "position": {
+        "x": 3619.5,
+        "y": 6096.0,
+        "z": 603.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roof___roofing_membrane___ledge_edge_right_009_134",
+      "label": "roof - roofing membrane - ledge edge right 009",
+      "type": "box",
+      "length_mm": 3.175,
+      "width_mm": 50.8,
+      "height_mm": 142.875,
+      "position": {
+        "x": 3689.35,
+        "y": 6045.2,
+        "z": 603.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roof___roofing_membrane___ledge_edge_left_008_135",
+      "label": "roof - roofing membrane - ledge edge left 008",
+      "type": "box",
+      "length_mm": 41.275,
+      "width_mm": 53.975,
+      "height_mm": 3.175,
+      "position": {
+        "x": -3.175,
+        "y": 6096.0,
+        "z": 603.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roof___roofing_membrane___ledge_edge_left_009_136",
+      "label": "roof - roofing membrane - ledge edge left 009",
+      "type": "box",
+      "length_mm": 3.175,
+      "width_mm": 50.8,
+      "height_mm": 142.875,
+      "position": {
+        "x": -3.175,
+        "y": 6045.2,
+        "z": 603.25
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roof___roofing_membrane___ledge_down___front003_139",
+      "label": "roof - roofing membrane - ledge down - front003",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 3.175,
+      "height_mm": 127.0,
+      "position": {
+        "x": 0.0,
+        "y": -34.925,
+        "z": 657.225
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roof___roofing_membrane___ledge_top___left002_141",
+      "label": "roof - roofing membrane - ledge top - left002",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 6127.75,
+      "height_mm": 3.175,
+      "position": {
+        "x": 0.0,
+        "y": -31.75,
+        "z": 781.05
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roof___roofing_membrane___ledge_down___front004_142",
+      "label": "roof - roofing membrane - ledge down - front004",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 3.175,
+      "height_mm": 127.0,
+      "position": {
+        "x": 0.0,
+        "y": -34.925,
+        "z": 657.225
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roof___edge___pv_runner_back_143",
+      "label": "roof - edge - PV runner back",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 88.9,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 38.1,
+        "z": 742.95
+      },
+      "material": "PV mounting rail"
+    },
+    {
+      "id": "2x10_ripped___tapers_rim___front_166",
+      "label": "2x10 (ripped) - tapers rim - front",
+      "type": "box",
+      "length_mm": 3581.4,
+      "width_mm": 38.1,
+      "height_mm": 228.6,
+      "position": {
+        "x": 38.1,
+        "y": 38.1,
+        "z": 406.4
+      },
+      "material": "2x10 lumber"
+    },
+    {
+      "id": "2x4___tapers_rim___back_167",
+      "label": "2x4 - tapers rim - back",
+      "type": "box",
+      "length_mm": 3581.4,
+      "width_mm": 38.1,
+      "height_mm": 88.9,
+      "position": {
+        "x": 38.1,
+        "y": 6057.9,
+        "z": 406.4
+      },
+      "material": "2x4 lumber"
+    }
+  ],
+  "groups": [
+    {
+      "id": "roof___trusses_parts_0",
+      "label": "roof - trusses (parts)",
+      "children": [
+        "roof___truss___end_left_0",
+        "roof___truss___end_right_1",
+        "roof_truss___middle_001_2",
+        "roof_truss___middle_002_3",
+        "roof_truss___middle_003_4",
+        "roof_truss___middle_004_5",
+        "roof_truss___middle_005_6"
+      ]
+    },
+    {
+      "id": "roof___osb_rim_parts_5",
+      "label": "roof - osb rim (parts)",
+      "children": [
+        "3_4_osb___rim___front_001_0",
+        "3_4_osb___rim___front_002_1",
+        "3_4_osb___rim___back_001_2",
+        "3_4_osb___rim___back_002_3"
+      ]
+    },
+    {
+      "id": "roof___ledge_box_parts_16",
+      "label": "roof - ledge box (parts)",
+      "children": [
+        "2x12_ledge___front_0",
+        "2x12_ledge___left_001_1",
+        "2x12_ledge___left_002_2",
+        "2x12_ledge___right_001_3",
+        "2x12_ledge___right_002_4",
+        "2x4_ledge___front_5",
+        "2x4_ledge___left_001_6",
+        "2x4_ledge___left_002_7",
+        "2x4_ledge___right_001_8",
+        "2x4_ledge___right_002_9"
+      ]
+    },
+    {
+      "id": "roof___insulation_parts_20",
+      "label": "roof - insulation (parts)",
+      "children": [
+        "roof_insulation_0",
+        "2x4_insulation_cap_1"
+      ]
+    },
+    {
+      "id": "roof___2x6_rim_parts_27",
+      "label": "roof - 2x6 rim (parts)",
+      "children": [
+        "2x6___rim___front___bottom_0",
+        "2x6___rim___front___top_1",
+        "2x6___rim___back___bottom_2",
+        "2x6___rim___back___top_3"
+      ]
+    },
+    {
+      "id": "roof___pv_runners_parts_33",
+      "label": "roof - PV runners (parts)",
+      "children": [
+        "2x6_pv_runner_001_0",
+        "2x6_pv_runner_002_1",
+        "2x6_pv_runner_003_2",
+        "2x6_pv_runner_004_3",
+        "2x6_pv_runner_000_4",
+        "2x6_pv_runner_005_5",
+        "roof___edge___pv_runner_top_6",
+        "pv_runner_ties___back_7",
+        "pv_runners_ties___front_8",
+        "roof___edge___pv_runner_back_9"
+      ]
+    },
+    {
+      "id": "parts_36",
+      "label": "PARTS",
+      "children": [
+        "roof___trusses_parts_0",
+        "roof___osb_rim_parts_1",
+        "roof___ledge_box_parts_2",
+        "roof___insulation_parts_3",
+        "roof___2x6_rim_parts_4",
+        "roof___tapers_rim_5"
+      ]
+    },
+    {
+      "id": "pv_panels_37",
+      "label": "PV panels",
+      "children": [
+        "pv_panel_001_0",
+        "pv_panel_002_1"
+      ]
+    },
+    {
+      "id": "pv_runner_ties___back_55",
+      "label": "PV runner ties - back",
+      "children": [
+        "45_hurricane_tie_001_0",
+        "45_hurricane_tie_003_1",
+        "45_hurricane_tie_004_2",
+        "45_hurricane_tie_005_3",
+        "45_hurricane_tie_006_4",
+        "45_hurricane_tie_002_5",
+        "45_hurricane_tie_007_6",
+        "45_hurricane_tie_008_7",
+        "45_hurricane_tie_009_8",
+        "45_hurricane_tie_010_9",
+        "45_hurricane_tie_011_10",
+        "45_hurricane_tie_012_11"
+      ]
+    },
+    {
+      "id": "back_fascia_61",
+      "label": "back fascia",
+      "children": [
+        "roof___edge___1x12_fascia___back_0",
+        "roof___edge___1x102_fascia___left_1"
+      ]
+    },
+    {
+      "id": "osb_sheathing_75",
+      "label": "osb sheathing",
+      "children": [
+        "osb_sheathing___left_0",
+        "osb_sheathing___back_1",
+        "osb_sheathing___front_2"
+      ]
+    },
+    {
+      "id": "siding_trim_77",
+      "label": "siding trim",
+      "children": [
+        "roof___edge___1x6_siding_cap___corner_002_0",
+        "roof___edge___1x2_siding_trim___corner_001_1",
+        "roof___edge___1x10_siding_trim___top_001_2",
+        "roof___edge___1x6_siding_cap___corner_003_3"
+      ]
+    },
+    {
+      "id": "metal_siding_78",
+      "label": "metal siding",
+      "children": [
+        "metal_siding___back_0",
+        "metal_siding___left_1"
+      ]
+    },
+    {
+      "id": "gutter_79",
+      "label": "gutter",
+      "children": [
+        "roof___gutter_0",
+        "flashing_1"
+      ]
+    },
+    {
+      "id": "roofing_membrane___fr_parts_80",
+      "label": "roofing membrane - FR (parts)",
+      "children": [
+        "roof___roofing_membrane___main_0",
+        "roof___roofing_membrane___gutter_edge_1",
+        "roof___roofing_membrane___ledge_top___front_2",
+        "roof___roofing_membrane___ledge_down___front_3",
+        "roof___roofing_membrane___ledge_top___left_4",
+        "roof___roofing_membrane___ledge_down___left_5",
+        "roof___roofing_membrane___inside_box___front_6",
+        "roof___roofing_membrane___inside_box___left_7",
+        "roof___roofing_membrane___inside_box___right_8",
+        "roof___roofing_membrane___ledge_top___right_9",
+        "roof___roofing_membrane___ledge_down___right_10",
+        "roof___roofing_membrane___ledge_edge_left_001_11",
+        "roof___roofing_membrane___ledge_edge_left_002_12",
+        "roof___roofing_membrane___ledge_edge_right_001_13",
+        "roof___roofing_membrane___ledge_edge_right_002_14",
+        "roof___roofing_membrane___ledge_edge_right_003_15",
+        "roof___roofing_membrane___ledge_edge_left_003_16"
+      ]
+    },
+    {
+      "id": "siding_caps_81",
+      "label": "siding caps",
+      "children": [
+        "1x8_siding_cap___top_0",
+        "1x3_siding_cap___corner_001_1",
+        "1x3_siding_cap___corner_003_2",
+        "1x3_siding_cap___corner_002_3",
+        "1x4_siding_cap___top_001_4",
+        "1x4_siding_cap___top_5"
+      ]
+    },
+    {
+      "id": "roof_ledge_trim_100",
+      "label": "roof ledge trim",
+      "children": [
+        "1x6_pt___roof_ledge_trim___left_top_001_0",
+        "1x4_pt___roof_ledge_trim___back_top_001_1",
+        "1x6_pt___fr___roof_ledge_trim___left_down_001_2",
+        "1x6_pt___fr___roof_ledge_trim___front_down_001_3",
+        "1x4_pt___roof_ledge_trim___front_top_001_4"
+      ]
+    },
+    {
+      "id": "roofing_membrane___kitchen_parts_106",
+      "label": "roofing membrane - kitchen (parts)",
+      "children": [
+        "roof___roofing_membrane___main001_0",
+        "roof___roofing_membrane___gutter_edge001_1",
+        "roof___roofing_membrane___ledge_top___front001_2",
+        "roof___roofing_membrane___ledge_top___left001_3",
+        "roof___roofing_membrane___ledge_down___left001_4",
+        "roof___roofing_membrane___inside_box___front001_5",
+        "roof___roofing_membrane___inside_box___left001_6",
+        "roof___roofing_membrane___inside_box___right001_7",
+        "roof___roofing_membrane___ledge_top___right001_8",
+        "roof___roofing_membrane___ledge_down___right001_9",
+        "roof___roofing_membrane___ledge_edge_left_004_10",
+        "roof___roofing_membrane___ledge_edge_left_005_11",
+        "roof___roofing_membrane___ledge_edge_right_004_12",
+        "roof___roofing_membrane___ledge_edge_right_005_13",
+        "roof___roofing_membrane___ledge_edge_right_006_14",
+        "roof___roofing_membrane___ledge_edge_left_006_15",
+        "roof___roofing_membrane___ledge_down___front003_16"
+      ]
+    },
+    {
+      "id": "roofing_membrane___bb_parts_123",
+      "label": "roofing membrane - BB (parts)",
+      "children": [
+        "roof___roofing_membrane___main002_0",
+        "roof___roofing_membrane___gutter_edge002_1",
+        "roof___roofing_membrane___ledge_top___front002_2",
+        "roof___roofing_membrane___ledge_top___left002_3",
+        "roof___roofing_membrane___ledge_down___left002_4",
+        "roof___roofing_membrane___inside_box___front002_5",
+        "roof___roofing_membrane___inside_box___left002_6",
+        "roof___roofing_membrane___inside_box___right002_7",
+        "roof___roofing_membrane___ledge_top___right002_8",
+        "roof___roofing_membrane___ledge_down___right002_9",
+        "roof___roofing_membrane___ledge_edge_left_007_10",
+        "roof___roofing_membrane___ledge_edge_left_008_11",
+        "roof___roofing_membrane___ledge_edge_right_007_12",
+        "roof___roofing_membrane___ledge_edge_right_008_13",
+        "roof___roofing_membrane___ledge_edge_right_009_14",
+        "roof___roofing_membrane___ledge_edge_left_009_15",
+        "roof___roofing_membrane___ledge_down___front004_16"
+      ]
+    },
+    {
+      "id": "pv_runners_ties___front_137",
+      "label": "PV runners ties - front",
+      "children": [
+        "hurricane_strap___12x4___001_0",
+        "hurricane_strap___12x4___002_1",
+        "hurricane_strap___12x4___003_2",
+        "hurricane_strap___12x4___004_3",
+        "hurricane_strap___12x4___005_4",
+        "hurricane_strap___12x4___006_5",
+        "hurricane_strap___12x4___007_6",
+        "hurricane_strap___12x4___008_7",
+        "hurricane_strap___12x4___009_8",
+        "hurricane_strap___12x4___010_9",
+        "hurricane_strap___12x4___011_10",
+        "hurricane_strap___12x4___012_11"
+      ]
+    },
+    {
+      "id": "roof___tapers_rim_168",
+      "label": "roof - tapers rim",
+      "children": [
+        "2x10_ripped___tapers_rim___front_0",
+        "2x4___tapers_rim___back_1"
+      ]
+    }
+  ]
+}

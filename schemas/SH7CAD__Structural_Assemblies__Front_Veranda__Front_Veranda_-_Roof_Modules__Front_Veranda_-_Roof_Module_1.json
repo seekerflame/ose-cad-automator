@@ -1,0 +1,119 @@
+{
+  "metadata": {
+    "name": "Front Veranda - Roof Module 1",
+    "version": "1.0.0",
+    "ose_reference": "Front Veranda - Roof Module 1.fcstd",
+    "license": "CC BY-SA 4.0",
+    "description": "Extracted from /Volumes/Extreme SSD/Nick/OSE/SH7CAD/Structural Assemblies/Front Veranda/Front Veranda - Roof Modules/Front Veranda - Roof Module 1.fcstd",
+    "total_parts": 6,
+    "bom": {
+      "2x6 header": 2,
+      "2x6 lumber": 1,
+      "2x4 lumber": 3
+    }
+  },
+  "parts": [
+    {
+      "id": "2x6_header_001_0",
+      "label": "2x6 header 001",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 38.1,
+      "height_mm": 139.7,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "material": "2x6 header"
+    },
+    {
+      "id": "2x6_header_002_1",
+      "label": "2x6 header 002",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 38.1,
+      "height_mm": 139.7,
+      "position": {
+        "x": 0.0,
+        "y": 38.1,
+        "z": 0.0
+      },
+      "material": "2x6 header"
+    },
+    {
+      "id": "2x6_ledger_2",
+      "label": "2x6 ledger",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 38.1,
+      "height_mm": 139.7,
+      "position": {
+        "x": 0.0,
+        "y": 2400.3,
+        "z": 304.8
+      },
+      "material": "2x6 lumber"
+    },
+    {
+      "id": "2x4_purlin_001_8",
+      "label": "2x4 purlin 001",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 88.9,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 2349.5,
+        "z": 444.5
+      },
+      "material": "2x4 lumber"
+    },
+    {
+      "id": "2x4_purlin_002_9",
+      "label": "2x4 purlin 002",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 88.9,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 1435.1,
+        "z": 323.85
+      },
+      "material": "2x4 lumber"
+    },
+    {
+      "id": "2x4_purlin_003_10",
+      "label": "2x4 purlin 003",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 88.9,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 520.7,
+        "z": 203.2
+      },
+      "material": "2x4 lumber"
+    }
+  ],
+  "groups": [
+    {
+      "id": "parts_3",
+      "label": "PARTS",
+      "children": [
+        "2x6_header_001_0",
+        "2x6_header_002_1",
+        "2x6_ledger_2",
+        "rafter_001_3",
+        "rafter_002_4",
+        "rafter_003_5",
+        "rafter_004_6",
+        "2x4_purlin_001_7",
+        "2x4_purlin_002_8",
+        "2x4_purlin_003_9"
+      ]
+    }
+  ]
+}

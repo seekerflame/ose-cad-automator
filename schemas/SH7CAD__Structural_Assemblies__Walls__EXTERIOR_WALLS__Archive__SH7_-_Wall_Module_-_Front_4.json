@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "name": "SH7 - Wall Module - Front 4",
+    "version": "1.0.0",
+    "ose_reference": "SH7 - Wall Module - Front 4.fcstd",
+    "license": "CC BY-SA 4.0",
+    "description": "Extracted from /Volumes/Extreme SSD/Nick/OSE/SH7CAD/Structural Assemblies/Walls/EXTERIOR WALLS/Archive/SH7 - Wall Module - Front 4.fcstd",
+    "total_parts": 8,
+    "bom": {
+      "1/2 inch OSB": 1,
+      "2x6 plate": 2,
+      "2x6 stud": 5
+    }
+  },
+  "parts": [
+    {
+      "id": "1_2_osb_1",
+      "label": "1/2 osb",
+      "type": "box",
+      "length_mm": 533.4,
+      "width_mm": 12.7,
+      "height_mm": 3048.0,
+      "position": {
+        "x": 0.0,
+        "y": -12.7,
+        "z": 0.0
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "2x6_top_plate_2",
+      "label": "2x6 top plate",
+      "type": "box",
+      "length_mm": 533.4,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 2971.8
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_stud___right_3",
+      "label": "2x6 stud - right",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 139.7,
+      "height_mm": 2933.7,
+      "position": {
+        "x": 495.3,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x6 stud"
+    },
+    {
+      "id": "2x6_stud___left_4",
+      "label": "2x6 stud - left",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 139.7,
+      "height_mm": 2933.7,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x6 stud"
+    },
+    {
+      "id": "2x6_bottom_plate_5",
+      "label": "2x6 bottom plate",
+      "type": "box",
+      "length_mm": 533.4,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_stud___corner_u_002_6",
+      "label": "2x6 stud - corner U 002",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 38.1,
+      "height_mm": 2933.7,
+      "position": {
+        "x": 355.6,
+        "y": 101.6,
+        "z": 38.1
+      },
+      "material": "2x6 stud"
+    },
+    {
+      "id": "2x6_stud___corner_u_001_7",
+      "label": "2x6 stud - corner U 001",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 38.1,
+      "height_mm": 2933.7,
+      "position": {
+        "x": 355.6,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x6 stud"
+    },
+    {
+      "id": "2x6_stud___corner_u_003_8",
+      "label": "2x6 stud - corner U 003",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 139.7,
+      "height_mm": 2933.7,
+      "position": {
+        "x": 317.5,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x6 stud"
+    }
+  ],
+  "groups": [
+    {
+      "id": "parts_0",
+      "label": "Parts",
+      "children": [
+        "2x6_stud___right_0",
+        "2x6_stud___left_1",
+        "2x6_bottom_plate_2",
+        "2x6_top_plate_3",
+        "1_2_osb_4",
+        "2x6_stud___corner_u_003_5",
+        "2x6_stud___corner_u_001_6",
+        "2x6_stud___corner_u_002_7"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "metadata": {
+    "name": "SH7 - Roof - Seed - Decking - Kitchen",
+    "version": "1.0.0",
+    "ose_reference": "SH7 - Roof - Seed - Decking - Kitchen.fcstd",
+    "license": "CC BY-SA 4.0",
+    "description": "Extracted from /Volumes/Extreme SSD/Nick/OSE/SH7CAD/Structural Assemblies/Roof/Roof - Kitchen/SH7 - Roof - Seed - Decking - Kitchen.fcstd",
+    "total_parts": 10,
+    "bom": {
+      "deck board": 10
+    }
+  },
+  "parts": [
+    {
+      "id": "3_4_osb___decking_001_0",
+      "label": "3/4 osb - decking 001",
+      "type": "box",
+      "length_mm": 2438.4,
+      "width_mm": 1219.2,
+      "height_mm": 19.05,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "material": "deck board"
+    },
+    {
+      "id": "3_4_osb___decking_002_1",
+      "label": "3/4 osb - decking 002",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 1219.2,
+      "height_mm": 19.05,
+      "position": {
+        "x": 2438.4,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "material": "deck board"
+    },
+    {
+      "id": "3_4_osb___decking_003_2",
+      "label": "3/4 osb - decking 003",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 1219.2,
+      "height_mm": 19.05,
+      "position": {
+        "x": 0.0,
+        "y": 1219.2,
+        "z": 0.0
+      },
+      "material": "deck board"
+    },
+    {
+      "id": "3_4_osb___decking_004_3",
+      "label": "3/4 osb - decking 004",
+      "type": "box",
+      "length_mm": 2438.4,
+      "width_mm": 1219.2,
+      "height_mm": 19.05,
+      "position": {
+        "x": 1219.2,
+        "y": 1219.2,
+        "z": 0.0
+      },
+      "material": "deck board"
+    },
+    {
+      "id": "3_4_osb___decking_005_4",
+      "label": "3/4 osb - decking 005",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 1219.2,
+      "height_mm": 19.05,
+      "position": {
+        "x": 2438.4,
+        "y": 2438.4,
+        "z": 0.0
+      },
+      "material": "deck board"
+    },
+    {
+      "id": "3_4_osb___decking_006_5",
+      "label": "3/4 osb - decking 006",
+      "type": "box",
+      "length_mm": 2438.4,
+      "width_mm": 1219.2,
+      "height_mm": 19.05,
+      "position": {
+        "x": 0.0,
+        "y": 2438.4,
+        "z": 0.0
+      },
+      "material": "deck board"
+    },
+    {
+      "id": "3_4_osb___decking_007_6",
+      "label": "3/4 osb - decking 007",
+      "type": "box",
+      "length_mm": 2438.4,
+      "width_mm": 1219.2,
+      "height_mm": 19.05,
+      "position": {
+        "x": 1219.2,
+        "y": 3657.6,
+        "z": 0.0
+      },
+      "material": "deck board"
+    },
+    {
+      "id": "3_4_osb___decking_008_7",
+      "label": "3/4 osb - decking 008",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 1219.2,
+      "height_mm": 19.05,
+      "position": {
+        "x": 0.0,
+        "y": 3657.6,
+        "z": 0.0
+      },
+      "material": "deck board"
+    },
+    {
+      "id": "3_4_osb___decking_009_8",
+      "label": "3/4 osb - decking 009",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 1143.0,
+      "height_mm": 19.05,
+      "position": {
+        "x": 2438.4,
+        "y": 4876.8,
+        "z": 0.0
+      },
+      "material": "deck board"
+    },
+    {
+      "id": "3_4_osb___decking_010_9",
+      "label": "3/4 osb - decking 010",
+      "type": "box",
+      "length_mm": 2438.4,
+      "width_mm": 1143.0,
+      "height_mm": 19.05,
+      "position": {
+        "x": 0.0,
+        "y": 4876.8,
+        "z": 0.0
+      },
+      "material": "deck board"
+    }
+  ],
+  "groups": [
+    {
+      "id": "roof_decking___kitchen_parts_10",
+      "label": "roof decking - kitchen (parts)",
+      "children": [
+        "3_4_osb___decking_001_0",
+        "3_4_osb___decking_002_1",
+        "3_4_osb___decking_003_2",
+        "3_4_osb___decking_004_3",
+        "3_4_osb___decking_005_4",
+        "3_4_osb___decking_006_5",
+        "3_4_osb___decking_007_6",
+        "3_4_osb___decking_008_7",
+        "3_4_osb___decking_009_8",
+        "3_4_osb___decking_010_9"
+      ]
+    }
+  ]
+}

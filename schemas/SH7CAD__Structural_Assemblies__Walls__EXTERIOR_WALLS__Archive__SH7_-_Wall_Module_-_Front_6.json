@@ -1,0 +1,298 @@
+{
+  "metadata": {
+    "name": "SH7 - Wall Module - Front 6",
+    "version": "1.0.0",
+    "ose_reference": "SH7 - Wall Module - Front 6.fcstd",
+    "license": "CC BY-SA 4.0",
+    "description": "Extracted from /Volumes/Extreme SSD/Nick/OSE/SH7CAD/Structural Assemblies/Walls/EXTERIOR WALLS/Archive/SH7 - Wall Module - Front 6.fcstd",
+    "total_parts": 17,
+    "bom": {
+      "2x6 plate": 3,
+      "2x6 stud": 6,
+      "2x12 header": 2,
+      "2x6 header": 1,
+      "2x6 lumber": 1,
+      "1x6 spacer": 1,
+      "1/2 inch OSB": 3
+    }
+  },
+  "parts": [
+    {
+      "id": "2x6_top_plate_0",
+      "label": "2x6 top plate",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 2971.8
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_king_stud___left_1",
+      "label": "2x6 king stud - left",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 139.7,
+      "height_mm": 2933.7,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x6 stud"
+    },
+    {
+      "id": "2x12_outer_header_2",
+      "label": "2x12 outer header",
+      "type": "box",
+      "length_mm": 1143.0,
+      "width_mm": 38.1,
+      "height_mm": 285.75,
+      "position": {
+        "x": 38.1,
+        "y": 0.0,
+        "z": 2686.05
+      },
+      "material": "2x12 header"
+    },
+    {
+      "id": "2x12_inner_header_3",
+      "label": "2x12 inner header",
+      "type": "box",
+      "length_mm": 1143.0,
+      "width_mm": 38.1,
+      "height_mm": 285.75,
+      "position": {
+        "x": 38.1,
+        "y": 101.6,
+        "z": 2686.05
+      },
+      "material": "2x12 header"
+    },
+    {
+      "id": "2x6_flat_header_4",
+      "label": "2x6 flat header",
+      "type": "box",
+      "length_mm": 1143.0,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 38.1,
+        "y": 0.0,
+        "z": 2647.95
+      },
+      "material": "2x6 header"
+    },
+    {
+      "id": "2x6_jack_stud___left_001_5",
+      "label": "2x6 jack stud - left 001",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 139.7,
+      "height_mm": 2609.85,
+      "position": {
+        "x": 38.1,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x6 stud"
+    },
+    {
+      "id": "2x6_jack_stud___right_001_6",
+      "label": "2x6 jack stud - right 001",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 139.7,
+      "height_mm": 2609.85,
+      "position": {
+        "x": 1104.9,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x6 stud"
+    },
+    {
+      "id": "2x6_nailing_plate_7",
+      "label": "2x6 nailing plate",
+      "type": "box",
+      "length_mm": 990.6,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 114.3,
+        "y": 0.0,
+        "z": 2082.8
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_cripple_001_8",
+      "label": "2x6 cripple 001",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 139.7,
+      "height_mm": 527.05,
+      "position": {
+        "x": 590.55,
+        "y": 0.0,
+        "z": 2120.9
+      },
+      "material": "2x6 lumber"
+    },
+    {
+      "id": "2x6_bottom_plate_9",
+      "label": "2x6 bottom plate",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_jack_stud___left_002_11",
+      "label": "2x6 jack stud - left 002",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 139.7,
+      "height_mm": 2609.85,
+      "position": {
+        "x": 76.2,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x6 stud"
+    },
+    {
+      "id": "2x6_jack_stud___right_002_12",
+      "label": "2x6 jack stud - right 002",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 139.7,
+      "height_mm": 2609.85,
+      "position": {
+        "x": 1143.0,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x6 stud"
+    },
+    {
+      "id": "2x6_king_stud___middle_13",
+      "label": "2x6 king stud - middle",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 139.7,
+      "height_mm": 2933.7,
+      "position": {
+        "x": 1181.1,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x6 stud"
+    },
+    {
+      "id": "1x6_spacer_14",
+      "label": "1x6 spacer",
+      "type": "box",
+      "length_mm": 19.05,
+      "width_mm": 139.7,
+      "height_mm": 2044.7,
+      "position": {
+        "x": 1085.85,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "1x6 spacer"
+    },
+    {
+      "id": "1_2_osb___top_16",
+      "label": "1/2 osb - top",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 12.7,
+      "height_mm": 965.2,
+      "position": {
+        "x": 0.0,
+        "y": -12.7,
+        "z": 2082.8
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___left_17",
+      "label": "1/2 osb - left",
+      "type": "box",
+      "length_mm": 114.3,
+      "width_mm": 12.7,
+      "height_mm": 2082.8,
+      "position": {
+        "x": 0.0,
+        "y": -12.7,
+        "z": 0.0
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___right_18",
+      "label": "1/2 osb - right",
+      "type": "box",
+      "length_mm": 133.35,
+      "width_mm": 12.7,
+      "height_mm": 2082.8,
+      "position": {
+        "x": 1085.85,
+        "y": -12.7,
+        "z": 0.0
+      },
+      "material": "1/2 inch OSB"
+    }
+  ],
+  "groups": [
+    {
+      "id": "parts_10",
+      "label": "PARTS",
+      "children": [
+        "frame_0",
+        "exterior_sheathing_1"
+      ]
+    },
+    {
+      "id": "frame_15",
+      "label": "frame",
+      "children": [
+        "2x6_top_plate_0",
+        "2x6_king_stud___left_1",
+        "2x6_flat_header_2",
+        "2x6_jack_stud___left_001_3",
+        "2x12_inner_header_4",
+        "2x6_jack_stud___right_001_5",
+        "2x6_bottom_plate_6",
+        "2x6_cripple_001_7",
+        "2x12_outer_header_8",
+        "2x6_nailing_plate_9",
+        "2x6_jack_stud___left_002_10",
+        "2x6_jack_stud___right_002_11",
+        "2x6_king_stud___middle_12",
+        "1x6_spacer_13"
+      ]
+    },
+    {
+      "id": "exterior_sheathing_19",
+      "label": "exterior sheathing",
+      "children": [
+        "1_2_osb___top_0",
+        "1_2_osb___left_1",
+        "1_2_osb___right_2"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "metadata": {
+    "name": "SH7 - Wall Module - Interior 1",
+    "version": "1.0.0",
+    "ose_reference": "SH7 - Wall Module - Interior 1.fcstd",
+    "license": "CC BY-SA 4.0",
+    "description": "Extracted from /Volumes/Extreme SSD/Nick/OSE/SH7CAD/Structural Assemblies/Walls/INTERIOR WALLS/Archived/SH7 - Wall Module - Interior 1.fcstd",
+    "total_parts": 11,
+    "bom": {
+      "2x4 plate": 2,
+      "2x4 stud": 4,
+      "2x4 header": 1,
+      "2x4 lumber": 1,
+      "2x4 blocking": 3
+    }
+  },
+  "parts": [
+    {
+      "id": "2x4_bottom_plate_0",
+      "label": "2x4 bottom plate",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 88.9,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "material": "2x4 plate"
+    },
+    {
+      "id": "2x4_stud___left_1",
+      "label": "2x4 stud - left",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 88.9,
+      "height_mm": 2933.7,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x4 stud"
+    },
+    {
+      "id": "2x4_stud___right_2",
+      "label": "2x4 stud - right",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 88.9,
+      "height_mm": 2933.7,
+      "position": {
+        "x": 1181.1,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x4 stud"
+    },
+    {
+      "id": "2x4_top_plate_3",
+      "label": "2x4 top plate",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 88.9,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 2971.8
+      },
+      "material": "2x4 plate"
+    },
+    {
+      "id": "2x4_jack_stud___left_4",
+      "label": "2x4 jack stud - left",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 88.9,
+      "height_mm": 2057.4,
+      "position": {
+        "x": 203.2,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x4 stud"
+    },
+    {
+      "id": "2x4_jack_stud___right_5",
+      "label": "2x4 jack stud - right",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 88.9,
+      "height_mm": 2057.4,
+      "position": {
+        "x": 1104.9,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x4 stud"
+    },
+    {
+      "id": "2x4_flat_header_6",
+      "label": "2x4 flat header",
+      "type": "box",
+      "length_mm": 1143.0,
+      "width_mm": 88.9,
+      "height_mm": 38.1,
+      "position": {
+        "x": 38.1,
+        "y": 0.0,
+        "z": 2095.5
+      },
+      "material": "2x4 header"
+    },
+    {
+      "id": "2x4_cripple_7",
+      "label": "2x4 cripple",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 88.9,
+      "height_mm": 838.2,
+      "position": {
+        "x": 590.55,
+        "y": 0.0,
+        "z": 2133.6
+      },
+      "material": "2x4 lumber"
+    },
+    {
+      "id": "2x4_blocking_left_001_8",
+      "label": "2x4 blocking left 001",
+      "type": "box",
+      "length_mm": 165.1,
+      "width_mm": 88.9,
+      "height_mm": 38.1,
+      "position": {
+        "x": 38.1,
+        "y": 0.0,
+        "z": 2057.4
+      },
+      "material": "2x4 blocking"
+    },
+    {
+      "id": "2x4_blocking_left_002_10",
+      "label": "2x4 blocking left 002",
+      "type": "box",
+      "length_mm": 165.1,
+      "width_mm": 88.9,
+      "height_mm": 38.1,
+      "position": {
+        "x": 38.1,
+        "y": 0.0,
+        "z": 1219.2
+      },
+      "material": "2x4 blocking"
+    },
+    {
+      "id": "2x4_blocking_left_003_11",
+      "label": "2x4 blocking left 003",
+      "type": "box",
+      "length_mm": 165.1,
+      "width_mm": 88.9,
+      "height_mm": 38.1,
+      "position": {
+        "x": 38.1,
+        "y": 0.0,
+        "z": 609.6
+      },
+      "material": "2x4 blocking"
+    }
+  ],
+  "groups": [
+    {
+      "id": "parts_9",
+      "label": "PARTS",
+      "children": [
+        "2x4_bottom_plate_0",
+        "2x4_stud___left_1",
+        "2x4_stud___right_2",
+        "2x4_top_plate_3",
+        "2x4_jack_stud___left_4",
+        "2x4_jack_stud___right_5",
+        "2x4_flat_header_6",
+        "2x4_cripple_7",
+        "2x4_blocking_left_001_8",
+        "2x4_blocking_left_002_9",
+        "2x4_blocking_left_003_10"
+      ]
+    }
+  ]
+}

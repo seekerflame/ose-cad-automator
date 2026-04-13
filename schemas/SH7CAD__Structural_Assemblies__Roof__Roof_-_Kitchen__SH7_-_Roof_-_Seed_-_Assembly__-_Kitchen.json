@@ -1,0 +1,715 @@
+{
+  "metadata": {
+    "name": "SH7 - Roof - Seed - Assembly  - Kitchen",
+    "version": "1.0.0",
+    "ose_reference": "SH7 - Roof - Seed - Assembly  - Kitchen.fcstd",
+    "license": "CC BY-SA 4.0",
+    "description": "Extracted from /Volumes/Extreme SSD/Nick/OSE/SH7CAD/Structural Assemblies/Roof/Roof - Kitchen/SH7 - Roof - Seed - Assembly  - Kitchen.fcstd",
+    "total_parts": 37,
+    "bom": {
+      "unknown": 14,
+      "1/2 inch OSB": 4,
+      "2x6 lumber": 1,
+      "2x12 lumber": 2,
+      "2x4 lumber": 3,
+      "1x4 lumber": 1,
+      "1x8 lumber": 1,
+      "gutter": 1,
+      "PV mounting rail": 6,
+      "PV panel": 2,
+      "1/2 inch plywood": 2
+    }
+  },
+  "parts": [
+    {
+      "id": "top_plate_0",
+      "label": "TOP PLATE",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 6096.0,
+      "height_mm": 311.15,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": -311.15
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "1_2_osb___rim___front_001_1",
+      "label": "1/2 osb - rim - front 001",
+      "type": "box",
+      "length_mm": 2438.4,
+      "width_mm": 12.7,
+      "height_mm": 406.4,
+      "position": {
+        "x": 0.0,
+        "y": 38.1,
+        "z": 0.0
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "2x6___rim___front___bottom_2",
+      "label": "2x6 - rim - front - bottom",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 38.1,
+      "height_mm": 139.7,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "material": "2x6 lumber"
+    },
+    {
+      "id": "2x12___rim___front___top_3",
+      "label": "2x12 - rim - front - top",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 38.1,
+      "height_mm": 285.75,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 279.4
+      },
+      "material": "2x12 lumber"
+    },
+    {
+      "id": "1_2_osb___rim___front_002_4",
+      "label": "1/2 osb - rim - front 002",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 12.7,
+      "height_mm": 406.4,
+      "position": {
+        "x": 2438.4,
+        "y": 38.1,
+        "z": 0.0
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___rim___back_001_6",
+      "label": "1/2 osb - rim - back 001",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 12.7,
+      "height_mm": 266.7,
+      "position": {
+        "x": 0.0,
+        "y": 6045.2,
+        "z": 0.0
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___rim___back_002_7",
+      "label": "1/2 osb - rim - back 002",
+      "type": "box",
+      "length_mm": 2438.4,
+      "width_mm": 12.7,
+      "height_mm": 266.7,
+      "position": {
+        "x": 1219.2,
+        "y": 6045.2,
+        "z": 0.0
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "2x4___rim___back___bottom_8",
+      "label": "2x4 - rim - back - bottom",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 38.1,
+      "height_mm": 88.9,
+      "position": {
+        "x": 0.0,
+        "y": 6057.9,
+        "z": 0.0
+      },
+      "material": "2x4 lumber"
+    },
+    {
+      "id": "2x12___rim___back___top_9",
+      "label": "2x12 - rim - back - top",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 38.1,
+      "height_mm": 285.75,
+      "position": {
+        "x": 0.0,
+        "y": 6057.9,
+        "z": 101.6
+      },
+      "material": "2x12 lumber"
+    },
+    {
+      "id": "1x4_siding_cap___roof_edge___front_15",
+      "label": "1x4 siding cap - roof edge - front",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 19.05,
+      "height_mm": 88.9,
+      "position": {
+        "x": 0.0,
+        "y": -31.75,
+        "z": 476.25
+      },
+      "material": "1x4 lumber"
+    },
+    {
+      "id": "1x8_siding_cap___roof_edge___back_16",
+      "label": "1x8 siding cap - roof edge - back",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 19.05,
+      "height_mm": 184.15,
+      "position": {
+        "x": 0.0,
+        "y": 6108.7,
+        "z": 203.2
+      },
+      "material": "1x8 lumber"
+    },
+    {
+      "id": "1x8_lp_trim____gutter_back_17",
+      "label": "1x8 LP trim  - gutter back",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 19.05,
+      "height_mm": 234.95,
+      "position": {
+        "x": 0.0,
+        "y": 6127.75,
+        "z": 152.4
+      },
+      "material": "gutter"
+    },
+    {
+      "id": "roofing_membrane___main_19",
+      "label": "roofing membrane - main",
+      "type": "box",
+      "length_mm": 3479.8,
+      "width_mm": 6113.14,
+      "height_mm": 3.175,
+      "position": {
+        "x": 88.9,
+        "y": 38.1,
+        "z": 527.05
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roofing_membrane___ledge_down___back_20",
+      "label": "roofing membrane - ledge down - back",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 3.175,
+      "height_mm": 130.175,
+      "position": {
+        "x": 0.0,
+        "y": 6151.24,
+        "z": 260.35
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roofing_membrane___ledge_top___left_21",
+      "label": "roofing membrane - ledge top - left",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 6115.05,
+      "height_mm": 3.175,
+      "position": {
+        "x": 0.0,
+        "y": 38.1,
+        "z": 568.325
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roofing_membrane___ledge_edge___left_22",
+      "label": "roofing membrane - ledge edge - left",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 3.175,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 6151.24,
+        "z": 390.525
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roofing_membrane___ledge_down___front_23",
+      "label": "roofing membrane - ledge down - front",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 3.175,
+      "height_mm": 127.0,
+      "position": {
+        "x": 0.0,
+        "y": -34.925,
+        "z": 438.15
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roofing_membrane___ledge_top___front_24",
+      "label": "roofing membrane - ledge top - front",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 69.85,
+      "height_mm": 3.175,
+      "position": {
+        "x": 0.0,
+        "y": -31.75,
+        "z": 565.15
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roofing_membrane___inside_box___front_25",
+      "label": "roofing membrane - inside box - front",
+      "type": "box",
+      "length_mm": 3479.8,
+      "width_mm": 3.175,
+      "height_mm": 38.1,
+      "position": {
+        "x": 88.9,
+        "y": 38.1,
+        "z": 527.05
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "2x6_pv_runner_001_26",
+      "label": "2x6 PV runner 001",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 6057.9,
+      "height_mm": 38.1,
+      "position": {
+        "x": 444.5,
+        "y": 127.0,
+        "z": 527.05
+      },
+      "material": "PV mounting rail"
+    },
+    {
+      "id": "2x6_pv_runner_002_27",
+      "label": "2x6 PV runner 002",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 6057.9,
+      "height_mm": 38.1,
+      "position": {
+        "x": 1333.5,
+        "y": 127.0,
+        "z": 527.05
+      },
+      "material": "PV mounting rail"
+    },
+    {
+      "id": "2x6_pv_runner_003_28",
+      "label": "2x6 PV runner 003",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 6057.9,
+      "height_mm": 38.1,
+      "position": {
+        "x": 2184.4,
+        "y": 127.0,
+        "z": 527.05
+      },
+      "material": "PV mounting rail"
+    },
+    {
+      "id": "2x6_pv_runner_004_30",
+      "label": "2x6 PV runner 004",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 6057.9,
+      "height_mm": 38.1,
+      "position": {
+        "x": 3073.4,
+        "y": 127.0,
+        "z": 527.05
+      },
+      "material": "PV mounting rail"
+    },
+    {
+      "id": "roof___edge___pv_runner_top_31",
+      "label": "roof - edge - PV runner top",
+      "type": "box",
+      "length_mm": 3327.4,
+      "width_mm": 88.9,
+      "height_mm": 38.1,
+      "position": {
+        "x": 165.1,
+        "y": 6096.0,
+        "z": 425.45
+      },
+      "material": "PV mounting rail"
+    },
+    {
+      "id": "roof___edge___pv_runner_back_42",
+      "label": "roof - edge - PV runner back",
+      "type": "box",
+      "length_mm": 2768.6,
+      "width_mm": 88.9,
+      "height_mm": 38.1,
+      "position": {
+        "x": 444.5,
+        "y": 38.1,
+        "z": 527.05
+      },
+      "material": "PV mounting rail"
+    },
+    {
+      "id": "pv_panel_001_51",
+      "label": "PV panel 001",
+      "type": "box",
+      "length_mm": 1638.3,
+      "width_mm": 990.6,
+      "height_mm": 38.1,
+      "position": {
+        "x": 139.7,
+        "y": 76.2,
+        "z": 568.325
+      },
+      "material": "PV panel"
+    },
+    {
+      "id": "pv_panel_002_53",
+      "label": "PV panel 002",
+      "type": "box",
+      "length_mm": 1638.3,
+      "width_mm": 990.6,
+      "height_mm": 38.1,
+      "position": {
+        "x": 1828.8,
+        "y": 76.2,
+        "z": 568.325
+      },
+      "material": "PV panel"
+    },
+    {
+      "id": "wall_sheathing___back_61",
+      "label": "wall sheathing - back",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 12.7,
+      "height_mm": 698.5,
+      "position": {
+        "x": 0.0,
+        "y": 6096.0,
+        "z": -311.15
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "wall_sheathing___front_62",
+      "label": "wall sheathing - front",
+      "type": "box",
+      "length_mm": 3657.6,
+      "width_mm": 12.7,
+      "height_mm": 876.3,
+      "position": {
+        "x": 0.0,
+        "y": -12.7,
+        "z": -311.15
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roofing_membrane___inside_box___left_63",
+      "label": "roofing membrane - inside box - left",
+      "type": "box",
+      "length_mm": 3.175,
+      "width_mm": 6115.05,
+      "height_mm": 38.1,
+      "position": {
+        "x": 88.9,
+        "y": 38.1,
+        "z": 529.59
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roofing_membrane___inside_box___right_64",
+      "label": "roofing membrane - inside box - right",
+      "type": "box",
+      "length_mm": 3.175,
+      "width_mm": 6115.05,
+      "height_mm": 38.1,
+      "position": {
+        "x": 3565.52,
+        "y": 38.1,
+        "z": 529.59
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roofing_membrane___ledge_top___right_65",
+      "label": "roofing membrane - ledge top - right",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 6115.05,
+      "height_mm": 3.175,
+      "position": {
+        "x": 3568.7,
+        "y": 38.1,
+        "z": 568.325
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "roofing_membrane___ledge_edge___right_66",
+      "label": "roofing membrane - ledge edge - right",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 3.175,
+      "height_mm": 38.1,
+      "position": {
+        "x": 3568.7,
+        "y": 6151.24,
+        "z": 390.525
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "2x4___seam_backing___left_83",
+      "label": "2x4 - seam backing - left",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 6096.0,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 38.1,
+        "z": 527.05
+      },
+      "material": "2x4 lumber"
+    },
+    {
+      "id": "1_2_in_plywood___seam_backing___left_84",
+      "label": "1/2-in plywood - seam backing - left",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 12.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 6132.83,
+        "z": 387.35
+      },
+      "material": "1/2 inch plywood"
+    },
+    {
+      "id": "2x4___seam_backing___right_85",
+      "label": "2x4 - seam backing - right",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 6096.0,
+      "height_mm": 38.1,
+      "position": {
+        "x": 3568.7,
+        "y": 38.1,
+        "z": 527.05
+      },
+      "material": "2x4 lumber"
+    },
+    {
+      "id": "1_2_in_plywood___seam_backing___right_86",
+      "label": "1/2-in plywood - seam backing - right",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 12.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 3568.7,
+        "y": 6132.83,
+        "z": 387.35
+      },
+      "material": "1/2 inch plywood"
+    }
+  ],
+  "groups": [
+    {
+      "id": "2___box___front_5",
+      "label": "2 - Box - Front",
+      "children": [
+        "1_2_osb___rim___front_001_0",
+        "1_2_osb___rim___front_002_1",
+        "2x6___rim___front___bottom_2",
+        "2x12___rim___front___top_3"
+      ]
+    },
+    {
+      "id": "2___box___back_10",
+      "label": "2 - Box - Back",
+      "children": [
+        "1_2_osb___rim___back_001_0",
+        "1_2_osb___rim___back_002_1",
+        "2x4___rim___back___bottom_2",
+        "2x12___rim___back___top_3"
+      ]
+    },
+    {
+      "id": "5___insulation_11",
+      "label": "5 - Insulation",
+      "children": [
+        "2_in_rigid_insulation___kitchen___top_layer_0",
+        "2_in_rigid_insulation___kitchen___bottom_layer_1"
+      ]
+    },
+    {
+      "id": "4___insulation_caps_13",
+      "label": "4 - Insulation Caps",
+      "children": [
+        "2x6_ripped___insulation_cap___right_0",
+        "2x6_ripped___insulation_cap___left_1"
+      ]
+    },
+    {
+      "id": "7___siding_caps_14",
+      "label": "7 - Siding Caps",
+      "children": [
+        "1x4_siding_cap___roof_edge___front_0",
+        "1x8_siding_cap___roof_edge___back_1",
+        "1x8_lp_trim____gutter_back_2"
+      ]
+    },
+    {
+      "id": "9___roofing_membrane_18",
+      "label": "9 - Roofing Membrane",
+      "children": [
+        "roofing_membrane___main_0",
+        "roofing_membrane___ledge_down___back_1",
+        "roofing_membrane___ledge_top___left_2",
+        "roofing_membrane___ledge_edge___left_3",
+        "roofing_membrane___inside_box___front_4",
+        "roofing_membrane___ledge_top___front_5",
+        "roofing_membrane___ledge_down___front_6",
+        "roofing_membrane___inside_box___left_7",
+        "roofing_membrane___inside_box___right_8",
+        "roofing_membrane___ledge_top___right_9",
+        "roofing_membrane___ledge_edge___right_10"
+      ]
+    },
+    {
+      "id": "10___pv_runners_29",
+      "label": "10 - PV runners",
+      "children": [
+        "2x6_pv_runner_001_0",
+        "2x6_pv_runner_002_1",
+        "2x6_pv_runner_003_2",
+        "2x6_pv_runner_004_3",
+        "roof___edge___pv_runner_top_4",
+        "roof___edge___pv_runner_back_5"
+      ]
+    },
+    {
+      "id": "pv_runner_ties___back_36",
+      "label": "PV runner ties - back",
+      "children": [
+        "45_hurricane_tie_003_0",
+        "45_hurricane_tie_004_1",
+        "45_hurricane_tie_005_2",
+        "45_hurricane_tie_002_3",
+        "45_hurricane_tie_008_4",
+        "45_hurricane_tie_009_5",
+        "45_hurricane_tie_010_6",
+        "45_hurricane_tie_011_7"
+      ]
+    },
+    {
+      "id": "pv_runners_ties___front_41",
+      "label": "PV runners ties - front",
+      "children": [
+        "hurricane_strap___12x4___003_0",
+        "hurricane_strap___12x4___004_1",
+        "hurricane_strap___12x4___005_2",
+        "hurricane_strap___12x4___006_3",
+        "hurricane_strap___12x4___007_4",
+        "hurricane_strap___12x4___008_5",
+        "hurricane_strap___12x4___009_6",
+        "hurricane_strap___12x4___010_7"
+      ]
+    },
+    {
+      "id": "12___pv_panels_52",
+      "label": "12 - PV panels",
+      "children": [
+        "pv_panel_001_0",
+        "pv_panel_002_1"
+      ]
+    },
+    {
+      "id": "3___decking_54",
+      "label": "3 - Decking",
+      "children": [
+        "decking_0"
+      ]
+    },
+    {
+      "id": "11___pv_runner_ties_55",
+      "label": "11 - PV Runner Ties",
+      "children": [
+        "pv_runner_ties___back_0",
+        "pv_runners_ties___front_1"
+      ]
+    },
+    {
+      "id": "6___wall_sheathing_60",
+      "label": "6 - Wall Sheathing",
+      "children": [
+        "wall_sheathing___front_0",
+        "wall_sheathing___back_1"
+      ]
+    },
+    {
+      "id": "single_copies_67",
+      "label": "SINGLE COPIES",
+      "children": [
+        "2___box___front___kitchen_0",
+        "2___box___back___kitchen_1",
+        "4___insulation_caps___kitchen_2",
+        "8___seam_backing___kitchen_3",
+        "9___roofing_membrane___kitchen_4",
+        "1___trusses___kitchen_5",
+        "10___pv_runners___kitchen_6",
+        "11___pv_runner_ties___kitchen_7"
+      ]
+    },
+    {
+      "id": "1___trusses_73",
+      "label": "1 - Trusses",
+      "children": [
+        "truss___seed___kitchen___001_0",
+        "truss___seed___kitchen___002_1",
+        "truss___seed___kitchen___003_2",
+        "truss___seed___kitchen___004_3",
+        "truss___seed___kitchen___005_4",
+        "truss___seed___kitchen___006_5",
+        "truss___seed___kitchen___007_6"
+      ]
+    },
+    {
+      "id": "8___seam_backing_82",
+      "label": "8 - Seam Backing",
+      "children": [
+        "2x4___seam_backing___left_0",
+        "1_2_in_plywood___seam_backing___left_1",
+        "2x4___seam_backing___right_2",
+        "1_2_in_plywood___seam_backing___right_3"
+      ]
+    }
+  ]
+}

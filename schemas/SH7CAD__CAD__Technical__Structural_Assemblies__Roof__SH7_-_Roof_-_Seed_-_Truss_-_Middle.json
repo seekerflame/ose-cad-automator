@@ -1,0 +1,233 @@
+{
+  "metadata": {
+    "name": "SH7 - Roof - Seed - Truss - Middle",
+    "version": "1.0.0",
+    "ose_reference": "SH7 - Roof - Seed - Truss - Middle.fcstd",
+    "license": "CC BY-SA 4.0",
+    "description": "Extracted from /Volumes/Extreme SSD/Nick/OSE/SH7CAD/CAD/Technical/Structural Assemblies/Roof/SH7 - Roof - Seed - Truss - Middle.fcstd",
+    "total_parts": 13,
+    "bom": {
+      "2x4 lumber": 8,
+      "1/2 inch OSB": 5
+    }
+  },
+  "parts": [
+    {
+      "id": "2x4_end_cap_001_0",
+      "label": "2x4 end cap 001",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 38.1,
+      "height_mm": 330.2,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x4 lumber"
+    },
+    {
+      "id": "2x4_end_cap_002_1",
+      "label": "2x4 end cap 002",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 38.1,
+      "height_mm": 330.2,
+      "position": {
+        "x": 0.0,
+        "y": 5943.6,
+        "z": 38.1
+      },
+      "material": "2x4 lumber"
+    },
+    {
+      "id": "2x4_bottom_cord_2",
+      "label": "2x4 bottom cord",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 5981.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "material": "2x4 lumber"
+    },
+    {
+      "id": "1_2_osb_001_3",
+      "label": "1/2 osb 001",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 2438.4,
+      "height_mm": 406.4,
+      "position": {
+        "x": 88.9,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb_002_4",
+      "label": "1/2 osb 002",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 2438.4,
+      "height_mm": 406.4,
+      "position": {
+        "x": 88.9,
+        "y": 2438.4,
+        "z": 0.0
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb_003_5",
+      "label": "1/2 osb 003",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 1104.9,
+      "height_mm": 406.4,
+      "position": {
+        "x": 88.9,
+        "y": 4876.8,
+        "z": 0.0
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "2x4_top_cord_002_8",
+      "label": "2x4 top cord 002",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 5981.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 368.3
+      },
+      "material": "2x4 lumber"
+    },
+    {
+      "id": "2x4_front_vertical_9",
+      "label": "2x4 front vertical",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 38.1,
+      "height_mm": 330.2,
+      "position": {
+        "x": 0.0,
+        "y": 38.1,
+        "z": 38.1
+      },
+      "material": "2x4 lumber"
+    },
+    {
+      "id": "2x4_back_vertical_10",
+      "label": "2x4 back vertical",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 38.1,
+      "height_mm": 330.2,
+      "position": {
+        "x": 0.0,
+        "y": 5905.5,
+        "z": 38.1
+      },
+      "material": "2x4 lumber"
+    },
+    {
+      "id": "2x4_bottom_cord002_11",
+      "label": "2x4 bottom cord002",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 2438.4,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 1771.65,
+        "z": 38.1
+      },
+      "material": "2x4 lumber"
+    },
+    {
+      "id": "1_2_osb_scab_001_12",
+      "label": "1/2 osb scab 001",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 914.4,
+      "height_mm": 330.2,
+      "position": {
+        "x": 76.2,
+        "y": 4419.6,
+        "z": 38.1
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb_scab_002_13",
+      "label": "1/2 osb scab 002",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 609.6,
+      "height_mm": 292.1,
+      "position": {
+        "x": 76.2,
+        "y": 2133.6,
+        "z": 76.2
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "2x4_middle_vertical_14",
+      "label": "2x4 middle vertical",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 38.1,
+      "height_mm": 292.1,
+      "position": {
+        "x": 0.0,
+        "y": 2971.8,
+        "z": 76.2
+      },
+      "material": "2x4 lumber"
+    }
+  ],
+  "groups": [
+    {
+      "id": "truss____frame_6",
+      "label": "truss  - frame",
+      "children": [
+        "2x4_end_cap_001_0",
+        "2x4_end_cap_002_1",
+        "2x4_bottom_cord_2",
+        "2x4_bottom_cord002_3",
+        "2x4_top_cord_002_4",
+        "2x4_front_vertical_5",
+        "2x4_back_vertical_6",
+        "2x4_middle_vertical_7"
+      ]
+    },
+    {
+      "id": "truss___osb_7",
+      "label": "truss - osb",
+      "children": [
+        "1_2_osb_001_0",
+        "1_2_osb_002_1",
+        "1_2_osb_003_2",
+        "1_2_osb_scab_001_3",
+        "1_2_osb_scab_002_4"
+      ]
+    },
+    {
+      "id": "truss___tapers_18",
+      "label": "truss - tapers",
+      "children": [
+        "2x10___roof_taper___front_0",
+        "2x10_roof_taper___back_1"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,499 @@
+{
+  "metadata": {
+    "name": "SH7 - Ext Wall - 10 ft",
+    "version": "1.0.0",
+    "ose_reference": "SH7 - Ext Wall - 10 ft.fcstd",
+    "license": "CC BY-SA 4.0",
+    "description": "Extracted from /Volumes/Extreme SSD/Nick/OSE/SH7CAD/Structural Assemblies/Walls/Templates/SH7 - Ext Wall - 10 ft.fcstd",
+    "total_parts": 30,
+    "bom": {
+      "2x6 plate": 8,
+      "2x6 stud": 18,
+      "1/2 inch OSB": 4
+    }
+  },
+  "parts": [
+    {
+      "id": "2x6_top_plate_0",
+      "label": "2x6 top plate",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 2971.8
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_bottom_plate_1",
+      "label": "2x6 bottom plate",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_stud___left_2",
+      "label": "2x6 stud - left",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 139.7,
+      "height_mm": 2933.7,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x6 stud"
+    },
+    {
+      "id": "2x6_stud___center_3",
+      "label": "2x6 stud - center",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 139.7,
+      "height_mm": 2933.7,
+      "position": {
+        "x": 590.55,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x6 stud"
+    },
+    {
+      "id": "2x6_stud___right_4",
+      "label": "2x6 stud - right",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 139.7,
+      "height_mm": 2933.7,
+      "position": {
+        "x": 1181.1,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x6 stud"
+    },
+    {
+      "id": "2x6_stud___corner_u_001_6",
+      "label": "2x6 stud - corner U 001",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 38.1,
+      "height_mm": 2933.7,
+      "position": {
+        "x": 38.1,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x6 stud"
+    },
+    {
+      "id": "2x6_stud___corner_u_002_7",
+      "label": "2x6 stud - corner U 002",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 139.7,
+      "height_mm": 2933.7,
+      "position": {
+        "x": 177.8,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x6 stud"
+    },
+    {
+      "id": "2x6_stud___corner_u_003_8",
+      "label": "2x6 stud - corner U 003",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 38.1,
+      "height_mm": 2933.7,
+      "position": {
+        "x": 38.1,
+        "y": 101.6,
+        "z": 38.1
+      },
+      "material": "2x6 stud"
+    },
+    {
+      "id": "1_2_osb_10",
+      "label": "1/2 osb",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 12.7,
+      "height_mm": 3048.0,
+      "position": {
+        "x": 0.0,
+        "y": -12.7,
+        "z": 0.0
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "2x6_top_plate001_12",
+      "label": "2x6 top plate001",
+      "type": "box",
+      "length_mm": 533.4,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 2971.8
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_stud___right001_13",
+      "label": "2x6 stud - right001",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 139.7,
+      "height_mm": 2933.7,
+      "position": {
+        "x": 495.3,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x6 stud"
+    },
+    {
+      "id": "2x6_stud___left001_14",
+      "label": "2x6 stud - left001",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 139.7,
+      "height_mm": 2933.7,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x6 stud"
+    },
+    {
+      "id": "2x6_bottom_plate001_15",
+      "label": "2x6 bottom plate001",
+      "type": "box",
+      "length_mm": 533.4,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "1_2_osb001_16",
+      "label": "1/2 osb001",
+      "type": "box",
+      "length_mm": 533.4,
+      "width_mm": 12.7,
+      "height_mm": 3048.0,
+      "position": {
+        "x": 0.0,
+        "y": -12.7,
+        "z": 0.0
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "2x6_top_plate002_18",
+      "label": "2x6 top plate002",
+      "type": "box",
+      "length_mm": 685.8,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 2971.8
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_stud___right002_19",
+      "label": "2x6 stud - right002",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 139.7,
+      "height_mm": 2933.7,
+      "position": {
+        "x": 647.7,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x6 stud"
+    },
+    {
+      "id": "2x6_stud___left002_20",
+      "label": "2x6 stud - left002",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 139.7,
+      "height_mm": 2933.7,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x6 stud"
+    },
+    {
+      "id": "2x6_bottom_plate002_21",
+      "label": "2x6 bottom plate002",
+      "type": "box",
+      "length_mm": 685.8,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "1_2_osb002_22",
+      "label": "1/2 osb002",
+      "type": "box",
+      "length_mm": 685.8,
+      "width_mm": 12.7,
+      "height_mm": 3048.0,
+      "position": {
+        "x": 0.0,
+        "y": -12.7,
+        "z": 0.0
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "2x6_stud___corner_u_005_23",
+      "label": "2x6 stud - corner U 005",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 139.7,
+      "height_mm": 2933.7,
+      "position": {
+        "x": 469.9,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x6 stud"
+    },
+    {
+      "id": "2x6_stud___corner_u_006_24",
+      "label": "2x6 stud - corner U 006",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 38.1,
+      "height_mm": 2933.7,
+      "position": {
+        "x": 508.0,
+        "y": 101.6,
+        "z": 38.1
+      },
+      "material": "2x6 stud"
+    },
+    {
+      "id": "2x6_stud___corner_u_004_25",
+      "label": "2x6 stud - corner U 004",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 38.1,
+      "height_mm": 2933.7,
+      "position": {
+        "x": 508.0,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x6 stud"
+    },
+    {
+      "id": "1_2_osb003_27",
+      "label": "1/2 osb003",
+      "type": "box",
+      "length_mm": 431.8,
+      "width_mm": 12.7,
+      "height_mm": 3048.0,
+      "position": {
+        "x": 0.0,
+        "y": -12.7,
+        "z": 0.0
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "2x6_stud___left003_28",
+      "label": "2x6 stud - left003",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 139.7,
+      "height_mm": 2933.7,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x6 stud"
+    },
+    {
+      "id": "2x6_stud___right003_29",
+      "label": "2x6 stud - right003",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 139.7,
+      "height_mm": 2933.7,
+      "position": {
+        "x": 393.7,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x6 stud"
+    },
+    {
+      "id": "2x6_bottom_plate003_30",
+      "label": "2x6 bottom plate003",
+      "type": "box",
+      "length_mm": 431.8,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_stud___corner_u_007_31",
+      "label": "2x6 stud - corner U 007",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 38.1,
+      "height_mm": 2933.7,
+      "position": {
+        "x": 38.1,
+        "y": 101.6,
+        "z": 38.1
+      },
+      "material": "2x6 stud"
+    },
+    {
+      "id": "2x6_stud___corner_u_008_32",
+      "label": "2x6 stud - corner U 008",
+      "type": "box",
+      "length_mm": 139.7,
+      "width_mm": 38.1,
+      "height_mm": 2933.7,
+      "position": {
+        "x": 38.1,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x6 stud"
+    },
+    {
+      "id": "2x6_stud___corner_u_009_33",
+      "label": "2x6 stud - corner U 009",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 139.7,
+      "height_mm": 2933.7,
+      "position": {
+        "x": 177.8,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x6 stud"
+    },
+    {
+      "id": "2x6_top_plate003_34",
+      "label": "2x6 top plate003",
+      "type": "box",
+      "length_mm": 431.8,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 2971.8
+      },
+      "material": "2x6 plate"
+    }
+  ],
+  "groups": [
+    {
+      "id": "48_5",
+      "label": "48",
+      "children": [
+        "2x6_top_plate_0",
+        "2x6_bottom_plate_1",
+        "2x6_stud___left_2",
+        "2x6_stud___center_3",
+        "2x6_stud___right_4",
+        "1_2_osb_5"
+      ]
+    },
+    {
+      "id": "u___left_corner_9",
+      "label": "U - left corner",
+      "children": [
+        "2x6_stud___corner_u_001_0",
+        "2x6_stud___corner_u_002_1",
+        "2x6_stud___corner_u_003_2"
+      ]
+    },
+    {
+      "id": "21_11",
+      "label": "21",
+      "children": [
+        "1_2_osb001_0",
+        "2x6_top_plate001_1",
+        "2x6_stud___right001_2",
+        "2x6_stud___left001_3",
+        "2x6_bottom_plate001_4"
+      ]
+    },
+    {
+      "id": "27__corner_17",
+      "label": "27 + Corner",
+      "children": [
+        "1_2_osb002_0",
+        "2x6_top_plate002_1",
+        "2x6_stud___right002_2",
+        "2x6_stud___left002_3",
+        "2x6_bottom_plate002_4",
+        "2x6_stud___corner_u_004_5",
+        "2x6_stud___corner_u_005_6",
+        "2x6_stud___corner_u_006_7"
+      ]
+    },
+    {
+      "id": "17__corner_26",
+      "label": "17 + corner",
+      "children": [
+        "1_2_osb003_0",
+        "2x6_stud___right003_1",
+        "2x6_stud___corner_u_007_2",
+        "2x6_stud___corner_u_008_3",
+        "2x6_stud___left003_4",
+        "2x6_top_plate003_5",
+        "2x6_bottom_plate003_6",
+        "2x6_stud___corner_u_009_7"
+      ]
+    }
+  ]
+}

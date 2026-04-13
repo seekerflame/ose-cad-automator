@@ -1,0 +1,115 @@
+{
+  "metadata": {
+    "name": "SH7 - Wall Module - Right 4",
+    "version": "1.0.0",
+    "ose_reference": "SH7 - Wall Module - Right 4.fcstd",
+    "license": "CC BY-SA 4.0",
+    "description": "Extracted from /Volumes/Extreme SSD/Nick/OSE/SH7CAD/Structural Assemblies/Walls/EXTERIOR WALLS/Archive/SH7 - Wall Module - Right 4.fcstd",
+    "total_parts": 6,
+    "bom": {
+      "2x6 plate": 2,
+      "2x6 stud": 3,
+      "1/2 inch OSB": 1
+    }
+  },
+  "parts": [
+    {
+      "id": "2x6_top_plate_0",
+      "label": "2x6 top plate",
+      "type": "box",
+      "length_mm": 939.8,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 2971.8
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_bottom_plate_1",
+      "label": "2x6 bottom plate",
+      "type": "box",
+      "length_mm": 939.8,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_stud___left_2",
+      "label": "2x6 stud - left",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 139.7,
+      "height_mm": 2933.7,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x6 stud"
+    },
+    {
+      "id": "2x6_stud___center_3",
+      "label": "2x6 stud - center",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 139.7,
+      "height_mm": 2933.7,
+      "position": {
+        "x": 590.55,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x6 stud"
+    },
+    {
+      "id": "2x6_stud___right_4",
+      "label": "2x6 stud - right",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 139.7,
+      "height_mm": 2933.7,
+      "position": {
+        "x": 901.7,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x6 stud"
+    },
+    {
+      "id": "1_2_osb_6",
+      "label": "1/2 osb",
+      "type": "box",
+      "length_mm": 1079.5,
+      "width_mm": 12.7,
+      "height_mm": 3048.0,
+      "position": {
+        "x": 0.0,
+        "y": -12.7,
+        "z": 0.0
+      },
+      "material": "1/2 inch OSB"
+    }
+  ],
+  "groups": [
+    {
+      "id": "parts_5",
+      "label": "PARTS",
+      "children": [
+        "2x6_top_plate_0",
+        "2x6_bottom_plate_1",
+        "2x6_stud___left_2",
+        "2x6_stud___center_3",
+        "2x6_stud___right_4",
+        "1_2_osb_5"
+      ]
+    }
+  ]
+}

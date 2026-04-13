@@ -1,0 +1,494 @@
+{
+  "metadata": {
+    "name": "SH7 - Wall Module 27",
+    "version": "1.0.0",
+    "ose_reference": "SH7 - Wall Module 27.fcstd",
+    "license": "CC BY-SA 4.0",
+    "description": "Extracted from /Volumes/Extreme SSD/Nick/OSE/SH7CAD/Structural Assemblies/Walls/EXTERIOR WALLS/SH7 - Wall Module 27.fcstd",
+    "total_parts": 31,
+    "bom": {
+      "unknown": 12,
+      "1/2 inch OSB": 5,
+      "2x6 plate": 2,
+      "2x6 stud": 4,
+      "2x12 header": 2,
+      "2x6 header": 1,
+      "2x6 lumber": 5
+    }
+  },
+  "parts": [
+    {
+      "id": "blocking_007_0",
+      "label": "blocking 007",
+      "type": "box",
+      "length_mm": 254.0,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 927.1,
+        "y": 0.0,
+        "z": 1809.75
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "blocking_003_1",
+      "label": "blocking 003",
+      "type": "box",
+      "length_mm": 50.8,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 38.1,
+        "y": 0.0,
+        "z": 1809.75
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "blocking_006_2",
+      "label": "blocking 006",
+      "type": "box",
+      "length_mm": 254.0,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 927.1,
+        "y": 0.0,
+        "z": 1200.15
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "blocking_001_3",
+      "label": "blocking 001",
+      "type": "box",
+      "length_mm": 50.8,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 38.1,
+        "y": 0.0,
+        "z": 590.55
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "blocking_008_4",
+      "label": "blocking 008",
+      "type": "box",
+      "length_mm": 254.0,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 927.1,
+        "y": 0.0,
+        "z": 2419.35
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "blocking_005_5",
+      "label": "blocking 005",
+      "type": "box",
+      "length_mm": 254.0,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 927.1,
+        "y": 0.0,
+        "z": 590.55
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "blocking_002_6",
+      "label": "blocking 002",
+      "type": "box",
+      "length_mm": 50.8,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 38.1,
+        "y": 0.0,
+        "z": 1200.15
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "blocking_004_7",
+      "label": "blocking 004",
+      "type": "box",
+      "length_mm": 50.8,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 38.1,
+        "y": 0.0,
+        "z": 2419.35
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "1_2_osb___top001_8",
+      "label": "1/2 osb - top001",
+      "type": "box",
+      "length_mm": 762.0,
+      "width_mm": 12.7,
+      "height_mm": 361.95,
+      "position": {
+        "x": 127.0,
+        "y": -12.7,
+        "z": 2686.05
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___left001_9",
+      "label": "1/2 osb - left001",
+      "type": "box",
+      "length_mm": 127.0,
+      "width_mm": 12.7,
+      "height_mm": 3048.0,
+      "position": {
+        "x": 0.0,
+        "y": -12.7,
+        "z": 0.0
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___right001_10",
+      "label": "1/2 osb - right001",
+      "type": "box",
+      "length_mm": 330.2,
+      "width_mm": 12.7,
+      "height_mm": 3048.0,
+      "position": {
+        "x": 889.0,
+        "y": -12.7,
+        "z": 0.0
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___bottom001_11",
+      "label": "1/2 osb - bottom001",
+      "type": "box",
+      "length_mm": 762.0,
+      "width_mm": 12.7,
+      "height_mm": 361.95,
+      "position": {
+        "x": 127.0,
+        "y": -12.7,
+        "z": 0.0
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb___middle001_12",
+      "label": "1/2 osb - middle001",
+      "type": "box",
+      "length_mm": 762.0,
+      "width_mm": 12.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 127.0,
+        "y": -12.7,
+        "z": 1733.55
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "2x6_top_plate001_14",
+      "label": "2x6 top plate001",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 3009.9
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_king_stud___left001_15",
+      "label": "2x6 king stud - left001",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 139.7,
+      "height_mm": 2971.8,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x6 stud"
+    },
+    {
+      "id": "2x12_outer_header001_16",
+      "label": "2x12 outer header001",
+      "type": "box",
+      "length_mm": 1143.0,
+      "width_mm": 38.1,
+      "height_mm": 285.75,
+      "position": {
+        "x": 38.1,
+        "y": 0.0,
+        "z": 2724.15
+      },
+      "material": "2x12 header"
+    },
+    {
+      "id": "2x12_inner_header001_17",
+      "label": "2x12 inner header001",
+      "type": "box",
+      "length_mm": 1143.0,
+      "width_mm": 38.1,
+      "height_mm": 285.75,
+      "position": {
+        "x": 38.1,
+        "y": 101.6,
+        "z": 2724.15
+      },
+      "material": "2x12 header"
+    },
+    {
+      "id": "2x6_flat_header001_18",
+      "label": "2x6 flat header001",
+      "type": "box",
+      "length_mm": 1143.0,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 38.1,
+        "y": 0.0,
+        "z": 2684.78
+      },
+      "material": "2x6 header"
+    },
+    {
+      "id": "2x6_jack_stud___right_002_19",
+      "label": "2x6 jack stud - right 002",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 139.7,
+      "height_mm": 2647.95,
+      "position": {
+        "x": 889.0,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x6 stud"
+    },
+    {
+      "id": "2x6_sill___bottom001_20",
+      "label": "2x6 sill - bottom001",
+      "type": "box",
+      "length_mm": 762.0,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 127.0,
+        "y": 0.0,
+        "z": 323.85
+      },
+      "material": "2x6 lumber"
+    },
+    {
+      "id": "2x6_bottom_plate001_21",
+      "label": "2x6 bottom plate001",
+      "type": "box",
+      "length_mm": 1219.2,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "material": "2x6 plate"
+    },
+    {
+      "id": "2x6_jack_stud___left_003_22",
+      "label": "2x6 jack stud - left 003",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 139.7,
+      "height_mm": 2647.95,
+      "position": {
+        "x": 88.9,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x6 stud"
+    },
+    {
+      "id": "2x6_king_stud___middle001_23",
+      "label": "2x6 king stud - middle001",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 139.7,
+      "height_mm": 2971.8,
+      "position": {
+        "x": 1181.1,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x6 stud"
+    },
+    {
+      "id": "2x6_sill___middle001_24",
+      "label": "2x6 sill - middle001",
+      "type": "box",
+      "length_mm": 762.0,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 127.0,
+        "y": 0.0,
+        "z": 1733.55
+      },
+      "material": "2x6 lumber"
+    },
+    {
+      "id": "2x6_cripple___middle001_25",
+      "label": "2x6 cripple - middle001",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 139.7,
+      "height_mm": 285.75,
+      "position": {
+        "x": 488.95,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x6 lumber"
+    },
+    {
+      "id": "2x6_cripple___left001_26",
+      "label": "2x6 cripple - left001",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 139.7,
+      "height_mm": 285.75,
+      "position": {
+        "x": 127.0,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x6 lumber"
+    },
+    {
+      "id": "2x6_cripple___right001_27",
+      "label": "2x6 cripple - right001",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 139.7,
+      "height_mm": 285.75,
+      "position": {
+        "x": 850.9,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x6 lumber"
+    },
+    {
+      "id": "blocking_009_28",
+      "label": "blocking 009",
+      "type": "box",
+      "length_mm": 50.8,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 38.1,
+        "y": 0.0,
+        "z": 590.55
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "blocking_010_29",
+      "label": "blocking 010",
+      "type": "box",
+      "length_mm": 50.8,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 38.1,
+        "y": 0.0,
+        "z": 1200.15
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "blocking_011_30",
+      "label": "blocking 011",
+      "type": "box",
+      "length_mm": 50.8,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 38.1,
+        "y": 0.0,
+        "z": 1809.75
+      },
+      "material": "unknown"
+    },
+    {
+      "id": "blocking_012_31",
+      "label": "blocking 012",
+      "type": "box",
+      "length_mm": 50.8,
+      "width_mm": 139.7,
+      "height_mm": 38.1,
+      "position": {
+        "x": 38.1,
+        "y": 0.0,
+        "z": 2419.35
+      },
+      "material": "unknown"
+    }
+  ],
+  "groups": [
+    {
+      "id": "parts_13",
+      "label": "PARTS",
+      "children": [
+        "1_2_osb___top001_0",
+        "1_2_osb___left001_1",
+        "1_2_osb___right001_2",
+        "1_2_osb___bottom001_3",
+        "1_2_osb___middle001_4",
+        "2x6_top_plate001_5",
+        "2x6_king_stud___left001_6",
+        "2x6_flat_header001_7",
+        "2x12_inner_header001_8",
+        "2x6_jack_stud___right_002_9",
+        "2x6_bottom_plate001_10",
+        "2x12_outer_header001_11",
+        "2x6_sill___bottom001_12",
+        "2x6_jack_stud___left_003_13",
+        "2x6_king_stud___middle001_14",
+        "2x6_sill___middle001_15",
+        "2x6_cripple___middle001_16",
+        "2x6_cripple___left001_17",
+        "2x6_cripple___right001_18",
+        "blocking_009_19",
+        "blocking_010_20",
+        "blocking_011_21",
+        "blocking_012_22",
+        "blocking_001_23",
+        "blocking_002_24",
+        "blocking_003_25",
+        "blocking_004_26",
+        "blocking_005_27",
+        "blocking_006_28",
+        "blocking_007_29",
+        "blocking_008_30"
+      ]
+    }
+  ]
+}

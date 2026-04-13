@@ -1,0 +1,169 @@
+{
+  "metadata": {
+    "name": "SH7 - Roof - Seed - Truss - Tapered - Middle",
+    "version": "1.0.0",
+    "ose_reference": "SH7 - Roof - Seed - Truss - Tapered - Middle.fcstd",
+    "license": "CC BY-SA 4.0",
+    "description": "Extracted from /Volumes/Extreme SSD/Nick/OSE/SH7CAD/Structural Assemblies/Roof/Trusses/SH7 - Roof - Seed - Truss - Tapered - Middle.fcstd",
+    "total_parts": 9,
+    "bom": {
+      "2x4 lumber": 2,
+      "2x4 stud": 5,
+      "1/2 inch OSB": 2
+    }
+  },
+  "parts": [
+    {
+      "id": "2x4___bottom_cord_4",
+      "label": "2x4 - bottom cord",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 5994.4,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "material": "2x4 lumber"
+    },
+    {
+      "id": "2x4___top_cord_5",
+      "label": "2x4 - top cord",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 5994.4,
+      "height_mm": 38.1,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 368.3
+      },
+      "material": "2x4 lumber"
+    },
+    {
+      "id": "2x4___stud___front_001_6",
+      "label": "2x4 - stud - front 001",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 38.1,
+      "height_mm": 330.2,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x4 stud"
+    },
+    {
+      "id": "2x4___stud___front_002_7",
+      "label": "2x4 - stud - front 002",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 38.1,
+      "height_mm": 330.2,
+      "position": {
+        "x": 0.0,
+        "y": 38.1,
+        "z": 38.1
+      },
+      "material": "2x4 stud"
+    },
+    {
+      "id": "2x4___stud___back_001_8",
+      "label": "2x4 - stud - back 001",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 38.1,
+      "height_mm": 190.5,
+      "position": {
+        "x": 0.0,
+        "y": 5918.2,
+        "z": 38.1
+      },
+      "material": "2x4 stud"
+    },
+    {
+      "id": "2x4___stud___back_002_9",
+      "label": "2x4 - stud - back 002",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 38.1,
+      "height_mm": 190.5,
+      "position": {
+        "x": 0.0,
+        "y": 5956.3,
+        "z": 38.1
+      },
+      "material": "2x4 stud"
+    },
+    {
+      "id": "2x4___stud___middle_10",
+      "label": "2x4 - stud - middle",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 38.1,
+      "height_mm": 260.35,
+      "position": {
+        "x": 0.0,
+        "y": 2978.15,
+        "z": 38.1
+      },
+      "material": "2x4 stud"
+    },
+    {
+      "id": "1_2_osb_gusset_001_11",
+      "label": "1/2 osb gusset 001",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 304.8,
+      "height_mm": 228.6,
+      "position": {
+        "x": 76.2,
+        "y": 2286.0,
+        "z": 38.1
+      },
+      "material": "1/2 inch OSB"
+    },
+    {
+      "id": "1_2_osb_gusset_002_12",
+      "label": "1/2 osb gusset 002",
+      "type": "box",
+      "length_mm": 12.7,
+      "width_mm": 304.8,
+      "height_mm": 228.6,
+      "position": {
+        "x": 76.2,
+        "y": 3403.6,
+        "z": 38.1
+      },
+      "material": "1/2 inch OSB"
+    }
+  ],
+  "groups": [
+    {
+      "id": "truss___osb_0",
+      "label": "truss - osb",
+      "children": [
+        "1_2_osb_001_0",
+        "1_2_osb_002_1",
+        "1_2_osb_003_2",
+        "1_2_osb_gusset_001_3",
+        "1_2_osb_gusset_002_4"
+      ]
+    },
+    {
+      "id": "truss____frame_13",
+      "label": "truss  - frame",
+      "children": [
+        "2x4___bottom_cord_0",
+        "2x4___top_cord_1",
+        "2x4___stud___front_001_2",
+        "2x4___stud___front_002_3",
+        "2x4___stud___back_001_4",
+        "2x4___stud___back_002_5",
+        "2x4___stud___middle_6"
+      ]
+    }
+  ]
+}

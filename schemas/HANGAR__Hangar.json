@@ -1,0 +1,13 @@
+{
+  "metadata": {
+    "name": "Hangar",
+    "version": "1.0.0",
+    "ose_reference": "Hangar.fcstd",
+    "license": "CC BY-SA 4.0",
+    "description": "Extracted from /Volumes/Extreme SSD/Nick/OSE/HANGAR/Hangar.fcstd",
+    "total_parts": 0,
+    "bom": {}
+  },
+  "parts": [],
+  "groups": []
+}

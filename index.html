@@ -1,0 +1,230 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>CADAM — Open Source Ecology Schema Library</title>
+<style>
+  :root { color-scheme: dark; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, system-ui, sans-serif; background: #0b0b0f; color: #e5e5e5; height: 100vh; display: flex; flex-direction: column; }
+  header { padding: 12px 20px; background: #15151c; border-bottom: 1px solid #26262e; display: flex; align-items: center; gap: 16px; }
+  header h1 { font-size: 18px; font-weight: 600; }
+  header .stats { color: #9ca0ad; font-size: 13px; margin-left: auto; }
+  header .tag { background: #1e2a3e; color: #8bd0c0; padding: 3px 8px; border-radius: 4px; font-size: 11px; letter-spacing: 0.03em; text-transform: uppercase; }
+  main { flex: 1; display: grid; grid-template-columns: 320px 1fr 340px; overflow: hidden; }
+  .pane { overflow: auto; padding: 16px; }
+  .pane.left { border-right: 1px solid #26262e; background: #0f0f16; }
+  .pane.center { background: #0b0b0f; padding: 0; display: flex; flex-direction: column; }
+  .pane.right { border-left: 1px solid #26262e; background: #0f0f16; font-size: 13px; }
+  .search { width: 100%; padding: 8px 10px; background: #1a1a22; border: 1px solid #26262e; color: #e5e5e5; border-radius: 6px; font-size: 13px; margin-bottom: 10px; }
+  .module-list { display: flex; flex-direction: column; gap: 4px; }
+  .module-item { padding: 8px 10px; border-radius: 6px; cursor: pointer; border: 1px solid transparent; transition: background 0.1s; }
+  .module-item:hover { background: #1a1a22; }
+  .module-item.selected { background: #1e2a3e; border-color: #3b5c94; }
+  .module-item .name { font-size: 13px; font-weight: 500; }
+  .module-item .meta { font-size: 11px; color: #777; margin-top: 2px; }
+  .viewer-header { padding: 12px 16px; border-bottom: 1px solid #26262e; }
+  .viewer-header h2 { font-size: 15px; margin-bottom: 4px; }
+  .viewer-header .sub { font-size: 12px; color: #888; }
+  #viewer { flex: 1; background: radial-gradient(circle at center, #15151c, #0b0b0f); display: flex; align-items: center; justify-content: center; color: #777; font-size: 14px; }
+  .details h3 { font-size: 12px; text-transform: uppercase; letter-spacing: 0.05em; color: #888; margin-top: 16px; margin-bottom: 8px; font-weight: 600; }
+  .details h3:first-child { margin-top: 0; }
+  .bom-table { width: 100%; font-size: 12px; }
+  .bom-table td { padding: 4px 6px; border-bottom: 1px solid #1a1a22; }
+  .bom-table td.qty { text-align: right; color: #8bd0c0; font-variant-numeric: tabular-nums; }
+  .instructions { white-space: pre-wrap; font-size: 11px; line-height: 1.5; color: #b0b4c0; max-height: 400px; overflow: auto; background: #0b0b0f; padding: 10px; border-radius: 6px; }
+  .action-buttons { display: flex; gap: 6px; margin-top: 10px; flex-wrap: wrap; }
+  .action-buttons a { padding: 5px 10px; background: #1a1a22; color: #8bd0c0; border: 1px solid #26262e; border-radius: 4px; font-size: 11px; text-decoration: none; }
+  .action-buttons a:hover { background: #252530; }
+  .footer-note { padding: 8px 16px; background: #0f0f16; border-top: 1px solid #26262e; font-size: 11px; color: #666; text-align: center; }
+  .footer-note a { color: #8bd0c0; text-decoration: none; }
+</style>
+</head>
+<body>
+<header>
+  <h1>⛮ CADAM — OSE Schema Library</h1>
+  <span class="tag">Static export</span>
+  <div class="stats" id="stats">loading...</div>
+</header>
+<main>
+  <div class="pane left">
+    <input type="text" class="search" id="search" placeholder="Search modules..." />
+    <div class="module-list" id="module-list"></div>
+  </div>
+  <div class="pane center">
+    <div class="viewer-header">
+      <h2 id="v-title">No module selected</h2>
+      <div class="sub" id="v-sub">Pick a module from the left to view its 3D model, BOM, and build instructions.</div>
+    </div>
+    <div id="viewer">Select a module to view its STL</div>
+  </div>
+  <div class="pane right details">
+    <div id="details">
+      <h3>About</h3>
+      <p style="font-size: 12px; line-height: 1.5; color: #b0b4c0;">
+        This is a static export of the CADAM schema library containing every module from the
+        Open Source Ecology SH7 seed house and related assemblies. Each module was extracted
+        from FreeCAD .fcstd files into a clean JSON schema, then re-compiled to .fcstd + .stl
+        + human-readable build instructions + CSV bill of materials.
+      </p>
+      <p style="font-size: 12px; line-height: 1.5; color: #b0b4c0; margin-top: 8px;">
+        Select a module on the left to see it in 3D, read its BOM, and download the
+        fabrication-ready STL.
+      </p>
+    </div>
+  </div>
+</main>
+<div class="footer-note">
+  Built with FreeCAD 1.0.2 + Python + three.js · Source: <a href="https://github.com/Adam-CAD/cadam" target="_blank">CADAM</a> · Data: <a href="https://www.opensourceecology.org/" target="_blank">Open Source Ecology</a>
+</div>
+
+<script type="importmap">
+{
+  "imports": {
+    "three": "https://unpkg.com/three@0.160.0/build/three.module.js",
+    "three/addons/": "https://unpkg.com/three@0.160.0/examples/jsm/"
+  }
+}
+</script>
+<script type="module">
+import * as THREE from 'three';
+import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+import { STLLoader } from 'three/addons/loaders/STLLoader.js';
+
+let scene, camera, renderer, controls, currentMesh;
+
+function initViewer() {
+  const container = document.getElementById('viewer');
+  container.innerHTML = '';
+  scene = new THREE.Scene();
+  scene.background = new THREE.Color(0x0b0b0f);
+  const w = container.clientWidth, h = container.clientHeight;
+  camera = new THREE.PerspectiveCamera(45, w / h, 0.1, 100000);
+  camera.position.set(3000, 3000, 3000);
+  renderer = new THREE.WebGLRenderer({ antialias: true });
+  renderer.setSize(w, h);
+  renderer.setPixelRatio(window.devicePixelRatio);
+  container.appendChild(renderer.domElement);
+  controls = new OrbitControls(camera, renderer.domElement);
+  controls.enableDamping = true;
+  scene.add(new THREE.AmbientLight(0xffffff, 0.5));
+  const dirLight = new THREE.DirectionalLight(0xffffff, 0.8);
+  dirLight.position.set(5000, 10000, 5000);
+  scene.add(dirLight);
+  const grid = new THREE.GridHelper(10000, 20, 0x333333, 0x1a1a22);
+  grid.rotation.x = Math.PI / 2;
+  scene.add(grid);
+  scene.add(new THREE.AxesHelper(500));
+  window.addEventListener('resize', () => {
+    const w = container.clientWidth, h = container.clientHeight;
+    camera.aspect = w / h;
+    camera.updateProjectionMatrix();
+    renderer.setSize(w, h);
+  });
+  (function animate() {
+    requestAnimationFrame(animate);
+    controls.update();
+    renderer.render(scene, camera);
+  })();
+}
+
+function loadSTL(url) {
+  if (!scene) initViewer();
+  if (currentMesh) {
+    scene.remove(currentMesh);
+    currentMesh.geometry.dispose();
+    currentMesh.material.dispose();
+  }
+  const loader = new STLLoader();
+  loader.load(url, (geometry) => {
+    geometry.computeBoundingBox();
+    const box = geometry.boundingBox;
+    const center = box.getCenter(new THREE.Vector3());
+    geometry.translate(-center.x, -center.y, -center.z);
+    const material = new THREE.MeshStandardMaterial({
+      color: 0x8bd0c0, metalness: 0.1, roughness: 0.6, flatShading: true,
+    });
+    currentMesh = new THREE.Mesh(geometry, material);
+    scene.add(currentMesh);
+    const size = box.getSize(new THREE.Vector3());
+    const maxDim = Math.max(size.x, size.y, size.z);
+    const dist = maxDim * 2;
+    camera.position.set(dist, dist, dist);
+    camera.lookAt(0, 0, 0);
+    controls.target.set(0, 0, 0);
+    controls.update();
+  }, undefined, (err) => {
+    console.error('STL load error:', err);
+    document.getElementById('viewer').innerHTML = 'Failed to load STL';
+  });
+}
+
+let allModules = [];
+let selectedId = null;
+
+async function loadModuleList() {
+  const res = await fetch('./modules.json');
+  allModules = await res.json();
+  document.getElementById('stats').textContent =
+    `${allModules.length} modules, ${allModules.reduce((s, m) => s + (m.parts || 0), 0)} parts`;
+  renderList(allModules);
+}
+
+function renderList(modules) {
+  const list = document.getElementById('module-list');
+  list.innerHTML = '';
+  modules.forEach(m => {
+    const item = document.createElement('div');
+    item.className = 'module-item' + (m.id === selectedId ? ' selected' : '');
+    item.innerHTML = `<div class="name">${m.name}</div><div class="meta">${m.parts} parts</div>`;
+    item.onclick = () => selectModule(m.id);
+    list.appendChild(item);
+  });
+}
+
+async function selectModule(id) {
+  selectedId = id;
+  renderList(allModules.filter(matchesSearch));
+  const m = allModules.find(x => x.id === id);
+  if (!m) return;
+  document.getElementById('v-title').textContent = m.name;
+  document.getElementById('v-sub').textContent = `${m.parts} parts`;
+  loadSTL(`./stl/${id}.stl`);
+  const schemaRes = await fetch(`./schemas/${id}.json`);
+  const schema = await schemaRes.json();
+  const bom = schema.metadata.bom || {};
+  let bomHTML = '<h3>Bill of Materials</h3><table class="bom-table">';
+  Object.entries(bom).sort((a,b) => b[1] - a[1]).forEach(([mat, count]) => {
+    bomHTML += `<tr><td>${mat}</td><td class="qty">${count}</td></tr>`;
+  });
+  bomHTML += '</table>';
+  const actionsHTML = `
+    <div class="action-buttons">
+      <a href="./stl/${id}.stl" download="${id}.stl">Download STL</a>
+      <a href="./fcstd/${id}.fcstd" download="${id}.fcstd">Download .fcstd</a>
+      <a href="./instructions/${id}.md" target="_blank">Instructions</a>
+      <a href="./bom/${id}.csv" download="${id}-bom.csv">BOM (CSV)</a>
+    </div>`;
+  const instrRes = await fetch(`./instructions/${id}.md`);
+  const instrText = await instrRes.text();
+  document.getElementById('details').innerHTML = bomHTML + actionsHTML +
+    '<h3>Instructions preview</h3><div class="instructions">' +
+    instrText.substring(0, 3000).replace(/[<>]/g, c => ({ '<': '&lt;', '>': '&gt;' })[c]) +
+    (instrText.length > 3000 ? '\n\n... (truncated — download the full file above)' : '') + '</div>';
+}
+
+function matchesSearch(m) {
+  const q = document.getElementById('search').value.toLowerCase();
+  if (!q) return true;
+  return m.name.toLowerCase().includes(q) || m.id.toLowerCase().includes(q);
+}
+
+document.getElementById('search').addEventListener('input', () => {
+  renderList(allModules.filter(matchesSearch));
+});
+
+loadModuleList();
+</script>
+</body>
+</html>

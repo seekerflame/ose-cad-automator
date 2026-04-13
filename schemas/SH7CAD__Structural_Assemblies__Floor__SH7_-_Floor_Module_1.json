@@ -1,0 +1,310 @@
+{
+  "metadata": {
+    "name": "SH7 - Floor Module 1",
+    "version": "1.0.0",
+    "ose_reference": "SH7 - Floor Module 1.fcstd",
+    "license": "CC BY-SA 4.0",
+    "description": "Extracted from /Volumes/Extreme SSD/Nick/OSE/SH7CAD/Structural Assemblies/Floor/SH7 - Floor Module 1.fcstd",
+    "total_parts": 17,
+    "bom": {
+      "2x8 joist": 7,
+      "3/4 inch plywood": 5,
+      "3/4 inch OSB": 5
+    }
+  },
+  "parts": [
+    {
+      "id": "2x8_joist___rim_001_0",
+      "label": "2x8 Joist - rim 001",
+      "type": "box",
+      "length_mm": 1828.8,
+      "width_mm": 38.1,
+      "height_mm": 184.15,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 19.05
+      },
+      "material": "2x8 joist"
+    },
+    {
+      "id": "2x8_joist_001_1",
+      "label": "2x8 Joist 001",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 5943.6,
+      "height_mm": 184.15,
+      "position": {
+        "x": 0.0,
+        "y": 38.1,
+        "z": 19.05
+      },
+      "material": "2x8 joist"
+    },
+    {
+      "id": "2x8_joist___rim_005_2",
+      "label": "2x8 Joist - rim 005",
+      "type": "box",
+      "length_mm": 1828.8,
+      "width_mm": 38.1,
+      "height_mm": 184.15,
+      "position": {
+        "x": 0.0,
+        "y": 5981.7,
+        "z": 19.05
+      },
+      "material": "2x8 joist"
+    },
+    {
+      "id": "2x8_joist_002_3",
+      "label": "2x8 Joist 002",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 5943.6,
+      "height_mm": 184.15,
+      "position": {
+        "x": 590.55,
+        "y": 38.1,
+        "z": 19.05
+      },
+      "material": "2x8 joist"
+    },
+    {
+      "id": "2x8_joist_003_4",
+      "label": "2x8 Joist 003",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 5943.6,
+      "height_mm": 184.15,
+      "position": {
+        "x": 1200.15,
+        "y": 38.1,
+        "z": 19.05
+      },
+      "material": "2x8 joist"
+    },
+    {
+      "id": "2x8_joist_004_5",
+      "label": "2x8 Joist 004",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 5943.6,
+      "height_mm": 184.15,
+      "position": {
+        "x": 1790.7,
+        "y": 38.1,
+        "z": 19.05
+      },
+      "material": "2x8 joist"
+    },
+    {
+      "id": "3_4_pt_plywood_001_7",
+      "label": "3/4 PT Plywood 001",
+      "type": "box",
+      "length_mm": 1828.8,
+      "width_mm": 1219.2,
+      "height_mm": 19.05,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "material": "3/4 inch plywood"
+    },
+    {
+      "id": "3_4_pt_plywood_002_8",
+      "label": "3/4 PT Plywood 002",
+      "type": "box",
+      "length_mm": 1828.8,
+      "width_mm": 1219.2,
+      "height_mm": 19.05,
+      "position": {
+        "x": 0.0,
+        "y": 1219.2,
+        "z": 0.0
+      },
+      "material": "3/4 inch plywood"
+    },
+    {
+      "id": "3_4_pt_plywood_003_9",
+      "label": "3/4 PT Plywood 003",
+      "type": "box",
+      "length_mm": 1828.8,
+      "width_mm": 1219.2,
+      "height_mm": 19.05,
+      "position": {
+        "x": 0.0,
+        "y": 2438.4,
+        "z": 0.0
+      },
+      "material": "3/4 inch plywood"
+    },
+    {
+      "id": "3_4_pt_plywood_004_10",
+      "label": "3/4 PT Plywood 004",
+      "type": "box",
+      "length_mm": 1828.8,
+      "width_mm": 1219.2,
+      "height_mm": 19.05,
+      "position": {
+        "x": 0.0,
+        "y": 3657.6,
+        "z": 0.0
+      },
+      "material": "3/4 inch plywood"
+    },
+    {
+      "id": "3_4_pt_plywood_005_11",
+      "label": "3/4 PT Plywood 005",
+      "type": "box",
+      "length_mm": 1828.8,
+      "width_mm": 1143.0,
+      "height_mm": 19.05,
+      "position": {
+        "x": 0.0,
+        "y": 4876.8,
+        "z": 0.0
+      },
+      "material": "3/4 inch plywood"
+    },
+    {
+      "id": "3_4_osb_001_13",
+      "label": "3/4 OSB 001",
+      "type": "box",
+      "length_mm": 1828.8,
+      "width_mm": 1219.2,
+      "height_mm": 19.05,
+      "position": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 203.2
+      },
+      "material": "3/4 inch OSB"
+    },
+    {
+      "id": "3_4_osb_002_14",
+      "label": "3/4 OSB 002",
+      "type": "box",
+      "length_mm": 1828.8,
+      "width_mm": 1219.2,
+      "height_mm": 19.05,
+      "position": {
+        "x": 0.0,
+        "y": 1219.2,
+        "z": 203.2
+      },
+      "material": "3/4 inch OSB"
+    },
+    {
+      "id": "3_4_osb_003_15",
+      "label": "3/4 OSB 003",
+      "type": "box",
+      "length_mm": 1828.8,
+      "width_mm": 1219.2,
+      "height_mm": 19.05,
+      "position": {
+        "x": 0.0,
+        "y": 2438.4,
+        "z": 203.2
+      },
+      "material": "3/4 inch OSB"
+    },
+    {
+      "id": "3_4_osb_004_16",
+      "label": "3/4 OSB 004",
+      "type": "box",
+      "length_mm": 1828.8,
+      "width_mm": 1219.2,
+      "height_mm": 19.05,
+      "position": {
+        "x": 0.0,
+        "y": 3657.6,
+        "z": 203.2
+      },
+      "material": "3/4 inch OSB"
+    },
+    {
+      "id": "3_4_osb_005_17",
+      "label": "3/4 OSB 005",
+      "type": "box",
+      "length_mm": 1828.8,
+      "width_mm": 1143.0,
+      "height_mm": 19.05,
+      "position": {
+        "x": 0.0,
+        "y": 4876.8,
+        "z": 203.2
+      },
+      "material": "3/4 inch OSB"
+    },
+    {
+      "id": "2x8_joist_009_19",
+      "label": "2x8 Joist 009",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 5943.6,
+      "height_mm": 184.15,
+      "position": {
+        "x": 38.1,
+        "y": 38.1,
+        "z": 19.05
+      },
+      "material": "2x8 joist"
+    }
+  ],
+  "groups": [
+    {
+      "id": "joists_6",
+      "label": "joists",
+      "children": [
+        "2x8_joist___rim_001_0",
+        "2x8_joist___rim_005_1",
+        "2x8_joist_001_2",
+        "2x8_joist_002_3",
+        "2x8_joist_003_4",
+        "2x8_joist_004_5",
+        "2x8_joist_009_6"
+      ]
+    },
+    {
+      "id": "plywood___bottom_12",
+      "label": "plywood - bottom",
+      "children": [
+        "3_4_pt_plywood_001_0",
+        "3_4_pt_plywood_002_1",
+        "3_4_pt_plywood_003_2",
+        "3_4_pt_plywood_004_3",
+        "3_4_pt_plywood_005_4"
+      ]
+    },
+    {
+      "id": "osb___top_18",
+      "label": "osb - top",
+      "children": [
+        "3_4_osb_001_0",
+        "3_4_osb_002_1",
+        "3_4_osb_003_2",
+        "3_4_osb_004_3",
+        "3_4_osb_005_4"
+      ]
+    },
+    {
+      "id": "parts_23",
+      "label": "PARTS",
+      "children": [
+        "joists_0",
+        "plywood___bottom_1",
+        "osb___top_2"
+      ]
+    },
+    {
+      "id": "single_copies_24",
+      "label": "SINGLE COPIES",
+      "children": [
+        "floor___2x8___6x20___frame_0",
+        "floor___2x8___6x20___bottom_sheathing_1",
+        "floor___2x8___6x20___top_sheathing_2"
+      ]
+    }
+  ]
+}

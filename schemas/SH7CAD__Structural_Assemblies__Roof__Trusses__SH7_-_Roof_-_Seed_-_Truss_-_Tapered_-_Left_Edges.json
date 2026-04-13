@@ -1,0 +1,161 @@
+{
+  "metadata": {
+    "name": "SH7 - Roof - Seed - Truss - Tapered - Left Edges",
+    "version": "1.0.0",
+    "ose_reference": "SH7 - Roof - Seed - Truss - Tapered - Left Edges.fcstd",
+    "license": "CC BY-SA 4.0",
+    "description": "Extracted from /Volumes/Extreme SSD/Nick/OSE/SH7CAD/Structural Assemblies/Roof/Trusses/SH7 - Roof - Seed - Truss - Tapered - Left Edges.fcstd",
+    "total_parts": 8,
+    "bom": {
+      "2x4 lumber": 4,
+      "2x4 stud": 4
+    }
+  },
+  "parts": [
+    {
+      "id": "2x4___bottom_cord___flat001_5",
+      "label": "2x4 - bottom cord - flat001",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 5994.4,
+      "height_mm": 38.1,
+      "position": {
+        "x": 12.7,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "material": "2x4 lumber"
+    },
+    {
+      "id": "2x4___top_cord___flat001_6",
+      "label": "2x4 - top cord - flat001",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 5994.4,
+      "height_mm": 38.1,
+      "position": {
+        "x": 12.7,
+        "y": 0.0,
+        "z": 368.3
+      },
+      "material": "2x4 lumber"
+    },
+    {
+      "id": "2x4___stud___front_003_7",
+      "label": "2x4 - stud - front 003",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 38.1,
+      "height_mm": 330.2,
+      "position": {
+        "x": 12.7,
+        "y": 0.0,
+        "z": 38.1
+      },
+      "material": "2x4 stud"
+    },
+    {
+      "id": "2x4___stud___front_004_8",
+      "label": "2x4 - stud - front 004",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 38.1,
+      "height_mm": 330.2,
+      "position": {
+        "x": 12.7,
+        "y": 38.1,
+        "z": 38.1
+      },
+      "material": "2x4 stud"
+    },
+    {
+      "id": "2x4___stud___back_003_9",
+      "label": "2x4 - stud - back 003",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 38.1,
+      "height_mm": 190.5,
+      "position": {
+        "x": 12.7,
+        "y": 5918.2,
+        "z": 38.1
+      },
+      "material": "2x4 stud"
+    },
+    {
+      "id": "2x4___stud___back_004_10",
+      "label": "2x4 - stud - back 004",
+      "type": "box",
+      "length_mm": 88.9,
+      "width_mm": 38.1,
+      "height_mm": 190.5,
+      "position": {
+        "x": 12.7,
+        "y": 5956.3,
+        "z": 38.1
+      },
+      "material": "2x4 stud"
+    },
+    {
+      "id": "2x4___bottom_cord___on_edge001_11",
+      "label": "2x4 - bottom cord - on edge001",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 5842.0,
+      "height_mm": 88.9,
+      "position": {
+        "x": 12.7,
+        "y": 76.2,
+        "z": 38.1
+      },
+      "material": "2x4 lumber"
+    },
+    {
+      "id": "2x4___top_cord___on_edge001_12",
+      "label": "2x4 - top cord - on edge001",
+      "type": "box",
+      "length_mm": 38.1,
+      "width_mm": 5842.0,
+      "height_mm": 88.9,
+      "position": {
+        "x": 12.7,
+        "y": 76.2,
+        "z": 279.4
+      },
+      "material": "2x4 lumber"
+    }
+  ],
+  "groups": [
+    {
+      "id": "truss____frame___left_0",
+      "label": "truss  - frame - left",
+      "children": [
+        "2x4___bottom_cord___flat001_0",
+        "2x4___bottom_cord___on_edge001_1",
+        "2x4___top_cord___flat001_2",
+        "2x4___top_cord___on_edge001_3",
+        "2x4___stud___front_003_4",
+        "2x4___stud___front_004_5",
+        "2x4___stud___back_003_6",
+        "2x4___stud___back_004_7"
+      ]
+    },
+    {
+      "id": "truss___osb___left_1",
+      "label": "truss - osb - left",
+      "children": [
+        "1_2_osb____left_001_0",
+        "1_2_osb____left_002_1",
+        "1_2_osb____left_003_2"
+      ]
+    },
+    {
+      "id": "truss___seed___edge___left_parts_13",
+      "label": "truss - seed - edge - left (parts)",
+      "children": [
+        "truss____frame___left_0",
+        "truss___osb___left_1"
+      ]
+    }
+  ]
+}
